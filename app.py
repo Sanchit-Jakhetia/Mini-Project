@@ -1,3 +1,5 @@
+import pandas as pd
+import joblib
 from flask import Flask, render_template, request, redirect, url_for, session
 from pymongo import MongoClient
 
@@ -8,10 +10,12 @@ client = MongoClient("mongodb://localhost:27017/")
 db = client["Academics"]
 users = db["users"]
 
+#----------------------------------------------------------------------------------------
 @app.route("/")
 def index():
     return render_template("index.html")
 
+#----------------------------------------------------------------------------------------
 @app.route("/login", methods=["GET", "POST"])
 def login():
     if request.method == "POST":
@@ -34,11 +38,13 @@ def login():
             return render_template("login.html", error="Invalid credentials.")
     return render_template("login.html")
 
+#----------------------------------------------------------------------------------------
 @app.route("/logout")
 def logout():
     session.clear()
     return redirect(url_for("login"))
 
+#----------------------------------------------------------------------------------------
 @app.route("/dashboard_admin")
 def dashboard_admin():
     sem1 = list(db["Semester_1"].find())
@@ -66,7 +72,7 @@ def dashboard_admin():
                                "average_gpa": avg_gpa
                            })
 
-
+#----------------------------------------------------------------------------------------
 @app.route("/dashboard_teacher")
 def dashboard_teacher():
     sem1 = list(db["Semester_1"].find())
@@ -78,7 +84,7 @@ def dashboard_teacher():
     unique_ids = {s["student_id"]: s for s in all_students}.values()
     total_students = len(unique_ids)
     avg_gpa = round(sum([s["semester_gpa"] for s in unique_ids]) / total_students, 2)
-    low_performers = sum(1 for s in unique_ids if s["semester_gpa"] < 6)
+    low_performers = sum(1 for s in unique_ids if s["semester_gpa"] < 6.5)
 
     student_summary = [
         {
@@ -99,7 +105,7 @@ def dashboard_teacher():
                                "low_performers": low_performers
                            })
 
-
+#----------------------------------------------------------------------------------------
 @app.route("/dashboard_student/<int:student_id>")
 def student_dashboard(student_id):
     tenth_data = db["Class_10th"].find_one({"student_id": student_id})
@@ -119,7 +125,7 @@ def student_dashboard(student_id):
                            sem2=sem2_data,
                            sem3=sem3_data)
 
-
+#----------------------------------------------------------------------------------------
 @app.route('/student/<int:student_id>/profile')
 def student_profile(student_id):
     student_info_collection = db["Class_10th"]  
@@ -130,14 +136,19 @@ def student_profile(student_id):
 
     return render_template("profile.html", student=student_data)
 
+#----------------------------------------------------------------------------------------
 @app.route('/teacher/analytics')
 def teacher_analytics():
+    # Fetch all relevant student data from semester collections
     sem1_data = list(db["Semester_1"].find())
     sem2_data = list(db["Semester_2"].find())
     sem3_data = list(db["Semester_3"].find())
-    student_meta = {s["student_id"]: s for s in db["student_info"].find()}
 
-    # Merge semesters
+    # Fetch metadata from Class_10th and Class_12th for each student
+    tenth_data = {s["student_id"]: s for s in db["Class_10th"].find()}
+    twelfth_data = {s["student_id"]: s for s in db["Class_12th"].find()}
+
+    # Merge all semester data
     all_semesters = sem1_data + sem2_data + sem3_data
     student_sem_data = {}
 
@@ -152,35 +163,72 @@ def teacher_analytics():
     analytics = []
 
     for student_id, sem_data in student_sem_data.items():
-        meta = student_meta.get(student_id)
-        if not meta:
-            continue  # skip if no metadata available
+        # Fetch the metadata for the student
+        meta_10th = tenth_data.get(student_id)
+        meta_12th = twelfth_data.get(student_id)
 
+        # If metadata is missing for any student, skip them
+        if not meta_10th or not meta_12th:
+            continue
+
+        # Prepare the input dictionary for the model based on the new feature set
         try:
+            # Encode binary features (Yes/No as 1/0)
+            remedial_classes_taken = 1 if meta_12th.get("remedial_classes_taken", "No") == "Yes" else 0
+            participated_in_olympiads = 1 if meta_12th.get("participated_in_olympiads", "No") == "Yes" else 0
+            extracurricular_focus = meta_12th.get("extracurricular_focus", "Sports")
+            leadership_roles = 1 if meta_12th.get("leadership_roles", "No") == "Yes" else 0
+            internet_access_at_home = 1 if meta_12th.get("internet_access_at_home", "No") == "Yes" else 0
+            
+            # Prepare the input dictionary
             input_dict = {
-                "10th Percentage": meta.get("tenth_percentage"),
-                "12th Percentage": meta.get("twelfth_percentage"),
-                "Previous Sem CGPA": round(sum(sem_data["gpas"]) / len(sem_data["gpas"]), 2),
-                "Attendance Percentage": round(sum(sem_data["attendances"]) / len(sem_data["attendances"]), 2),
-                "Midterm Avg": meta.get("midterm_avg"),
-                "Quiz Avg": meta.get("quiz_avg"),
-                "Assignment Avg": meta.get("assignment_avg"),
-                "Practical Avg": meta.get("practical_avg"),
-                "Study Hours/Week": meta.get("study_hours_per_week"),
-                "Extracurricular Participation": meta.get("extracurricular"),
-                "Internet Usage Hours": meta.get("internet_usage_hours"),
-                "Teacher Feedback Score": meta.get("teacher_feedback"),
-                "Parental Education": meta.get("parental_education"),
-                "Financial Support": meta.get("financial_support")
+                "student_id": student_id,
+                "study_method": meta_12th.get("study_method", "Independent"),
+                "preferred_learning_style": meta_12th.get("preferred_learning_style", "Visual"),
+                "participated_in_olympiads": participated_in_olympiads,
+                "extracurricular_focus": extracurricular_focus,  # This needs to be one-hot encoded later
+                "parental_education_level": meta_12th.get("parental_education_level", "High School"),
+
+                "10th_percentage": meta_10th.get("tenth_percentage", 0),
+                "12th_percentage": meta_12th.get("twelfth_percentage", 0),
+                "math_score_10th": meta_10th.get("math_score", 0),
+                "science_score_10th": meta_10th.get("science_score", 0),
+                "remedial_classes_taken": remedial_classes_taken,  # Binary: 0 or 1
+                "average_study_hours_per_day": meta_12th.get("study_hours_per_day", 0),
+                "attendance_10th": meta_10th.get("attendance_percentage", 0),
+                "attendance_12th": meta_12th.get("attendance_percentage", 0),
+                "leadership_roles": leadership_roles,  # Binary: 0 or 1
+                "confidence_level": meta_12th.get("confidence_level", 0),
+                "motivation_level": meta_12th.get("motivation_level", 0),
+                "internet_access_at_home": internet_access_at_home,  # Binary: 0 or 1
+
+                # GPA from semester data
+                "semester_1_gpa": sem_data["gpas"][0] if len(sem_data["gpas"]) > 0 else 0,
+                "semester_2_gpa": sem_data["gpas"][1] if len(sem_data["gpas"]) > 1 else 0,
+                "semester_3_gpa": sem_data["gpas"][2] if len(sem_data["gpas"]) > 2 else 0,
+
+                # Additional calculated metrics
+                "average_attendance_semesters": round(sum(sem_data["attendances"]) / len(sem_data["attendances"]), 2),
+                "subjects_failed_total": sum(1 for subj in entry.get("subjects", []) if subj.get("failed", False)),
+                "average_interest_level": meta_12th.get("average_interest_level", 0),
+                "subjects_need_support_count": meta_12th.get("subjects_need_support_count", 0)
             }
-
+            sem3 = db["Semester_3"].find_one({"student_id": student_id})
+            gpa = sem3.get("semester_gpa") if sem3 else None
+            # Convert the data to a DataFrame for prediction
             df = pd.DataFrame([input_dict])
-            transformed = transformer.transform(df)
-            prediction = model.predict(transformed)[0]
+            model = joblib.load("student_model.pkl")
+            preprocessor = joblib.load("preprocessor.pkl")
+            # Preprocess the input data
+            X_processed = preprocessor.transform(df)
 
+            # Make the prediction
+            prediction = model.predict(X_processed)[0]  # Get predicted category
+            
             analytics.append({
                 "student_id": student_id,
-                "name": meta.get("name"),
+                "name": meta_12th.get("name", "Unknown"),
+                "sem3_gpa": gpa,
                 "predicted_category": prediction
             })
 
@@ -188,9 +236,26 @@ def teacher_analytics():
             print(f"Prediction error for student {student_id}: {e}")
             continue
 
+    # Pass the analytics data to the template for rendering
     return render_template("teacher_analytics.html", analytics=analytics)
 
+#----------------------------------------------------------------------------------------
+@app.route("/student/recommendation/<int:student_id>")
+def student_recommendation(student_id):
+    student_data = db["Semester_3"].find_one({"student_id": student_id})  # Example
+    return render_template("student_recommendation.html", student=student_data)
 
+#----------------------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------
 if __name__ == "__main__":
     import webbrowser
     import threading
