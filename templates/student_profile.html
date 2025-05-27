@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Profile</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+
+    .logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .profile-container {
+      background-color: rgba(255, 255, 255, 0.05);
+      padding: 30px;
+      border-radius: 10px;
+      width: 100%;
+      max-width: 600px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+
+    .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background-color: #444;
+      margin: 0 auto 20px auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #888;
+      font-size: 14px;
+    }
+
+    .profile-title {
+      font-size: 26px;
+      text-align: center;
+      margin-bottom: 20px;
+      color: #00c6ff;
+    }
+
+    .profile-details {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .profile-details span {
+      color: #00c6ff;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>Student Panel</h2>
+	<a href="{{ url_for('student_dashboard', student_id=student.student_id) }}">Dashboard</a>
+    <a href="{{ url_for('student_profile', student_id=student.student_id) }}">Profile</a>
+    <a href="{{ url_for('student_recommendation', student_id=student.student_id) }}">Recommendations</a>
+    <a href="{{ url_for('student_peer', student_id=student.student_id) }}">Peer Learning</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <div class="profile-container">
+      <div class="profile-pic">Profile Image</div>
+      <div class="profile-title">{{ student.name }}</div>
+      <div class="profile-details">
+        <p><strong>Student ID:</strong> <span>{{ student.student_id }}</span></p>
+        {% if student.gender %}
+        <p><strong>Gender:</strong> <span>{{ student.gender }}</span></p>
+        {% endif %}
+        {% if student.phone %}
+        <p><strong>Phone:</strong> <span>{{ student.phone }}</span></p>
+        {% endif %}
+        {% if student.role %}
+        <p><strong>Role:</strong> <span>{{ student.role }}</span></p>
+        {% endif %}
+        <!-- Add more personal info if available -->
+      </div>
+    </div>
+  </div>
+</body>
+</html>

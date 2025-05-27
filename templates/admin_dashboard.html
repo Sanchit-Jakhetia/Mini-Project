@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+	.logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+
+    .card-container {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+
+    .card {
+      background-color: rgba(255, 255, 255, 0.08);
+      border-radius: 10px;
+      padding: 20px;
+      flex: 1;
+      min-width: 200px;
+      text-align: center;
+    }
+
+    .card h3 {
+      margin: 0;
+      color: #00c6ff;
+    }
+
+    .section {
+      margin-bottom: 40px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+
+    th, td {
+      padding: 12px 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    @media (max-width: 768px) {
+      .sidebar {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>Admin Panel</h2>
+    <a href="{{ url_for('dashboard_admin') }}">Dashboard</a>
+    <a href="{{ url_for('display_students') }}">All Students</a>
+    <a href="{{ url_for('user_dashboard') }}">User Management</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <div class="dashboard-header">Welcome, {{ admin_name }}</div>
+
+    <div class="card-container">
+      <div class="card">
+        <h3>Total Students</h3>
+        <p>{{ stats.total_students }}</p>
+      </div>
+      <div class="card">
+        <h3>Total Teachers</h3>
+        <p>{{ stats.total_teachers }}</p>
+      </div>
+      <div class="card">
+        <h3>Subjects</h3>
+        <p>{{ stats.total_subjects }}</p>
+      </div>
+      <div class="card">
+        <h3>Average GPA</h3>
+        <p>{{ stats.average_gpa }}</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Recent Students</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Semester</th>
+            <th>GPA</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for student in students %}
+          <tr>
+            <td>{{ student.student_id }}</td>
+            <td>{{ student.name }}</td>
+            <td>{{ student.semester }}</td>
+            <td>{{ student.semester_gpa }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</body>
+</html>

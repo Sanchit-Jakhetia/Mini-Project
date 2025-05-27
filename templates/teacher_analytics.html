@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Teacher - Student Analytics</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+
+    .logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 40px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      margin-bottom: 30px;
+      color: #00c6ff;
+      font-weight: bold;
+    }
+
+    .search-sort-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    .search-box input {
+      padding: 10px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      width: 300px;
+    }
+
+    .sort-btn {
+      padding: 10px 20px;
+      background-color: #00c6ff;
+      color: black;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .sort-btn:hover {
+      background-color: #008ecc;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+
+    th, td {
+      padding: 14px 18px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.08);
+    }
+
+    .tag {
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    .tag-high {
+      background-color: #4caf50;
+      color: white;
+    }
+
+    .tag-medium {
+      background-color: #ff9800;
+      color: white;
+    }
+
+    .tag-low {
+      background-color: #f44336;
+      color: white;
+    }
+
+    .loader {
+      border: 6px solid #f3f3f3;
+      border-top: 6px solid #00c6ff;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 20px;
+      display: none;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+  <script>
+    function filterTable() {
+      let input = document.getElementById("searchInput").value.toLowerCase();
+      let rows = document.querySelectorAll("tbody tr");
+
+      rows.forEach(row => {
+        const id = row.children[0].innerText.toLowerCase();
+        const name = row.children[1].innerText.toLowerCase();
+        row.style.display = id.includes(input) || name.includes(input) ? "" : "none";
+      });
+    }
+
+    function sortAlertsFirst() {
+		let rows = Array.from(document.querySelectorAll("tbody tr"));
+
+		const priority = {
+			"ALERT": 0,
+			"Average": 1,
+			"Good": 2
+		};
+
+		rows.sort((a, b) => {
+			const aTag = a.querySelector(".tag").innerText.trim();
+			const bTag = b.querySelector(".tag").innerText.trim();
+			return priority[aTag] - priority[bTag];
+		});
+
+		const tbody = document.querySelector("tbody");
+		rows.forEach(row => tbody.appendChild(row));
+	}
+
+
+    window.onload = function() {
+      document.getElementById("loader").style.display = "block";
+      setTimeout(() => {
+        document.getElementById("loader").style.display = "none";
+        document.getElementById("mainTable").style.display = "table";
+      }, 1500); // Simulated delay
+    }
+  </script>
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>Teacher Panel</h2>
+    <a href="{{ url_for('dashboard_teacher') }}">Dashboard</a>
+    <a href="{{ url_for('teacher_analytics') }}">Analytics</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <!-- Main content -->
+  <div class="main-content">
+    <div class="dashboard-header">Student Performance Predictions</div>
+
+    <div id="loader" class="loader"></div>
+
+    <div class="search-sort-container">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search by ID or Name..." onkeyup="filterTable()">
+      </div>
+      <button class="sort-btn" onclick="sortAlertsFirst()">Sort ALERTS</button>
+    </div>
+
+    <table id="mainTable" style="display:none;">
+      <thead>
+        <tr>
+          <th>Student ID</th>
+          <th>Name</th>
+          <th>Predicted Performance</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for student in analytics %}
+        <tr>
+          <td>{{ student.student_id }}</td>
+          <td>{{ student.name }}</td>
+          <td>
+            {% if student.sem3_gpa is not none and student.sem3_gpa > 9 %}
+              <span class="tag tag-high">Good</span>
+            {% elif student.sem3_gpa is not none and student.sem3_gpa < 6.5 %}
+              <span class="tag tag-low">ALERT</span>
+            {% elif student.predicted_category == "Good" %}
+              <span class="tag tag-high">Good</span>
+            {% elif student.predicted_category == "Average" %}
+              <span class="tag tag-medium">Average</span>
+            {% else %}
+              <span class="tag tag-low">ALERT</span>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

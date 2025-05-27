@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin - All Students</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+
+    	.logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 300px;
+      border-radius: 5px;
+      border: none;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+
+    th, td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .sort-button {
+      background: none;
+      border: none;
+      color: #00c6ff;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 5px;
+    }
+
+    @media (max-width: 768px) {
+      .sidebar {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>Admin Panel</h2>
+    <a href="{{ url_for('dashboard_admin') }}">Dashboard</a>
+    <a href="{{ url_for('display_students') }}">All Students</a>
+    <a href="{{ url_for('user_dashboard') }}">User Management</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <div class="dashboard-header">All Registered Students</div>
+
+    <input type="text" id="searchInput" onkeyup="filterByExactId()" placeholder="Search by exact Student ID...">
+
+    <table id="studentsTable">
+      <thead>
+        <tr>
+          <th>ID <button class="sort-button" onclick="sortTable(0)">⇅</button></th>
+          <th>Name <button class="sort-button" onclick="sortTable(1)">⇅</button></th>
+          <th>Semester <button class="sort-button" onclick="sortTable(2)">⇅</button></th>
+          <th>GPA <button class="sort-button" onclick="sortTable(3)">⇅</button></th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for student in students %}
+        <tr>
+          <td>{{ student.student_id }}</td>
+          <td>{{ student.name }}</td>
+          <td>{{ student.semester }}</td>
+          <td>{{ student.semester_gpa }}</td>
+          <td><a href="{{ url_for('student_peer', student_id=student.student_id) }}" style="color: #00c6ff;">View Peer Panel</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    function filterByExactId() {
+      const input = document.getElementById("searchInput").value.trim();
+      const rows = document.querySelectorAll("#studentsTable tbody tr");
+
+      rows.forEach(row => {
+        const id = row.cells[0].innerText.trim();
+        row.style.display = (input === "" || id === input) ? "" : "none";
+      });
+    }
+
+    function sortTable(columnIndex) {
+      const table = document.getElementById("studentsTable");
+      const tbody = table.tBodies[0];
+      const rows = Array.from(tbody.querySelectorAll("tr"));
+      const isNumeric = !isNaN(rows[0].cells[columnIndex].innerText);
+
+      const ascending = table.getAttribute("data-sort-dir") !== "asc";
+      rows.sort((a, b) => {
+        let aText = a.cells[columnIndex].innerText;
+        let bText = b.cells[columnIndex].innerText;
+
+        if (isNumeric) {
+          return ascending ? (parseFloat(aText) - parseFloat(bText)) : (parseFloat(bText) - parseFloat(aText));
+        } else {
+          return ascending ? aText.localeCompare(bText) : bText.localeCompare(aText);
+        }
+      });
+
+      rows.forEach(row => tbody.appendChild(row));
+      table.setAttribute("data-sort-dir", ascending ? "asc" : "desc");
+    }
+  </script>
+
+</body>
+</html>

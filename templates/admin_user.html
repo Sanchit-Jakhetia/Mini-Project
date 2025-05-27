@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User Management</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+	
+	.logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+      margin-bottom: 30px;
+    }
+
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 30px;
+      background: rgba(255,255,255,0.05);
+      padding: 20px;
+      border-radius: 8px;
+    }
+
+    input, select {
+      padding: 10px;
+      border-radius: 4px;
+      border: none;
+      font-size: 14px;
+    }
+
+    .btn {
+      background-color: #00c6ff;
+      color: black;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+      border-radius: 4px;
+    }
+
+    .btn:hover {
+      background-color: #009ecc;
+    }
+
+    .action-btn {
+      margin-right: 8px;
+    }
+  </style>
+  <script>
+    function toggleStudentId(selectElem, idFieldId) {
+      const selectedRole = selectElem.value;
+      document.getElementById(idFieldId).style.display = selectedRole === "student" ? "block" : "none";
+    }
+  </script>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>Admin Panel</h2>
+    <a href="{{ url_for('dashboard_admin') }}">Dashboard</a>
+    <a href="{{ url_for('display_students') }}">All Students</a>
+    <a href="{{ url_for('user_dashboard') }}">User Management</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <h1>User Management</h1>
+
+    <h3>Add New User</h3>
+    <form action="{{ url_for('add_user') }}" method="post">
+      <input type="text" name="username" placeholder="Username" required>
+      <input type="password" name="password" placeholder="Password" required>
+      <select name="role" onchange="toggleStudentId(this, 'newStudentId')">
+        <option value="admin">Admin</option>
+        <option value="teacher">Teacher</option>
+        <option value="student">Student</option>
+      </select>
+      <input type="number" name="student_id" id="newStudentId" placeholder="Student ID (if student)" style="display:none;">
+      <button type="submit" class="btn">Add User</button>
+    </form>
+
+    <h3>Existing Users</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Username</th>
+          <th>Role</th>
+          <th>Password</th>
+          <th>Student ID</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for user in users %}
+        <tr>
+          <form action="{{ url_for('update_user', user_id=user._id) }}" method="post">
+            <td><input type="text" name="username" value="{{ user.username }}"></td>
+            <td>
+              <select name="role" onchange="toggleStudentId(this, 'editStudentId{{ loop.index }}')">
+                <option value="admin" {% if user.role == 'admin' %}selected{% endif %}>Admin</option>
+                <option value="teacher" {% if user.role == 'teacher' %}selected{% endif %}>Teacher</option>
+                <option value="student" {% if user.role == 'student' %}selected{% endif %}>Student</option>
+              </select>
+            </td>
+            <td><input type="text" name="password" value="{{ user.password }}"></td>
+            <td>
+              <input type="number" name="student_id" id="editStudentId{{ loop.index }}" value="{{ user.student_id or '' }}"
+              {% if user.role != 'student' %}style="display:none;"{% endif %}>
+            </td>
+            <td>
+              <button type="submit" class="btn action-btn">Update</button>
+              <a href="{{ url_for('delete_user', user_id=user._id) }}" class="btn" onclick="return confirm('Delete this user?');">Delete</a>
+            </td>
+          </form>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

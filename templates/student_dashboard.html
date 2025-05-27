@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+	.logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      margin-bottom: 30px;
+      font-weight: bold;
+    }
+
+    .timeline {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+
+    .timeline button {
+      background-color: transparent;
+      color: #00c6ff;
+      border: 2px solid #00c6ff;
+      border-radius: 50px;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: 0.3s;
+    }
+
+    .timeline button:hover, .timeline button.active {
+      background-color: #00c6ff;
+      color: #000;
+    }
+
+    .data-section {
+      display: none;
+      margin-top: 20px;
+    }
+
+    .data-section.active {
+      display: block;
+    }
+
+    .section-title {
+      font-size: 22px;
+      margin-bottom: 10px;
+      color: #00c6ff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+      margin-bottom: 30px;
+    }
+
+    th, td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    @media (max-width: 768px) {
+      .sidebar {
+        display: none;
+      }
+      .timeline {
+        flex-direction: column;
+        gap: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>Student Panel</h2>
+	<a href="{{ url_for('student_dashboard', student_id=student_id) }}">Dashboard</a>
+    <a href="{{ url_for('student_profile', student_id=student_id) }}">Profile</a>
+    <a href="{{ url_for('student_recommendation', student_id=student_id) }}">Recommendations</a>
+    <a href="{{ url_for('student_peer', student_id=student_id) }}">Peer Learning</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <div class="dashboard-header">Welcome, {{ student_name }}</div>
+
+    <div class="timeline">
+      <button onclick="showSection('tenth')" class="active">10th Grade</button>
+      <button onclick="showSection('twelfth')">12th Grade</button>
+      <button onclick="showSection('sem1')">Semester 1</button>
+      <button onclick="showSection('sem2')">Semester 2</button>
+      <button onclick="showSection('sem3')">Semester 3</button>
+    </div>
+
+    <div id="tenth" class="data-section active">
+      <div class="section-title">10th Grade Data</div>
+      <table>
+        <tbody>
+          {% for key, value in tenth.items() %}
+            {% if key != "_id" and key != "student_id" %}
+            <tr>
+              <th>{{ key.replace("_", " ").title() }}</th>
+              <td>{{ value }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <div id="twelfth" class="data-section">
+      <div class="section-title">12th Grade Data</div>
+      <table>
+        <tbody>
+          {% for key, value in twelfth.items() %}
+            {% if key != "_id" and key != "student_id" %}
+            <tr>
+              <th>{{ key.replace("_", " ").title() }}</th>
+              <td>{{ value }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    {% for sem_key, sem in [('sem1', sem1), ('sem2', sem2), ('sem3', sem3)] %}
+    <div id="{{ sem_key }}" class="data-section">
+      <div class="section-title">Semester {{ sem.semester }} - GPA: {{ sem.semester_gpa }}</div>
+      <table>
+        <thead>
+          <tr>
+            <th>Subject</th>
+            <th>Internal</th>
+            <th>External</th>
+            <th>Total</th>
+            <th>Grade</th>
+            <th>Attendance</th>
+            <th>Passed</th>
+            <th>Interest</th>
+            <th>Needs Support</th>
+            <th>Peer Helped</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for subject in sem.subjects %}
+          <tr>
+            <td>{{ subject.subject }}</td>
+            <td>{{ subject.internal_marks }}</td>
+            <td>{{ subject.external_marks }}</td>
+            <td>{{ subject.total_score }}</td>
+            <td>{{ subject.grade }}</td>
+            <td>{{ subject.attendance_percentage }}%</td>
+            <td>{{ subject.passed }}</td>
+            <td>{{ subject.subject_interest_level }}</td>
+            <td>{{ subject.needs_support_in_subject }}</td>
+            <td>{{ subject.peer_help_provided }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endfor %}
+  </div>
+
+  <script>
+    function showSection(id) {
+      const buttons = document.querySelectorAll('.timeline button');
+      buttons.forEach(btn => btn.classList.remove('active'));
+
+      const sections = document.querySelectorAll('.data-section');
+      sections.forEach(sec => sec.classList.remove('active'));
+
+      document.getElementById(id).classList.add('active');
+      event.target.classList.add('active');
+    }
+  </script>
+</body>
+</html>

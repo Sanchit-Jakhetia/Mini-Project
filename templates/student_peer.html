@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+
+    .logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 40px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      margin-bottom: 30px;
+      color: #00c6ff;
+      font-weight: bold;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+      margin-top: 10px;
+      margin-bottom: 30px;
+    }
+
+    th, td {
+      padding: 14px 18px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.08);
+    }
+
+    .button {
+      background-color: #00c6ff;
+      border: none;
+      color: black;
+      padding: 6px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      margin: 2px;
+    }
+
+    .button.red {
+      background-color: #f44336;
+      color: white;
+    }
+
+    .button.green {
+      background-color: #4caf50;
+      color: white;
+    }
+
+    .button.orange {
+      background-color: #ff9800;
+      color: white;
+    }
+
+    h3 {
+      color: #00c6ff;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>Student Panel</h2>
+	<a href="{{ url_for('student_dashboard', student_id=student.student_id) }}">Dashboard</a>
+    <a href="{{ url_for('student_profile', student_id=student.student_id) }}">Profile</a>
+    <a href="{{ url_for('student_recommendation', student_id=student.student_id) }}">Recommendations</a>
+    <a href="{{ url_for('student_peer', student_id=student.student_id) }}">Peer Learning</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main-content">
+    <div class="dashboard-header">Welcome, {{ student.name }}</div>
+
+    <h3>Your Subjects</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Subject</th>
+          <th>Total Score</th>
+          <th>Grade</th>
+          <th>Attendance %</th>
+          <th>Interest Level</th>
+          <th>Needs Help?</th>
+          <th>Can Help Others?</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for subj in student.subjects %}
+        <tr>
+          <td>{{ subj.subject }}</td>
+          <td>{{ subj.total_score }}</td>
+          <td>{{ subj.grade }}</td>
+          <td>{{ subj.attendance_percentage }}%</td>
+          <td>{{ subj.subject_interest_level }}</td>
+          <td>{{ subj.needs_support_in_subject }}</td>
+          <td>{{ subj.peer_help_provided }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <!-- Recommendation Panel -->
+   <h3>Students You Can Help</h3>
+
+	<input type="text" id="studentSearch" placeholder="Search by Student ID..." onkeyup="filterHelpList()" style="padding: 8px; width: 250px; margin-bottom: 10px; border-radius: 5px; border: none;">
+
+	{% if students_you_can_help %}
+	<table id="helpTable">
+	  <thead>
+		<tr>
+		  <th>Student ID</th>
+		  <th>Name</th>
+		  <th>Subject</th>
+		  <th>Action</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		{% for s in students_you_can_help %}
+		<tr class="help-row">
+		  <td>{{ s.student_id }}</td>
+		  <td>{{ s.name }}</td>
+		  <td>{{ s.subject }}</td>
+		  <td>
+			<form action="{{ url_for('student_peer', student_id=student.student_id) }}" method="post" style="display:inline;">
+			  <input type="hidden" name="helper_id" value="{{ s.student_id }}">
+			  <input type="hidden" name="subject" value="{{ s.subject }}">
+			  <button type="submit" class="button">Send Help</button>
+			</form>
+
+		  </td>
+		</tr>
+		{% endfor %}
+	  </tbody>
+	</table>
+	{% else %}
+	  <p>No recommendations available.</p>
+	{% endif %}
+
+	<script>
+	  // Initially hide all except the first 5 rows
+	  document.addEventListener("DOMContentLoaded", () => {
+		const rows = document.querySelectorAll(".help-row");
+		rows.forEach((row, index) => {
+		  if (index >= 5) row.style.display = "none";
+		});
+	  });
+
+	  function filterHelpList() {
+		const input = document.getElementById("studentSearch").value.toLowerCase();
+		const rows = document.querySelectorAll(".help-row");
+
+		let matchCount = 0;
+		rows.forEach(row => {
+		  const studentId = row.cells[0].innerText.toLowerCase();
+		  if (studentId.includes(input)) {
+			row.style.display = "";
+			matchCount++;
+		  } else {
+			row.style.display = "none";
+		  }
+		});
+
+		// If input is empty, show only top 5 again
+		if (input.trim() === "") {
+		  rows.forEach((row, index) => {
+			row.style.display = index < 5 ? "" : "none";
+		  });
+		}
+	  }
+	</script>
+
+
+
+    <!-- Active Peer Matches -->
+    <h3>Active Peer Matches</h3>
+    {% if active_matches %}
+    <table>
+      <thead>
+        <tr>
+          <th>Requester</th>
+          <th>Helper</th>
+          <th>Subject</th>
+          <th>Status</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for m in active_matches %}
+        <tr>
+          <td>{{ m.requester_id }}</td>
+          <td>{{ m.helper_id }}</td>
+          <td>{{ m.subject }}</td>
+          <td>{{ m.status }}</td>
+          <td>
+            <a href="{{ url_for('complete_match', match_id=m._id) }}" class="button green">Mark Completed</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+      <p>No active peer matches.</p>
+    {% endif %}
+
+    <!-- Received Requests -->
+    <h3>Requests You Received</h3>
+    {% if received_requests %}
+    <table>
+      <thead>
+        <tr>
+          <th>From</th>
+          <th>Subject</th>
+          <th>Status</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in received_requests %}
+        <tr>
+          <td>{{ r.requester_id }}</td>
+          <td>{{ r.subject }}</td>
+          <td>{{ r.status }}</td>
+          <td>
+            {% if r.status == "Pending" %}
+              <a href="{{ url_for('accept_request', match_id=r._id) }}" class="button green">Accept</a>
+              <a href="{{ url_for('reject_request', match_id=r._id) }}" class="button red">Reject</a>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+      <p>No requests received.</p>
+    {% endif %}
+
+    <!-- Sent Requests -->
+    <h3>Requests You Sent</h3>
+    {% if sent_requests %}
+    <table>
+      <thead>
+        <tr>
+          <th>To</th>
+          <th>Subject</th>
+          <th>Status</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in sent_requests %}
+        <tr>
+          <td>{{ s.helper_id }}</td>
+          <td>{{ s.subject }}</td>
+          <td>{{ s.status }}</td>
+          <td>
+            {% if s.status == "Pending" %}
+              <a href="{{ url_for('cancel_request', match_id=s._id) }}" class="button red">Cancel</a>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+      <p>No requests sent.</p>
+    {% endif %}
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      height: 100vh;
+    }
+
+	.logout-btn {
+      background-color: #f44336;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .logout-btn:hover {
+      background-color: #e53935;
+      color: white;
+    }
+	
+    .sidebar {
+      width: 240px;
+      background-color: #121212;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    }
+
+    .sidebar h2 {
+      color: #00c6ff;
+      margin-bottom: 10px;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.3s;
+    }
+
+    .sidebar a:hover {
+      background-color: #00c6ff;
+      color: black;
+    }
+    .main-content {
+      flex: 1;
+      padding: 30px;
+      overflow-y: auto;
+    }
+
+    .dashboard-header {
+      font-size: 28px;
+      margin-bottom: 20px;
+      font-weight: bold;
+      color: #00c6ff;
+    }
+
+    .info {
+      margin-bottom: 20px;
+    }
+
+    .info p {
+      margin: 5px 0;
+    }
+
+    .tag {
+      padding: 5px 10px;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .tag-a { background-color: #4caf50; }
+    .tag-b { background-color: #8bc34a; }
+    .tag-c { background-color: #ff9800; }
+    .tag-d, .tag-f { background-color: #f44336; }
+
+    .tag-yes { background-color: #4caf50; }
+    .tag-no { background-color: #f44336; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: rgba(255, 255, 255, 0.05);
+      margin-bottom: 30px;
+    }
+
+    th, td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    th {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    tr:hover {
+      background-color: rgba(255, 255, 255, 0.08);
+    }
+
+    .recommendation {
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.07);
+      border-radius: 10px;
+    }
+
+    .recommendation h3 {
+      margin-top: 0;
+      color: #00c6ff;
+    }
+
+    .star {
+      color: gold;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>Student Panel</h2>
+	<a href="{{ url_for('student_dashboard', student_id=student.student_id) }}">Dashboard</a>
+    <a href="{{ url_for('student_profile', student_id=student.student_id) }}">Profile</a>
+    <a href="{{ url_for('student_recommendation', student_id=student.student_id) }}">Recommendations</a>
+    <a href="{{ url_for('student_peer', student_id=student.student_id) }}">Peer Learning</a>
+	<a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+  </div>
+
+  <div class="main-content">
+    <div class="dashboard-header">Welcome, {{ student.name }}</div>
+	
+	    <div class="recommendation">
+      <h3>Personalized Recommendations</h3>
+      <ul>
+        {% for sub in student.subjects %}
+          {% if sub.total_score < 55 %}
+            <li>Consider revising <strong>{{ sub.subject }}</strong> and get help from peers.</li>
+          {% endif %}
+          {% if sub.attendance_percentage < 75 %}
+            <li>Improve attendance in <strong>{{ sub.subject }}</strong> ({{ sub.attendance_percentage }}%).</li>
+          {% endif %}
+          {% if sub.subject_interest_level <= 2 %}
+            <li>Try implementing more in <strong>{{ sub.subject }}</strong>.</li>
+          {% endif %}
+          {% if sub.needs_support_in_subject == "Yes" %}
+            <li>You marked that you need help in <strong>{{ sub.subject }}</strong>. Get help in peer section.</li>
+          {% endif %}
+          {% if sub.total_score > 80 %}
+            <li>Consider helping peers in <strong>{{ sub.subject }}</strong> to reinforce your learning.</li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+	
+    <h3>Subject Performance</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Subject</th>
+          <th>Marks (Int/Ext)</th>
+          <th>Total</th>
+          <th>Grade</th>
+          <th>Attendance</th>
+          <th>Interest</th>
+          <th>Needs Support</th>
+          <th>Peer Help</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for sub in student.subjects %}
+        <tr>
+          <td>{{ sub.subject }}</td>
+          <td>{{ sub.internal_marks }}/{{ sub.external_marks }}</td>
+          <td>{{ sub.total_score }}</td>
+          <td><span class="tag tag-{{ sub.grade | lower }}">{{ sub.grade }}</span></td>
+          <td>{{ sub.attendance_percentage }}%</td>
+          <td>
+            {% for i in range(sub.subject_interest_level) %}
+              <span class="star">★</span>
+            {% endfor %}
+          </td>
+          <td>
+            <span class="tag tag-{{ sub.needs_support_in_subject | lower }}">{{ sub.needs_support_in_subject }}</span>
+          </td>
+          <td>
+            <span class="tag tag-{{ sub.peer_help_provided | lower }}">{{ sub.peer_help_provided }}</span>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
