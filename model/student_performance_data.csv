@@ -1,0 +1,501 @@
+student_id,10th_percentage,12th_percentage,math_score_10th,science_score_10th,remedial_classes_taken,average_study_hours_per_day,study_method,preferred_learning_style,attendance_10th,attendance_12th,participated_in_olympiads,extracurricular_focus,leadership_roles,confidence_level,motivation_level,parental_education_level,internet_access_at_home,semester_1_gpa,semester_2_gpa,semester_3_gpa,average_attendance_semesters,subjects_failed_total,average_interest_level,subjects_need_support_count,performance_label
+1,62.5,92.0,95,55,0,1.8,Mixed,Reading,83,95,0,Arts,0,2,4,Graduate,0,5.09,5.1,5.83,81,0,2.7,0,Not Good
+2,71.5,59.0,94,49,0,4.9,Mixed,Kinesthetic,62,96,1,None,0,2,4,High School,1,8.85,5.83,4.59,79,3,2.8,3,Average
+3,69.7,37.1,70,84,0,2.6,Group,Auditory,63,88,1,Sports,0,2,4,Graduate,0,5.96,7.42,7.13,99,0,2.6,1,Average
+4,72.4,70.2,94,75,0,1.8,Solo,Reading,68,83,0,Volunteering,0,3,3,High School,0,8.74,7.64,9.56,87,2,4.4,3,Good
+5,59.9,38.8,57,96,0,4.6,Group,Reading,94,60,0,Arts,1,1,5,Graduate,0,5.54,4.24,8.26,85,1,2.8,2,Average
+6,41.9,73.2,86,38,1,2.2,Solo,Reading,88,95,1,Arts,0,4,2,Graduate,1,7.8,9.23,8.82,79,1,4.5,1,Good
+7,47.3,56.4,96,35,0,3.1,Solo,Visual,62,98,0,Arts,0,5,1,Postgraduate,0,5.46,5.01,5.31,83,0,2.6,0,Not Good
+8,55.2,49.8,73,36,1,1.7,Solo,Reading,61,61,0,Arts,0,1,1,Postgraduate,0,7.19,6.69,7.32,63,2,4.0,2,Average
+9,54.5,83.2,45,50,1,2.6,Group,Kinesthetic,88,62,0,Arts,0,2,3,Postgraduate,0,7.87,5.05,8.15,98,1,4.4,2,Average
+10,60.5,41.8,57,65,1,2.3,Group,Kinesthetic,61,60,0,Volunteering,1,3,1,High School,0,8.36,9.38,9.32,92,3,4.4,0,Good
+11,49.7,88.9,59,52,0,3.7,Group,Reading,75,95,1,None,0,4,3,High School,0,7.26,7.05,7.82,81,1,3.4,4,Average
+12,69.2,89.4,61,55,0,3.9,Solo,Visual,78,63,0,None,0,4,4,Graduate,1,9.49,6.22,4.09,83,0,2.7,4,Average
+13,74.3,93.8,97,66,1,2.6,Group,Visual,90,62,0,Volunteering,0,2,3,Graduate,1,8.44,8.18,8.21,98,0,2.2,1,Good
+14,88.6,87.0,47,94,0,3.5,Solo,Kinesthetic,60,67,1,Volunteering,0,3,4,Graduate,0,7.47,4.22,6.79,81,1,4.4,0,Average
+15,42.2,84.4,88,94,0,5.1,Solo,Reading,63,65,0,Volunteering,0,3,4,High School,1,8.29,4.25,6.39,78,3,4.0,1,Average
+16,41.5,92.8,57,43,0,1.3,Group,Visual,93,91,0,Volunteering,0,5,5,High School,1,8.43,7.33,7.67,62,3,3.3,2,Average
+17,85.5,35.9,81,96,1,3.4,Group,Auditory,80,98,0,Sports,0,2,2,Graduate,0,4.27,6.25,7.76,91,0,3.2,4,Average
+18,49.8,39.2,36,66,1,3.9,Group,Reading,92,92,1,Arts,1,3,1,High School,0,5.24,5.64,5.29,61,0,1.4,2,Not Good
+19,60.2,74.3,60,68,0,3.5,Group,Visual,70,88,0,None,1,1,4,Graduate,0,7.41,7.46,8.39,95,1,2.0,4,Average
+20,54.3,75.8,57,64,1,3.5,Solo,Auditory,72,78,0,Volunteering,1,3,4,High School,0,9.7,9.7,7.44,75,0,1.4,3,Good
+21,59.7,75.4,87,57,1,1.6,Solo,Auditory,98,73,0,None,1,5,3,Postgraduate,0,4.86,8.57,7.71,97,2,2.7,1,Average
+22,63.8,88.5,39,63,0,5.9,Solo,Visual,81,76,1,None,1,4,4,Postgraduate,0,6.27,8.23,5.49,78,2,2.7,4,Average
+23,40.7,63.1,92,54,0,1.6,Solo,Reading,60,62,0,Sports,0,4,1,High School,1,5.34,9.78,4.07,91,0,1.2,4,Average
+24,42.6,90.5,70,53,1,3.6,Solo,Visual,73,74,0,None,1,3,1,Postgraduate,0,9.7,9.34,6.73,87,0,2.1,3,Good
+25,78.8,58.3,94,84,0,2.8,Mixed,Auditory,76,68,0,Volunteering,1,5,5,Graduate,0,9.64,6.5,7.49,84,1,1.3,1,Average
+26,73.1,44.9,67,99,0,5.9,Mixed,Visual,85,84,1,Arts,1,1,2,High School,0,5.64,4.34,9.19,76,0,5.0,2,Average
+27,73.3,81.1,71,51,0,2.0,Solo,Reading,72,63,0,None,1,2,4,Postgraduate,0,8.03,7.12,8.63,71,0,3.2,4,Average
+28,45.3,82.5,51,81,0,4.9,Group,Auditory,70,98,0,Volunteering,1,2,2,Graduate,0,6.62,9.42,6.09,97,0,4.1,3,Average
+29,57.9,66.4,39,63,0,5.6,Group,Visual,79,83,0,Sports,0,5,3,Postgraduate,0,4.46,4.77,4.77,90,2,1.6,3,Not Good
+30,50.9,55.7,61,66,0,2.0,Mixed,Visual,64,77,0,None,0,1,5,High School,0,9.37,4.77,5.98,86,0,1.4,0,Average
+31,81.3,65.7,97,82,0,2.4,Solo,Kinesthetic,94,74,0,Volunteering,0,2,4,Postgraduate,0,8.32,4.37,4.89,66,2,4.6,2,Not Good
+32,71.9,41.4,72,49,0,4.7,Group,Reading,76,98,0,Sports,0,1,5,High School,0,8.74,6.99,4.52,81,1,3.2,0,Average
+33,73.9,57.7,40,86,0,3.9,Mixed,Visual,65,96,1,None,0,4,3,Graduate,0,5.04,9.38,4.48,90,3,3.8,1,Average
+34,74.6,90.0,40,85,1,4.6,Mixed,Kinesthetic,85,64,0,Sports,1,4,1,High School,0,8.24,8.61,4.52,70,2,2.9,2,Average
+35,75.6,57.2,44,39,0,5.9,Solo,Kinesthetic,61,79,0,None,0,1,3,Postgraduate,0,6.47,6.09,9.58,73,0,3.9,0,Average
+36,52.3,57.8,35,74,1,1.2,Solo,Kinesthetic,70,96,0,Sports,1,5,5,Postgraduate,0,7.14,6.15,9.26,84,1,4.3,2,Average
+37,77.4,67.4,97,49,0,2.8,Mixed,Reading,61,73,0,Volunteering,1,3,3,Postgraduate,0,8.16,5.0,9.27,92,3,4.0,2,Average
+38,87.3,44.1,61,89,0,2.0,Group,Auditory,64,69,0,Sports,1,4,5,Postgraduate,0,4.9,5.38,8.33,61,2,3.6,2,Average
+39,73.9,78.0,61,54,0,5.5,Group,Auditory,67,82,0,Sports,1,2,5,Graduate,0,5.54,8.36,7.56,95,3,3.8,4,Average
+40,82.4,44.2,65,43,0,4.7,Solo,Auditory,70,82,0,None,1,4,1,High School,1,7.11,7.55,6.39,68,0,2.3,3,Average
+41,87.3,71.2,69,97,0,5.3,Group,Auditory,66,77,0,Arts,0,3,3,Postgraduate,0,5.06,6.99,6.51,83,0,2.4,2,Average
+42,77.9,35.8,83,83,0,5.3,Mixed,Visual,99,66,0,None,0,3,3,Postgraduate,0,6.81,7.75,6.27,75,3,3.3,0,Average
+43,86.5,62.2,72,85,0,1.9,Solo,Reading,98,62,0,Sports,1,2,4,High School,0,4.94,8.3,7.95,60,0,1.9,2,Average
+44,70.3,70.7,85,42,0,2.2,Group,Kinesthetic,75,63,1,Sports,0,2,2,Postgraduate,0,9.09,4.74,9.26,88,3,3.8,0,Average
+45,89.0,55.5,36,46,1,2.7,Group,Visual,93,94,1,Sports,1,1,2,Graduate,0,9.37,8.8,6.55,76,1,4.0,1,Good
+46,78.0,50.5,56,38,0,5.5,Group,Reading,96,70,1,Volunteering,0,4,1,Graduate,0,6.43,6.98,8.32,81,0,2.1,2,Average
+47,75.8,71.0,87,44,1,3.1,Group,Auditory,61,60,0,Volunteering,1,5,5,Postgraduate,0,6.13,8.31,5.78,94,1,2.9,4,Average
+48,69.0,51.2,54,96,1,1.8,Solo,Auditory,61,68,0,None,0,5,3,Graduate,0,4.46,4.47,4.01,89,1,3.4,2,Not Good
+49,58.9,83.4,83,95,1,4.5,Solo,Reading,71,75,1,Volunteering,1,1,5,Graduate,0,9.88,9.42,7.88,85,0,4.8,1,Good
+50,75.3,95.0,60,41,0,4.5,Solo,Reading,67,82,1,Arts,1,3,2,Postgraduate,1,4.22,7.58,5.38,93,2,3.8,1,Not Good
+51,83.5,38.9,49,38,1,2.6,Group,Visual,75,61,0,Sports,1,3,5,High School,0,9.6,4.42,4.06,88,1,1.4,4,Average
+52,68.8,69.8,44,64,0,3.1,Solo,Visual,89,62,0,Volunteering,0,4,2,Graduate,0,5.66,9.46,4.27,74,0,2.6,3,Average
+53,53.1,92.0,95,77,0,5.9,Mixed,Auditory,83,70,1,Sports,0,4,4,Postgraduate,0,9.03,5.38,8.98,69,2,1.7,1,Average
+54,42.2,92.4,40,39,0,5.8,Solo,Visual,94,79,1,None,0,3,2,Graduate,0,4.92,8.89,5.35,84,0,4.6,4,Average
+55,45.5,87.6,63,43,0,5.3,Group,Visual,74,99,1,Arts,0,4,3,High School,0,7.2,9.77,4.66,87,0,5.0,1,Average
+56,69.7,63.8,92,90,0,3.7,Solo,Visual,92,65,0,Volunteering,1,1,3,Postgraduate,0,6.0,5.43,9.58,95,2,3.8,3,Average
+57,49.5,87.9,92,65,1,1.6,Mixed,Visual,89,98,0,Volunteering,1,5,5,Postgraduate,0,4.5,5.96,7.36,99,2,2.5,4,Not Good
+58,86.8,41.4,64,97,0,1.9,Solo,Visual,81,63,0,Volunteering,0,3,1,Graduate,0,6.84,4.35,4.45,77,1,5.0,4,Not Good
+59,66.8,73.9,86,41,0,5.1,Mixed,Reading,91,70,1,Sports,0,2,5,High School,0,9.13,7.16,8.96,70,3,4.4,3,Good
+60,79.3,51.4,90,55,1,5.3,Group,Reading,64,62,0,Sports,1,2,5,Postgraduate,0,7.91,6.21,9.19,75,2,4.9,0,Average
+61,92.1,81.6,61,80,0,1.1,Solo,Kinesthetic,83,62,0,Arts,0,1,4,High School,0,6.95,4.39,7.49,61,3,2.7,4,Average
+62,49.0,62.9,98,72,0,4.5,Solo,Kinesthetic,97,67,1,Arts,0,1,4,High School,0,4.11,6.89,5.26,92,1,4.1,1,Not Good
+63,59.6,66.1,67,64,0,1.4,Group,Reading,61,97,0,Sports,1,2,2,Postgraduate,0,9.71,4.75,9.38,68,1,3.5,0,Average
+64,82.5,87.3,84,96,1,4.1,Mixed,Reading,70,79,0,Sports,1,2,3,Postgraduate,0,8.39,4.49,4.36,82,3,1.6,4,Not Good
+65,76.9,54.7,79,42,1,3.2,Mixed,Kinesthetic,77,65,1,Sports,0,1,3,Postgraduate,0,6.42,5.32,6.51,74,0,4.4,0,Average
+66,92.1,78.6,95,58,0,2.7,Group,Kinesthetic,83,91,0,Sports,1,4,2,Postgraduate,1,6.53,5.66,7.55,71,2,3.5,4,Average
+67,84.0,42.9,42,76,0,5.9,Mixed,Visual,64,97,0,Sports,0,5,1,Graduate,0,7.91,5.87,6.39,94,0,1.0,0,Average
+68,86.4,42.9,79,57,0,2.2,Mixed,Auditory,73,75,0,Sports,1,1,1,High School,0,7.7,8.24,5.0,79,3,1.1,4,Average
+69,61.4,67.0,83,78,0,5.3,Group,Kinesthetic,79,73,0,Arts,0,2,5,High School,0,6.71,9.6,5.9,73,3,1.6,4,Average
+70,68.8,76.2,84,63,1,3.3,Mixed,Reading,82,97,0,Volunteering,0,4,2,Graduate,0,4.97,5.13,8.38,88,3,1.9,1,Average
+71,79.7,93.7,77,64,0,4.1,Mixed,Kinesthetic,71,86,1,Sports,1,1,3,Postgraduate,0,6.36,7.91,4.64,87,1,5.0,0,Average
+72,92.0,94.6,47,65,1,5.4,Solo,Auditory,63,97,0,Sports,1,1,3,High School,1,4.72,7.27,4.03,74,0,2.5,4,Not Good
+73,62.8,67.9,67,83,0,3.2,Group,Auditory,70,94,0,Sports,1,1,3,High School,1,7.11,6.88,4.15,85,0,2.5,1,Average
+74,71.6,49.8,49,77,1,5.1,Group,Kinesthetic,80,82,0,Volunteering,1,4,1,Postgraduate,0,5.18,6.88,5.17,73,0,3.5,4,Not Good
+75,57.1,53.4,62,69,0,1.4,Group,Auditory,61,72,0,None,1,4,2,Postgraduate,0,8.25,4.64,7.4,95,3,2.9,0,Average
+76,62.4,66.6,81,47,0,5.1,Group,Kinesthetic,68,85,0,Sports,0,1,5,Graduate,1,6.12,5.42,8.68,83,2,4.4,1,Average
+77,88.6,81.0,89,81,0,5.3,Solo,Reading,80,76,0,None,1,4,3,Graduate,0,7.79,4.35,4.85,94,2,3.8,2,Not Good
+78,66.6,61.7,75,58,0,1.5,Group,Auditory,91,98,1,Volunteering,0,1,4,Postgraduate,0,6.2,6.06,7.7,72,0,4.3,3,Average
+79,88.0,49.0,55,42,1,4.3,Group,Kinesthetic,62,81,1,Arts,0,1,3,Graduate,0,6.0,7.48,4.53,64,0,3.5,0,Average
+80,50.2,59.6,64,89,1,2.7,Mixed,Kinesthetic,89,82,0,Volunteering,0,4,4,High School,1,7.13,7.74,4.53,98,3,1.5,3,Average
+81,86.9,77.5,48,70,0,2.3,Group,Visual,80,61,1,None,1,3,4,Graduate,0,7.6,7.09,9.52,74,1,3.3,3,Good
+82,52.5,90.8,76,72,1,2.9,Group,Auditory,73,65,0,Arts,0,1,5,Postgraduate,0,8.17,6.08,9.85,69,0,3.3,4,Good
+83,91.7,90.4,48,99,0,4.8,Solo,Kinesthetic,62,94,0,None,1,2,5,Graduate,0,5.4,4.48,8.66,91,3,2.2,3,Average
+84,66.4,41.3,40,66,0,4.1,Mixed,Reading,90,64,1,Sports,0,3,2,High School,0,5.78,6.58,5.02,80,0,4.1,2,Not Good
+85,50.7,76.5,38,38,1,5.1,Mixed,Kinesthetic,88,95,0,Arts,1,5,4,Postgraduate,0,5.17,6.21,6.48,73,2,3.9,4,Not Good
+86,40.7,60.0,55,55,1,1.7,Mixed,Visual,60,72,0,Sports,1,5,2,High School,1,6.93,4.66,7.29,80,3,2.1,4,Average
+87,69.3,44.0,86,86,1,3.0,Group,Visual,76,68,1,Sports,0,5,1,Graduate,1,5.52,8.69,8.95,93,3,4.6,0,Average
+88,76.8,39.0,79,66,1,3.2,Solo,Kinesthetic,82,60,0,Volunteering,0,1,5,High School,0,6.77,9.95,9.82,78,2,4.1,2,Good
+89,50.4,40.9,42,98,0,1.4,Solo,Reading,67,99,1,Sports,1,3,1,Graduate,0,4.42,9.76,6.87,69,0,1.5,2,Average
+90,98.8,71.1,87,66,1,5.1,Group,Reading,69,74,0,Sports,0,1,3,Graduate,0,7.68,9.66,5.44,80,3,1.8,0,Average
+91,78.7,52.2,66,73,1,5.6,Group,Visual,72,80,1,Sports,1,4,3,Graduate,0,5.62,7.24,8.37,61,0,3.7,3,Average
+92,89.1,47.8,57,78,1,3.7,Solo,Visual,62,78,0,Sports,1,1,5,Postgraduate,0,7.35,8.87,8.45,62,0,2.1,2,Good
+93,64.1,83.0,44,55,1,4.1,Mixed,Auditory,72,68,0,Sports,1,2,4,High School,0,8.5,8.55,8.07,75,2,4.4,2,Good
+94,99.8,57.1,38,54,1,2.1,Group,Visual,97,80,0,Arts,0,4,4,High School,0,6.41,9.25,7.06,62,3,1.4,1,Average
+95,73.7,68.6,58,68,0,4.0,Mixed,Visual,78,81,1,Volunteering,1,5,4,Postgraduate,0,4.88,5.97,6.6,77,2,1.9,2,Not Good
+96,88.1,81.0,91,79,0,4.2,Mixed,Reading,74,65,1,Volunteering,0,1,2,High School,0,6.17,6.01,4.16,89,1,3.3,0,Not Good
+97,95.8,82.0,53,76,1,2.1,Solo,Visual,96,79,1,Sports,1,4,2,Graduate,0,6.98,6.62,8.38,65,0,1.6,3,Average
+98,47.9,58.9,58,70,0,2.4,Group,Auditory,81,87,0,Arts,1,2,2,High School,0,4.39,6.93,4.2,79,1,4.6,0,Not Good
+99,60.8,53.9,41,49,0,4.3,Mixed,Kinesthetic,66,80,0,Volunteering,1,1,5,Graduate,1,4.87,8.35,5.15,78,2,4.9,3,Average
+100,61.0,41.8,84,67,0,1.6,Group,Kinesthetic,98,81,0,Sports,0,2,1,Graduate,0,9.67,9.1,8.01,93,3,2.6,4,Good
+101,85.0,52.4,74,72,1,3.3,Mixed,Reading,91,66,1,Sports,0,4,5,Postgraduate,1,9.22,5.43,6.71,87,1,3.2,1,Average
+102,43.9,62.8,78,76,0,1.5,Mixed,Visual,78,64,1,Volunteering,0,4,4,High School,0,7.81,8.79,6.38,99,1,1.6,3,Average
+103,73.5,45.0,37,37,1,1.8,Group,Visual,87,60,0,Volunteering,1,4,3,High School,0,7.69,4.5,9.29,71,2,3.0,0,Average
+104,65.1,94.0,55,64,0,1.8,Group,Auditory,90,86,1,Arts,1,1,4,Graduate,0,6.27,9.84,6.02,68,3,4.7,2,Average
+105,85.6,94.3,81,37,1,3.6,Solo,Kinesthetic,85,92,0,Volunteering,1,3,2,Graduate,0,6.61,7.46,8.43,70,1,4.9,2,Average
+106,41.9,79.4,68,74,0,4.4,Group,Visual,79,60,1,Arts,0,3,4,Graduate,0,5.83,5.28,4.2,73,3,4.5,0,Not Good
+107,87.3,74.9,40,57,0,2.9,Group,Auditory,73,95,0,Sports,0,3,4,High School,0,8.44,9.51,5.68,78,1,4.6,1,Average
+108,82.0,85.4,79,97,0,4.1,Solo,Kinesthetic,78,73,0,None,1,1,1,High School,0,5.81,7.59,5.78,73,1,3.4,2,Average
+109,94.2,86.1,75,89,0,5.2,Group,Kinesthetic,94,70,1,Sports,1,5,5,High School,0,4.69,4.56,9.46,63,2,4.3,0,Average
+110,41.5,76.7,74,88,0,4.9,Solo,Reading,85,88,0,None,1,4,1,High School,0,8.06,4.79,5.41,71,0,4.9,3,Average
+111,97.0,71.0,89,35,0,3.0,Group,Visual,77,76,0,Sports,0,3,4,Graduate,1,5.99,6.89,5.18,94,3,2.1,0,Average
+112,71.0,35.3,80,96,1,5.2,Solo,Auditory,98,80,0,Volunteering,1,3,1,High School,1,5.71,8.91,7.19,98,2,4.5,4,Average
+113,80.5,37.7,45,80,0,2.9,Mixed,Kinesthetic,67,67,1,None,1,1,5,Graduate,1,8.93,4.01,7.82,82,1,2.0,0,Average
+114,76.2,76.2,67,70,0,1.6,Solo,Visual,71,74,1,Sports,1,1,2,Graduate,1,7.59,7.01,4.83,68,0,1.6,2,Average
+115,83.4,42.2,36,72,1,6.0,Group,Visual,71,94,0,Arts,1,2,5,High School,1,5.3,6.8,8.9,97,3,2.5,2,Average
+116,65.8,75.4,87,64,0,5.0,Mixed,Reading,87,74,1,Arts,0,2,3,High School,0,6.36,7.15,7.07,87,0,3.6,4,Average
+117,93.4,55.8,54,53,0,4.2,Mixed,Reading,90,86,0,None,0,5,2,Graduate,0,8.13,4.84,6.91,83,2,3.1,4,Average
+118,63.1,37.3,98,85,0,4.8,Mixed,Visual,89,96,1,None,1,5,3,Postgraduate,0,9.97,7.27,4.53,76,0,4.9,3,Average
+119,98.8,63.7,47,68,0,2.2,Mixed,Reading,62,93,0,Arts,0,5,4,High School,1,7.35,6.08,7.48,83,0,2.8,1,Average
+120,69.3,59.1,51,58,0,2.0,Solo,Kinesthetic,87,64,0,Volunteering,1,3,5,Graduate,0,7.2,9.22,4.78,70,2,1.5,0,Average
+121,80.8,63.0,46,51,1,3.6,Group,Reading,95,97,0,Sports,1,3,3,High School,0,8.35,9.37,6.74,87,2,3.4,3,Good
+122,88.4,63.6,79,53,0,2.3,Solo,Visual,90,75,1,Sports,1,3,3,Graduate,0,7.8,7.87,8.92,83,2,1.8,0,Good
+123,87.6,94.4,42,60,1,2.5,Mixed,Reading,60,95,1,None,0,5,5,High School,0,9.08,7.68,4.53,68,1,1.3,3,Average
+124,64.4,39.0,37,48,1,5.7,Group,Visual,78,97,0,Volunteering,0,2,2,Graduate,0,4.44,6.42,5.77,93,2,2.6,2,Not Good
+125,41.3,70.0,73,99,0,2.1,Solo,Visual,78,78,1,Sports,0,2,2,Graduate,0,8.1,5.45,8.28,83,2,3.2,3,Average
+126,48.6,81.5,46,65,0,1.7,Group,Reading,70,71,0,None,0,2,5,Graduate,0,7.56,9.37,7.5,67,0,2.4,3,Good
+127,84.5,54.0,45,99,0,3.8,Group,Kinesthetic,63,95,1,Arts,0,1,4,Postgraduate,0,8.12,6.96,6.33,86,0,3.8,1,Average
+128,48.3,50.3,47,67,0,1.6,Mixed,Visual,89,68,0,Arts,1,5,2,High School,0,9.74,7.0,6.6,77,3,2.5,3,Average
+129,40.2,86.5,47,47,0,4.6,Solo,Visual,97,70,1,Sports,0,5,5,High School,0,4.82,7.91,8.43,87,1,3.6,4,Average
+130,80.9,63.1,99,55,0,2.8,Solo,Visual,69,69,0,None,1,2,1,Graduate,0,6.96,6.43,7.19,83,0,2.9,3,Average
+131,42.5,58.9,99,62,0,2.1,Group,Kinesthetic,86,89,0,None,0,5,1,High School,0,5.34,7.85,7.42,75,2,3.7,4,Average
+132,98.5,85.8,66,42,1,4.9,Solo,Auditory,63,99,0,None,1,2,4,High School,0,6.84,4.35,9.75,68,2,4.1,3,Average
+133,72.7,92.8,62,56,0,2.1,Mixed,Auditory,85,84,1,None,0,5,5,Postgraduate,0,7.86,8.86,9.68,97,3,3.9,0,Good
+134,93.4,77.5,60,39,0,2.2,Group,Visual,97,86,1,Volunteering,1,5,5,Graduate,0,8.84,6.76,7.28,72,2,1.2,4,Average
+135,68.9,88.9,67,84,1,2.2,Group,Visual,75,63,1,Volunteering,0,3,2,Graduate,0,5.56,6.62,7.56,97,1,1.1,3,Average
+136,89.8,78.9,51,77,0,5.9,Mixed,Kinesthetic,72,67,1,Volunteering,0,1,3,Postgraduate,0,9.76,8.58,9.13,68,0,1.0,4,Good
+137,62.6,68.1,77,76,0,5.2,Mixed,Auditory,96,86,0,Arts,1,5,2,High School,0,9.94,9.73,6.97,84,0,2.9,2,Good
+138,63.5,80.3,69,51,1,2.3,Solo,Reading,77,63,1,None,0,5,4,Postgraduate,0,5.33,4.23,4.22,76,1,4.5,4,Not Good
+139,53.5,60.9,45,90,0,3.6,Group,Reading,78,66,1,Arts,1,5,5,Graduate,0,6.86,6.99,5.23,88,3,1.7,2,Average
+140,75.6,37.0,49,71,0,1.5,Mixed,Kinesthetic,95,93,1,Volunteering,1,3,2,High School,0,4.27,5.74,9.59,90,1,3.2,0,Average
+141,40.0,60.0,88,91,1,2.1,Group,Visual,79,62,1,Sports,1,4,4,Graduate,0,7.84,6.5,8.55,89,1,4.3,2,Average
+142,56.3,42.5,81,73,0,4.8,Group,Visual,67,75,0,Arts,1,3,2,Postgraduate,0,5.61,7.77,6.89,76,3,4.8,0,Average
+143,47.8,68.6,99,97,0,2.8,Solo,Reading,83,61,1,Volunteering,0,1,2,Postgraduate,1,6.07,4.19,4.31,68,0,1.9,3,Not Good
+144,98.7,86.4,97,83,1,3.8,Mixed,Kinesthetic,60,76,0,Arts,1,4,2,High School,0,9.03,4.07,8.22,73,1,2.8,3,Average
+145,73.5,65.1,40,83,0,3.1,Solo,Reading,75,65,0,Volunteering,1,3,3,Postgraduate,1,8.85,8.06,7.75,61,3,4.3,0,Good
+146,87.8,50.0,90,50,1,4.1,Solo,Visual,71,70,0,Volunteering,1,1,5,High School,1,7.63,5.48,6.14,78,1,2.3,1,Average
+147,52.3,57.9,67,47,1,4.7,Mixed,Auditory,82,78,1,None,0,5,2,Postgraduate,0,9.88,4.41,7.11,76,1,4.9,4,Average
+148,98.7,68.3,75,83,0,3.0,Mixed,Reading,69,93,0,Volunteering,1,2,2,Postgraduate,0,5.03,9.55,4.41,79,3,2.8,2,Average
+149,78.9,51.0,68,56,1,2.3,Group,Visual,92,91,1,None,1,3,4,Graduate,1,9.68,4.64,4.93,74,2,3.9,4,Average
+150,52.2,70.3,64,59,0,4.1,Solo,Kinesthetic,66,68,0,None,0,1,5,Graduate,0,8.03,9.86,4.61,86,1,2.3,3,Average
+151,84.9,89.9,62,49,1,3.6,Mixed,Auditory,78,87,1,None,1,2,4,High School,0,5.2,9.26,8.43,92,0,1.1,2,Average
+152,54.9,38.8,95,84,1,4.0,Mixed,Kinesthetic,77,89,1,Sports,1,3,4,Postgraduate,0,8.72,6.38,7.08,86,1,2.2,1,Average
+153,65.6,47.4,73,94,0,5.5,Solo,Auditory,80,61,1,Arts,1,2,4,Graduate,0,9.62,4.38,8.95,81,3,2.8,0,Average
+154,52.1,70.4,41,95,0,1.1,Mixed,Visual,62,73,0,None,0,5,5,High School,0,9.66,8.48,8.32,79,2,1.4,4,Good
+155,40.5,90.5,61,90,0,2.3,Solo,Reading,83,84,1,Sports,1,5,4,Graduate,0,7.03,9.65,9.26,80,0,2.6,2,Good
+156,89.7,55.9,75,39,0,5.2,Mixed,Kinesthetic,62,89,0,Sports,0,5,5,Graduate,0,6.94,6.58,8.44,80,1,3.1,3,Average
+157,70.9,44.7,67,64,0,1.8,Group,Reading,73,69,1,Arts,0,1,2,Postgraduate,0,4.35,6.35,5.41,74,1,4.8,2,Not Good
+158,73.4,59.9,96,53,0,3.1,Group,Visual,88,93,0,Sports,1,5,5,High School,0,9.6,6.63,9.88,76,2,1.5,1,Good
+159,93.7,47.3,83,87,1,4.1,Mixed,Visual,62,74,1,Arts,1,4,1,Graduate,0,7.21,9.02,8.93,75,0,2.9,2,Good
+160,57.1,66.9,63,53,1,5.4,Mixed,Reading,89,99,0,Volunteering,0,4,1,Postgraduate,0,7.89,4.44,6.25,74,3,5.0,2,Average
+161,42.6,61.8,37,88,1,4.0,Mixed,Auditory,63,70,1,Arts,1,3,2,Graduate,1,6.24,7.79,4.57,74,3,1.3,0,Average
+162,75.0,81.9,79,96,1,3.6,Solo,Reading,96,78,1,None,0,4,1,Postgraduate,1,8.5,9.45,8.55,62,0,3.6,3,Good
+163,91.2,67.5,96,76,0,3.1,Mixed,Auditory,75,67,0,None,0,3,2,Graduate,1,8.35,8.47,7.35,85,1,1.5,2,Good
+164,89.3,74.6,96,72,0,4.2,Mixed,Auditory,60,89,0,Volunteering,0,5,3,Postgraduate,0,7.97,8.89,8.67,82,2,1.8,3,Good
+165,86.4,79.9,67,62,0,3.3,Group,Auditory,80,91,0,None,1,2,1,Graduate,1,5.95,9.41,9.98,97,1,4.4,2,Good
+166,88.8,77.4,72,82,1,5.5,Solo,Reading,86,91,1,Arts,1,3,5,High School,0,4.13,6.16,8.7,70,1,2.3,4,Average
+167,53.9,35.9,58,83,1,1.2,Mixed,Kinesthetic,94,62,1,None,0,3,1,High School,0,8.4,8.06,4.83,84,3,3.3,2,Average
+168,95.7,55.5,97,93,0,3.2,Group,Kinesthetic,79,97,0,Arts,1,5,2,Postgraduate,0,6.24,9.65,5.0,64,2,3.8,0,Average
+169,78.9,51.5,99,98,1,3.1,Group,Auditory,76,88,1,Sports,0,1,3,Postgraduate,0,6.73,8.11,9.46,87,3,4.8,4,Good
+170,49.2,69.4,70,88,0,4.0,Mixed,Auditory,79,67,0,Sports,0,4,4,Postgraduate,1,7.95,5.27,9.18,86,0,4.2,0,Average
+171,99.8,36.8,91,42,1,4.9,Group,Kinesthetic,98,71,1,Volunteering,1,5,3,Graduate,0,4.43,5.26,5.38,79,1,2.1,1,Not Good
+172,44.5,61.3,37,71,1,5.8,Mixed,Kinesthetic,70,67,0,Volunteering,0,4,1,High School,0,9.85,5.02,9.39,77,3,1.3,1,Good
+173,89.8,77.4,80,96,0,3.9,Group,Kinesthetic,94,82,0,Arts,1,2,1,Postgraduate,0,6.51,6.75,8.35,77,2,5.0,0,Average
+174,91.7,53.8,97,73,0,4.8,Group,Reading,80,77,0,None,0,4,3,Postgraduate,0,8.8,4.74,8.19,84,3,1.5,4,Average
+175,93.4,84.1,40,94,0,4.2,Mixed,Kinesthetic,84,72,1,Sports,0,4,5,Graduate,1,6.94,6.44,9.42,91,0,3.3,0,Average
+176,87.1,50.2,44,37,1,2.7,Mixed,Reading,88,64,0,None,0,5,2,Postgraduate,0,8.51,7.74,7.6,79,3,4.0,3,Average
+177,67.5,56.1,51,58,0,5.6,Solo,Reading,67,67,1,Arts,1,5,1,High School,0,7.69,8.56,7.08,89,2,4.7,1,Average
+178,63.9,84.7,47,77,0,2.0,Mixed,Visual,99,78,1,None,0,4,5,Postgraduate,0,5.67,9.12,9.57,60,3,1.1,1,Good
+179,52.9,55.2,46,91,0,5.6,Solo,Reading,99,70,0,Arts,1,2,5,High School,0,9.57,6.32,4.4,96,0,4.3,0,Average
+180,57.0,60.1,83,55,1,4.3,Mixed,Reading,87,76,1,Volunteering,0,2,5,Postgraduate,0,6.1,9.48,6.04,72,3,3.7,0,Average
+181,82.4,72.4,92,90,0,2.3,Group,Kinesthetic,99,92,1,Volunteering,1,2,4,Graduate,0,4.55,4.98,7.57,83,2,4.9,0,Not Good
+182,94.8,46.4,58,60,0,2.4,Mixed,Reading,83,64,0,Arts,0,3,4,High School,0,6.47,6.41,9.31,79,3,4.6,0,Average
+183,66.4,78.8,37,55,0,5.2,Group,Visual,92,97,1,Sports,0,4,1,High School,0,6.34,6.13,4.27,82,3,3.3,4,Not Good
+184,89.3,69.0,57,98,1,3.0,Solo,Kinesthetic,67,70,1,None,0,5,5,Postgraduate,1,5.29,4.4,7.57,60,3,1.1,2,Not Good
+185,71.9,41.2,97,98,1,5.1,Group,Auditory,68,98,1,None,0,2,4,High School,0,6.75,5.36,7.68,60,0,3.3,1,Average
+186,89.4,84.2,72,42,0,1.3,Group,Auditory,72,76,1,Volunteering,0,3,5,Postgraduate,1,6.31,6.75,5.82,94,3,1.5,1,Average
+187,81.0,66.9,60,81,0,3.0,Group,Reading,77,63,0,Sports,1,4,3,Postgraduate,1,7.97,4.46,6.13,95,2,2.6,3,Average
+188,88.9,71.7,51,84,0,2.8,Solo,Auditory,73,96,0,Arts,0,3,4,Graduate,0,5.32,7.11,8.26,62,1,2.3,2,Average
+189,55.7,53.8,42,91,0,1.5,Group,Auditory,64,88,0,Sports,1,5,5,Graduate,0,9.07,6.59,6.27,82,1,2.0,1,Average
+190,55.0,67.8,40,97,0,1.0,Solo,Kinesthetic,63,63,0,Arts,0,3,1,Graduate,0,5.6,9.94,4.15,71,2,2.8,1,Average
+191,47.2,91.3,57,81,0,3.5,Mixed,Auditory,84,87,0,Volunteering,0,1,2,Graduate,0,8.14,6.04,8.83,84,1,1.6,1,Average
+192,44.6,49.1,55,79,0,2.3,Group,Kinesthetic,61,71,0,Sports,0,3,1,Postgraduate,0,4.17,7.5,4.07,71,3,2.6,1,Not Good
+193,43.7,67.1,41,97,0,3.7,Solo,Auditory,76,76,0,None,0,2,4,Graduate,0,9.22,4.5,5.27,69,2,1.2,3,Average
+194,85.5,78.7,49,81,0,1.8,Group,Visual,96,86,1,None,0,4,2,Graduate,0,5.03,8.96,7.51,78,2,4.2,2,Average
+195,78.5,50.6,56,86,1,2.5,Mixed,Reading,78,97,0,Arts,1,4,1,Graduate,0,4.94,8.43,6.16,63,0,5.0,4,Average
+196,99.6,44.4,41,53,0,2.8,Mixed,Visual,80,90,0,None,1,3,4,Graduate,0,5.98,7.39,9.1,98,0,2.7,0,Average
+197,47.8,41.0,60,84,0,3.4,Mixed,Kinesthetic,91,60,1,None,1,2,2,Postgraduate,0,9.87,8.04,9.08,71,2,3.7,0,Good
+198,96.6,80.9,36,94,0,2.9,Solo,Kinesthetic,69,99,0,Volunteering,1,2,5,Graduate,0,7.64,9.1,4.27,75,1,1.7,0,Average
+199,95.7,54.9,44,82,0,4.2,Solo,Reading,95,83,0,Sports,1,2,5,Postgraduate,1,7.46,7.38,7.0,69,1,1.4,1,Average
+200,47.6,83.0,92,56,0,4.6,Group,Auditory,75,95,1,Volunteering,1,4,4,Graduate,0,5.52,8.54,4.49,64,3,2.3,2,Average
+201,75.6,36.0,46,50,1,5.2,Solo,Reading,91,74,0,None,0,4,2,High School,0,6.41,8.37,8.68,74,2,1.0,2,Average
+202,61.4,50.3,88,96,0,5.3,Mixed,Kinesthetic,94,64,0,Sports,1,2,5,High School,0,5.44,4.57,5.89,82,3,1.7,2,Not Good
+203,71.9,87.4,54,80,0,2.6,Solo,Reading,60,76,0,Volunteering,1,5,3,High School,0,4.77,7.47,8.16,79,0,4.2,2,Average
+204,70.0,78.8,79,77,0,1.1,Group,Kinesthetic,81,78,0,Volunteering,1,3,2,Postgraduate,0,7.25,4.52,4.34,98,2,3.3,2,Not Good
+205,78.3,84.2,72,77,0,3.0,Group,Visual,87,60,1,Volunteering,1,3,5,High School,0,8.62,6.02,9.65,96,1,3.9,0,Good
+206,98.5,85.0,88,91,1,4.1,Solo,Reading,70,87,1,Arts,1,2,4,Postgraduate,1,6.27,4.37,6.04,95,1,1.6,3,Not Good
+207,99.9,62.1,64,79,0,5.4,Mixed,Auditory,97,82,0,Arts,1,2,1,High School,0,5.57,7.15,4.67,86,3,2.2,3,Not Good
+208,63.5,44.8,51,38,0,1.3,Solo,Reading,89,68,0,Volunteering,0,3,4,Graduate,0,8.07,7.56,4.89,87,3,4.5,2,Average
+209,49.1,61.0,38,71,0,5.7,Group,Kinesthetic,98,63,0,Sports,0,4,4,Graduate,0,5.84,5.17,8.07,85,2,2.3,3,Average
+210,42.4,59.3,52,64,0,3.4,Solo,Kinesthetic,89,86,0,Sports,0,5,1,Postgraduate,0,6.64,7.86,6.29,77,2,1.8,1,Average
+211,63.0,48.0,67,93,0,3.2,Mixed,Auditory,63,93,1,Sports,0,2,1,Postgraduate,0,6.48,9.75,7.25,87,3,1.9,0,Average
+212,74.3,46.1,66,76,0,5.2,Mixed,Reading,74,66,0,Arts,0,2,4,High School,0,4.31,6.39,7.07,78,2,2.5,1,Not Good
+213,48.7,65.3,79,42,0,3.8,Solo,Kinesthetic,73,72,0,Arts,0,2,1,Graduate,0,7.87,4.27,9.68,67,3,2.8,1,Average
+214,50.2,42.6,60,75,0,1.3,Group,Reading,64,84,0,None,0,4,2,Postgraduate,0,8.02,7.85,6.46,68,3,3.6,3,Average
+215,60.1,45.6,60,42,0,5.8,Mixed,Auditory,72,64,0,Sports,1,2,2,Graduate,0,6.85,9.53,4.44,70,2,5.0,4,Average
+216,81.2,92.7,79,78,0,4.2,Mixed,Reading,81,82,0,Arts,0,4,4,Postgraduate,0,7.13,4.41,5.09,96,1,4.6,2,Not Good
+217,67.6,75.5,88,56,0,4.4,Solo,Auditory,67,81,1,Volunteering,0,1,1,Graduate,0,8.02,6.9,6.51,89,0,3.4,0,Average
+218,79.4,46.9,79,78,0,4.7,Mixed,Auditory,66,79,1,Arts,1,5,1,Postgraduate,0,7.08,4.78,6.64,79,0,4.6,3,Average
+219,76.0,65.8,59,92,0,3.5,Solo,Visual,97,65,0,Sports,0,3,5,Postgraduate,0,4.19,8.29,6.17,83,0,2.0,0,Average
+220,51.8,36.4,50,53,1,4.1,Group,Reading,68,60,0,None,0,4,2,Graduate,0,7.56,7.54,4.4,98,2,1.7,0,Average
+221,52.8,52.0,49,38,0,4.3,Solo,Auditory,63,76,0,Arts,1,5,5,Postgraduate,0,8.07,9.59,9.98,69,0,2.1,2,Good
+222,43.0,48.9,43,45,0,1.7,Solo,Kinesthetic,72,71,0,Volunteering,1,4,2,Graduate,0,5.26,9.86,7.87,82,0,2.2,2,Average
+223,93.2,44.1,65,84,0,1.3,Solo,Auditory,84,72,0,Volunteering,0,3,2,Postgraduate,0,7.87,8.47,5.39,78,1,1.8,0,Average
+224,62.2,80.1,89,69,1,1.9,Group,Kinesthetic,66,89,0,None,1,3,2,Postgraduate,1,5.81,9.15,9.14,93,3,1.6,1,Good
+225,96.7,76.0,59,89,0,4.2,Group,Reading,93,87,1,Sports,0,3,2,High School,0,5.41,9.66,9.23,91,1,4.4,0,Good
+226,99.2,70.9,90,69,1,1.8,Mixed,Reading,60,86,0,Arts,0,1,3,Postgraduate,0,7.82,6.41,7.47,76,2,4.2,2,Average
+227,82.6,41.3,48,97,1,5.6,Mixed,Visual,83,82,1,Sports,1,3,2,Postgraduate,0,5.49,9.65,5.79,83,3,2.6,3,Average
+228,72.7,93.5,96,65,0,3.1,Group,Kinesthetic,86,61,0,Sports,1,5,4,High School,0,8.91,9.37,9.12,76,3,2.0,1,Good
+229,95.8,74.6,40,54,0,2.9,Solo,Kinesthetic,68,64,1,Sports,0,4,2,Postgraduate,0,8.4,9.26,8.34,92,0,1.5,3,Good
+230,54.5,39.4,93,66,1,2.2,Mixed,Kinesthetic,65,75,0,Sports,0,1,5,Graduate,0,8.43,8.12,8.89,76,2,4.1,2,Good
+231,41.9,67.1,52,41,1,2.2,Solo,Kinesthetic,88,80,0,None,0,4,2,Postgraduate,0,4.11,9.42,4.41,67,0,4.8,0,Not Good
+232,54.0,39.1,97,91,0,3.1,Group,Visual,81,70,1,None,1,2,2,High School,1,4.36,5.79,5.79,73,2,1.7,2,Not Good
+233,78.1,42.4,78,69,1,1.2,Solo,Visual,65,96,0,None,0,5,4,Postgraduate,1,4.08,7.07,8.62,69,3,4.6,0,Average
+234,88.2,93.8,87,68,0,3.0,Group,Kinesthetic,66,91,1,Sports,0,1,5,Graduate,0,6.47,7.98,4.71,65,2,2.5,4,Average
+235,51.2,92.0,41,78,1,4.7,Solo,Reading,86,64,0,Arts,1,5,2,Postgraduate,0,5.15,4.88,9.63,82,2,4.5,1,Average
+236,95.4,84.2,95,48,0,5.6,Group,Reading,85,93,1,None,0,1,1,Graduate,1,7.95,7.39,9.6,75,0,3.1,2,Good
+237,82.8,46.6,93,92,0,1.5,Mixed,Visual,74,84,1,Sports,0,2,1,Postgraduate,0,7.66,5.44,6.32,83,3,1.8,0,Average
+238,45.4,89.6,36,96,1,2.7,Solo,Visual,89,99,1,None,1,5,2,High School,1,8.37,5.81,7.6,76,0,4.6,4,Average
+239,60.3,92.1,54,81,1,1.2,Mixed,Reading,74,87,0,Arts,0,2,1,Graduate,0,9.77,6.67,6.93,61,0,4.6,0,Average
+240,58.0,60.9,90,97,1,5.0,Group,Reading,67,95,1,Arts,0,4,5,Graduate,0,4.31,6.41,8.04,67,0,2.9,3,Average
+241,51.2,80.0,77,60,0,2.5,Group,Visual,79,62,1,None,0,2,4,Graduate,0,9.77,7.21,7.71,93,3,1.5,3,Good
+242,65.7,38.2,57,82,0,1.8,Mixed,Auditory,62,71,1,Volunteering,1,3,2,High School,0,6.98,5.07,4.65,89,0,2.6,2,Not Good
+243,60.4,87.2,82,41,1,1.9,Mixed,Auditory,64,82,1,None,1,5,1,Graduate,0,5.93,7.36,9.15,83,0,2.7,1,Average
+244,95.8,66.7,68,75,1,1.5,Mixed,Auditory,90,60,0,Volunteering,0,2,2,High School,0,9.82,8.37,9.54,76,1,3.4,4,Good
+245,80.0,72.4,46,36,0,2.7,Solo,Kinesthetic,69,80,1,Volunteering,1,2,4,High School,0,6.63,5.66,7.35,89,2,4.6,0,Average
+246,59.7,79.2,95,78,0,5.3,Group,Auditory,65,76,1,Sports,0,2,5,Graduate,0,5.42,6.9,6.57,87,0,2.8,3,Average
+247,54.4,46.7,86,76,0,3.9,Mixed,Reading,93,99,1,None,1,1,5,Graduate,0,6.53,4.24,6.69,77,1,2.4,4,Not Good
+248,93.1,48.9,86,83,1,5.9,Solo,Reading,72,99,0,Sports,1,5,3,Graduate,0,5.69,5.91,9.55,67,1,4.7,4,Average
+249,49.9,38.8,63,37,1,3.8,Group,Reading,71,61,0,Volunteering,1,5,4,Graduate,0,6.36,9.11,6.08,82,3,4.0,0,Average
+250,64.4,87.8,39,86,0,1.7,Group,Reading,66,99,0,Arts,0,4,5,Graduate,0,5.35,7.7,4.24,88,0,2.9,4,Not Good
+251,66.6,85.8,57,50,0,5.9,Mixed,Visual,84,71,0,Volunteering,1,4,1,High School,1,6.33,8.98,4.8,93,0,2.8,4,Average
+252,80.6,56.8,76,72,0,2.7,Solo,Kinesthetic,96,69,0,Arts,1,5,5,Postgraduate,0,5.22,9.73,9.51,75,3,2.4,3,Good
+253,54.3,72.7,43,95,1,4.7,Group,Reading,93,73,0,None,0,2,4,Graduate,1,5.38,5.74,6.22,91,1,1.5,2,Not Good
+254,43.4,70.0,76,73,0,2.7,Mixed,Auditory,63,68,0,Arts,0,3,3,Graduate,1,6.8,6.16,7.22,72,2,2.8,3,Average
+255,68.5,80.4,83,89,0,4.6,Mixed,Auditory,82,79,0,Volunteering,0,5,1,Graduate,1,7.9,7.69,5.05,95,3,3.9,2,Average
+256,68.3,48.6,78,68,1,1.0,Group,Visual,72,98,1,Sports,0,3,4,Postgraduate,0,4.75,9.77,7.82,89,0,1.3,0,Average
+257,86.5,43.1,86,95,1,3.3,Mixed,Kinesthetic,92,72,1,None,1,3,1,Graduate,0,7.06,9.45,8.71,86,0,4.8,3,Good
+258,67.2,51.7,62,39,0,3.9,Group,Visual,88,78,0,None,1,2,5,Postgraduate,0,4.93,6.64,7.06,79,3,1.5,1,Average
+259,58.2,93.0,53,41,0,4.1,Mixed,Kinesthetic,68,76,0,Sports,0,4,3,High School,0,9.2,9.74,5.42,98,3,1.4,3,Good
+260,98.6,86.2,63,85,0,2.5,Group,Visual,78,71,0,Sports,1,3,1,High School,0,6.59,8.69,6.91,94,1,4.2,4,Average
+261,88.6,49.3,83,35,0,1.7,Group,Reading,81,77,1,Volunteering,1,2,3,Postgraduate,1,5.46,6.7,9.55,93,2,2.6,3,Average
+262,67.5,58.7,85,69,0,3.6,Group,Kinesthetic,98,79,0,Volunteering,0,3,4,High School,0,4.3,6.32,6.12,90,3,4.8,3,Not Good
+263,51.5,53.6,46,52,1,3.6,Group,Visual,63,66,1,Arts,1,3,2,Graduate,0,9.92,5.67,6.37,74,1,4.3,4,Average
+264,67.6,48.1,85,82,0,2.3,Group,Kinesthetic,69,98,1,Volunteering,0,5,2,High School,0,6.2,6.35,9.86,94,2,2.8,4,Average
+265,44.1,54.0,90,74,0,4.7,Solo,Reading,65,76,0,None,0,1,2,High School,0,5.36,5.06,9.2,81,2,1.5,2,Average
+266,57.6,61.8,73,47,0,4.3,Solo,Kinesthetic,69,92,0,Sports,1,5,3,Postgraduate,0,7.11,8.33,5.04,69,1,3.9,2,Average
+267,43.1,49.0,75,97,0,2.6,Group,Kinesthetic,84,71,0,None,0,5,3,Graduate,0,8.85,8.61,4.68,88,3,3.3,3,Average
+268,55.9,83.4,39,52,0,1.4,Group,Reading,90,69,0,Arts,1,2,1,Graduate,0,6.93,7.15,8.0,75,2,4.6,3,Average
+269,92.1,84.7,58,95,0,1.6,Mixed,Auditory,66,97,0,Volunteering,1,2,3,High School,1,9.15,5.02,6.62,62,3,2.1,3,Average
+270,79.3,94.9,61,55,0,2.7,Group,Reading,95,70,1,Arts,1,3,3,Postgraduate,0,8.61,8.51,7.53,61,1,1.3,4,Good
+271,67.6,38.3,36,68,0,5.6,Group,Auditory,71,95,0,None,0,1,3,Graduate,0,8.9,8.5,8.2,85,3,2.4,2,Good
+272,46.2,35.7,37,86,1,5.9,Mixed,Reading,80,61,1,Sports,1,3,1,Postgraduate,0,6.68,8.03,6.0,67,2,3.5,4,Average
+273,85.6,37.9,92,80,0,2.7,Solo,Reading,89,85,1,Sports,0,4,5,Graduate,0,9.69,6.38,4.75,97,3,1.4,4,Average
+274,59.6,56.0,63,85,0,5.2,Mixed,Visual,64,66,1,None,0,2,1,High School,1,9.78,7.77,5.1,62,1,3.3,4,Average
+275,86.9,77.2,36,56,1,5.3,Solo,Visual,76,60,0,None,1,3,3,Graduate,0,4.29,6.9,4.09,69,2,4.9,3,Not Good
+276,94.7,43.8,88,50,0,2.8,Solo,Reading,85,63,0,Arts,0,3,2,Graduate,0,6.13,7.39,5.51,62,3,2.1,1,Average
+277,51.8,91.8,36,66,1,3.3,Solo,Visual,94,89,0,None,1,2,3,High School,0,6.54,6.71,8.4,96,0,3.2,3,Average
+278,95.4,84.3,84,75,0,2.1,Mixed,Reading,98,88,0,None,0,4,3,High School,0,6.05,5.1,4.04,73,2,3.7,1,Not Good
+279,81.2,49.6,36,75,1,5.6,Solo,Reading,73,71,0,None,0,2,3,High School,1,5.44,7.74,6.84,77,0,2.1,4,Average
+280,78.0,78.3,49,40,1,1.1,Solo,Kinesthetic,77,98,0,Sports,1,2,2,Graduate,0,9.46,5.62,8.92,84,0,1.8,3,Good
+281,64.8,75.7,86,71,0,4.9,Solo,Auditory,64,90,0,Sports,0,3,2,High School,1,6.27,4.53,6.05,62,1,3.1,2,Not Good
+282,50.0,94.2,89,43,0,1.7,Mixed,Kinesthetic,61,91,0,Sports,0,2,4,Graduate,0,5.04,6.17,7.82,66,2,2.4,2,Average
+283,99.8,63.5,58,87,0,3.0,Solo,Auditory,71,95,1,Arts,1,2,5,Graduate,0,5.66,6.7,6.07,89,3,4.5,0,Average
+284,51.5,78.0,53,39,0,1.1,Mixed,Reading,86,99,1,Arts,0,2,2,High School,0,8.31,6.66,8.39,75,2,2.5,3,Average
+285,61.1,61.4,83,60,0,4.7,Solo,Reading,82,92,0,Sports,0,2,5,Postgraduate,0,6.65,4.78,5.75,65,1,4.6,1,Not Good
+286,83.1,70.2,51,96,0,5.6,Group,Auditory,65,85,0,Arts,1,3,2,High School,0,6.68,8.67,5.32,74,3,2.6,4,Average
+287,96.0,91.0,69,37,0,5.9,Group,Reading,78,62,0,None,0,5,3,Postgraduate,0,6.88,9.84,4.03,88,1,1.4,0,Average
+288,59.9,49.9,82,58,0,4.7,Mixed,Auditory,88,94,1,Arts,0,2,1,Postgraduate,0,4.62,8.21,5.8,83,2,5.0,2,Average
+289,64.5,93.8,59,82,0,4.1,Group,Auditory,68,97,1,None,0,3,2,Postgraduate,0,8.63,6.9,9.39,99,1,4.7,3,Good
+290,88.8,48.0,80,64,0,5.7,Solo,Reading,86,61,0,None,0,5,3,Postgraduate,0,5.55,8.21,4.09,61,2,3.4,1,Not Good
+291,40.8,67.5,54,95,0,4.4,Group,Visual,91,85,0,None,1,1,3,High School,1,7.68,4.94,9.77,71,1,1.3,4,Average
+292,41.9,42.2,87,65,0,4.7,Solo,Kinesthetic,83,79,0,Sports,0,5,5,Graduate,1,4.6,4.54,5.58,68,3,3.9,1,Not Good
+293,77.4,56.4,49,70,0,2.4,Solo,Auditory,83,77,0,Arts,0,5,4,Postgraduate,0,4.97,8.2,8.55,73,2,3.0,0,Average
+294,51.5,63.5,92,48,0,3.9,Solo,Reading,72,77,0,Sports,0,2,1,High School,1,8.36,9.51,9.45,96,1,2.3,3,Good
+295,98.7,81.4,45,50,0,3.3,Mixed,Visual,75,66,0,Sports,0,4,3,High School,0,5.97,5.67,5.11,65,3,2.1,0,Not Good
+296,52.4,77.6,95,72,0,4.9,Solo,Reading,60,96,0,Sports,1,5,2,High School,0,9.25,6.12,8.34,83,2,4.6,1,Average
+297,56.1,66.2,70,92,0,5.7,Group,Reading,84,91,0,Sports,0,2,1,Postgraduate,1,5.59,8.03,4.31,87,2,2.5,2,Not Good
+298,88.1,82.2,53,46,0,4.3,Solo,Reading,88,85,0,Volunteering,0,4,2,Graduate,0,8.81,6.8,6.17,67,0,1.5,1,Average
+299,50.1,65.7,43,45,0,3.7,Solo,Reading,73,87,1,None,1,3,3,Graduate,0,9.54,4.1,8.38,64,3,1.2,0,Average
+300,52.3,69.0,55,92,0,3.3,Solo,Kinesthetic,76,90,0,Sports,0,4,4,High School,0,8.34,7.05,6.99,89,3,2.6,0,Average
+301,40.9,56.6,40,61,0,4.5,Group,Auditory,99,74,1,Sports,0,2,4,High School,1,7.67,4.01,9.36,70,1,2.1,3,Average
+302,96.9,50.5,58,42,0,1.6,Mixed,Kinesthetic,64,92,1,Sports,1,2,1,High School,0,8.24,5.14,6.2,87,2,3.5,1,Average
+303,97.4,39.2,59,41,0,1.0,Mixed,Reading,79,78,1,Arts,0,5,2,Graduate,0,7.0,6.49,5.02,84,3,1.4,0,Average
+304,67.8,45.4,61,97,0,1.2,Solo,Reading,73,92,1,Arts,1,3,5,High School,0,9.42,4.31,9.18,99,3,3.6,1,Average
+305,95.7,38.9,89,94,0,5.2,Mixed,Kinesthetic,78,91,1,Arts,0,5,1,Graduate,0,4.51,5.82,8.47,66,2,2.3,3,Average
+306,81.9,52.6,96,89,1,2.9,Group,Reading,67,98,0,None,0,5,3,Graduate,0,8.85,6.17,7.15,75,0,2.1,3,Average
+307,51.7,68.7,92,44,0,4.5,Solo,Visual,79,67,0,None,0,3,4,Graduate,0,4.23,8.3,7.23,98,0,2.0,0,Average
+308,51.4,62.6,64,46,0,4.2,Mixed,Auditory,82,63,1,Arts,0,3,1,Graduate,0,4.04,7.11,4.23,98,1,2.8,1,Not Good
+309,72.4,62.5,89,70,1,5.5,Group,Visual,90,88,0,Volunteering,0,1,4,Graduate,0,6.03,9.61,9.47,86,0,1.2,4,Good
+310,74.9,91.9,88,39,0,4.5,Mixed,Reading,98,66,1,Arts,1,5,2,Graduate,0,6.48,8.5,8.16,71,3,3.2,2,Average
+311,59.8,61.4,98,54,1,4.3,Group,Auditory,88,95,0,Volunteering,0,1,1,Postgraduate,0,6.31,9.49,8.57,91,1,5.0,2,Good
+312,48.2,55.2,88,96,1,2.9,Solo,Kinesthetic,85,81,1,Sports,1,4,5,Graduate,0,7.32,4.69,4.76,75,1,2.1,2,Not Good
+313,79.4,46.9,71,84,1,4.1,Solo,Reading,93,66,0,Sports,0,1,5,Postgraduate,0,8.11,9.89,8.15,89,0,4.8,2,Good
+314,88.7,38.3,93,96,1,4.8,Mixed,Kinesthetic,69,70,1,Arts,1,2,4,High School,0,7.24,8.5,8.37,62,1,2.4,2,Good
+315,98.2,41.7,52,86,0,3.1,Solo,Visual,71,69,1,Arts,0,4,5,High School,1,6.47,4.87,7.15,88,1,3.4,1,Average
+316,90.5,37.2,69,97,0,3.8,Solo,Reading,78,96,0,Volunteering,1,2,3,Postgraduate,1,7.78,8.48,5.26,70,1,1.9,2,Average
+317,68.3,92.6,73,71,1,1.1,Mixed,Reading,97,67,1,Sports,0,3,5,Graduate,0,5.5,8.02,9.33,98,1,3.4,1,Average
+318,98.2,68.5,95,64,0,1.4,Mixed,Visual,65,77,1,Arts,0,5,5,High School,0,8.57,8.28,6.2,88,3,4.8,4,Average
+319,75.6,71.5,36,39,0,5.1,Solo,Visual,96,84,1,Arts,0,4,1,High School,1,8.95,4.36,6.26,67,3,3.0,2,Average
+320,96.5,79.4,56,80,0,4.6,Solo,Auditory,72,86,0,Sports,0,3,1,Graduate,0,9.45,4.17,8.61,76,3,3.1,0,Average
+321,96.7,47.7,91,77,0,1.4,Solo,Visual,96,65,1,Sports,1,1,5,Postgraduate,0,8.35,4.68,6.44,94,1,4.1,3,Average
+322,57.2,39.3,46,76,1,3.2,Mixed,Visual,72,77,1,Volunteering,0,5,1,Graduate,0,8.54,8.76,6.97,62,3,2.1,4,Good
+323,93.9,88.8,81,91,1,1.4,Group,Auditory,83,61,0,Sports,1,2,5,Postgraduate,0,6.15,8.85,6.33,82,0,4.0,3,Average
+324,84.7,44.1,64,58,1,2.2,Mixed,Reading,72,75,1,Volunteering,1,2,1,High School,0,4.11,7.1,7.18,98,1,2.4,2,Average
+325,52.5,82.9,48,81,0,2.4,Group,Kinesthetic,85,60,0,Sports,0,1,4,Postgraduate,0,6.76,8.91,9.58,78,3,1.9,4,Good
+326,45.9,48.9,56,52,1,5.3,Solo,Auditory,78,66,0,Volunteering,1,5,3,Graduate,0,7.58,4.54,6.02,92,1,4.2,3,Average
+327,40.2,35.7,58,38,0,4.5,Solo,Auditory,83,61,0,Sports,0,4,3,High School,1,8.42,9.29,6.6,74,2,2.6,0,Good
+328,46.9,66.1,90,57,1,1.9,Group,Reading,93,68,0,None,1,4,5,Postgraduate,1,7.26,7.36,7.12,74,3,2.3,4,Average
+329,92.2,73.2,85,76,0,2.6,Group,Auditory,98,77,0,None,1,4,4,High School,0,8.67,9.65,9.17,92,1,2.6,1,Good
+330,58.2,58.9,35,39,0,2.4,Mixed,Reading,76,93,0,Arts,1,3,5,Postgraduate,0,8.91,9.75,8.95,72,2,1.7,0,Good
+331,80.0,83.5,36,71,0,3.7,Group,Visual,62,68,1,Volunteering,1,3,2,Graduate,0,5.4,4.36,7.11,75,3,4.8,1,Not Good
+332,45.3,65.7,42,80,0,3.0,Group,Reading,70,79,0,Sports,0,2,2,Graduate,0,5.99,9.02,5.86,65,1,4.4,0,Average
+333,81.4,71.1,97,64,1,4.1,Mixed,Auditory,81,84,1,Sports,0,4,5,High School,0,7.47,9.75,7.02,72,2,3.5,1,Good
+334,91.4,61.1,88,74,1,1.1,Solo,Visual,69,63,0,Sports,0,4,5,High School,0,7.06,6.76,9.4,77,3,2.5,1,Average
+335,69.0,41.7,76,92,0,3.1,Mixed,Visual,78,67,0,Arts,1,4,1,High School,1,6.26,9.42,4.42,91,2,4.7,4,Average
+336,57.5,45.4,42,38,1,4.1,Mixed,Auditory,86,80,1,Volunteering,1,5,5,High School,0,5.69,8.33,9.17,72,2,2.7,2,Average
+337,43.2,61.7,92,62,1,3.5,Group,Visual,68,92,0,Volunteering,0,1,1,Graduate,0,8.27,9.84,8.74,76,3,4.6,3,Good
+338,40.4,84.2,50,93,0,4.5,Mixed,Visual,92,89,1,Arts,1,4,1,High School,0,6.82,5.19,7.61,97,1,2.7,3,Average
+339,66.2,79.9,86,88,0,4.4,Group,Kinesthetic,92,67,0,None,1,5,5,High School,1,6.21,9.13,8.81,60,1,3.8,3,Good
+340,74.8,75.0,44,83,1,2.2,Solo,Reading,70,64,1,None,0,3,5,Postgraduate,0,5.25,5.5,8.84,98,1,1.8,2,Average
+341,91.9,49.5,62,61,0,4.7,Group,Kinesthetic,60,77,1,None,1,5,3,Graduate,0,4.02,4.06,8.85,95,3,3.5,4,Not Good
+342,66.7,85.2,52,97,0,4.9,Solo,Reading,68,84,1,Volunteering,0,1,1,High School,0,8.98,5.82,6.81,68,1,2.9,0,Average
+343,67.3,68.4,92,50,0,2.4,Group,Visual,83,74,0,Sports,0,2,3,Postgraduate,0,6.59,7.74,4.45,88,0,1.2,0,Average
+344,73.4,79.3,98,66,0,3.3,Group,Kinesthetic,78,83,0,Arts,1,2,1,Postgraduate,0,9.54,8.14,4.76,69,2,2.3,4,Average
+345,42.6,49.2,87,78,1,2.0,Mixed,Reading,66,69,0,None,0,5,3,Graduate,0,4.95,8.73,5.87,68,2,3.8,3,Average
+346,46.8,81.4,74,78,1,3.9,Group,Auditory,92,75,0,None,0,3,2,Postgraduate,1,7.32,7.16,8.58,81,1,4.7,4,Average
+347,77.6,75.1,47,92,1,1.7,Mixed,Kinesthetic,93,91,1,Arts,1,5,5,High School,0,7.93,5.44,5.68,93,3,3.3,2,Average
+348,71.1,62.7,72,60,1,3.5,Mixed,Visual,91,65,1,Sports,0,5,3,Postgraduate,0,8.5,4.58,6.86,87,1,4.1,3,Average
+349,63.9,54.5,78,95,0,3.4,Solo,Reading,62,61,0,None,0,3,3,High School,0,8.55,8.86,9.32,63,0,1.9,1,Good
+350,84.1,73.2,44,83,1,1.9,Mixed,Reading,66,78,0,Sports,1,2,1,Postgraduate,0,7.05,4.88,7.67,70,0,3.9,3,Average
+351,40.7,67.9,47,45,0,5.8,Solo,Visual,63,77,0,None,0,4,2,High School,1,6.21,4.86,8.18,73,1,4.0,1,Average
+352,89.2,89.3,58,61,1,1.3,Mixed,Reading,74,85,0,Volunteering,1,1,3,Graduate,1,7.77,6.37,5.52,85,3,4.7,0,Average
+353,55.4,46.4,90,65,0,2.0,Group,Kinesthetic,73,64,0,Volunteering,1,2,2,Graduate,0,6.59,8.58,9.96,92,1,1.2,4,Good
+354,48.4,72.4,75,64,1,5.6,Solo,Reading,60,71,1,Volunteering,1,1,1,High School,0,9.87,4.95,6.92,88,1,3.6,0,Average
+355,65.8,51.5,51,83,0,5.6,Mixed,Reading,63,76,0,Sports,0,1,3,Postgraduate,0,8.01,9.84,7.64,93,0,2.3,0,Good
+356,54.8,66.9,95,49,0,2.0,Group,Visual,90,86,0,Arts,0,1,3,High School,0,4.48,9.96,8.7,63,2,1.8,0,Average
+357,72.0,91.6,70,88,0,3.4,Solo,Reading,89,94,0,Sports,1,3,3,High School,0,4.08,4.97,9.91,95,2,4.9,4,Average
+358,83.0,77.4,97,62,0,3.7,Solo,Auditory,76,99,0,None,1,3,5,Postgraduate,0,7.8,4.6,7.63,76,2,1.7,3,Average
+359,55.1,76.0,88,95,0,4.4,Mixed,Reading,92,73,1,None,0,5,4,High School,0,4.97,9.37,8.12,68,1,3.5,3,Average
+360,74.3,59.3,93,70,0,2.7,Solo,Visual,98,85,0,None,0,5,3,High School,0,9.18,5.79,5.16,91,1,3.5,4,Average
+361,51.3,74.2,85,87,0,1.5,Mixed,Auditory,82,77,0,Volunteering,0,3,4,High School,1,5.26,5.37,5.68,88,1,4.1,0,Not Good
+362,48.1,73.7,56,82,1,3.8,Mixed,Kinesthetic,80,96,0,None,1,2,3,Graduate,0,9.23,9.99,7.65,60,3,1.9,2,Good
+363,99.8,85.7,91,48,1,3.8,Group,Visual,71,97,1,None,1,1,1,High School,1,4.84,7.27,4.05,93,0,2.8,4,Not Good
+364,64.2,75.7,95,94,1,5.3,Solo,Visual,82,89,0,Volunteering,0,1,5,High School,0,8.01,7.26,9.0,92,0,1.5,1,Good
+365,53.5,75.9,73,88,1,3.8,Solo,Visual,85,82,0,Arts,0,4,1,Graduate,0,5.95,8.33,7.95,75,3,4.7,4,Average
+366,76.8,70.1,58,47,0,2.4,Solo,Reading,84,81,0,Volunteering,0,5,4,Graduate,1,5.75,9.25,8.63,79,1,4.0,4,Average
+367,42.8,81.8,37,85,0,3.5,Solo,Reading,96,92,0,Volunteering,1,2,3,High School,0,8.32,7.0,9.36,83,3,1.2,3,Good
+368,42.3,57.0,90,48,1,2.5,Group,Kinesthetic,86,87,1,Volunteering,1,1,3,High School,0,8.06,8.23,6.94,67,3,3.9,2,Average
+369,76.5,61.7,75,89,0,5.3,Solo,Auditory,60,78,1,Volunteering,0,1,2,High School,0,5.06,8.72,5.88,77,0,3.7,0,Average
+370,52.7,53.8,97,66,0,2.2,Solo,Kinesthetic,71,76,1,Arts,0,5,4,High School,0,6.08,8.09,6.24,68,0,2.6,4,Average
+371,85.0,64.3,51,90,0,5.9,Group,Reading,82,98,0,None,0,3,2,High School,1,4.28,6.13,5.28,81,3,3.6,3,Not Good
+372,69.0,76.1,84,77,1,4.8,Solo,Kinesthetic,63,72,1,None,1,5,5,High School,0,8.03,4.19,8.36,69,3,2.7,4,Average
+373,86.2,68.7,77,70,0,4.7,Solo,Visual,72,60,0,Arts,0,4,3,Postgraduate,0,4.56,8.61,8.48,97,3,4.4,1,Average
+374,84.3,43.5,37,70,0,1.6,Mixed,Reading,85,75,0,Volunteering,1,5,5,Graduate,0,6.13,4.29,4.19,63,1,3.1,0,Not Good
+375,42.0,57.0,94,80,0,1.4,Solo,Reading,86,65,1,None,1,3,2,Postgraduate,0,4.66,7.4,9.57,97,3,2.7,0,Average
+376,96.0,67.5,42,43,1,1.4,Group,Visual,80,85,0,Volunteering,1,4,5,Graduate,1,9.94,6.26,6.67,61,1,3.6,0,Average
+377,66.7,83.9,72,67,0,4.3,Solo,Visual,77,65,0,Volunteering,1,5,3,High School,0,7.75,5.7,6.27,72,2,2.4,4,Average
+378,91.5,52.9,39,69,0,2.7,Mixed,Auditory,94,72,1,Sports,0,1,4,Postgraduate,1,6.94,6.05,9.55,80,0,2.6,4,Average
+379,53.2,60.7,37,86,0,1.7,Group,Reading,82,92,0,Volunteering,0,2,5,Postgraduate,0,4.64,8.32,9.13,86,2,2.0,0,Average
+380,76.9,63.9,90,65,0,2.3,Solo,Reading,91,77,0,Arts,1,5,3,Graduate,1,5.11,6.62,6.35,91,3,2.7,3,Average
+381,42.1,66.7,81,35,0,5.5,Solo,Auditory,73,94,0,Arts,0,5,3,Graduate,0,4.71,4.08,5.82,66,2,4.3,2,Not Good
+382,69.7,60.3,89,90,0,2.6,Group,Auditory,77,63,0,Arts,1,3,1,Postgraduate,0,9.23,4.09,6.61,81,3,2.6,1,Average
+383,67.4,68.0,65,69,0,3.0,Mixed,Visual,86,94,0,Sports,0,5,1,Postgraduate,0,6.45,5.95,8.69,82,0,2.9,0,Average
+384,99.5,42.8,59,81,1,4.3,Mixed,Reading,74,60,1,None,0,5,2,Postgraduate,0,7.86,4.65,6.62,90,3,1.2,2,Average
+385,58.8,73.0,61,74,0,5.1,Solo,Reading,74,65,0,Arts,1,5,5,Graduate,1,4.29,7.38,7.89,76,0,4.6,4,Average
+386,77.5,78.7,89,53,0,5.8,Mixed,Auditory,74,97,1,Arts,1,4,3,Graduate,0,7.52,5.57,9.89,88,3,1.1,4,Average
+387,81.3,71.2,60,71,1,4.2,Group,Reading,66,68,1,Sports,0,5,5,Postgraduate,0,5.32,6.63,8.69,88,2,2.2,4,Average
+388,48.2,76.2,55,45,0,1.6,Group,Reading,75,63,0,Sports,0,2,2,Postgraduate,0,9.54,7.41,6.18,79,0,1.4,2,Average
+389,43.4,75.4,47,69,0,3.0,Group,Auditory,90,69,1,Sports,0,3,4,Graduate,0,5.38,6.44,8.96,67,2,4.2,3,Average
+390,78.5,49.7,97,55,0,2.4,Mixed,Auditory,69,86,1,None,0,2,2,Graduate,0,6.71,4.6,8.25,94,0,4.5,2,Average
+391,66.3,41.8,91,66,1,4.3,Solo,Reading,65,67,0,None,0,4,4,Graduate,0,9.63,4.92,4.06,66,0,4.3,3,Average
+392,74.2,61.1,68,67,1,4.4,Mixed,Visual,81,93,1,Sports,0,5,1,Postgraduate,0,8.67,8.43,9.36,95,3,3.1,1,Good
+393,53.8,49.4,40,60,0,5.5,Group,Visual,60,85,1,Sports,0,3,4,Postgraduate,1,6.57,5.18,7.76,73,1,2.2,2,Average
+394,41.1,64.0,53,73,0,5.1,Group,Visual,77,82,1,Arts,1,4,1,Postgraduate,0,4.76,9.6,9.2,93,0,3.3,4,Average
+395,68.5,82.4,39,93,0,5.8,Group,Reading,69,75,0,Sports,0,2,1,High School,0,5.82,9.53,5.93,84,2,3.1,4,Average
+396,51.8,88.7,66,85,0,4.6,Group,Reading,75,78,0,Arts,1,1,3,Graduate,0,5.17,8.9,8.82,99,2,2.2,3,Average
+397,94.6,93.9,85,59,1,2.5,Mixed,Reading,88,69,0,None,1,1,5,High School,0,6.19,9.24,6.37,96,1,1.8,0,Average
+398,61.0,80.5,63,66,0,1.3,Group,Reading,94,92,1,None,0,2,1,High School,0,5.83,4.95,5.04,75,0,4.6,3,Not Good
+399,62.8,65.4,46,55,1,5.4,Group,Auditory,66,94,0,Sports,1,2,3,Postgraduate,0,6.54,4.03,5.88,66,0,2.3,4,Not Good
+400,82.2,82.6,38,52,0,2.6,Group,Visual,74,64,0,None,1,3,4,Postgraduate,1,9.87,4.06,7.74,92,3,4.4,0,Average
+401,98.9,71.8,90,65,0,5.5,Mixed,Kinesthetic,78,69,1,Volunteering,0,1,4,Graduate,1,6.97,4.8,9.31,95,3,1.7,0,Average
+402,63.9,36.6,79,43,0,4.6,Group,Auditory,70,71,1,Sports,0,5,2,Graduate,0,4.56,7.13,9.02,94,0,3.6,1,Average
+403,52.5,36.2,43,96,1,2.1,Solo,Kinesthetic,81,97,1,Volunteering,0,3,2,Postgraduate,0,4.18,7.63,6.37,82,2,4.5,2,Average
+404,50.3,38.6,86,58,0,3.2,Group,Visual,78,75,1,None,1,5,5,High School,0,6.39,5.71,5.02,76,1,3.4,1,Not Good
+405,89.3,68.3,67,65,0,4.7,Mixed,Auditory,73,75,0,None,0,1,4,Graduate,0,9.35,6.82,7.17,83,0,2.4,4,Average
+406,71.0,80.8,72,75,1,4.1,Group,Reading,60,88,0,Sports,1,2,3,Graduate,0,5.02,5.36,7.45,67,2,3.1,4,Not Good
+407,75.2,39.0,83,65,0,5.9,Solo,Visual,66,65,1,Arts,1,1,3,Graduate,0,5.65,8.84,6.2,85,1,2.8,3,Average
+408,91.0,60.4,52,72,0,2.7,Mixed,Reading,82,86,0,Volunteering,1,3,1,Postgraduate,0,6.84,7.78,9.45,65,2,4.1,2,Good
+409,81.9,35.1,35,88,0,1.3,Group,Visual,62,95,0,Arts,1,3,5,High School,0,6.5,5.08,8.13,73,3,2.2,0,Average
+410,87.1,75.4,83,89,1,5.6,Mixed,Visual,94,83,1,Volunteering,1,5,1,Graduate,1,9.97,5.52,6.62,86,2,2.2,0,Average
+411,41.4,38.3,54,79,1,4.6,Group,Auditory,81,92,1,Arts,1,5,5,High School,0,5.9,4.21,4.82,67,0,1.1,1,Not Good
+412,50.9,83.6,74,61,0,2.7,Solo,Visual,66,60,0,Volunteering,1,2,5,Postgraduate,0,4.0,7.58,9.5,76,0,4.5,2,Average
+413,82.8,76.3,82,91,0,2.3,Mixed,Visual,72,71,0,None,1,2,2,High School,0,6.35,7.73,9.81,74,0,2.6,2,Average
+414,87.2,67.5,81,95,0,5.8,Group,Kinesthetic,92,83,1,Sports,1,3,4,Graduate,1,8.82,9.07,4.69,74,0,1.4,0,Average
+415,64.8,59.3,49,97,0,2.3,Solo,Visual,68,66,0,Volunteering,1,3,1,High School,0,5.72,5.61,9.17,80,1,3.7,1,Average
+416,79.6,52.6,62,60,0,2.6,Mixed,Visual,76,82,1,None,1,3,3,Postgraduate,0,7.61,7.93,4.05,70,0,1.3,0,Average
+417,71.2,74.3,60,87,1,5.3,Group,Kinesthetic,84,81,1,None,0,2,4,High School,0,9.47,9.96,4.64,73,3,4.9,1,Good
+418,45.9,35.9,35,94,0,3.5,Mixed,Auditory,93,91,0,Volunteering,0,3,2,Graduate,1,7.26,9.87,8.86,62,2,2.8,2,Good
+419,76.3,84.6,38,47,0,3.5,Solo,Kinesthetic,66,60,1,Volunteering,1,4,3,Graduate,0,7.5,6.23,6.69,85,3,4.8,1,Average
+420,66.0,59.7,93,87,0,3.8,Group,Reading,97,88,0,Arts,0,3,4,Graduate,0,6.99,5.29,4.36,75,2,1.6,3,Not Good
+421,48.9,58.9,54,47,1,1.9,Mixed,Visual,87,78,0,Sports,0,2,1,Graduate,0,5.58,4.07,7.11,76,1,4.9,3,Not Good
+422,94.8,59.9,44,91,0,4.7,Solo,Reading,74,81,0,Volunteering,1,4,4,Graduate,0,6.56,9.33,9.07,92,3,3.8,4,Good
+423,94.0,84.4,55,36,0,2.9,Mixed,Visual,83,83,1,Arts,0,2,4,High School,1,6.35,4.48,4.54,80,2,3.4,1,Not Good
+424,84.0,36.8,86,70,0,1.6,Mixed,Reading,61,96,0,None,0,3,2,Postgraduate,0,5.97,5.26,6.95,89,0,4.2,0,Average
+425,54.9,70.4,55,35,0,2.3,Solo,Visual,80,90,0,Sports,0,5,2,High School,0,8.64,6.03,4.86,85,0,3.6,2,Average
+426,67.1,36.0,69,87,0,2.7,Solo,Kinesthetic,97,91,0,Volunteering,0,2,4,Postgraduate,0,4.95,8.59,6.96,65,3,1.6,3,Average
+427,64.9,81.1,74,68,0,2.0,Mixed,Reading,73,73,1,None,1,5,4,Postgraduate,0,6.05,4.5,9.96,83,3,3.8,1,Average
+428,65.0,58.1,95,87,0,3.1,Mixed,Auditory,77,98,0,None,1,5,1,High School,0,9.12,5.45,9.26,95,1,1.7,1,Average
+429,79.4,61.3,55,44,1,3.4,Mixed,Visual,68,83,0,Sports,1,5,3,Postgraduate,0,7.73,7.03,8.9,99,1,3.5,2,Average
+430,81.7,60.1,37,62,0,2.8,Mixed,Reading,72,71,1,None,1,2,3,Postgraduate,0,6.0,6.24,5.29,84,0,4.7,3,Not Good
+431,81.4,78.5,49,38,0,2.4,Group,Reading,90,91,0,Volunteering,0,1,1,Postgraduate,0,5.95,4.95,6.03,63,3,2.5,2,Not Good
+432,92.3,76.2,46,75,0,3.1,Mixed,Kinesthetic,73,65,0,Volunteering,1,1,1,High School,1,6.66,7.43,7.16,90,2,3.5,0,Average
+433,49.5,70.7,48,40,1,2.8,Mixed,Kinesthetic,72,95,1,Sports,1,2,4,High School,0,6.2,8.53,9.79,94,1,4.7,4,Good
+434,91.8,81.9,47,62,0,2.4,Group,Visual,82,83,1,Sports,0,4,2,Graduate,0,5.29,6.05,8.71,74,2,3.6,2,Average
+435,40.7,68.4,43,72,0,3.7,Solo,Reading,60,89,0,None,1,4,4,Graduate,0,6.24,5.57,8.56,75,1,3.2,3,Average
+436,81.8,57.6,78,84,0,3.3,Solo,Reading,63,82,1,Arts,1,5,5,High School,0,7.38,4.28,4.25,71,0,3.8,1,Not Good
+437,73.6,66.9,54,93,0,4.8,Group,Visual,78,92,1,Sports,0,3,1,Graduate,0,7.95,5.64,9.23,82,3,2.2,1,Average
+438,92.4,65.5,72,96,1,3.1,Group,Kinesthetic,85,85,0,None,0,2,5,Graduate,0,9.08,8.41,5.27,91,1,2.3,1,Average
+439,55.4,62.4,88,60,0,3.2,Group,Auditory,67,69,0,Arts,0,1,5,Graduate,1,8.27,5.77,7.49,74,0,4.2,3,Average
+440,84.2,45.7,47,81,0,5.3,Solo,Reading,88,96,0,Arts,0,2,4,Postgraduate,0,9.6,8.23,8.48,94,0,2.8,4,Good
+441,48.3,58.9,39,94,0,4.1,Group,Visual,69,83,1,None,1,4,1,Postgraduate,1,7.12,8.63,7.14,90,2,1.5,1,Average
+442,95.8,83.0,94,84,0,3.7,Mixed,Kinesthetic,60,86,0,Sports,0,3,4,Postgraduate,1,6.81,7.94,9.37,60,1,4.8,1,Good
+443,75.1,76.4,89,54,0,3.7,Mixed,Auditory,69,87,0,Sports,0,5,3,Graduate,1,7.2,7.58,4.19,80,3,3.5,0,Average
+444,43.8,85.0,76,68,0,3.5,Solo,Kinesthetic,70,64,0,Volunteering,0,1,2,Graduate,0,6.21,9.76,8.92,76,2,1.7,0,Good
+445,47.9,51.0,39,58,0,1.4,Solo,Kinesthetic,62,96,0,Arts,1,5,3,High School,0,5.0,5.09,8.03,68,1,5.0,4,Average
+446,40.0,92.2,81,38,0,5.7,Solo,Auditory,65,86,1,Sports,1,3,1,Graduate,1,6.66,7.6,6.86,62,0,1.3,1,Average
+447,82.0,90.6,88,44,1,1.3,Mixed,Reading,91,70,0,Volunteering,0,5,4,Graduate,0,6.36,5.75,8.94,78,2,2.6,3,Average
+448,55.4,42.2,37,37,1,2.1,Mixed,Auditory,83,99,0,Arts,0,3,5,Graduate,0,8.19,8.22,6.96,77,2,3.0,4,Average
+449,52.0,53.5,94,57,0,2.5,Mixed,Auditory,85,79,0,Arts,1,4,5,Postgraduate,0,5.98,5.07,8.59,78,2,3.3,4,Average
+450,48.8,52.4,60,41,0,2.9,Solo,Kinesthetic,63,95,1,None,0,5,4,Graduate,1,8.89,9.61,9.05,88,1,3.4,1,Good
+451,77.6,82.7,47,80,0,3.9,Mixed,Auditory,64,65,1,Volunteering,0,1,4,High School,0,9.08,7.03,8.49,91,3,2.0,3,Good
+452,92.8,58.8,71,72,1,3.8,Group,Kinesthetic,83,76,1,None,1,2,3,Graduate,0,9.94,6.77,4.45,75,1,4.4,1,Average
+453,60.3,83.6,81,67,0,4.6,Solo,Visual,64,88,1,None,1,3,4,High School,1,6.83,6.3,5.51,86,3,4.5,0,Average
+454,79.1,86.4,89,35,0,4.5,Solo,Kinesthetic,81,67,1,Sports,1,3,1,Graduate,0,4.3,4.42,8.82,61,1,2.0,1,Not Good
+455,74.9,81.8,74,76,0,5.4,Mixed,Auditory,71,86,1,Volunteering,0,3,3,High School,0,6.26,7.21,9.26,67,3,2.1,1,Average
+456,60.3,39.2,91,61,0,1.6,Mixed,Kinesthetic,78,62,0,Volunteering,0,2,1,Graduate,0,5.78,4.33,7.58,71,0,3.8,3,Not Good
+457,85.2,41.6,63,82,0,4.0,Group,Auditory,65,66,1,Arts,1,1,5,Graduate,0,9.99,7.74,7.35,79,1,2.1,3,Good
+458,51.3,77.1,88,79,0,4.5,Group,Auditory,65,93,1,Volunteering,0,4,5,Postgraduate,0,7.38,4.81,4.91,95,3,3.5,2,Not Good
+459,61.3,39.4,44,59,1,2.5,Solo,Reading,85,80,0,Volunteering,0,4,1,High School,0,8.33,5.69,9.01,75,1,3.9,0,Average
+460,52.4,90.1,39,41,1,2.4,Solo,Auditory,62,83,0,None,1,3,1,Graduate,0,4.6,6.18,7.01,83,2,2.4,3,Not Good
+461,78.8,62.9,73,36,0,3.3,Solo,Reading,77,71,0,Sports,0,2,1,Graduate,0,4.37,9.75,4.85,77,2,4.3,4,Average
+462,51.3,63.2,82,96,0,3.5,Mixed,Reading,86,85,0,Volunteering,1,2,5,High School,1,4.47,9.6,6.18,94,2,2.7,2,Average
+463,76.2,75.2,43,82,0,1.9,Mixed,Reading,87,77,0,None,0,2,2,Postgraduate,0,9.68,8.4,7.82,61,0,4.3,1,Good
+464,56.5,65.4,84,92,1,1.4,Mixed,Kinesthetic,80,89,0,Volunteering,0,2,2,High School,1,6.41,4.61,4.37,90,3,2.5,1,Not Good
+465,83.1,79.6,44,92,1,3.0,Mixed,Visual,80,72,1,Sports,0,3,4,Graduate,0,7.96,6.68,5.35,77,0,3.8,1,Average
+466,43.9,38.3,47,43,0,4.9,Group,Auditory,98,64,1,Volunteering,0,2,2,High School,0,6.43,6.7,9.83,93,0,3.8,1,Average
+467,83.3,46.4,55,81,0,5.6,Solo,Reading,91,94,1,Volunteering,1,3,4,High School,1,9.06,8.13,5.77,82,1,1.8,2,Average
+468,95.1,71.2,74,84,1,2.0,Group,Auditory,82,65,0,Arts,1,1,5,Postgraduate,0,7.19,7.07,9.73,69,2,3.1,1,Average
+469,62.4,89.1,73,40,0,2.3,Mixed,Reading,83,81,0,Sports,0,3,1,Graduate,0,6.73,8.19,6.33,85,1,2.6,1,Average
+470,96.9,39.1,54,84,0,4.6,Solo,Auditory,79,72,1,Sports,0,3,1,Graduate,0,4.66,7.96,5.91,73,0,1.8,2,Average
+471,53.9,79.6,35,67,0,3.5,Mixed,Reading,73,81,1,Volunteering,0,2,5,Graduate,0,9.16,5.55,5.36,72,1,3.0,4,Average
+472,84.0,39.4,59,45,1,1.7,Group,Auditory,64,67,0,Sports,0,1,2,Graduate,0,6.75,5.61,9.05,96,1,2.7,2,Average
+473,41.1,53.7,72,78,0,5.2,Mixed,Auditory,73,72,1,Volunteering,0,4,2,Postgraduate,0,7.45,9.91,5.49,60,0,1.8,0,Average
+474,96.4,35.1,43,46,0,4.7,Mixed,Reading,67,91,1,Volunteering,0,2,1,Postgraduate,0,5.11,8.09,7.2,77,3,2.0,3,Average
+475,63.9,71.9,71,78,0,3.2,Solo,Kinesthetic,79,95,1,Volunteering,1,1,1,High School,0,7.51,4.23,6.93,79,1,4.5,3,Average
+476,78.7,59.9,70,99,1,2.0,Group,Auditory,84,63,0,Arts,1,2,5,Graduate,0,4.68,8.97,5.51,86,3,4.8,3,Average
+477,41.3,65.1,50,53,1,5.4,Group,Kinesthetic,75,60,1,Volunteering,0,4,1,High School,1,4.71,4.09,9.34,81,3,4.2,2,Average
+478,87.2,59.5,97,94,0,5.2,Mixed,Reading,87,66,1,Sports,0,5,2,Postgraduate,0,4.93,9.09,7.13,65,3,4.9,0,Average
+479,78.6,55.1,47,74,1,2.0,Solo,Reading,97,91,0,Volunteering,0,1,4,Graduate,0,8.41,7.45,8.93,97,2,4.9,2,Good
+480,80.4,88.5,73,97,0,2.1,Group,Kinesthetic,77,86,1,Volunteering,1,5,2,High School,0,8.99,4.25,4.14,73,2,2.6,1,Not Good
+481,95.0,58.5,91,88,0,3.9,Mixed,Visual,75,97,1,Sports,0,2,4,High School,0,9.45,5.83,7.26,99,0,3.5,1,Average
+482,54.1,69.7,35,75,1,2.6,Solo,Visual,98,77,0,Arts,0,2,1,High School,0,8.94,8.06,5.19,91,3,4.3,4,Average
+483,57.4,50.2,87,88,1,3.4,Solo,Reading,89,85,0,Sports,0,4,4,Postgraduate,0,8.54,8.0,5.4,77,0,4.1,1,Average
+484,73.0,64.5,62,95,0,2.7,Group,Reading,61,74,0,None,1,2,3,Graduate,1,9.7,7.81,6.12,79,2,2.2,0,Average
+485,92.2,68.5,66,81,0,1.2,Group,Reading,94,89,1,Arts,1,4,1,High School,0,8.25,6.61,5.5,98,2,4.0,1,Average
+486,50.6,71.4,65,78,0,4.8,Group,Kinesthetic,76,67,0,Sports,1,3,5,High School,1,7.62,8.5,9.62,67,2,3.9,0,Good
+487,56.7,69.8,56,61,1,5.5,Solo,Auditory,87,78,1,None,1,5,5,High School,0,5.35,7.35,8.58,67,0,1.0,3,Average
+488,78.6,88.6,85,39,0,3.6,Group,Auditory,93,78,0,None,1,5,2,Postgraduate,0,7.92,8.09,8.51,61,2,4.6,2,Good
+489,99.4,46.5,40,48,0,1.6,Mixed,Kinesthetic,93,86,0,Arts,1,2,1,Postgraduate,0,8.6,6.5,4.1,76,1,1.3,0,Average
+490,79.0,53.7,66,61,1,2.9,Group,Reading,76,95,0,Volunteering,1,5,1,Graduate,0,5.34,5.57,7.07,62,1,1.7,0,Not Good
+491,73.4,52.1,49,73,0,4.7,Mixed,Kinesthetic,80,99,0,Sports,0,3,5,Graduate,0,9.08,7.6,8.09,66,1,1.9,0,Good
+492,66.4,42.4,38,91,0,4.2,Mixed,Kinesthetic,66,85,0,Volunteering,1,4,5,High School,0,9.36,9.33,9.13,63,0,4.6,4,Good
+493,56.8,38.2,62,50,0,2.2,Solo,Visual,94,88,1,Volunteering,0,3,1,Postgraduate,0,6.99,6.75,7.11,68,0,2.9,2,Average
+494,43.9,80.8,72,74,0,3.1,Group,Kinesthetic,76,66,1,Arts,0,3,4,Postgraduate,0,5.13,4.13,7.12,67,3,1.9,2,Not Good
+495,84.6,94.1,61,53,0,4.6,Mixed,Reading,99,64,1,Volunteering,1,5,5,Postgraduate,1,8.09,9.38,9.34,82,0,3.5,4,Good
+496,50.0,77.3,57,37,0,5.4,Group,Visual,88,61,1,Arts,1,1,4,High School,0,9.16,6.84,8.8,78,0,2.3,0,Good
+497,41.0,56.9,63,78,0,4.6,Solo,Reading,68,79,1,Arts,1,2,2,High School,0,4.24,6.42,9.61,61,2,3.4,2,Average
+498,52.8,51.3,47,50,0,5.7,Group,Kinesthetic,94,96,0,Sports,0,4,3,Graduate,0,8.31,6.98,4.25,86,3,1.2,4,Average
+499,61.6,60.8,92,89,1,5.1,Solo,Visual,84,67,0,Arts,1,3,3,High School,0,6.12,8.93,8.7,76,3,1.6,2,Average
+500,89.2,42.7,95,75,1,2.2,Mixed,Visual,85,71,0,None,1,1,5,Postgraduate,0,7.33,4.48,8.74,72,1,4.2,0,Average
