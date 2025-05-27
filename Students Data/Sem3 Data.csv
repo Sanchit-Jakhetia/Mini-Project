@@ -1,0 +1,2501 @@
+student_id,name,subject,internal_marks,external_marks,total_score,grade,attendance_percentage,passed,subject_interest_level,needs_support_in_subject,peer_help_provided,semester_gpa
+1,Riya Srinivasan,Object Oriented Programming,11,45,56,C,96,Yes,2,No,Yes,8.26
+1,Riya Srinivasan,Discrete Mathematics,12,42,54,D,96,Yes,1,No,Yes,8.26
+1,Riya Srinivasan,Computer Organization,13,39,52,D,67,Yes,4,No,Yes,8.26
+1,Riya Srinivasan,Database Management Systems,21,56,77,B,63,Yes,4,No,Yes,8.26
+1,Riya Srinivasan,Data Communication,14,42,56,C,91,Yes,2,No,No,8.26
+2,Myra Boase,Object Oriented Programming,15,61,76,B,89,Yes,2,No,Yes,9.68
+2,Myra Boase,Discrete Mathematics,19,44,63,C,68,Yes,3,Yes,No,9.68
+2,Myra Boase,Computer Organization,30,54,84,B,88,Yes,5,Yes,Yes,9.68
+2,Myra Boase,Database Management Systems,14,39,53,D,86,Yes,1,No,No,9.68
+2,Myra Boase,Data Communication,14,32,46,D,63,Yes,2,No,No,9.68
+3,Aaryahi Dalal,Object Oriented Programming,16,53,69,C,67,Yes,4,No,No,5.77
+3,Aaryahi Dalal,Discrete Mathematics,16,38,54,D,93,Yes,3,No,Yes,5.77
+3,Aaryahi Dalal,Computer Organization,19,48,67,C,100,Yes,2,Yes,No,5.77
+3,Aaryahi Dalal,Database Management Systems,27,30,57,C,91,Yes,3,No,No,5.77
+3,Aaryahi Dalal,Data Communication,17,59,76,B,66,Yes,3,Yes,No,5.77
+4,Kashvi Handa,Object Oriented Programming,24,23,47,D,100,Yes,3,Yes,Yes,7.12
+4,Kashvi Handa,Discrete Mathematics,19,37,56,C,85,Yes,1,No,Yes,7.12
+4,Kashvi Handa,Computer Organization,16,27,43,D,87,Yes,4,No,Yes,7.12
+4,Kashvi Handa,Database Management Systems,16,34,50,D,96,Yes,4,Yes,No,7.12
+4,Kashvi Handa,Data Communication,21,43,64,C,68,Yes,4,Yes,Yes,7.12
+5,Yashvi Garg,Object Oriented Programming,27,23,50,D,95,Yes,3,Yes,Yes,6.86
+5,Yashvi Garg,Discrete Mathematics,22,53,75,B,60,Yes,2,Yes,No,6.86
+5,Yashvi Garg,Computer Organization,18,27,45,D,98,Yes,2,Yes,Yes,6.86
+5,Yashvi Garg,Database Management Systems,21,56,77,B,99,Yes,1,No,No,6.86
+5,Yashvi Garg,Data Communication,15,23,38,F,83,No,4,Yes,No,6.86
+6,Shalv Johal,Object Oriented Programming,29,20,49,D,86,Yes,2,Yes,Yes,6.91
+6,Shalv Johal,Discrete Mathematics,22,55,77,B,80,Yes,5,Yes,No,6.91
+6,Shalv Johal,Computer Organization,29,48,77,B,70,Yes,1,No,No,6.91
+6,Shalv Johal,Database Management Systems,10,25,35,F,71,No,1,No,No,6.91
+6,Shalv Johal,Data Communication,16,58,74,B,87,Yes,5,Yes,Yes,6.91
+7,Vritika De,Object Oriented Programming,17,39,56,C,90,Yes,1,Yes,Yes,7.74
+7,Vritika De,Discrete Mathematics,24,46,70,B,70,Yes,3,Yes,Yes,7.74
+7,Vritika De,Computer Organization,29,61,90,A,69,Yes,5,No,Yes,7.74
+7,Vritika De,Database Management Systems,30,35,65,C,88,Yes,3,Yes,No,7.74
+7,Vritika De,Data Communication,14,57,71,B,76,Yes,3,Yes,No,7.74
+8,Lagan Chokshi,Object Oriented Programming,17,63,80,B,60,Yes,4,Yes,Yes,7.41
+8,Lagan Chokshi,Discrete Mathematics,10,46,56,C,82,Yes,5,Yes,Yes,7.41
+8,Lagan Chokshi,Computer Organization,10,56,66,C,69,Yes,4,Yes,No,7.41
+8,Lagan Chokshi,Database Management Systems,28,43,71,B,75,Yes,4,No,Yes,7.41
+8,Lagan Chokshi,Data Communication,29,21,50,D,65,Yes,3,Yes,Yes,7.41
+9,Manjari Tank,Object Oriented Programming,27,41,68,C,83,Yes,3,No,No,8.21
+9,Manjari Tank,Discrete Mathematics,20,52,72,B,70,Yes,4,No,No,8.21
+9,Manjari Tank,Computer Organization,28,52,80,B,81,Yes,4,No,No,8.21
+9,Manjari Tank,Database Management Systems,20,32,52,D,78,Yes,5,Yes,No,8.21
+9,Manjari Tank,Data Communication,17,63,80,B,69,Yes,2,No,Yes,8.21
+10,Adira Suresh,Object Oriented Programming,19,52,71,B,65,Yes,4,Yes,No,8.0
+10,Adira Suresh,Discrete Mathematics,25,36,61,C,85,Yes,4,Yes,No,8.0
+10,Adira Suresh,Computer Organization,29,70,99,A,80,Yes,2,No,Yes,8.0
+10,Adira Suresh,Database Management Systems,11,62,73,B,81,Yes,4,Yes,Yes,8.0
+10,Adira Suresh,Data Communication,13,20,33,F,81,No,3,Yes,No,8.0
+11,Nishith Saran,Object Oriented Programming,10,58,68,C,96,Yes,2,Yes,Yes,9.94
+11,Nishith Saran,Discrete Mathematics,29,66,95,A,69,Yes,4,No,Yes,9.94
+11,Nishith Saran,Computer Organization,21,51,72,B,61,Yes,3,Yes,No,9.94
+11,Nishith Saran,Database Management Systems,18,44,62,C,72,Yes,4,Yes,No,9.94
+11,Nishith Saran,Data Communication,19,27,46,D,69,Yes,5,No,No,9.94
+12,Madhup Sharma,Object Oriented Programming,15,60,75,B,94,Yes,2,No,Yes,6.8
+12,Madhup Sharma,Discrete Mathematics,20,44,64,C,100,Yes,1,No,No,6.8
+12,Madhup Sharma,Computer Organization,17,40,57,C,82,Yes,3,No,No,6.8
+12,Madhup Sharma,Database Management Systems,10,62,72,B,76,Yes,1,No,No,6.8
+12,Madhup Sharma,Data Communication,16,37,53,D,93,Yes,5,No,Yes,6.8
+13,Nayantara Bhagat,Object Oriented Programming,22,41,63,C,63,Yes,4,No,Yes,9.73
+13,Nayantara Bhagat,Discrete Mathematics,15,51,66,C,69,Yes,2,No,Yes,9.73
+13,Nayantara Bhagat,Computer Organization,30,64,94,A,71,Yes,4,No,Yes,9.73
+13,Nayantara Bhagat,Database Management Systems,26,27,53,D,74,Yes,3,No,Yes,9.73
+13,Nayantara Bhagat,Data Communication,11,44,55,C,84,Yes,5,Yes,No,9.73
+14,Lakshay Sami,Object Oriented Programming,25,21,46,D,69,Yes,3,Yes,No,7.91
+14,Lakshay Sami,Discrete Mathematics,30,41,71,B,72,Yes,2,Yes,Yes,7.91
+14,Lakshay Sami,Computer Organization,10,23,33,F,73,No,2,Yes,Yes,7.91
+14,Lakshay Sami,Database Management Systems,18,54,72,B,65,Yes,4,No,Yes,7.91
+14,Lakshay Sami,Data Communication,27,64,91,A,72,Yes,4,No,No,7.91
+15,Ivana Saran,Object Oriented Programming,20,49,69,C,75,Yes,1,Yes,No,5.12
+15,Ivana Saran,Discrete Mathematics,11,47,58,C,97,Yes,2,No,No,5.12
+15,Ivana Saran,Computer Organization,26,35,61,C,90,Yes,2,Yes,No,5.12
+15,Ivana Saran,Database Management Systems,13,34,47,D,94,Yes,2,No,Yes,5.12
+15,Ivana Saran,Data Communication,22,61,83,B,72,Yes,3,No,No,5.12
+16,Dishani Sidhu,Object Oriented Programming,24,34,58,C,82,Yes,5,Yes,Yes,5.12
+16,Dishani Sidhu,Discrete Mathematics,18,67,85,A,96,Yes,2,No,No,5.12
+16,Dishani Sidhu,Computer Organization,11,22,33,F,64,No,2,Yes,Yes,5.12
+16,Dishani Sidhu,Database Management Systems,18,68,86,A,89,Yes,3,Yes,Yes,5.12
+16,Dishani Sidhu,Data Communication,21,61,82,B,84,Yes,4,Yes,Yes,5.12
+17,Alia Saha,Object Oriented Programming,25,23,48,D,72,Yes,4,Yes,No,7.05
+17,Alia Saha,Discrete Mathematics,16,60,76,B,78,Yes,4,No,Yes,7.05
+17,Alia Saha,Computer Organization,13,44,57,C,100,Yes,1,No,Yes,7.05
+17,Alia Saha,Database Management Systems,16,29,45,D,95,Yes,1,No,Yes,7.05
+17,Alia Saha,Data Communication,16,42,58,C,85,Yes,2,Yes,Yes,7.05
+18,Yasmin Boase,Object Oriented Programming,20,48,68,C,92,Yes,2,No,Yes,8.54
+18,Yasmin Boase,Discrete Mathematics,15,61,76,B,65,Yes,3,No,Yes,8.54
+18,Yasmin Boase,Computer Organization,29,60,89,A,99,Yes,5,Yes,Yes,8.54
+18,Yasmin Boase,Database Management Systems,13,60,73,B,74,Yes,3,No,No,8.54
+18,Yasmin Boase,Data Communication,21,22,43,D,62,Yes,1,No,No,8.54
+19,Akarsh Mandal,Object Oriented Programming,22,60,82,B,61,Yes,3,Yes,Yes,9.53
+19,Akarsh Mandal,Discrete Mathematics,29,50,79,B,73,Yes,4,Yes,No,9.53
+19,Akarsh Mandal,Computer Organization,15,70,85,A,65,Yes,4,Yes,No,9.53
+19,Akarsh Mandal,Database Management Systems,22,64,86,A,99,Yes,3,No,Yes,9.53
+19,Akarsh Mandal,Data Communication,24,30,54,D,62,Yes,3,Yes,Yes,9.53
+20,Zaina Srinivas,Object Oriented Programming,27,37,64,C,70,Yes,4,No,Yes,9.7
+20,Zaina Srinivas,Discrete Mathematics,22,63,85,A,64,Yes,5,No,No,9.7
+20,Zaina Srinivas,Computer Organization,21,69,90,A,67,Yes,1,No,No,9.7
+20,Zaina Srinivas,Database Management Systems,10,25,35,F,93,No,1,No,No,9.7
+20,Zaina Srinivas,Data Communication,11,61,72,B,70,Yes,1,No,No,9.7
+21,Vihaan Balan,Object Oriented Programming,30,60,90,A,98,Yes,1,No,No,9.35
+21,Vihaan Balan,Discrete Mathematics,13,36,49,D,98,Yes,1,No,No,9.35
+21,Vihaan Balan,Computer Organization,21,40,61,C,69,Yes,4,No,Yes,9.35
+21,Vihaan Balan,Database Management Systems,27,36,63,C,63,Yes,1,No,Yes,9.35
+21,Vihaan Balan,Data Communication,14,70,84,B,63,Yes,5,No,Yes,9.35
+22,Manjari Brahmbhatt,Object Oriented Programming,22,51,73,B,79,Yes,5,Yes,Yes,7.08
+22,Manjari Brahmbhatt,Discrete Mathematics,29,40,69,C,64,Yes,3,No,Yes,7.08
+22,Manjari Brahmbhatt,Computer Organization,19,44,63,C,99,Yes,1,Yes,Yes,7.08
+22,Manjari Brahmbhatt,Database Management Systems,14,61,75,B,76,Yes,4,No,No,7.08
+22,Manjari Brahmbhatt,Data Communication,29,32,61,C,64,Yes,4,Yes,Yes,7.08
+23,Adira Bawa,Object Oriented Programming,15,28,43,D,90,Yes,3,No,Yes,6.55
+23,Adira Bawa,Discrete Mathematics,27,62,89,A,61,Yes,1,No,No,6.55
+23,Adira Bawa,Computer Organization,25,25,50,D,80,Yes,3,No,No,6.55
+23,Adira Bawa,Database Management Systems,12,61,73,B,69,Yes,1,No,No,6.55
+23,Adira Bawa,Data Communication,20,61,81,B,93,Yes,5,No,Yes,6.55
+24,Dhanuk Amble,Object Oriented Programming,21,62,83,B,77,Yes,1,No,No,7.62
+24,Dhanuk Amble,Discrete Mathematics,22,35,57,C,66,Yes,5,Yes,Yes,7.62
+24,Dhanuk Amble,Computer Organization,26,66,92,A,69,Yes,4,Yes,No,7.62
+24,Dhanuk Amble,Database Management Systems,25,49,74,B,77,Yes,1,Yes,Yes,7.62
+24,Dhanuk Amble,Data Communication,13,58,71,B,93,Yes,2,No,Yes,7.62
+25,Tiya Dhar,Object Oriented Programming,26,66,92,A,63,Yes,4,No,No,7.59
+25,Tiya Dhar,Discrete Mathematics,22,47,69,C,96,Yes,1,Yes,Yes,7.59
+25,Tiya Dhar,Computer Organization,11,26,37,F,72,No,4,Yes,No,7.59
+25,Tiya Dhar,Database Management Systems,29,25,54,D,73,Yes,2,No,Yes,7.59
+25,Tiya Dhar,Data Communication,19,28,47,D,90,Yes,5,No,No,7.59
+26,Emir Kapadia,Object Oriented Programming,29,58,87,A,93,Yes,3,Yes,No,6.27
+26,Emir Kapadia,Discrete Mathematics,26,39,65,C,100,Yes,4,Yes,Yes,6.27
+26,Emir Kapadia,Computer Organization,22,33,55,C,61,Yes,3,No,No,6.27
+26,Emir Kapadia,Database Management Systems,16,22,38,F,97,No,5,Yes,Yes,6.27
+26,Emir Kapadia,Data Communication,14,49,63,C,64,Yes,2,Yes,Yes,6.27
+27,Jhanvi Garg,Object Oriented Programming,22,58,80,B,94,Yes,2,Yes,No,7.07
+27,Jhanvi Garg,Discrete Mathematics,11,39,50,D,65,Yes,5,Yes,No,7.07
+27,Jhanvi Garg,Computer Organization,23,35,58,C,93,Yes,1,No,No,7.07
+27,Jhanvi Garg,Database Management Systems,28,69,97,A,61,Yes,5,Yes,No,7.07
+27,Jhanvi Garg,Data Communication,10,27,37,F,87,No,1,No,No,7.07
+28,Aayush Das,Object Oriented Programming,30,67,97,A,100,Yes,5,Yes,Yes,7.99
+28,Aayush Das,Discrete Mathematics,30,29,59,C,78,Yes,1,Yes,Yes,7.99
+28,Aayush Das,Computer Organization,22,20,42,D,65,Yes,4,Yes,Yes,7.99
+28,Aayush Das,Database Management Systems,16,32,48,D,84,Yes,4,No,Yes,7.99
+28,Aayush Das,Data Communication,19,32,51,D,64,Yes,5,Yes,No,7.99
+29,Aarav Dave,Object Oriented Programming,19,54,73,B,89,Yes,4,Yes,No,5.33
+29,Aarav Dave,Discrete Mathematics,26,59,85,A,97,Yes,2,No,No,5.33
+29,Aarav Dave,Computer Organization,10,62,72,B,81,Yes,4,No,Yes,5.33
+29,Aarav Dave,Database Management Systems,18,27,45,D,81,Yes,3,Yes,Yes,5.33
+29,Aarav Dave,Data Communication,16,28,44,D,79,Yes,4,No,Yes,5.33
+30,Inaaya  Sule,Object Oriented Programming,12,64,76,B,66,Yes,1,No,Yes,7.61
+30,Inaaya  Sule,Discrete Mathematics,10,64,74,B,65,Yes,5,Yes,Yes,7.61
+30,Inaaya  Sule,Computer Organization,10,38,48,D,100,Yes,3,No,Yes,7.61
+30,Inaaya  Sule,Database Management Systems,13,51,64,C,95,Yes,1,Yes,No,7.61
+30,Inaaya  Sule,Data Communication,10,57,67,C,93,Yes,1,No,No,7.61
+31,Aarush Rao,Object Oriented Programming,10,53,63,C,65,Yes,4,Yes,Yes,6.6
+31,Aarush Rao,Discrete Mathematics,10,60,70,B,68,Yes,5,Yes,No,6.6
+31,Aarush Rao,Computer Organization,27,68,95,A,90,Yes,2,No,Yes,6.6
+31,Aarush Rao,Database Management Systems,14,44,58,C,68,Yes,5,Yes,No,6.6
+31,Aarush Rao,Data Communication,17,27,44,D,89,Yes,4,Yes,Yes,6.6
+32,Umang Soman,Object Oriented Programming,26,31,57,C,86,Yes,2,No,Yes,9.8
+32,Umang Soman,Discrete Mathematics,16,20,36,F,77,No,1,Yes,Yes,9.8
+32,Umang Soman,Computer Organization,14,50,64,C,94,Yes,3,Yes,No,9.8
+32,Umang Soman,Database Management Systems,29,61,90,A,65,Yes,1,Yes,No,9.8
+32,Umang Soman,Data Communication,22,40,62,C,69,Yes,4,Yes,Yes,9.8
+33,Renee Brahmbhatt,Object Oriented Programming,14,29,43,D,73,Yes,1,No,Yes,8.17
+33,Renee Brahmbhatt,Discrete Mathematics,30,20,50,D,72,Yes,5,Yes,No,8.17
+33,Renee Brahmbhatt,Computer Organization,23,68,91,A,67,Yes,4,No,No,8.17
+33,Renee Brahmbhatt,Database Management Systems,28,20,48,D,100,Yes,2,No,No,8.17
+33,Renee Brahmbhatt,Data Communication,12,34,46,D,98,Yes,5,No,Yes,8.17
+34,Emir Kala,Object Oriented Programming,29,45,74,B,100,Yes,5,No,No,7.94
+34,Emir Kala,Discrete Mathematics,16,40,56,C,71,Yes,4,Yes,No,7.94
+34,Emir Kala,Computer Organization,28,26,54,D,93,Yes,1,Yes,Yes,7.94
+34,Emir Kala,Database Management Systems,24,20,44,D,60,Yes,3,Yes,No,7.94
+34,Emir Kala,Data Communication,23,69,92,A,95,Yes,2,Yes,Yes,7.94
+35,Dhanuk Desai,Object Oriented Programming,17,53,70,B,99,Yes,3,No,Yes,5.61
+35,Dhanuk Desai,Discrete Mathematics,25,32,57,C,68,Yes,2,No,No,5.61
+35,Dhanuk Desai,Computer Organization,13,50,63,C,73,Yes,5,No,No,5.61
+35,Dhanuk Desai,Database Management Systems,11,65,76,B,68,Yes,2,No,Yes,5.61
+35,Dhanuk Desai,Data Communication,19,31,50,D,98,Yes,2,No,No,5.61
+36,Anahita Khanna,Object Oriented Programming,24,57,81,B,96,Yes,5,Yes,No,6.76
+36,Anahita Khanna,Discrete Mathematics,27,22,49,D,62,Yes,4,Yes,No,6.76
+36,Anahita Khanna,Computer Organization,22,38,60,C,72,Yes,3,No,Yes,6.76
+36,Anahita Khanna,Database Management Systems,23,37,60,C,71,Yes,4,Yes,No,6.76
+36,Anahita Khanna,Data Communication,14,45,59,C,64,Yes,3,No,Yes,6.76
+37,Shamik Konda,Object Oriented Programming,16,69,85,A,84,Yes,2,Yes,Yes,6.84
+37,Shamik Konda,Discrete Mathematics,30,69,99,A,65,Yes,2,No,No,6.84
+37,Shamik Konda,Computer Organization,19,27,46,D,91,Yes,3,Yes,No,6.84
+37,Shamik Konda,Database Management Systems,12,28,40,D,100,Yes,2,No,Yes,6.84
+37,Shamik Konda,Data Communication,11,54,65,C,66,Yes,1,Yes,Yes,6.84
+38,Alisha Mannan,Object Oriented Programming,13,55,68,C,100,Yes,3,No,Yes,9.18
+38,Alisha Mannan,Discrete Mathematics,11,64,75,B,79,Yes,4,No,No,9.18
+38,Alisha Mannan,Computer Organization,18,20,38,F,96,No,5,No,Yes,9.18
+38,Alisha Mannan,Database Management Systems,17,53,70,B,71,Yes,5,Yes,Yes,9.18
+38,Alisha Mannan,Data Communication,13,36,49,D,96,Yes,4,No,No,9.18
+39,Zeeshan Mangat,Object Oriented Programming,13,66,79,B,75,Yes,2,No,Yes,7.97
+39,Zeeshan Mangat,Discrete Mathematics,29,49,78,B,91,Yes,2,Yes,No,7.97
+39,Zeeshan Mangat,Computer Organization,10,29,39,F,96,No,3,Yes,No,7.97
+39,Zeeshan Mangat,Database Management Systems,21,23,44,D,88,Yes,3,Yes,No,7.97
+39,Zeeshan Mangat,Data Communication,12,54,66,C,82,Yes,2,Yes,No,7.97
+40,Aaina Lad,Object Oriented Programming,26,30,56,C,60,Yes,2,Yes,No,5.51
+40,Aaina Lad,Discrete Mathematics,27,59,86,A,85,Yes,3,Yes,No,5.51
+40,Aaina Lad,Computer Organization,13,60,73,B,67,Yes,3,Yes,Yes,5.51
+40,Aaina Lad,Database Management Systems,11,57,68,C,70,Yes,2,No,Yes,5.51
+40,Aaina Lad,Data Communication,18,38,56,C,84,Yes,2,No,Yes,5.51
+41,Kanav Goel,Object Oriented Programming,18,38,56,C,79,Yes,4,Yes,Yes,6.19
+41,Kanav Goel,Discrete Mathematics,14,50,64,C,97,Yes,5,Yes,Yes,6.19
+41,Kanav Goel,Computer Organization,27,49,76,B,88,Yes,3,No,Yes,6.19
+41,Kanav Goel,Database Management Systems,16,49,65,C,84,Yes,2,No,Yes,6.19
+41,Kanav Goel,Data Communication,28,60,88,A,90,Yes,5,Yes,No,6.19
+42,Himmat Johal,Object Oriented Programming,30,24,54,D,85,Yes,3,No,Yes,6.93
+42,Himmat Johal,Discrete Mathematics,19,40,59,C,61,Yes,3,Yes,Yes,6.93
+42,Himmat Johal,Computer Organization,15,61,76,B,92,Yes,4,No,Yes,6.93
+42,Himmat Johal,Database Management Systems,26,44,70,B,72,Yes,1,Yes,Yes,6.93
+42,Himmat Johal,Data Communication,25,56,81,B,62,Yes,1,Yes,No,6.93
+43,Saksham Gade,Object Oriented Programming,23,56,79,B,99,Yes,5,No,No,8.38
+43,Saksham Gade,Discrete Mathematics,28,58,86,A,61,Yes,4,No,Yes,8.38
+43,Saksham Gade,Computer Organization,13,67,80,B,98,Yes,1,Yes,No,8.38
+43,Saksham Gade,Database Management Systems,30,62,92,A,98,Yes,1,Yes,No,8.38
+43,Saksham Gade,Data Communication,25,59,84,B,90,Yes,5,Yes,Yes,8.38
+44,Nitara Contractor,Object Oriented Programming,22,32,54,D,70,Yes,1,Yes,Yes,7.02
+44,Nitara Contractor,Discrete Mathematics,18,43,61,C,86,Yes,1,No,No,7.02
+44,Nitara Contractor,Computer Organization,19,25,44,D,97,Yes,5,Yes,No,7.02
+44,Nitara Contractor,Database Management Systems,30,54,84,B,71,Yes,3,No,No,7.02
+44,Nitara Contractor,Data Communication,23,24,47,D,93,Yes,2,No,Yes,7.02
+45,Arhaan Bhasin,Object Oriented Programming,25,44,69,C,73,Yes,3,Yes,Yes,7.78
+45,Arhaan Bhasin,Discrete Mathematics,24,27,51,D,78,Yes,2,No,No,7.78
+45,Arhaan Bhasin,Computer Organization,21,52,73,B,64,Yes,2,No,Yes,7.78
+45,Arhaan Bhasin,Database Management Systems,24,34,58,C,99,Yes,2,Yes,Yes,7.78
+45,Arhaan Bhasin,Data Communication,11,55,66,C,86,Yes,1,No,Yes,7.78
+46,Riaan Reddy,Object Oriented Programming,21,35,56,C,63,Yes,2,Yes,Yes,7.62
+46,Riaan Reddy,Discrete Mathematics,29,65,94,A,96,Yes,5,No,Yes,7.62
+46,Riaan Reddy,Computer Organization,16,42,58,C,79,Yes,5,Yes,Yes,7.62
+46,Riaan Reddy,Database Management Systems,28,51,79,B,91,Yes,3,Yes,Yes,7.62
+46,Riaan Reddy,Data Communication,12,50,62,C,75,Yes,5,Yes,Yes,7.62
+47,Lakshay Khalsa,Object Oriented Programming,28,26,54,D,72,Yes,2,No,Yes,9.87
+47,Lakshay Khalsa,Discrete Mathematics,29,50,79,B,97,Yes,4,No,No,9.87
+47,Lakshay Khalsa,Computer Organization,15,66,81,B,86,Yes,4,No,Yes,9.87
+47,Lakshay Khalsa,Database Management Systems,29,22,51,D,68,Yes,4,No,No,9.87
+47,Lakshay Khalsa,Data Communication,23,36,59,C,82,Yes,3,Yes,No,9.87
+48,Baiju Bath,Object Oriented Programming,22,41,63,C,84,Yes,1,Yes,No,7.46
+48,Baiju Bath,Discrete Mathematics,29,49,78,B,72,Yes,2,No,Yes,7.46
+48,Baiju Bath,Computer Organization,25,29,54,D,99,Yes,5,Yes,No,7.46
+48,Baiju Bath,Database Management Systems,19,61,80,B,79,Yes,4,No,No,7.46
+48,Baiju Bath,Data Communication,28,26,54,D,83,Yes,3,No,No,7.46
+49,Anay Dani,Object Oriented Programming,17,33,50,D,64,Yes,1,Yes,Yes,6.18
+49,Anay Dani,Discrete Mathematics,10,23,33,F,97,No,3,No,Yes,6.18
+49,Anay Dani,Computer Organization,23,49,72,B,77,Yes,2,No,Yes,6.18
+49,Anay Dani,Database Management Systems,18,39,57,C,62,Yes,1,Yes,No,6.18
+49,Anay Dani,Data Communication,22,59,81,B,78,Yes,2,Yes,Yes,6.18
+50,Yasmin Vyas,Object Oriented Programming,27,36,63,C,92,Yes,2,No,Yes,5.91
+50,Yasmin Vyas,Discrete Mathematics,18,37,55,C,86,Yes,4,No,Yes,5.91
+50,Yasmin Vyas,Computer Organization,10,61,71,B,62,Yes,2,No,No,5.91
+50,Yasmin Vyas,Database Management Systems,21,64,85,A,93,Yes,1,No,Yes,5.91
+50,Yasmin Vyas,Data Communication,27,52,79,B,74,Yes,2,Yes,No,5.91
+51,Hridaan Tandon,Object Oriented Programming,26,23,49,D,100,Yes,4,No,Yes,6.64
+51,Hridaan Tandon,Discrete Mathematics,15,52,67,C,86,Yes,1,Yes,Yes,6.64
+51,Hridaan Tandon,Computer Organization,20,32,52,D,69,Yes,4,No,Yes,6.64
+51,Hridaan Tandon,Database Management Systems,30,32,62,C,60,Yes,5,Yes,Yes,6.64
+51,Hridaan Tandon,Data Communication,11,68,79,B,98,Yes,2,No,Yes,6.64
+52,Samar Shere,Object Oriented Programming,19,41,60,C,100,Yes,5,Yes,No,6.07
+52,Samar Shere,Discrete Mathematics,20,42,62,C,85,Yes,1,No,Yes,6.07
+52,Samar Shere,Computer Organization,29,56,85,A,75,Yes,2,No,Yes,6.07
+52,Samar Shere,Database Management Systems,11,37,48,D,73,Yes,3,No,No,6.07
+52,Samar Shere,Data Communication,20,37,57,C,69,Yes,2,Yes,No,6.07
+53,Dishani Mander,Object Oriented Programming,24,65,89,A,66,Yes,4,No,No,8.83
+53,Dishani Mander,Discrete Mathematics,27,49,76,B,79,Yes,4,Yes,Yes,8.83
+53,Dishani Mander,Computer Organization,20,47,67,C,94,Yes,5,Yes,No,8.83
+53,Dishani Mander,Database Management Systems,11,32,43,D,75,Yes,5,No,Yes,8.83
+53,Dishani Mander,Data Communication,12,52,64,C,67,Yes,4,No,No,8.83
+54,Shanaya Chhabra,Object Oriented Programming,15,58,73,B,72,Yes,1,Yes,Yes,5.43
+54,Shanaya Chhabra,Discrete Mathematics,12,44,56,C,66,Yes,4,Yes,No,5.43
+54,Shanaya Chhabra,Computer Organization,28,41,69,C,65,Yes,5,No,No,5.43
+54,Shanaya Chhabra,Database Management Systems,17,63,80,B,90,Yes,4,No,Yes,5.43
+54,Shanaya Chhabra,Data Communication,12,54,66,C,95,Yes,2,No,No,5.43
+55,Purab Choudhury,Object Oriented Programming,22,33,55,C,92,Yes,3,Yes,No,7.03
+55,Purab Choudhury,Discrete Mathematics,10,50,60,C,93,Yes,3,Yes,No,7.03
+55,Purab Choudhury,Computer Organization,20,23,43,D,89,Yes,4,Yes,Yes,7.03
+55,Purab Choudhury,Database Management Systems,24,21,45,D,96,Yes,3,Yes,No,7.03
+55,Purab Choudhury,Data Communication,10,70,80,B,86,Yes,5,No,No,7.03
+56,Damini Amble,Object Oriented Programming,29,44,73,B,84,Yes,1,No,No,6.4
+56,Damini Amble,Discrete Mathematics,17,63,80,B,73,Yes,1,Yes,No,6.4
+56,Damini Amble,Computer Organization,12,29,41,D,62,Yes,2,Yes,Yes,6.4
+56,Damini Amble,Database Management Systems,10,45,55,C,75,Yes,5,No,Yes,6.4
+56,Damini Amble,Data Communication,24,25,49,D,62,Yes,2,No,Yes,6.4
+57,Kiara Malhotra,Object Oriented Programming,16,44,60,C,71,Yes,4,No,Yes,9.32
+57,Kiara Malhotra,Discrete Mathematics,14,60,74,B,88,Yes,1,No,No,9.32
+57,Kiara Malhotra,Computer Organization,14,63,77,B,95,Yes,2,Yes,Yes,9.32
+57,Kiara Malhotra,Database Management Systems,21,26,47,D,100,Yes,5,No,No,9.32
+57,Kiara Malhotra,Data Communication,22,64,86,A,79,Yes,4,Yes,Yes,9.32
+58,Indranil Gade,Object Oriented Programming,16,30,46,D,83,Yes,5,No,No,7.92
+58,Indranil Gade,Discrete Mathematics,12,46,58,C,85,Yes,2,Yes,Yes,7.92
+58,Indranil Gade,Computer Organization,27,28,55,C,76,Yes,5,Yes,No,7.92
+58,Indranil Gade,Database Management Systems,11,47,58,C,81,Yes,4,No,Yes,7.92
+58,Indranil Gade,Data Communication,14,34,48,D,86,Yes,4,No,No,7.92
+59,Siya Das,Object Oriented Programming,17,41,58,C,100,Yes,4,No,Yes,6.94
+59,Siya Das,Discrete Mathematics,18,50,68,C,74,Yes,4,Yes,Yes,6.94
+59,Siya Das,Computer Organization,20,66,86,A,78,Yes,5,Yes,Yes,6.94
+59,Siya Das,Database Management Systems,20,65,85,A,91,Yes,2,Yes,No,6.94
+59,Siya Das,Data Communication,20,38,58,C,88,Yes,2,No,Yes,6.94
+60,Jayesh Ganesan,Object Oriented Programming,30,67,97,A,69,Yes,2,No,No,9.24
+60,Jayesh Ganesan,Discrete Mathematics,28,32,60,C,67,Yes,3,No,Yes,9.24
+60,Jayesh Ganesan,Computer Organization,16,70,86,A,66,Yes,2,No,No,9.24
+60,Jayesh Ganesan,Database Management Systems,25,22,47,D,67,Yes,3,No,Yes,9.24
+60,Jayesh Ganesan,Data Communication,28,46,74,B,97,Yes,3,Yes,Yes,9.24
+61,Sahil Char,Object Oriented Programming,23,55,78,B,86,Yes,2,Yes,Yes,7.29
+61,Sahil Char,Discrete Mathematics,16,53,69,C,63,Yes,4,No,Yes,7.29
+61,Sahil Char,Computer Organization,25,30,55,C,75,Yes,5,Yes,No,7.29
+61,Sahil Char,Database Management Systems,13,59,72,B,68,Yes,4,Yes,No,7.29
+61,Sahil Char,Data Communication,29,49,78,B,82,Yes,3,No,No,7.29
+62,Hansh Chandran,Object Oriented Programming,17,59,76,B,89,Yes,2,No,Yes,5.73
+62,Hansh Chandran,Discrete Mathematics,25,41,66,C,67,Yes,2,Yes,Yes,5.73
+62,Hansh Chandran,Computer Organization,10,53,63,C,72,Yes,1,Yes,No,5.73
+62,Hansh Chandran,Database Management Systems,12,56,68,C,71,Yes,3,Yes,No,5.73
+62,Hansh Chandran,Data Communication,27,32,59,C,87,Yes,4,Yes,Yes,5.73
+63,Akarsh Reddy,Object Oriented Programming,28,23,51,D,84,Yes,3,Yes,No,7.06
+63,Akarsh Reddy,Discrete Mathematics,26,60,86,A,67,Yes,2,Yes,No,7.06
+63,Akarsh Reddy,Computer Organization,18,54,72,B,91,Yes,4,Yes,Yes,7.06
+63,Akarsh Reddy,Database Management Systems,26,29,55,C,87,Yes,3,No,Yes,7.06
+63,Akarsh Reddy,Data Communication,12,52,64,C,73,Yes,5,No,No,7.06
+64,Kismat Bir,Object Oriented Programming,26,64,90,A,90,Yes,2,No,No,9.81
+64,Kismat Bir,Discrete Mathematics,23,67,90,A,69,Yes,5,Yes,Yes,9.81
+64,Kismat Bir,Computer Organization,20,67,87,A,67,Yes,3,Yes,No,9.81
+64,Kismat Bir,Database Management Systems,13,25,38,F,70,No,3,No,Yes,9.81
+64,Kismat Bir,Data Communication,17,29,46,D,92,Yes,5,Yes,No,9.81
+65,Jayan Kapur,Object Oriented Programming,26,24,50,D,60,Yes,5,No,No,7.21
+65,Jayan Kapur,Discrete Mathematics,15,31,46,D,64,Yes,4,Yes,No,7.21
+65,Jayan Kapur,Computer Organization,20,64,84,B,64,Yes,4,Yes,No,7.21
+65,Jayan Kapur,Database Management Systems,18,33,51,D,60,Yes,5,Yes,Yes,7.21
+65,Jayan Kapur,Data Communication,24,22,46,D,74,Yes,4,No,No,7.21
+66,Madhav Saran,Object Oriented Programming,13,60,73,B,69,Yes,1,Yes,Yes,5.19
+66,Madhav Saran,Discrete Mathematics,25,51,76,B,79,Yes,2,Yes,No,5.19
+66,Madhav Saran,Computer Organization,10,49,59,C,66,Yes,1,Yes,No,5.19
+66,Madhav Saran,Database Management Systems,14,56,70,B,81,Yes,3,No,Yes,5.19
+66,Madhav Saran,Data Communication,20,32,52,D,81,Yes,5,Yes,No,5.19
+67,Renee Jaggi,Object Oriented Programming,13,29,42,D,97,Yes,1,Yes,No,6.16
+67,Renee Jaggi,Discrete Mathematics,23,62,85,A,70,Yes,3,Yes,No,6.16
+67,Renee Jaggi,Computer Organization,24,48,72,B,66,Yes,3,Yes,No,6.16
+67,Renee Jaggi,Database Management Systems,18,23,41,D,62,Yes,5,Yes,Yes,6.16
+67,Renee Jaggi,Data Communication,20,64,84,B,70,Yes,5,No,Yes,6.16
+68,Aarna Doshi,Object Oriented Programming,22,36,58,C,81,Yes,5,Yes,No,7.46
+68,Aarna Doshi,Discrete Mathematics,26,43,69,C,62,Yes,4,Yes,No,7.46
+68,Aarna Doshi,Computer Organization,10,26,36,F,84,No,1,Yes,Yes,7.46
+68,Aarna Doshi,Database Management Systems,28,34,62,C,81,Yes,2,No,Yes,7.46
+68,Aarna Doshi,Data Communication,19,62,81,B,60,Yes,3,No,No,7.46
+69,Saksham Virk,Object Oriented Programming,10,36,46,D,88,Yes,2,No,Yes,6.38
+69,Saksham Virk,Discrete Mathematics,28,57,85,A,84,Yes,3,Yes,No,6.38
+69,Saksham Virk,Computer Organization,22,37,59,C,82,Yes,1,Yes,No,6.38
+69,Saksham Virk,Database Management Systems,19,65,84,B,77,Yes,1,Yes,No,6.38
+69,Saksham Virk,Data Communication,21,41,62,C,80,Yes,1,Yes,Yes,6.38
+70,Arhaan Doctor,Object Oriented Programming,20,28,48,D,92,Yes,2,Yes,No,8.72
+70,Arhaan Doctor,Discrete Mathematics,18,45,63,C,61,Yes,3,No,Yes,8.72
+70,Arhaan Doctor,Computer Organization,17,26,43,D,89,Yes,5,Yes,No,8.72
+70,Arhaan Doctor,Database Management Systems,28,57,85,A,70,Yes,1,Yes,Yes,8.72
+70,Arhaan Doctor,Data Communication,14,36,50,D,62,Yes,1,No,Yes,8.72
+71,Hridaan Chandra,Object Oriented Programming,23,48,71,B,74,Yes,5,Yes,Yes,7.47
+71,Hridaan Chandra,Discrete Mathematics,16,44,60,C,61,Yes,1,Yes,Yes,7.47
+71,Hridaan Chandra,Computer Organization,19,54,73,B,100,Yes,4,Yes,No,7.47
+71,Hridaan Chandra,Database Management Systems,27,63,90,A,72,Yes,4,No,No,7.47
+71,Hridaan Chandra,Data Communication,23,40,63,C,61,Yes,5,No,Yes,7.47
+72,Kabir Krishnan,Object Oriented Programming,23,32,55,C,99,Yes,1,No,Yes,7.69
+72,Kabir Krishnan,Discrete Mathematics,21,59,80,B,75,Yes,2,No,Yes,7.69
+72,Kabir Krishnan,Computer Organization,10,20,30,F,67,No,2,Yes,No,7.69
+72,Kabir Krishnan,Database Management Systems,20,40,60,C,84,Yes,4,No,Yes,7.69
+72,Kabir Krishnan,Data Communication,21,67,88,A,84,Yes,5,No,Yes,7.69
+73,Zoya Cheema,Object Oriented Programming,24,30,54,D,61,Yes,3,Yes,No,9.2
+73,Zoya Cheema,Discrete Mathematics,14,30,44,D,64,Yes,5,No,No,9.2
+73,Zoya Cheema,Computer Organization,28,68,96,A,62,Yes,2,No,No,9.2
+73,Zoya Cheema,Database Management Systems,16,33,49,D,62,Yes,3,No,Yes,9.2
+73,Zoya Cheema,Data Communication,16,48,64,C,68,Yes,5,Yes,Yes,9.2
+74,Mehul Kakar,Object Oriented Programming,21,31,52,D,80,Yes,3,Yes,No,5.25
+74,Mehul Kakar,Discrete Mathematics,21,30,51,D,77,Yes,2,Yes,Yes,5.25
+74,Mehul Kakar,Computer Organization,21,43,64,C,85,Yes,3,Yes,No,5.25
+74,Mehul Kakar,Database Management Systems,17,29,46,D,77,Yes,5,No,No,5.25
+74,Mehul Kakar,Data Communication,19,50,69,C,89,Yes,5,Yes,Yes,5.25
+75,Krish Anand,Object Oriented Programming,23,24,47,D,99,Yes,4,Yes,Yes,6.73
+75,Krish Anand,Discrete Mathematics,13,50,63,C,98,Yes,1,Yes,No,6.73
+75,Krish Anand,Computer Organization,29,48,77,B,76,Yes,5,Yes,No,6.73
+75,Krish Anand,Database Management Systems,16,70,86,A,63,Yes,3,Yes,No,6.73
+75,Krish Anand,Data Communication,29,55,84,B,70,Yes,1,Yes,No,6.73
+76,Farhan Chopra,Object Oriented Programming,28,40,68,C,72,Yes,4,No,No,5.95
+76,Farhan Chopra,Discrete Mathematics,23,69,92,A,76,Yes,1,No,No,5.95
+76,Farhan Chopra,Computer Organization,22,23,45,D,64,Yes,3,Yes,Yes,5.95
+76,Farhan Chopra,Database Management Systems,27,31,58,C,60,Yes,2,No,Yes,5.95
+76,Farhan Chopra,Data Communication,10,57,67,C,61,Yes,4,No,No,5.95
+77,Chirag Sarraf,Object Oriented Programming,23,56,79,B,65,Yes,5,No,No,8.77
+77,Chirag Sarraf,Discrete Mathematics,26,26,52,D,64,Yes,2,Yes,Yes,8.77
+77,Chirag Sarraf,Computer Organization,24,52,76,B,90,Yes,3,Yes,Yes,8.77
+77,Chirag Sarraf,Database Management Systems,26,67,93,A,66,Yes,2,Yes,No,8.77
+77,Chirag Sarraf,Data Communication,25,29,54,D,72,Yes,4,No,Yes,8.77
+78,Anay Magar,Object Oriented Programming,21,41,62,C,90,Yes,3,No,Yes,8.74
+78,Anay Magar,Discrete Mathematics,17,46,63,C,70,Yes,4,Yes,Yes,8.74
+78,Anay Magar,Computer Organization,16,52,68,C,96,Yes,3,Yes,Yes,8.74
+78,Anay Magar,Database Management Systems,10,70,80,B,76,Yes,1,No,Yes,8.74
+78,Anay Magar,Data Communication,22,65,87,A,99,Yes,4,No,No,8.74
+79,Miraan Hari,Object Oriented Programming,27,59,86,A,84,Yes,5,No,No,5.41
+79,Miraan Hari,Discrete Mathematics,19,63,82,B,75,Yes,4,Yes,No,5.41
+79,Miraan Hari,Computer Organization,22,21,43,D,65,Yes,2,Yes,Yes,5.41
+79,Miraan Hari,Database Management Systems,17,66,83,B,69,Yes,4,No,Yes,5.41
+79,Miraan Hari,Data Communication,20,31,51,D,89,Yes,4,No,No,5.41
+80,Vihaan Mahal,Object Oriented Programming,30,45,75,B,77,Yes,1,Yes,Yes,8.67
+80,Vihaan Mahal,Discrete Mathematics,16,66,82,B,67,Yes,3,Yes,No,8.67
+80,Vihaan Mahal,Computer Organization,15,35,50,D,79,Yes,1,No,Yes,8.67
+80,Vihaan Mahal,Database Management Systems,13,36,49,D,85,Yes,3,No,Yes,8.67
+80,Vihaan Mahal,Data Communication,10,68,78,B,62,Yes,2,No,No,8.67
+81,Yashvi Dasgupta,Object Oriented Programming,14,38,52,D,84,Yes,1,Yes,Yes,6.47
+81,Yashvi Dasgupta,Discrete Mathematics,29,23,52,D,99,Yes,4,No,Yes,6.47
+81,Yashvi Dasgupta,Computer Organization,11,36,47,D,86,Yes,2,Yes,No,6.47
+81,Yashvi Dasgupta,Database Management Systems,29,35,64,C,62,Yes,1,No,No,6.47
+81,Yashvi Dasgupta,Data Communication,22,65,87,A,93,Yes,1,No,No,6.47
+82,Anaya Batta,Object Oriented Programming,10,31,41,D,63,Yes,4,Yes,Yes,8.68
+82,Anaya Batta,Discrete Mathematics,30,68,98,A,82,Yes,4,Yes,No,8.68
+82,Anaya Batta,Computer Organization,14,45,59,C,61,Yes,4,No,Yes,8.68
+82,Anaya Batta,Database Management Systems,20,41,61,C,97,Yes,5,No,Yes,8.68
+82,Anaya Batta,Data Communication,16,54,70,B,76,Yes,1,Yes,Yes,8.68
+83,Ehsaan Thakur,Object Oriented Programming,16,27,43,D,78,Yes,3,No,Yes,9.75
+83,Ehsaan Thakur,Discrete Mathematics,20,38,58,C,71,Yes,5,Yes,Yes,9.75
+83,Ehsaan Thakur,Computer Organization,10,64,74,B,65,Yes,1,No,Yes,9.75
+83,Ehsaan Thakur,Database Management Systems,16,26,42,D,76,Yes,2,No,No,9.75
+83,Ehsaan Thakur,Data Communication,10,48,58,C,81,Yes,2,Yes,Yes,9.75
+84,Kanav Kurian,Object Oriented Programming,25,66,91,A,99,Yes,5,Yes,No,5.49
+84,Kanav Kurian,Discrete Mathematics,19,68,87,A,78,Yes,5,Yes,No,5.49
+84,Kanav Kurian,Computer Organization,30,42,72,B,83,Yes,2,Yes,No,5.49
+84,Kanav Kurian,Database Management Systems,10,34,44,D,79,Yes,5,Yes,No,5.49
+84,Kanav Kurian,Data Communication,12,37,49,D,89,Yes,1,Yes,Yes,5.49
+85,Aarush Sharma,Object Oriented Programming,14,52,66,C,68,Yes,4,Yes,Yes,5.49
+85,Aarush Sharma,Discrete Mathematics,14,53,67,C,92,Yes,1,No,No,5.49
+85,Aarush Sharma,Computer Organization,27,36,63,C,83,Yes,3,No,No,5.49
+85,Aarush Sharma,Database Management Systems,13,49,62,C,90,Yes,1,Yes,Yes,5.49
+85,Aarush Sharma,Data Communication,19,57,76,B,77,Yes,2,Yes,No,5.49
+86,Pranay Barad,Object Oriented Programming,17,59,76,B,100,Yes,1,Yes,No,6.16
+86,Pranay Barad,Discrete Mathematics,21,33,54,D,91,Yes,5,Yes,No,6.16
+86,Pranay Barad,Computer Organization,11,20,31,F,78,No,4,Yes,Yes,6.16
+86,Pranay Barad,Database Management Systems,25,56,81,B,61,Yes,4,No,Yes,6.16
+86,Pranay Barad,Data Communication,12,59,71,B,83,Yes,2,No,Yes,6.16
+87,Divyansh Kadakia,Object Oriented Programming,17,29,46,D,96,Yes,3,Yes,No,5.26
+87,Divyansh Kadakia,Discrete Mathematics,10,60,70,B,78,Yes,5,Yes,No,5.26
+87,Divyansh Kadakia,Computer Organization,26,55,81,B,68,Yes,1,Yes,No,5.26
+87,Divyansh Kadakia,Database Management Systems,13,61,74,B,66,Yes,1,Yes,Yes,5.26
+87,Divyansh Kadakia,Data Communication,13,20,33,F,74,No,1,Yes,No,5.26
+88,Lakshay Chandran,Object Oriented Programming,26,46,72,B,96,Yes,2,Yes,No,9.62
+88,Lakshay Chandran,Discrete Mathematics,25,30,55,C,66,Yes,2,Yes,Yes,9.62
+88,Lakshay Chandran,Computer Organization,27,45,72,B,74,Yes,4,Yes,No,9.62
+88,Lakshay Chandran,Database Management Systems,11,59,70,B,91,Yes,5,Yes,Yes,9.62
+88,Lakshay Chandran,Data Communication,22,51,73,B,93,Yes,4,No,No,9.62
+89,Anahi Dayal,Object Oriented Programming,19,70,89,A,63,Yes,2,No,Yes,7.92
+89,Anahi Dayal,Discrete Mathematics,18,57,75,B,77,Yes,4,No,Yes,7.92
+89,Anahi Dayal,Computer Organization,20,44,64,C,68,Yes,4,Yes,Yes,7.92
+89,Anahi Dayal,Database Management Systems,17,57,74,B,72,Yes,5,Yes,No,7.92
+89,Anahi Dayal,Data Communication,27,34,61,C,89,Yes,1,Yes,No,7.92
+90,Yashvi Sidhu,Object Oriented Programming,14,29,43,D,95,Yes,5,No,Yes,7.61
+90,Yashvi Sidhu,Discrete Mathematics,16,69,85,A,70,Yes,1,Yes,No,7.61
+90,Yashvi Sidhu,Computer Organization,29,23,52,D,84,Yes,5,Yes,No,7.61
+90,Yashvi Sidhu,Database Management Systems,26,37,63,C,88,Yes,3,No,No,7.61
+90,Yashvi Sidhu,Data Communication,27,33,60,C,98,Yes,3,Yes,No,7.61
+91,Saanvi Thakur,Object Oriented Programming,18,45,63,C,88,Yes,1,No,No,9.68
+91,Saanvi Thakur,Discrete Mathematics,21,30,51,D,97,Yes,2,No,No,9.68
+91,Saanvi Thakur,Computer Organization,15,45,60,C,93,Yes,1,No,Yes,9.68
+91,Saanvi Thakur,Database Management Systems,22,28,50,D,87,Yes,3,No,No,9.68
+91,Saanvi Thakur,Data Communication,29,49,78,B,69,Yes,4,Yes,Yes,9.68
+92,Mohanlal Swaminathan,Object Oriented Programming,14,56,70,B,80,Yes,2,Yes,Yes,6.7
+92,Mohanlal Swaminathan,Discrete Mathematics,24,27,51,D,67,Yes,1,Yes,Yes,6.7
+92,Mohanlal Swaminathan,Computer Organization,12,58,70,B,90,Yes,2,Yes,Yes,6.7
+92,Mohanlal Swaminathan,Database Management Systems,30,54,84,B,73,Yes,2,No,Yes,6.7
+92,Mohanlal Swaminathan,Data Communication,14,43,57,C,89,Yes,4,No,No,6.7
+93,Vivaan Soman,Object Oriented Programming,20,29,49,D,87,Yes,1,No,No,8.26
+93,Vivaan Soman,Discrete Mathematics,15,47,62,C,78,Yes,3,Yes,No,8.26
+93,Vivaan Soman,Computer Organization,17,48,65,C,66,Yes,2,Yes,No,8.26
+93,Vivaan Soman,Database Management Systems,29,46,75,B,81,Yes,2,No,Yes,8.26
+93,Vivaan Soman,Data Communication,30,52,82,B,66,Yes,1,No,Yes,8.26
+94,Shanaya Sinha,Object Oriented Programming,22,39,61,C,80,Yes,2,Yes,No,9.61
+94,Shanaya Sinha,Discrete Mathematics,24,52,76,B,93,Yes,5,Yes,No,9.61
+94,Shanaya Sinha,Computer Organization,16,30,46,D,82,Yes,4,Yes,Yes,9.61
+94,Shanaya Sinha,Database Management Systems,22,46,68,C,74,Yes,5,Yes,Yes,9.61
+94,Shanaya Sinha,Data Communication,29,29,58,C,66,Yes,1,Yes,No,9.61
+95,Pari Wadhwa,Object Oriented Programming,18,51,69,C,85,Yes,2,No,No,5.4
+95,Pari Wadhwa,Discrete Mathematics,14,69,83,B,87,Yes,4,Yes,Yes,5.4
+95,Pari Wadhwa,Computer Organization,29,46,75,B,82,Yes,5,No,No,5.4
+95,Pari Wadhwa,Database Management Systems,21,65,86,A,83,Yes,5,Yes,No,5.4
+95,Pari Wadhwa,Data Communication,18,21,39,F,86,No,5,Yes,No,5.4
+96,Prisha Lata,Object Oriented Programming,13,33,46,D,86,Yes,4,No,No,5.35
+96,Prisha Lata,Discrete Mathematics,17,33,50,D,100,Yes,2,No,No,5.35
+96,Prisha Lata,Computer Organization,16,41,57,C,98,Yes,2,No,Yes,5.35
+96,Prisha Lata,Database Management Systems,22,25,47,D,64,Yes,1,No,Yes,5.35
+96,Prisha Lata,Data Communication,26,69,95,A,96,Yes,1,No,Yes,5.35
+97,Akarsh Subramaniam,Object Oriented Programming,12,64,76,B,77,Yes,5,No,No,7.63
+97,Akarsh Subramaniam,Discrete Mathematics,28,58,86,A,84,Yes,4,No,Yes,7.63
+97,Akarsh Subramaniam,Computer Organization,12,62,74,B,67,Yes,1,No,Yes,7.63
+97,Akarsh Subramaniam,Database Management Systems,23,34,57,C,80,Yes,5,Yes,No,7.63
+97,Akarsh Subramaniam,Data Communication,19,24,43,D,95,Yes,5,No,Yes,7.63
+98,Biju Maharaj,Object Oriented Programming,20,57,77,B,76,Yes,1,No,Yes,5.21
+98,Biju Maharaj,Discrete Mathematics,23,58,81,B,68,Yes,5,No,Yes,5.21
+98,Biju Maharaj,Computer Organization,30,25,55,C,72,Yes,4,No,No,5.21
+98,Biju Maharaj,Database Management Systems,13,28,41,D,99,Yes,3,Yes,No,5.21
+98,Biju Maharaj,Data Communication,30,63,93,A,76,Yes,2,Yes,No,5.21
+99,Siya Varma,Object Oriented Programming,10,54,64,C,62,Yes,1,No,No,7.04
+99,Siya Varma,Discrete Mathematics,21,61,82,B,85,Yes,3,No,Yes,7.04
+99,Siya Varma,Computer Organization,26,54,80,B,81,Yes,4,No,Yes,7.04
+99,Siya Varma,Database Management Systems,15,40,55,C,63,Yes,4,No,No,7.04
+99,Siya Varma,Data Communication,14,50,64,C,72,Yes,2,Yes,Yes,7.04
+100,Vritika Viswanathan,Object Oriented Programming,14,70,84,B,92,Yes,4,Yes,No,9.24
+100,Vritika Viswanathan,Discrete Mathematics,23,41,64,C,86,Yes,5,No,No,9.24
+100,Vritika Viswanathan,Computer Organization,27,65,92,A,61,Yes,1,Yes,No,9.24
+100,Vritika Viswanathan,Database Management Systems,23,30,53,D,68,Yes,4,Yes,No,9.24
+100,Vritika Viswanathan,Data Communication,28,25,53,D,99,Yes,2,No,Yes,9.24
+101,Anya Sethi,Object Oriented Programming,17,27,44,D,72,Yes,5,Yes,No,8.32
+101,Anya Sethi,Discrete Mathematics,10,37,47,D,95,Yes,2,No,Yes,8.32
+101,Anya Sethi,Computer Organization,26,60,86,A,97,Yes,3,Yes,Yes,8.32
+101,Anya Sethi,Database Management Systems,30,65,95,A,88,Yes,1,No,No,8.32
+101,Anya Sethi,Data Communication,29,59,88,A,72,Yes,5,No,Yes,8.32
+102,Romil Kaur,Object Oriented Programming,15,21,36,F,94,No,3,Yes,No,9.81
+102,Romil Kaur,Discrete Mathematics,25,24,49,D,81,Yes,2,Yes,No,9.81
+102,Romil Kaur,Computer Organization,27,28,55,C,95,Yes,5,Yes,Yes,9.81
+102,Romil Kaur,Database Management Systems,28,66,94,A,85,Yes,3,No,No,9.81
+102,Romil Kaur,Data Communication,10,34,44,D,95,Yes,1,Yes,Yes,9.81
+103,Zaina Chandra,Object Oriented Programming,11,57,68,C,98,Yes,4,No,Yes,5.71
+103,Zaina Chandra,Discrete Mathematics,30,30,60,C,87,Yes,3,Yes,Yes,5.71
+103,Zaina Chandra,Computer Organization,27,30,57,C,80,Yes,4,Yes,Yes,5.71
+103,Zaina Chandra,Database Management Systems,12,53,65,C,79,Yes,1,No,No,5.71
+103,Zaina Chandra,Data Communication,22,27,49,D,73,Yes,2,No,Yes,5.71
+104,Tanya Khalsa,Object Oriented Programming,22,32,54,D,76,Yes,4,No,Yes,7.17
+104,Tanya Khalsa,Discrete Mathematics,14,40,54,D,97,Yes,5,Yes,No,7.17
+104,Tanya Khalsa,Computer Organization,29,59,88,A,66,Yes,4,No,No,7.17
+104,Tanya Khalsa,Database Management Systems,29,55,84,B,75,Yes,2,Yes,Yes,7.17
+104,Tanya Khalsa,Data Communication,26,64,90,A,97,Yes,3,No,Yes,7.17
+105,Rania Dugar,Object Oriented Programming,26,56,82,B,99,Yes,2,No,No,6.07
+105,Rania Dugar,Discrete Mathematics,23,31,54,D,92,Yes,2,No,Yes,6.07
+105,Rania Dugar,Computer Organization,19,44,63,C,92,Yes,3,No,Yes,6.07
+105,Rania Dugar,Database Management Systems,14,62,76,B,86,Yes,3,Yes,No,6.07
+105,Rania Dugar,Data Communication,30,28,58,C,61,Yes,4,Yes,Yes,6.07
+106,Nayantara Anne,Object Oriented Programming,28,44,72,B,66,Yes,5,No,Yes,9.31
+106,Nayantara Anne,Discrete Mathematics,10,58,68,C,70,Yes,1,No,Yes,9.31
+106,Nayantara Anne,Computer Organization,15,29,44,D,85,Yes,4,No,No,9.31
+106,Nayantara Anne,Database Management Systems,29,21,50,D,64,Yes,2,Yes,No,9.31
+106,Nayantara Anne,Data Communication,29,47,76,B,82,Yes,3,Yes,Yes,9.31
+107,Saira Vaidya,Object Oriented Programming,17,50,67,C,68,Yes,2,No,No,9.7
+107,Saira Vaidya,Discrete Mathematics,14,20,34,F,95,No,2,Yes,No,9.7
+107,Saira Vaidya,Computer Organization,10,62,72,B,76,Yes,3,Yes,No,9.7
+107,Saira Vaidya,Database Management Systems,16,57,73,B,90,Yes,1,No,No,9.7
+107,Saira Vaidya,Data Communication,11,25,36,F,84,No,2,Yes,Yes,9.7
+108,Adira Kapur,Object Oriented Programming,11,67,78,B,71,Yes,3,Yes,No,6.36
+108,Adira Kapur,Discrete Mathematics,14,23,37,F,78,No,4,Yes,No,6.36
+108,Adira Kapur,Computer Organization,18,38,56,C,79,Yes,5,No,Yes,6.36
+108,Adira Kapur,Database Management Systems,13,57,70,B,89,Yes,4,No,No,6.36
+108,Adira Kapur,Data Communication,16,36,52,D,75,Yes,4,Yes,No,6.36
+109,Sumer Tak,Object Oriented Programming,26,28,54,D,79,Yes,1,No,No,8.33
+109,Sumer Tak,Discrete Mathematics,11,46,57,C,95,Yes,5,No,Yes,8.33
+109,Sumer Tak,Computer Organization,18,54,72,B,68,Yes,4,No,Yes,8.33
+109,Sumer Tak,Database Management Systems,26,28,54,D,64,Yes,3,No,No,8.33
+109,Sumer Tak,Data Communication,16,45,61,C,60,Yes,2,Yes,Yes,8.33
+110,Kabir Dutt,Object Oriented Programming,16,26,42,D,83,Yes,3,No,No,7.87
+110,Kabir Dutt,Discrete Mathematics,28,69,97,A,96,Yes,4,No,No,7.87
+110,Kabir Dutt,Computer Organization,16,57,73,B,88,Yes,1,No,No,7.87
+110,Kabir Dutt,Database Management Systems,11,36,47,D,86,Yes,4,No,No,7.87
+110,Kabir Dutt,Data Communication,19,64,83,B,74,Yes,1,No,No,7.87
+111,Eshani Gala,Object Oriented Programming,16,30,46,D,62,Yes,2,Yes,No,6.81
+111,Eshani Gala,Discrete Mathematics,19,35,54,D,70,Yes,4,Yes,Yes,6.81
+111,Eshani Gala,Computer Organization,29,53,82,B,91,Yes,1,Yes,No,6.81
+111,Eshani Gala,Database Management Systems,18,48,66,C,95,Yes,2,Yes,No,6.81
+111,Eshani Gala,Data Communication,22,52,74,B,75,Yes,4,Yes,Yes,6.81
+112,Miraan Tailor,Object Oriented Programming,24,58,82,B,63,Yes,1,Yes,Yes,9.8
+112,Miraan Tailor,Discrete Mathematics,26,40,66,C,90,Yes,5,Yes,Yes,9.8
+112,Miraan Tailor,Computer Organization,19,50,69,C,95,Yes,2,No,Yes,9.8
+112,Miraan Tailor,Database Management Systems,28,30,58,C,100,Yes,5,Yes,Yes,9.8
+112,Miraan Tailor,Data Communication,15,25,40,D,75,Yes,5,Yes,Yes,9.8
+113,Aayush Sridhar,Object Oriented Programming,17,30,47,D,90,Yes,4,No,No,5.16
+113,Aayush Sridhar,Discrete Mathematics,28,28,56,C,75,Yes,4,Yes,Yes,5.16
+113,Aayush Sridhar,Computer Organization,15,20,35,F,82,No,2,Yes,No,5.16
+113,Aayush Sridhar,Database Management Systems,11,23,34,F,63,No,5,No,No,5.16
+113,Aayush Sridhar,Data Communication,27,29,56,C,61,Yes,5,Yes,Yes,5.16
+114,Keya Kade,Object Oriented Programming,30,25,55,C,86,Yes,1,No,No,9.11
+114,Keya Kade,Discrete Mathematics,24,38,62,C,60,Yes,3,No,No,9.11
+114,Keya Kade,Computer Organization,14,68,82,B,96,Yes,2,No,Yes,9.11
+114,Keya Kade,Database Management Systems,16,54,70,B,87,Yes,1,Yes,Yes,9.11
+114,Keya Kade,Data Communication,13,23,36,F,84,No,2,No,Yes,9.11
+115,Bhavin Buch,Object Oriented Programming,15,47,62,C,90,Yes,2,Yes,Yes,5.54
+115,Bhavin Buch,Discrete Mathematics,20,67,87,A,63,Yes,2,Yes,Yes,5.54
+115,Bhavin Buch,Computer Organization,28,24,52,D,67,Yes,4,Yes,No,5.54
+115,Bhavin Buch,Database Management Systems,19,60,79,B,81,Yes,1,No,Yes,5.54
+115,Bhavin Buch,Data Communication,17,39,56,C,87,Yes,1,Yes,Yes,5.54
+116,Samarth Chad,Object Oriented Programming,24,54,78,B,85,Yes,4,No,No,6.07
+116,Samarth Chad,Discrete Mathematics,15,70,85,A,69,Yes,3,No,No,6.07
+116,Samarth Chad,Computer Organization,12,23,35,F,97,No,5,Yes,No,6.07
+116,Samarth Chad,Database Management Systems,11,54,65,C,79,Yes,3,Yes,No,6.07
+116,Samarth Chad,Data Communication,16,29,45,D,76,Yes,2,Yes,Yes,6.07
+117,Adira Agarwal,Object Oriented Programming,11,20,31,F,92,No,4,No,Yes,7.26
+117,Adira Agarwal,Discrete Mathematics,11,33,44,D,82,Yes,2,No,No,7.26
+117,Adira Agarwal,Computer Organization,15,64,79,B,96,Yes,2,No,Yes,7.26
+117,Adira Agarwal,Database Management Systems,10,55,65,C,87,Yes,4,Yes,No,7.26
+117,Adira Agarwal,Data Communication,22,33,55,C,72,Yes,5,Yes,Yes,7.26
+118,Raunak Warrior,Object Oriented Programming,29,58,87,A,85,Yes,3,No,Yes,6.5
+118,Raunak Warrior,Discrete Mathematics,13,30,43,D,62,Yes,2,No,Yes,6.5
+118,Raunak Warrior,Computer Organization,25,58,83,B,67,Yes,2,No,Yes,6.5
+118,Raunak Warrior,Database Management Systems,14,48,62,C,96,Yes,1,No,Yes,6.5
+118,Raunak Warrior,Data Communication,12,46,58,C,71,Yes,1,Yes,No,6.5
+119,Pranay Koshy,Object Oriented Programming,27,53,80,B,86,Yes,4,Yes,No,9.03
+119,Pranay Koshy,Discrete Mathematics,11,53,64,C,86,Yes,2,Yes,Yes,9.03
+119,Pranay Koshy,Computer Organization,19,65,84,B,88,Yes,3,Yes,No,9.03
+119,Pranay Koshy,Database Management Systems,28,42,70,B,77,Yes,1,No,No,9.03
+119,Pranay Koshy,Data Communication,18,66,84,B,88,Yes,3,Yes,No,9.03
+120,Piya Mammen,Object Oriented Programming,11,32,43,D,80,Yes,2,Yes,Yes,9.89
+120,Piya Mammen,Discrete Mathematics,16,35,51,D,88,Yes,4,No,No,9.89
+120,Piya Mammen,Computer Organization,14,66,80,B,72,Yes,3,No,Yes,9.89
+120,Piya Mammen,Database Management Systems,12,47,59,C,70,Yes,5,No,Yes,9.89
+120,Piya Mammen,Data Communication,25,70,95,A,60,Yes,2,Yes,No,9.89
+121,Zoya Tara,Object Oriented Programming,15,45,60,C,74,Yes,3,Yes,No,9.46
+121,Zoya Tara,Discrete Mathematics,24,45,69,C,71,Yes,3,No,No,9.46
+121,Zoya Tara,Computer Organization,14,46,60,C,80,Yes,5,No,No,9.46
+121,Zoya Tara,Database Management Systems,21,26,47,D,88,Yes,1,Yes,No,9.46
+121,Zoya Tara,Data Communication,30,54,84,B,67,Yes,1,No,Yes,9.46
+122,Tejas Subramanian,Object Oriented Programming,11,34,45,D,86,Yes,2,Yes,No,8.49
+122,Tejas Subramanian,Discrete Mathematics,12,33,45,D,69,Yes,4,No,Yes,8.49
+122,Tejas Subramanian,Computer Organization,15,42,57,C,74,Yes,1,Yes,No,8.49
+122,Tejas Subramanian,Database Management Systems,28,43,71,B,80,Yes,3,No,Yes,8.49
+122,Tejas Subramanian,Data Communication,17,64,81,B,65,Yes,5,No,Yes,8.49
+123,Seher Contractor,Object Oriented Programming,21,28,49,D,83,Yes,1,No,Yes,7.46
+123,Seher Contractor,Discrete Mathematics,18,26,44,D,62,Yes,4,No,Yes,7.46
+123,Seher Contractor,Computer Organization,25,60,85,A,70,Yes,4,No,Yes,7.46
+123,Seher Contractor,Database Management Systems,24,51,75,B,70,Yes,3,No,No,7.46
+123,Seher Contractor,Data Communication,17,65,82,B,61,Yes,4,No,No,7.46
+124,Navya Goel,Object Oriented Programming,27,28,55,C,68,Yes,4,Yes,Yes,7.27
+124,Navya Goel,Discrete Mathematics,30,54,84,B,61,Yes,2,Yes,Yes,7.27
+124,Navya Goel,Computer Organization,23,52,75,B,99,Yes,2,No,Yes,7.27
+124,Navya Goel,Database Management Systems,27,66,93,A,68,Yes,5,Yes,No,7.27
+124,Navya Goel,Data Communication,28,21,49,D,74,Yes,1,Yes,No,7.27
+125,Devansh Golla,Object Oriented Programming,29,63,92,A,79,Yes,5,Yes,No,6.11
+125,Devansh Golla,Discrete Mathematics,15,28,43,D,84,Yes,1,No,Yes,6.11
+125,Devansh Golla,Computer Organization,29,30,59,C,64,Yes,4,No,No,6.11
+125,Devansh Golla,Database Management Systems,17,55,72,B,89,Yes,3,No,Yes,6.11
+125,Devansh Golla,Data Communication,18,43,61,C,61,Yes,4,Yes,No,6.11
+126,Khushi Vaidya,Object Oriented Programming,26,61,87,A,80,Yes,2,No,Yes,9.11
+126,Khushi Vaidya,Discrete Mathematics,30,69,99,A,98,Yes,3,No,No,9.11
+126,Khushi Vaidya,Computer Organization,11,33,44,D,85,Yes,2,No,Yes,9.11
+126,Khushi Vaidya,Database Management Systems,13,20,33,F,66,No,1,Yes,Yes,9.11
+126,Khushi Vaidya,Data Communication,20,34,54,D,75,Yes,5,No,Yes,9.11
+127,Keya Balakrishnan,Object Oriented Programming,23,56,79,B,75,Yes,2,No,No,5.39
+127,Keya Balakrishnan,Discrete Mathematics,16,29,45,D,90,Yes,4,No,No,5.39
+127,Keya Balakrishnan,Computer Organization,21,25,46,D,93,Yes,2,Yes,Yes,5.39
+127,Keya Balakrishnan,Database Management Systems,13,65,78,B,95,Yes,5,No,Yes,5.39
+127,Keya Balakrishnan,Data Communication,14,65,79,B,75,Yes,3,No,No,5.39
+128,Oorja Rout,Object Oriented Programming,27,20,47,D,72,Yes,2,Yes,No,9.17
+128,Oorja Rout,Discrete Mathematics,26,36,62,C,68,Yes,4,No,Yes,9.17
+128,Oorja Rout,Computer Organization,15,62,77,B,70,Yes,2,No,Yes,9.17
+128,Oorja Rout,Database Management Systems,30,34,64,C,87,Yes,4,Yes,Yes,9.17
+128,Oorja Rout,Data Communication,23,35,58,C,97,Yes,4,No,No,9.17
+129,Aarav Gade,Object Oriented Programming,23,37,60,C,63,Yes,1,No,No,9.52
+129,Aarav Gade,Discrete Mathematics,22,28,50,D,82,Yes,2,Yes,No,9.52
+129,Aarav Gade,Computer Organization,12,38,50,D,74,Yes,2,Yes,Yes,9.52
+129,Aarav Gade,Database Management Systems,11,35,46,D,73,Yes,1,Yes,Yes,9.52
+129,Aarav Gade,Data Communication,23,54,77,B,75,Yes,3,Yes,Yes,9.52
+130,Dhruv Mangat,Object Oriented Programming,26,55,81,B,82,Yes,1,No,No,5.09
+130,Dhruv Mangat,Discrete Mathematics,12,42,54,D,71,Yes,4,No,No,5.09
+130,Dhruv Mangat,Computer Organization,18,32,50,D,85,Yes,4,Yes,Yes,5.09
+130,Dhruv Mangat,Database Management Systems,26,67,93,A,99,Yes,1,No,Yes,5.09
+130,Dhruv Mangat,Data Communication,25,37,62,C,91,Yes,3,Yes,No,5.09
+131,Chirag Gola,Object Oriented Programming,27,22,49,D,76,Yes,5,Yes,Yes,5.29
+131,Chirag Gola,Discrete Mathematics,20,41,61,C,71,Yes,3,No,Yes,5.29
+131,Chirag Gola,Computer Organization,13,49,62,C,67,Yes,1,Yes,No,5.29
+131,Chirag Gola,Database Management Systems,25,29,54,D,97,Yes,2,Yes,Yes,5.29
+131,Chirag Gola,Data Communication,18,45,63,C,68,Yes,1,No,Yes,5.29
+132,Samar Kari,Object Oriented Programming,18,37,55,C,91,Yes,5,No,No,7.89
+132,Samar Kari,Discrete Mathematics,10,28,38,F,94,No,3,Yes,No,7.89
+132,Samar Kari,Computer Organization,24,60,84,B,69,Yes,2,No,Yes,7.89
+132,Samar Kari,Database Management Systems,18,30,48,D,67,Yes,2,Yes,Yes,7.89
+132,Samar Kari,Data Communication,28,24,52,D,88,Yes,1,Yes,No,7.89
+133,Anahi Aggarwal,Object Oriented Programming,23,41,64,C,60,Yes,2,No,Yes,9.23
+133,Anahi Aggarwal,Discrete Mathematics,21,51,72,B,67,Yes,3,Yes,No,9.23
+133,Anahi Aggarwal,Computer Organization,24,29,53,D,75,Yes,3,Yes,Yes,9.23
+133,Anahi Aggarwal,Database Management Systems,14,26,40,D,82,Yes,2,No,No,9.23
+133,Anahi Aggarwal,Data Communication,26,63,89,A,79,Yes,5,No,No,9.23
+134,Tejas Tak,Object Oriented Programming,13,63,76,B,68,Yes,2,No,Yes,6.59
+134,Tejas Tak,Discrete Mathematics,12,51,63,C,67,Yes,4,No,No,6.59
+134,Tejas Tak,Computer Organization,16,50,66,C,87,Yes,4,No,No,6.59
+134,Tejas Tak,Database Management Systems,10,60,70,B,82,Yes,5,Yes,Yes,6.59
+134,Tejas Tak,Data Communication,21,62,83,B,84,Yes,4,No,No,6.59
+135,Kismat Din,Object Oriented Programming,16,36,52,D,62,Yes,1,No,No,8.15
+135,Kismat Din,Discrete Mathematics,20,27,47,D,85,Yes,3,No,Yes,8.15
+135,Kismat Din,Computer Organization,29,29,58,C,86,Yes,4,No,No,8.15
+135,Kismat Din,Database Management Systems,12,36,48,D,94,Yes,1,No,No,8.15
+135,Kismat Din,Data Communication,16,48,64,C,86,Yes,2,No,No,8.15
+136,Kimaya Comar,Object Oriented Programming,17,53,70,B,69,Yes,1,Yes,Yes,7.92
+136,Kimaya Comar,Discrete Mathematics,27,55,82,B,91,Yes,5,Yes,No,7.92
+136,Kimaya Comar,Computer Organization,21,60,81,B,66,Yes,1,No,Yes,7.92
+136,Kimaya Comar,Database Management Systems,16,52,68,C,90,Yes,5,No,Yes,7.92
+136,Kimaya Comar,Data Communication,10,41,51,D,77,Yes,2,Yes,No,7.92
+137,Zara Chakrabarti,Object Oriented Programming,13,37,50,D,95,Yes,1,No,No,5.64
+137,Zara Chakrabarti,Discrete Mathematics,24,30,54,D,72,Yes,1,No,Yes,5.64
+137,Zara Chakrabarti,Computer Organization,25,59,84,B,63,Yes,4,No,No,5.64
+137,Zara Chakrabarti,Database Management Systems,27,63,90,A,95,Yes,4,Yes,No,5.64
+137,Zara Chakrabarti,Data Communication,23,32,55,C,100,Yes,4,No,Yes,5.64
+138,Samiha Batra,Object Oriented Programming,10,50,60,C,73,Yes,5,No,No,8.88
+138,Samiha Batra,Discrete Mathematics,16,70,86,A,72,Yes,2,No,Yes,8.88
+138,Samiha Batra,Computer Organization,11,58,69,C,79,Yes,1,Yes,Yes,8.88
+138,Samiha Batra,Database Management Systems,21,56,77,B,97,Yes,5,No,Yes,8.88
+138,Samiha Batra,Data Communication,26,70,96,A,85,Yes,4,No,No,8.88
+139,Chirag Shankar,Object Oriented Programming,23,31,54,D,89,Yes,1,Yes,No,6.39
+139,Chirag Shankar,Discrete Mathematics,29,48,77,B,65,Yes,4,Yes,No,6.39
+139,Chirag Shankar,Computer Organization,23,54,77,B,89,Yes,2,Yes,No,6.39
+139,Chirag Shankar,Database Management Systems,13,60,73,B,84,Yes,5,Yes,No,6.39
+139,Chirag Shankar,Data Communication,11,23,34,F,84,No,5,Yes,No,6.39
+140,Kanav Mall,Object Oriented Programming,20,24,44,D,77,Yes,5,No,Yes,9.85
+140,Kanav Mall,Discrete Mathematics,19,20,39,F,89,No,1,No,Yes,9.85
+140,Kanav Mall,Computer Organization,15,23,38,F,98,No,2,Yes,Yes,9.85
+140,Kanav Mall,Database Management Systems,15,24,39,F,98,No,2,No,No,9.85
+140,Kanav Mall,Data Communication,22,44,66,C,63,Yes,3,No,No,9.85
+141,Ishita Sant,Object Oriented Programming,18,45,63,C,88,Yes,2,No,Yes,7.49
+141,Ishita Sant,Discrete Mathematics,17,33,50,D,80,Yes,3,Yes,No,7.49
+141,Ishita Sant,Computer Organization,11,56,67,C,89,Yes,4,No,No,7.49
+141,Ishita Sant,Database Management Systems,25,70,95,A,77,Yes,3,No,Yes,7.49
+141,Ishita Sant,Data Communication,12,40,52,D,99,Yes,1,No,No,7.49
+142,Aarav Dutta,Object Oriented Programming,20,34,54,D,63,Yes,5,No,Yes,8.24
+142,Aarav Dutta,Discrete Mathematics,29,70,99,A,94,Yes,3,No,No,8.24
+142,Aarav Dutta,Computer Organization,12,27,39,F,99,No,4,No,No,8.24
+142,Aarav Dutta,Database Management Systems,12,37,49,D,95,Yes,5,No,Yes,8.24
+142,Aarav Dutta,Data Communication,24,36,60,C,74,Yes,2,Yes,No,8.24
+143,Lagan Bhatt,Object Oriented Programming,22,25,47,D,84,Yes,5,Yes,Yes,8.89
+143,Lagan Bhatt,Discrete Mathematics,15,56,71,B,80,Yes,1,No,Yes,8.89
+143,Lagan Bhatt,Computer Organization,13,50,63,C,94,Yes,1,No,Yes,8.89
+143,Lagan Bhatt,Database Management Systems,12,70,82,B,67,Yes,4,Yes,No,8.89
+143,Lagan Bhatt,Data Communication,18,31,49,D,92,Yes,2,No,Yes,8.89
+144,Lakshit Bajaj,Object Oriented Programming,25,35,60,C,89,Yes,5,No,Yes,6.62
+144,Lakshit Bajaj,Discrete Mathematics,14,20,34,F,85,No,2,No,No,6.62
+144,Lakshit Bajaj,Computer Organization,13,25,38,F,91,No,2,No,No,6.62
+144,Lakshit Bajaj,Database Management Systems,15,27,42,D,81,Yes,5,Yes,Yes,6.62
+144,Lakshit Bajaj,Data Communication,22,29,51,D,79,Yes,4,No,No,6.62
+145,Nirvi Kohli,Object Oriented Programming,30,27,57,C,97,Yes,3,No,No,5.84
+145,Nirvi Kohli,Discrete Mathematics,10,27,37,F,94,No,1,Yes,No,5.84
+145,Nirvi Kohli,Computer Organization,29,66,95,A,97,Yes,3,Yes,No,5.84
+145,Nirvi Kohli,Database Management Systems,30,44,74,B,67,Yes,4,No,Yes,5.84
+145,Nirvi Kohli,Data Communication,15,57,72,B,81,Yes,4,Yes,No,5.84
+146,Devansh Chauhan,Object Oriented Programming,24,51,75,B,68,Yes,2,No,No,9.07
+146,Devansh Chauhan,Discrete Mathematics,16,49,65,C,71,Yes,3,No,Yes,9.07
+146,Devansh Chauhan,Computer Organization,21,37,58,C,91,Yes,1,Yes,Yes,9.07
+146,Devansh Chauhan,Database Management Systems,15,61,76,B,95,Yes,2,Yes,No,9.07
+146,Devansh Chauhan,Data Communication,30,54,84,B,85,Yes,3,Yes,No,9.07
+147,Manikya Gandhi,Object Oriented Programming,23,23,46,D,71,Yes,4,No,Yes,8.26
+147,Manikya Gandhi,Discrete Mathematics,15,50,65,C,86,Yes,2,No,No,8.26
+147,Manikya Gandhi,Computer Organization,21,53,74,B,85,Yes,3,Yes,Yes,8.26
+147,Manikya Gandhi,Database Management Systems,24,27,51,D,82,Yes,2,Yes,Yes,8.26
+147,Manikya Gandhi,Data Communication,28,50,78,B,80,Yes,2,No,Yes,8.26
+148,Azad Balasubramanian,Object Oriented Programming,13,35,48,D,71,Yes,2,Yes,Yes,7.2
+148,Azad Balasubramanian,Discrete Mathematics,24,50,74,B,64,Yes,3,Yes,No,7.2
+148,Azad Balasubramanian,Computer Organization,29,21,50,D,79,Yes,1,No,No,7.2
+148,Azad Balasubramanian,Database Management Systems,22,68,90,A,69,Yes,2,No,Yes,7.2
+148,Azad Balasubramanian,Data Communication,12,61,73,B,81,Yes,1,No,No,7.2
+149,Ritvik Chadha,Object Oriented Programming,30,60,90,A,90,Yes,3,No,No,9.44
+149,Ritvik Chadha,Discrete Mathematics,14,21,35,F,97,No,2,Yes,No,9.44
+149,Ritvik Chadha,Computer Organization,26,28,54,D,65,Yes,2,Yes,Yes,9.44
+149,Ritvik Chadha,Database Management Systems,18,55,73,B,97,Yes,4,Yes,No,9.44
+149,Ritvik Chadha,Data Communication,30,46,76,B,67,Yes,2,No,Yes,9.44
+150,Seher Badami,Object Oriented Programming,28,27,55,C,96,Yes,1,Yes,Yes,7.61
+150,Seher Badami,Discrete Mathematics,24,29,53,D,71,Yes,2,No,Yes,7.61
+150,Seher Badami,Computer Organization,23,57,80,B,70,Yes,1,Yes,Yes,7.61
+150,Seher Badami,Database Management Systems,30,63,93,A,69,Yes,1,No,No,7.61
+150,Seher Badami,Data Communication,28,20,48,D,68,Yes,3,No,Yes,7.61
+151,Saanvi Kant,Object Oriented Programming,12,56,68,C,60,Yes,1,No,Yes,5.78
+151,Saanvi Kant,Discrete Mathematics,21,27,48,D,84,Yes,5,Yes,No,5.78
+151,Saanvi Kant,Computer Organization,29,68,97,A,95,Yes,4,Yes,Yes,5.78
+151,Saanvi Kant,Database Management Systems,30,62,92,A,70,Yes,2,Yes,Yes,5.78
+151,Saanvi Kant,Data Communication,12,42,54,D,71,Yes,4,No,No,5.78
+152,Ayesha Gera,Object Oriented Programming,22,25,47,D,72,Yes,1,No,No,5.87
+152,Ayesha Gera,Discrete Mathematics,12,46,58,C,94,Yes,3,Yes,Yes,5.87
+152,Ayesha Gera,Computer Organization,19,29,48,D,83,Yes,2,No,No,5.87
+152,Ayesha Gera,Database Management Systems,10,21,31,F,97,No,5,No,Yes,5.87
+152,Ayesha Gera,Data Communication,18,67,85,A,69,Yes,4,Yes,No,5.87
+153,Khushi Dora,Object Oriented Programming,28,29,57,C,64,Yes,1,No,No,6.41
+153,Khushi Dora,Discrete Mathematics,24,25,49,D,62,Yes,3,No,No,6.41
+153,Khushi Dora,Computer Organization,23,41,64,C,83,Yes,4,Yes,No,6.41
+153,Khushi Dora,Database Management Systems,24,51,75,B,86,Yes,1,Yes,Yes,6.41
+153,Khushi Dora,Data Communication,15,58,73,B,74,Yes,2,Yes,Yes,6.41
+154,Piya Char,Object Oriented Programming,27,66,93,A,63,Yes,1,No,No,9.66
+154,Piya Char,Discrete Mathematics,16,60,76,B,73,Yes,2,No,No,9.66
+154,Piya Char,Computer Organization,22,54,76,B,96,Yes,5,Yes,No,9.66
+154,Piya Char,Database Management Systems,23,53,76,B,95,Yes,2,Yes,No,9.66
+154,Piya Char,Data Communication,25,21,46,D,86,Yes,2,No,No,9.66
+155,Kanav Soman,Object Oriented Programming,25,61,86,A,79,Yes,2,Yes,No,6.5
+155,Kanav Soman,Discrete Mathematics,13,60,73,B,84,Yes,5,Yes,No,6.5
+155,Kanav Soman,Computer Organization,16,68,84,B,98,Yes,4,No,No,6.5
+155,Kanav Soman,Database Management Systems,25,66,91,A,79,Yes,4,Yes,Yes,6.5
+155,Kanav Soman,Data Communication,11,24,35,F,95,No,4,No,Yes,6.5
+156,Vanya Venkataraman,Object Oriented Programming,24,52,76,B,69,Yes,2,Yes,Yes,9.87
+156,Vanya Venkataraman,Discrete Mathematics,19,47,66,C,69,Yes,3,Yes,No,9.87
+156,Vanya Venkataraman,Computer Organization,11,55,66,C,97,Yes,3,Yes,Yes,9.87
+156,Vanya Venkataraman,Database Management Systems,23,34,57,C,84,Yes,4,Yes,Yes,9.87
+156,Vanya Venkataraman,Data Communication,25,57,82,B,83,Yes,5,Yes,Yes,9.87
+157,Hrishita Kari,Object Oriented Programming,17,23,40,D,94,Yes,2,No,No,7.11
+157,Hrishita Kari,Discrete Mathematics,13,44,57,C,63,Yes,2,Yes,Yes,7.11
+157,Hrishita Kari,Computer Organization,22,66,88,A,71,Yes,4,Yes,Yes,7.11
+157,Hrishita Kari,Database Management Systems,21,56,77,B,94,Yes,2,Yes,No,7.11
+157,Hrishita Kari,Data Communication,13,25,38,F,84,No,2,No,No,7.11
+158,Shlok Manda,Object Oriented Programming,24,51,75,B,94,Yes,3,Yes,Yes,8.53
+158,Shlok Manda,Discrete Mathematics,20,55,75,B,70,Yes,5,Yes,No,8.53
+158,Shlok Manda,Computer Organization,21,41,62,C,89,Yes,3,Yes,Yes,8.53
+158,Shlok Manda,Database Management Systems,23,30,53,D,92,Yes,1,Yes,No,8.53
+158,Shlok Manda,Data Communication,24,39,63,C,75,Yes,1,No,Yes,8.53
+159,Adah Barad,Object Oriented Programming,30,28,58,C,76,Yes,3,Yes,No,9.22
+159,Adah Barad,Discrete Mathematics,22,23,45,D,63,Yes,2,Yes,Yes,9.22
+159,Adah Barad,Computer Organization,10,60,70,B,89,Yes,4,No,Yes,9.22
+159,Adah Barad,Database Management Systems,19,50,69,C,96,Yes,5,No,No,9.22
+159,Adah Barad,Data Communication,17,52,69,C,81,Yes,1,No,No,9.22
+160,Rati Saha,Object Oriented Programming,27,20,47,D,83,Yes,2,Yes,Yes,7.71
+160,Rati Saha,Discrete Mathematics,13,41,54,D,63,Yes,4,No,No,7.71
+160,Rati Saha,Computer Organization,30,31,61,C,72,Yes,3,No,Yes,7.71
+160,Rati Saha,Database Management Systems,11,50,61,C,76,Yes,3,No,No,7.71
+160,Rati Saha,Data Communication,25,50,75,B,79,Yes,2,Yes,Yes,7.71
+161,Manikya Wali,Object Oriented Programming,22,61,83,B,85,Yes,3,No,No,7.57
+161,Manikya Wali,Discrete Mathematics,24,53,77,B,91,Yes,5,Yes,No,7.57
+161,Manikya Wali,Computer Organization,11,33,44,D,99,Yes,2,No,Yes,7.57
+161,Manikya Wali,Database Management Systems,12,65,77,B,96,Yes,3,No,Yes,7.57
+161,Manikya Wali,Data Communication,22,22,44,D,87,Yes,3,Yes,Yes,7.57
+162,Vritika Krishna,Object Oriented Programming,28,26,54,D,78,Yes,4,Yes,Yes,7.07
+162,Vritika Krishna,Discrete Mathematics,11,49,60,C,62,Yes,3,No,Yes,7.07
+162,Vritika Krishna,Computer Organization,14,33,47,D,76,Yes,4,Yes,No,7.07
+162,Vritika Krishna,Database Management Systems,24,64,88,A,66,Yes,5,No,Yes,7.07
+162,Vritika Krishna,Data Communication,16,36,52,D,72,Yes,4,No,Yes,7.07
+163,Umang Handa,Object Oriented Programming,23,33,56,C,78,Yes,1,Yes,Yes,5.95
+163,Umang Handa,Discrete Mathematics,24,64,88,A,85,Yes,1,Yes,Yes,5.95
+163,Umang Handa,Computer Organization,14,31,45,D,63,Yes,5,Yes,Yes,5.95
+163,Umang Handa,Database Management Systems,22,44,66,C,87,Yes,5,Yes,Yes,5.95
+163,Umang Handa,Data Communication,12,30,42,D,78,Yes,1,Yes,No,5.95
+164,Darshit Raj,Object Oriented Programming,25,35,60,C,61,Yes,1,No,No,6.61
+164,Darshit Raj,Discrete Mathematics,11,55,66,C,73,Yes,2,No,Yes,6.61
+164,Darshit Raj,Computer Organization,13,58,71,B,95,Yes,3,Yes,No,6.61
+164,Darshit Raj,Database Management Systems,29,42,71,B,88,Yes,2,Yes,Yes,6.61
+164,Darshit Raj,Data Communication,15,27,42,D,87,Yes,2,Yes,Yes,6.61
+165,Seher Vaidya,Object Oriented Programming,11,31,42,D,76,Yes,3,No,No,8.11
+165,Seher Vaidya,Discrete Mathematics,18,65,83,B,96,Yes,2,No,Yes,8.11
+165,Seher Vaidya,Computer Organization,24,47,71,B,77,Yes,5,No,No,8.11
+165,Seher Vaidya,Database Management Systems,24,24,48,D,86,Yes,3,Yes,No,8.11
+165,Seher Vaidya,Data Communication,30,36,66,C,67,Yes,4,No,Yes,8.11
+166,Shanaya Hari,Object Oriented Programming,28,31,59,C,93,Yes,3,Yes,Yes,5.49
+166,Shanaya Hari,Discrete Mathematics,15,31,46,D,78,Yes,1,Yes,No,5.49
+166,Shanaya Hari,Computer Organization,12,45,57,C,83,Yes,2,Yes,No,5.49
+166,Shanaya Hari,Database Management Systems,15,57,72,B,96,Yes,1,Yes,No,5.49
+166,Shanaya Hari,Data Communication,30,22,52,D,79,Yes,5,Yes,Yes,5.49
+167,Taran Bhargava,Object Oriented Programming,10,40,50,D,77,Yes,3,No,No,7.0
+167,Taran Bhargava,Discrete Mathematics,23,70,93,A,77,Yes,2,Yes,Yes,7.0
+167,Taran Bhargava,Computer Organization,21,34,55,C,86,Yes,5,No,No,7.0
+167,Taran Bhargava,Database Management Systems,18,30,48,D,83,Yes,5,No,Yes,7.0
+167,Taran Bhargava,Data Communication,12,50,62,C,74,Yes,1,Yes,Yes,7.0
+168,Fateh Rajan,Object Oriented Programming,21,46,67,C,90,Yes,4,No,Yes,9.46
+168,Fateh Rajan,Discrete Mathematics,11,21,32,F,83,No,5,Yes,Yes,9.46
+168,Fateh Rajan,Computer Organization,27,42,69,C,98,Yes,2,No,Yes,9.46
+168,Fateh Rajan,Database Management Systems,22,26,48,D,73,Yes,1,Yes,No,9.46
+168,Fateh Rajan,Data Communication,16,68,84,B,65,Yes,3,No,Yes,9.46
+169,Oorja Dixit,Object Oriented Programming,15,22,37,F,82,No,1,Yes,Yes,6.69
+169,Oorja Dixit,Discrete Mathematics,25,25,50,D,92,Yes,3,No,Yes,6.69
+169,Oorja Dixit,Computer Organization,12,42,54,D,68,Yes,1,Yes,No,6.69
+169,Oorja Dixit,Database Management Systems,19,42,61,C,60,Yes,1,Yes,Yes,6.69
+169,Oorja Dixit,Data Communication,23,31,54,D,78,Yes,2,No,Yes,6.69
+170,Oorja Dhillon,Object Oriented Programming,11,66,77,B,69,Yes,1,Yes,No,8.91
+170,Oorja Dhillon,Discrete Mathematics,28,54,82,B,65,Yes,2,No,Yes,8.91
+170,Oorja Dhillon,Computer Organization,19,40,59,C,94,Yes,2,No,No,8.91
+170,Oorja Dhillon,Database Management Systems,21,43,64,C,61,Yes,3,No,Yes,8.91
+170,Oorja Dhillon,Data Communication,12,70,82,B,91,Yes,5,No,Yes,8.91
+171,Divij Bhatti,Object Oriented Programming,22,31,53,D,90,Yes,2,No,No,7.22
+171,Divij Bhatti,Discrete Mathematics,14,33,47,D,70,Yes,2,No,Yes,7.22
+171,Divij Bhatti,Computer Organization,10,41,51,D,83,Yes,2,Yes,No,7.22
+171,Divij Bhatti,Database Management Systems,20,24,44,D,68,Yes,2,No,No,7.22
+171,Divij Bhatti,Data Communication,16,70,86,A,77,Yes,1,Yes,No,7.22
+172,Aarna Kanda,Object Oriented Programming,26,26,52,D,73,Yes,5,No,Yes,6.16
+172,Aarna Kanda,Discrete Mathematics,30,53,83,B,65,Yes,4,No,Yes,6.16
+172,Aarna Kanda,Computer Organization,14,69,83,B,64,Yes,3,No,Yes,6.16
+172,Aarna Kanda,Database Management Systems,28,64,92,A,95,Yes,3,Yes,No,6.16
+172,Aarna Kanda,Data Communication,14,40,54,D,91,Yes,2,No,Yes,6.16
+173,Dhanuk Rau,Object Oriented Programming,20,60,80,B,74,Yes,3,Yes,No,7.67
+173,Dhanuk Rau,Discrete Mathematics,24,57,81,B,86,Yes,3,Yes,Yes,7.67
+173,Dhanuk Rau,Computer Organization,14,49,63,C,72,Yes,4,No,Yes,7.67
+173,Dhanuk Rau,Database Management Systems,26,25,51,D,79,Yes,4,Yes,Yes,7.67
+173,Dhanuk Rau,Data Communication,26,27,53,D,67,Yes,5,Yes,No,7.67
+174,Stuvan Din,Object Oriented Programming,16,35,51,D,97,Yes,5,Yes,Yes,5.81
+174,Stuvan Din,Discrete Mathematics,27,24,51,D,93,Yes,4,Yes,No,5.81
+174,Stuvan Din,Computer Organization,23,65,88,A,82,Yes,1,No,No,5.81
+174,Stuvan Din,Database Management Systems,27,40,67,C,70,Yes,1,No,Yes,5.81
+174,Stuvan Din,Data Communication,16,60,76,B,74,Yes,4,No,Yes,5.81
+175,Riaan Dhingra,Object Oriented Programming,20,66,86,A,85,Yes,4,No,Yes,7.12
+175,Riaan Dhingra,Discrete Mathematics,16,57,73,B,95,Yes,5,Yes,Yes,7.12
+175,Riaan Dhingra,Computer Organization,29,42,71,B,77,Yes,1,Yes,Yes,7.12
+175,Riaan Dhingra,Database Management Systems,14,32,46,D,80,Yes,2,No,No,7.12
+175,Riaan Dhingra,Data Communication,21,21,42,D,67,Yes,3,No,No,7.12
+176,Saksham Bhatnagar,Object Oriented Programming,25,23,48,D,62,Yes,2,Yes,Yes,5.64
+176,Saksham Bhatnagar,Discrete Mathematics,18,30,48,D,83,Yes,4,No,Yes,5.64
+176,Saksham Bhatnagar,Computer Organization,21,52,73,B,98,Yes,2,No,No,5.64
+176,Saksham Bhatnagar,Database Management Systems,15,44,59,C,77,Yes,1,Yes,No,5.64
+176,Saksham Bhatnagar,Data Communication,12,29,41,D,90,Yes,5,No,No,5.64
+177,Diya Sathe,Object Oriented Programming,15,58,73,B,99,Yes,1,No,Yes,5.28
+177,Diya Sathe,Discrete Mathematics,16,36,52,D,75,Yes,4,Yes,Yes,5.28
+177,Diya Sathe,Computer Organization,21,53,74,B,73,Yes,3,Yes,No,5.28
+177,Diya Sathe,Database Management Systems,23,64,87,A,67,Yes,3,No,Yes,5.28
+177,Diya Sathe,Data Communication,29,57,86,A,91,Yes,4,Yes,No,5.28
+178,Neelofar Gour,Object Oriented Programming,30,58,88,A,85,Yes,3,No,No,6.08
+178,Neelofar Gour,Discrete Mathematics,18,63,81,B,87,Yes,5,Yes,No,6.08
+178,Neelofar Gour,Computer Organization,24,70,94,A,77,Yes,5,Yes,Yes,6.08
+178,Neelofar Gour,Database Management Systems,23,43,66,C,65,Yes,2,No,Yes,6.08
+178,Neelofar Gour,Data Communication,20,37,57,C,74,Yes,1,No,No,6.08
+179,Priyansh Shere,Object Oriented Programming,18,56,74,B,85,Yes,2,No,Yes,6.84
+179,Priyansh Shere,Discrete Mathematics,30,40,70,B,69,Yes,3,Yes,No,6.84
+179,Priyansh Shere,Computer Organization,17,32,49,D,62,Yes,5,Yes,Yes,6.84
+179,Priyansh Shere,Database Management Systems,24,54,78,B,99,Yes,4,No,No,6.84
+179,Priyansh Shere,Data Communication,24,25,49,D,88,Yes,5,Yes,Yes,6.84
+180,Mohanlal Gupta,Object Oriented Programming,26,29,55,C,99,Yes,2,Yes,No,8.13
+180,Mohanlal Gupta,Discrete Mathematics,30,55,85,A,96,Yes,2,Yes,No,8.13
+180,Mohanlal Gupta,Computer Organization,14,60,74,B,89,Yes,3,Yes,No,8.13
+180,Mohanlal Gupta,Database Management Systems,10,66,76,B,69,Yes,1,Yes,No,8.13
+180,Mohanlal Gupta,Data Communication,18,69,87,A,86,Yes,2,No,No,8.13
+181,Ela Dhingra,Object Oriented Programming,11,31,42,D,80,Yes,5,No,Yes,8.86
+181,Ela Dhingra,Discrete Mathematics,16,40,56,C,62,Yes,3,Yes,No,8.86
+181,Ela Dhingra,Computer Organization,20,57,77,B,79,Yes,1,Yes,Yes,8.86
+181,Ela Dhingra,Database Management Systems,22,51,73,B,71,Yes,1,No,No,8.86
+181,Ela Dhingra,Data Communication,15,45,60,C,94,Yes,2,No,Yes,8.86
+182,Shalv Soni,Object Oriented Programming,28,62,90,A,69,Yes,4,No,No,9.63
+182,Shalv Soni,Discrete Mathematics,26,44,70,B,65,Yes,1,No,No,9.63
+182,Shalv Soni,Computer Organization,22,39,61,C,77,Yes,4,No,Yes,9.63
+182,Shalv Soni,Database Management Systems,15,64,79,B,95,Yes,1,Yes,Yes,9.63
+182,Shalv Soni,Data Communication,19,37,56,C,68,Yes,3,No,No,9.63
+183,Umang Ramakrishnan,Object Oriented Programming,17,25,42,D,98,Yes,4,Yes,Yes,7.17
+183,Umang Ramakrishnan,Discrete Mathematics,21,58,79,B,83,Yes,1,Yes,Yes,7.17
+183,Umang Ramakrishnan,Computer Organization,24,43,67,C,66,Yes,2,No,No,7.17
+183,Umang Ramakrishnan,Database Management Systems,12,36,48,D,79,Yes,3,No,Yes,7.17
+183,Umang Ramakrishnan,Data Communication,18,54,72,B,64,Yes,5,Yes,Yes,7.17
+184,Arhaan Bedi,Object Oriented Programming,20,50,70,B,89,Yes,4,No,No,5.06
+184,Arhaan Bedi,Discrete Mathematics,28,36,64,C,84,Yes,1,No,Yes,5.06
+184,Arhaan Bedi,Computer Organization,23,47,70,B,99,Yes,4,Yes,No,5.06
+184,Arhaan Bedi,Database Management Systems,24,21,45,D,62,Yes,3,Yes,No,5.06
+184,Arhaan Bedi,Data Communication,21,41,62,C,89,Yes,1,Yes,No,5.06
+185,Mohanlal Dugar,Object Oriented Programming,13,29,42,D,65,Yes,3,No,No,7.97
+185,Mohanlal Dugar,Discrete Mathematics,29,70,99,A,76,Yes,5,No,No,7.97
+185,Mohanlal Dugar,Computer Organization,15,67,82,B,95,Yes,5,Yes,Yes,7.97
+185,Mohanlal Dugar,Database Management Systems,16,50,66,C,61,Yes,4,Yes,No,7.97
+185,Mohanlal Dugar,Data Communication,12,29,41,D,63,Yes,1,Yes,No,7.97
+186,Pihu Chanda,Object Oriented Programming,24,29,53,D,100,Yes,1,Yes,Yes,8.3
+186,Pihu Chanda,Discrete Mathematics,11,66,77,B,94,Yes,4,Yes,Yes,8.3
+186,Pihu Chanda,Computer Organization,20,40,60,C,82,Yes,4,Yes,No,8.3
+186,Pihu Chanda,Database Management Systems,17,47,64,C,70,Yes,4,No,Yes,8.3
+186,Pihu Chanda,Data Communication,14,61,75,B,67,Yes,1,Yes,Yes,8.3
+187,Pari Sarkar,Object Oriented Programming,18,57,75,B,80,Yes,2,No,Yes,6.87
+187,Pari Sarkar,Discrete Mathematics,13,36,49,D,67,Yes,3,Yes,No,6.87
+187,Pari Sarkar,Computer Organization,21,20,41,D,62,Yes,1,No,No,6.87
+187,Pari Sarkar,Database Management Systems,19,42,61,C,93,Yes,3,Yes,Yes,6.87
+187,Pari Sarkar,Data Communication,12,31,43,D,86,Yes,5,No,No,6.87
+188,Rania Tak,Object Oriented Programming,17,58,75,B,98,Yes,3,No,Yes,7.27
+188,Rania Tak,Discrete Mathematics,24,69,93,A,99,Yes,3,No,Yes,7.27
+188,Rania Tak,Computer Organization,22,66,88,A,95,Yes,2,No,No,7.27
+188,Rania Tak,Database Management Systems,23,37,60,C,90,Yes,4,No,No,7.27
+188,Rania Tak,Data Communication,27,63,90,A,73,Yes,2,Yes,Yes,7.27
+189,Ishita Barman,Object Oriented Programming,18,20,38,F,99,No,5,Yes,Yes,9.19
+189,Ishita Barman,Discrete Mathematics,19,68,87,A,63,Yes,4,Yes,No,9.19
+189,Ishita Barman,Computer Organization,26,36,62,C,76,Yes,1,Yes,Yes,9.19
+189,Ishita Barman,Database Management Systems,15,57,72,B,78,Yes,3,No,No,9.19
+189,Ishita Barman,Data Communication,16,30,46,D,94,Yes,3,No,Yes,9.19
+190,Advika Hari,Object Oriented Programming,29,23,52,D,61,Yes,2,No,Yes,9.08
+190,Advika Hari,Discrete Mathematics,10,40,50,D,78,Yes,1,No,Yes,9.08
+190,Advika Hari,Computer Organization,29,56,85,A,70,Yes,1,No,Yes,9.08
+190,Advika Hari,Database Management Systems,30,59,89,A,72,Yes,2,No,Yes,9.08
+190,Advika Hari,Data Communication,16,60,76,B,71,Yes,4,Yes,No,9.08
+191,Adira Doshi,Object Oriented Programming,12,59,71,B,73,Yes,4,No,Yes,6.94
+191,Adira Doshi,Discrete Mathematics,21,39,60,C,68,Yes,2,No,No,6.94
+191,Adira Doshi,Computer Organization,30,40,70,B,72,Yes,5,Yes,Yes,6.94
+191,Adira Doshi,Database Management Systems,12,51,63,C,92,Yes,4,No,No,6.94
+191,Adira Doshi,Data Communication,17,42,59,C,71,Yes,2,No,No,6.94
+192,Ritvik Toor,Object Oriented Programming,11,63,74,B,89,Yes,4,Yes,Yes,6.89
+192,Ritvik Toor,Discrete Mathematics,12,41,53,D,79,Yes,3,Yes,Yes,6.89
+192,Ritvik Toor,Computer Organization,10,52,62,C,62,Yes,2,No,Yes,6.89
+192,Ritvik Toor,Database Management Systems,30,54,84,B,93,Yes,2,No,No,6.89
+192,Ritvik Toor,Data Communication,19,57,76,B,99,Yes,3,No,Yes,6.89
+193,Mannat Sandhu,Object Oriented Programming,27,46,73,B,87,Yes,4,No,Yes,6.04
+193,Mannat Sandhu,Discrete Mathematics,10,66,76,B,71,Yes,5,Yes,No,6.04
+193,Mannat Sandhu,Computer Organization,22,33,55,C,80,Yes,3,Yes,No,6.04
+193,Mannat Sandhu,Database Management Systems,27,33,60,C,74,Yes,2,Yes,No,6.04
+193,Mannat Sandhu,Data Communication,13,54,67,C,78,Yes,1,Yes,No,6.04
+194,Dhanush Rama,Object Oriented Programming,25,56,81,B,72,Yes,1,No,Yes,7.56
+194,Dhanush Rama,Discrete Mathematics,29,42,71,B,99,Yes,1,No,Yes,7.56
+194,Dhanush Rama,Computer Organization,28,65,93,A,83,Yes,2,No,No,7.56
+194,Dhanush Rama,Database Management Systems,12,32,44,D,93,Yes,2,No,Yes,7.56
+194,Dhanush Rama,Data Communication,29,23,52,D,70,Yes,4,No,Yes,7.56
+195,Shalv Iyengar,Object Oriented Programming,30,36,66,C,96,Yes,4,Yes,No,5.9
+195,Shalv Iyengar,Discrete Mathematics,28,59,87,A,100,Yes,1,No,No,5.9
+195,Shalv Iyengar,Computer Organization,21,53,74,B,94,Yes,2,Yes,Yes,5.9
+195,Shalv Iyengar,Database Management Systems,25,54,79,B,95,Yes,4,Yes,Yes,5.9
+195,Shalv Iyengar,Data Communication,21,63,84,B,82,Yes,4,Yes,No,5.9
+196,Indranil Bava,Object Oriented Programming,24,58,82,B,62,Yes,3,No,Yes,7.37
+196,Indranil Bava,Discrete Mathematics,13,28,41,D,83,Yes,2,No,No,7.37
+196,Indranil Bava,Computer Organization,14,53,67,C,92,Yes,5,Yes,Yes,7.37
+196,Indranil Bava,Database Management Systems,14,46,60,C,98,Yes,5,Yes,Yes,7.37
+196,Indranil Bava,Data Communication,18,63,81,B,98,Yes,5,Yes,No,7.37
+197,Rania Chaudhuri,Object Oriented Programming,21,60,81,B,64,Yes,4,No,Yes,8.15
+197,Rania Chaudhuri,Discrete Mathematics,17,67,84,B,99,Yes,3,Yes,Yes,8.15
+197,Rania Chaudhuri,Computer Organization,13,31,44,D,78,Yes,1,Yes,No,8.15
+197,Rania Chaudhuri,Database Management Systems,17,44,61,C,64,Yes,2,Yes,No,8.15
+197,Rania Chaudhuri,Data Communication,17,38,55,C,97,Yes,5,No,No,8.15
+198,Madhav Chatterjee,Object Oriented Programming,28,35,63,C,81,Yes,3,No,No,6.64
+198,Madhav Chatterjee,Discrete Mathematics,17,62,79,B,96,Yes,3,Yes,Yes,6.64
+198,Madhav Chatterjee,Computer Organization,14,42,56,C,98,Yes,2,No,Yes,6.64
+198,Madhav Chatterjee,Database Management Systems,30,57,87,A,95,Yes,2,Yes,Yes,6.64
+198,Madhav Chatterjee,Data Communication,16,25,41,D,79,Yes,5,Yes,No,6.64
+199,Badal Mangal,Object Oriented Programming,21,68,89,A,83,Yes,4,Yes,No,7.26
+199,Badal Mangal,Discrete Mathematics,10,21,31,F,81,No,2,No,Yes,7.26
+199,Badal Mangal,Computer Organization,13,55,68,C,60,Yes,4,No,No,7.26
+199,Badal Mangal,Database Management Systems,13,20,33,F,89,No,4,No,Yes,7.26
+199,Badal Mangal,Data Communication,20,44,64,C,82,Yes,5,No,No,7.26
+200,Inaaya  Butala,Object Oriented Programming,30,31,61,C,74,Yes,3,No,Yes,6.68
+200,Inaaya  Butala,Discrete Mathematics,25,42,67,C,62,Yes,2,No,No,6.68
+200,Inaaya  Butala,Computer Organization,11,62,73,B,70,Yes,3,Yes,No,6.68
+200,Inaaya  Butala,Database Management Systems,17,39,56,C,93,Yes,1,No,No,6.68
+200,Inaaya  Butala,Data Communication,23,41,64,C,88,Yes,2,No,Yes,6.68
+201,Tanya Dey,Object Oriented Programming,22,28,50,D,81,Yes,4,No,Yes,9.68
+201,Tanya Dey,Discrete Mathematics,20,40,60,C,61,Yes,1,Yes,No,9.68
+201,Tanya Dey,Computer Organization,29,23,52,D,67,Yes,2,Yes,Yes,9.68
+201,Tanya Dey,Database Management Systems,16,62,78,B,98,Yes,1,No,Yes,9.68
+201,Tanya Dey,Data Communication,22,29,51,D,76,Yes,3,No,No,9.68
+202,Nirvaan Kumar,Object Oriented Programming,22,28,50,D,75,Yes,4,Yes,No,5.86
+202,Nirvaan Kumar,Discrete Mathematics,27,28,55,C,87,Yes,1,Yes,No,5.86
+202,Nirvaan Kumar,Computer Organization,17,25,42,D,77,Yes,5,No,No,5.86
+202,Nirvaan Kumar,Database Management Systems,16,44,60,C,71,Yes,1,No,No,5.86
+202,Nirvaan Kumar,Data Communication,13,47,60,C,73,Yes,5,Yes,Yes,5.86
+203,Yuvraj  Sawhney,Object Oriented Programming,29,43,72,B,69,Yes,2,Yes,No,6.76
+203,Yuvraj  Sawhney,Discrete Mathematics,14,40,54,D,82,Yes,3,Yes,Yes,6.76
+203,Yuvraj  Sawhney,Computer Organization,22,47,69,C,80,Yes,5,Yes,No,6.76
+203,Yuvraj  Sawhney,Database Management Systems,28,26,54,D,81,Yes,2,Yes,No,6.76
+203,Yuvraj  Sawhney,Data Communication,14,45,59,C,74,Yes,1,No,No,6.76
+204,Vritika Varghese,Object Oriented Programming,14,62,76,B,98,Yes,5,No,No,5.99
+204,Vritika Varghese,Discrete Mathematics,12,39,51,D,100,Yes,3,Yes,Yes,5.99
+204,Vritika Varghese,Computer Organization,28,49,77,B,71,Yes,4,Yes,Yes,5.99
+204,Vritika Varghese,Database Management Systems,10,50,60,C,100,Yes,2,Yes,No,5.99
+204,Vritika Varghese,Data Communication,26,57,83,B,95,Yes,1,No,Yes,5.99
+205,Jayant Anand,Object Oriented Programming,28,68,96,A,78,Yes,5,No,No,7.92
+205,Jayant Anand,Discrete Mathematics,21,48,69,C,82,Yes,3,No,Yes,7.92
+205,Jayant Anand,Computer Organization,12,43,55,C,65,Yes,1,No,Yes,7.92
+205,Jayant Anand,Database Management Systems,16,40,56,C,65,Yes,4,No,Yes,7.92
+205,Jayant Anand,Data Communication,26,69,95,A,74,Yes,3,No,No,7.92
+206,Nakul Chacko,Object Oriented Programming,13,66,79,B,89,Yes,3,Yes,Yes,8.22
+206,Nakul Chacko,Discrete Mathematics,15,50,65,C,94,Yes,2,Yes,Yes,8.22
+206,Nakul Chacko,Computer Organization,22,22,44,D,64,Yes,3,No,No,8.22
+206,Nakul Chacko,Database Management Systems,26,29,55,C,85,Yes,2,Yes,Yes,8.22
+206,Nakul Chacko,Data Communication,22,36,58,C,65,Yes,1,No,No,8.22
+207,Zara Shankar,Object Oriented Programming,11,34,45,D,93,Yes,5,Yes,Yes,5.13
+207,Zara Shankar,Discrete Mathematics,20,47,67,C,64,Yes,2,Yes,No,5.13
+207,Zara Shankar,Computer Organization,13,28,41,D,67,Yes,4,No,Yes,5.13
+207,Zara Shankar,Database Management Systems,28,50,78,B,95,Yes,1,No,No,5.13
+207,Zara Shankar,Data Communication,26,41,67,C,82,Yes,5,No,Yes,5.13
+208,Kavya Atwal,Object Oriented Programming,24,28,52,D,73,Yes,3,No,No,7.27
+208,Kavya Atwal,Discrete Mathematics,11,28,39,F,77,No,1,Yes,No,7.27
+208,Kavya Atwal,Computer Organization,20,44,64,C,71,Yes,3,No,Yes,7.27
+208,Kavya Atwal,Database Management Systems,14,33,47,D,86,Yes,2,Yes,No,7.27
+208,Kavya Atwal,Data Communication,14,62,76,B,87,Yes,1,Yes,No,7.27
+209,Jayan Mani,Object Oriented Programming,28,35,63,C,76,Yes,5,Yes,Yes,8.03
+209,Jayan Mani,Discrete Mathematics,27,21,48,D,95,Yes,2,No,Yes,8.03
+209,Jayan Mani,Computer Organization,25,35,60,C,75,Yes,4,No,Yes,8.03
+209,Jayan Mani,Database Management Systems,28,42,70,B,67,Yes,5,No,No,8.03
+209,Jayan Mani,Data Communication,24,53,77,B,93,Yes,5,Yes,Yes,8.03
+210,Jiya Sarraf,Object Oriented Programming,29,41,70,B,64,Yes,5,Yes,No,9.87
+210,Jiya Sarraf,Discrete Mathematics,17,28,45,D,79,Yes,2,Yes,Yes,9.87
+210,Jiya Sarraf,Computer Organization,10,42,52,D,76,Yes,1,Yes,No,9.87
+210,Jiya Sarraf,Database Management Systems,27,28,55,C,98,Yes,5,No,Yes,9.87
+210,Jiya Sarraf,Data Communication,28,52,80,B,93,Yes,4,No,No,9.87
+211,Kanav Talwar,Object Oriented Programming,30,46,76,B,87,Yes,5,Yes,Yes,7.4
+211,Kanav Talwar,Discrete Mathematics,18,37,55,C,84,Yes,2,No,No,7.4
+211,Kanav Talwar,Computer Organization,24,40,64,C,81,Yes,1,Yes,Yes,7.4
+211,Kanav Talwar,Database Management Systems,25,22,47,D,60,Yes,5,No,Yes,7.4
+211,Kanav Talwar,Data Communication,15,50,65,C,69,Yes,3,No,No,7.4
+212,Urvi Gole,Object Oriented Programming,12,66,78,B,92,Yes,2,Yes,No,5.76
+212,Urvi Gole,Discrete Mathematics,24,65,89,A,89,Yes,5,Yes,No,5.76
+212,Urvi Gole,Computer Organization,10,48,58,C,86,Yes,2,Yes,Yes,5.76
+212,Urvi Gole,Database Management Systems,10,66,76,B,88,Yes,3,No,No,5.76
+212,Urvi Gole,Data Communication,22,46,68,C,88,Yes,4,No,Yes,5.76
+213,Pranay Arya,Object Oriented Programming,10,56,66,C,86,Yes,3,No,No,5.04
+213,Pranay Arya,Discrete Mathematics,24,54,78,B,93,Yes,2,No,No,5.04
+213,Pranay Arya,Computer Organization,23,55,78,B,84,Yes,1,No,No,5.04
+213,Pranay Arya,Database Management Systems,16,61,77,B,88,Yes,4,Yes,Yes,5.04
+213,Pranay Arya,Data Communication,16,66,82,B,84,Yes,4,Yes,No,5.04
+214,Lavanya Saxena,Object Oriented Programming,24,66,90,A,61,Yes,4,No,No,8.0
+214,Lavanya Saxena,Discrete Mathematics,23,39,62,C,95,Yes,5,No,Yes,8.0
+214,Lavanya Saxena,Computer Organization,19,51,70,B,86,Yes,1,No,Yes,8.0
+214,Lavanya Saxena,Database Management Systems,15,48,63,C,98,Yes,1,No,No,8.0
+214,Lavanya Saxena,Data Communication,12,20,32,F,77,No,3,Yes,No,8.0
+215,Abram Doshi,Object Oriented Programming,20,47,67,C,93,Yes,2,No,Yes,6.28
+215,Abram Doshi,Discrete Mathematics,16,64,80,B,65,Yes,5,Yes,No,6.28
+215,Abram Doshi,Computer Organization,16,25,41,D,85,Yes,4,No,Yes,6.28
+215,Abram Doshi,Database Management Systems,21,56,77,B,65,Yes,5,Yes,Yes,6.28
+215,Abram Doshi,Data Communication,10,37,47,D,65,Yes,5,Yes,Yes,6.28
+216,Anay Gole,Object Oriented Programming,29,58,87,A,68,Yes,2,Yes,No,7.64
+216,Anay Gole,Discrete Mathematics,22,50,72,B,89,Yes,1,Yes,Yes,7.64
+216,Anay Gole,Computer Organization,15,36,51,D,80,Yes,4,Yes,No,7.64
+216,Anay Gole,Database Management Systems,29,53,82,B,74,Yes,5,No,Yes,7.64
+216,Anay Gole,Data Communication,20,53,73,B,85,Yes,2,No,Yes,7.64
+217,Jayant Toor,Object Oriented Programming,10,49,59,C,76,Yes,5,No,Yes,9.04
+217,Jayant Toor,Discrete Mathematics,20,32,52,D,84,Yes,4,No,No,9.04
+217,Jayant Toor,Computer Organization,18,30,48,D,82,Yes,1,Yes,No,9.04
+217,Jayant Toor,Database Management Systems,15,24,39,F,87,No,3,Yes,Yes,9.04
+217,Jayant Toor,Data Communication,26,52,78,B,98,Yes,4,Yes,No,9.04
+218,Veer Sem,Object Oriented Programming,12,21,33,F,72,No,5,No,Yes,6.34
+218,Veer Sem,Discrete Mathematics,26,53,79,B,100,Yes,4,Yes,Yes,6.34
+218,Veer Sem,Computer Organization,13,28,41,D,68,Yes,4,Yes,No,6.34
+218,Veer Sem,Database Management Systems,19,61,80,B,92,Yes,3,Yes,No,6.34
+218,Veer Sem,Data Communication,11,41,52,D,72,Yes,4,Yes,Yes,6.34
+219,Adira Ben,Object Oriented Programming,30,53,83,B,68,Yes,5,No,No,6.98
+219,Adira Ben,Discrete Mathematics,10,46,56,C,96,Yes,2,Yes,Yes,6.98
+219,Adira Ben,Computer Organization,24,21,45,D,81,Yes,5,No,No,6.98
+219,Adira Ben,Database Management Systems,30,43,73,B,67,Yes,5,Yes,Yes,6.98
+219,Adira Ben,Data Communication,21,56,77,B,61,Yes,5,No,No,6.98
+220,Vidur Tandon,Object Oriented Programming,14,25,39,F,76,No,5,Yes,Yes,8.26
+220,Vidur Tandon,Discrete Mathematics,11,63,74,B,91,Yes,5,Yes,No,8.26
+220,Vidur Tandon,Computer Organization,14,22,36,F,92,No,2,Yes,No,8.26
+220,Vidur Tandon,Database Management Systems,27,59,86,A,67,Yes,2,No,No,8.26
+220,Vidur Tandon,Data Communication,20,65,85,A,68,Yes,2,No,No,8.26
+221,Lakshay Keer,Object Oriented Programming,28,45,73,B,89,Yes,3,Yes,Yes,9.62
+221,Lakshay Keer,Discrete Mathematics,17,62,79,B,81,Yes,2,No,No,9.62
+221,Lakshay Keer,Computer Organization,12,69,81,B,93,Yes,4,No,No,9.62
+221,Lakshay Keer,Database Management Systems,29,59,88,A,96,Yes,2,No,No,9.62
+221,Lakshay Keer,Data Communication,14,54,68,C,84,Yes,5,No,No,9.62
+222,Pranay Khanna,Object Oriented Programming,22,26,48,D,78,Yes,3,No,Yes,9.12
+222,Pranay Khanna,Discrete Mathematics,16,43,59,C,63,Yes,4,No,Yes,9.12
+222,Pranay Khanna,Computer Organization,23,62,85,A,72,Yes,5,No,Yes,9.12
+222,Pranay Khanna,Database Management Systems,14,51,65,C,86,Yes,3,Yes,Yes,9.12
+222,Pranay Khanna,Data Communication,19,39,58,C,67,Yes,4,Yes,Yes,9.12
+223,Dhanuk Bhandari,Object Oriented Programming,24,40,64,C,89,Yes,1,Yes,No,6.09
+223,Dhanuk Bhandari,Discrete Mathematics,23,56,79,B,83,Yes,3,No,Yes,6.09
+223,Dhanuk Bhandari,Computer Organization,18,39,57,C,92,Yes,3,No,No,6.09
+223,Dhanuk Bhandari,Database Management Systems,28,28,56,C,91,Yes,1,No,Yes,6.09
+223,Dhanuk Bhandari,Data Communication,21,28,49,D,95,Yes,2,Yes,Yes,6.09
+224,Anya Buch,Object Oriented Programming,23,58,81,B,61,Yes,5,Yes,No,7.33
+224,Anya Buch,Discrete Mathematics,15,37,52,D,85,Yes,4,No,No,7.33
+224,Anya Buch,Computer Organization,18,44,62,C,94,Yes,3,Yes,Yes,7.33
+224,Anya Buch,Database Management Systems,14,45,59,C,97,Yes,4,Yes,No,7.33
+224,Anya Buch,Data Communication,30,43,73,B,75,Yes,1,No,No,7.33
+225,Myra Manne,Object Oriented Programming,24,40,64,C,67,Yes,2,Yes,No,6.07
+225,Myra Manne,Discrete Mathematics,18,24,42,D,85,Yes,4,Yes,Yes,6.07
+225,Myra Manne,Computer Organization,23,46,69,C,78,Yes,5,Yes,Yes,6.07
+225,Myra Manne,Database Management Systems,11,26,37,F,96,No,5,Yes,Yes,6.07
+225,Myra Manne,Data Communication,23,56,79,B,74,Yes,5,Yes,No,6.07
+226,Prerak Ramanathan,Object Oriented Programming,23,48,71,B,100,Yes,1,No,Yes,8.96
+226,Prerak Ramanathan,Discrete Mathematics,14,42,56,C,69,Yes,2,Yes,No,8.96
+226,Prerak Ramanathan,Computer Organization,10,68,78,B,74,Yes,2,No,No,8.96
+226,Prerak Ramanathan,Database Management Systems,15,27,42,D,75,Yes,5,No,No,8.96
+226,Prerak Ramanathan,Data Communication,14,67,81,B,94,Yes,2,Yes,No,8.96
+227,Shayak Dhingra,Object Oriented Programming,23,58,81,B,64,Yes,3,Yes,No,9.69
+227,Shayak Dhingra,Discrete Mathematics,17,46,63,C,76,Yes,3,Yes,No,9.69
+227,Shayak Dhingra,Computer Organization,20,40,60,C,83,Yes,3,No,Yes,9.69
+227,Shayak Dhingra,Database Management Systems,11,32,43,D,81,Yes,2,Yes,Yes,9.69
+227,Shayak Dhingra,Data Communication,16,47,63,C,79,Yes,5,Yes,Yes,9.69
+228,Kismat Wali,Object Oriented Programming,13,64,77,B,97,Yes,5,Yes,No,5.45
+228,Kismat Wali,Discrete Mathematics,16,68,84,B,79,Yes,1,No,No,5.45
+228,Kismat Wali,Computer Organization,12,39,51,D,66,Yes,4,Yes,No,5.45
+228,Kismat Wali,Database Management Systems,25,42,67,C,65,Yes,5,Yes,No,5.45
+228,Kismat Wali,Data Communication,14,40,54,D,76,Yes,3,No,No,5.45
+229,Nayantara Dara,Object Oriented Programming,27,46,73,B,99,Yes,4,No,No,9.03
+229,Nayantara Dara,Discrete Mathematics,19,22,41,D,65,Yes,5,Yes,No,9.03
+229,Nayantara Dara,Computer Organization,11,55,66,C,79,Yes,2,Yes,Yes,9.03
+229,Nayantara Dara,Database Management Systems,23,47,70,B,76,Yes,5,No,Yes,9.03
+229,Nayantara Dara,Data Communication,12,27,39,F,62,No,4,Yes,No,9.03
+230,Tushar Tella,Object Oriented Programming,12,54,66,C,90,Yes,3,Yes,Yes,5.83
+230,Tushar Tella,Discrete Mathematics,11,53,64,C,68,Yes,3,No,Yes,5.83
+230,Tushar Tella,Computer Organization,16,31,47,D,68,Yes,1,No,No,5.83
+230,Tushar Tella,Database Management Systems,11,31,42,D,65,Yes,3,No,No,5.83
+230,Tushar Tella,Data Communication,30,66,96,A,60,Yes,2,Yes,No,5.83
+231,Shray Karan,Object Oriented Programming,17,29,46,D,93,Yes,1,No,No,6.01
+231,Shray Karan,Discrete Mathematics,26,43,69,C,81,Yes,3,No,No,6.01
+231,Shray Karan,Computer Organization,24,47,71,B,73,Yes,2,No,Yes,6.01
+231,Shray Karan,Database Management Systems,13,41,54,D,64,Yes,2,No,Yes,6.01
+231,Shray Karan,Data Communication,13,30,43,D,65,Yes,4,Yes,No,6.01
+232,Anaya Kulkarni,Object Oriented Programming,25,22,47,D,84,Yes,2,Yes,Yes,5.68
+232,Anaya Kulkarni,Discrete Mathematics,26,21,47,D,87,Yes,5,Yes,No,5.68
+232,Anaya Kulkarni,Computer Organization,16,37,53,D,68,Yes,5,No,Yes,5.68
+232,Anaya Kulkarni,Database Management Systems,11,40,51,D,71,Yes,1,No,No,5.68
+232,Anaya Kulkarni,Data Communication,11,26,37,F,60,No,5,No,Yes,5.68
+233,Abram Sundaram,Object Oriented Programming,15,33,48,D,61,Yes,2,Yes,No,9.33
+233,Abram Sundaram,Discrete Mathematics,30,32,62,C,66,Yes,4,No,Yes,9.33
+233,Abram Sundaram,Computer Organization,23,68,91,A,60,Yes,3,No,No,9.33
+233,Abram Sundaram,Database Management Systems,18,28,46,D,82,Yes,1,No,No,9.33
+233,Abram Sundaram,Data Communication,14,68,82,B,74,Yes,5,No,No,9.33
+234,Dhruv Iyengar,Object Oriented Programming,18,35,53,D,67,Yes,3,No,No,6.74
+234,Dhruv Iyengar,Discrete Mathematics,16,41,57,C,92,Yes,3,Yes,Yes,6.74
+234,Dhruv Iyengar,Computer Organization,26,50,76,B,97,Yes,3,No,No,6.74
+234,Dhruv Iyengar,Database Management Systems,14,48,62,C,79,Yes,1,No,Yes,6.74
+234,Dhruv Iyengar,Data Communication,14,49,63,C,91,Yes,5,No,No,6.74
+235,Neysa Dara,Object Oriented Programming,21,59,80,B,74,Yes,4,Yes,Yes,5.48
+235,Neysa Dara,Discrete Mathematics,15,60,75,B,72,Yes,1,No,Yes,5.48
+235,Neysa Dara,Computer Organization,25,45,70,B,77,Yes,3,No,No,5.48
+235,Neysa Dara,Database Management Systems,20,38,58,C,96,Yes,4,Yes,Yes,5.48
+235,Neysa Dara,Data Communication,15,64,79,B,94,Yes,2,No,Yes,5.48
+236,Ishita Randhawa,Object Oriented Programming,19,68,87,A,75,Yes,4,No,Yes,9.22
+236,Ishita Randhawa,Discrete Mathematics,10,27,37,F,72,No,2,Yes,No,9.22
+236,Ishita Randhawa,Computer Organization,22,52,74,B,62,Yes,2,No,No,9.22
+236,Ishita Randhawa,Database Management Systems,12,41,53,D,79,Yes,2,No,Yes,9.22
+236,Ishita Randhawa,Data Communication,11,61,72,B,92,Yes,5,Yes,No,9.22
+237,Zara Sampath,Object Oriented Programming,23,62,85,A,64,Yes,3,No,Yes,5.71
+237,Zara Sampath,Discrete Mathematics,29,29,58,C,82,Yes,3,No,Yes,5.71
+237,Zara Sampath,Computer Organization,10,32,42,D,96,Yes,4,Yes,No,5.71
+237,Zara Sampath,Database Management Systems,30,69,99,A,61,Yes,4,No,Yes,5.71
+237,Zara Sampath,Data Communication,19,42,61,C,90,Yes,5,Yes,No,5.71
+238,Saira Wali,Object Oriented Programming,24,56,80,B,79,Yes,3,Yes,No,7.89
+238,Saira Wali,Discrete Mathematics,20,37,57,C,78,Yes,4,Yes,Yes,7.89
+238,Saira Wali,Computer Organization,21,57,78,B,68,Yes,3,Yes,No,7.89
+238,Saira Wali,Database Management Systems,27,58,85,A,95,Yes,3,Yes,Yes,7.89
+238,Saira Wali,Data Communication,19,43,62,C,79,Yes,3,No,Yes,7.89
+239,Piya Agarwal,Object Oriented Programming,20,39,59,C,79,Yes,1,Yes,Yes,9.47
+239,Piya Agarwal,Discrete Mathematics,12,60,72,B,67,Yes,4,No,Yes,9.47
+239,Piya Agarwal,Computer Organization,18,69,87,A,96,Yes,3,No,Yes,9.47
+239,Piya Agarwal,Database Management Systems,28,23,51,D,78,Yes,2,No,Yes,9.47
+239,Piya Agarwal,Data Communication,19,63,82,B,68,Yes,1,No,Yes,9.47
+240,Jiya Sem,Object Oriented Programming,17,44,61,C,95,Yes,2,Yes,No,5.78
+240,Jiya Sem,Discrete Mathematics,15,37,52,D,77,Yes,2,No,Yes,5.78
+240,Jiya Sem,Computer Organization,21,24,45,D,69,Yes,4,Yes,Yes,5.78
+240,Jiya Sem,Database Management Systems,15,22,37,F,69,No,3,No,No,5.78
+240,Jiya Sem,Data Communication,18,48,66,C,60,Yes,2,Yes,No,5.78
+241,Kabir Trivedi,Object Oriented Programming,29,52,81,B,81,Yes,4,Yes,Yes,8.36
+241,Kabir Trivedi,Discrete Mathematics,20,65,85,A,83,Yes,3,No,No,8.36
+241,Kabir Trivedi,Computer Organization,22,60,82,B,97,Yes,1,Yes,Yes,8.36
+241,Kabir Trivedi,Database Management Systems,26,20,46,D,82,Yes,2,No,Yes,8.36
+241,Kabir Trivedi,Data Communication,17,48,65,C,83,Yes,1,No,Yes,8.36
+242,Saanvi Ravi,Object Oriented Programming,14,31,45,D,62,Yes,1,No,No,9.35
+242,Saanvi Ravi,Discrete Mathematics,23,52,75,B,65,Yes,5,No,Yes,9.35
+242,Saanvi Ravi,Computer Organization,17,24,41,D,81,Yes,2,No,Yes,9.35
+242,Saanvi Ravi,Database Management Systems,10,70,80,B,76,Yes,5,Yes,No,9.35
+242,Saanvi Ravi,Data Communication,25,45,70,B,77,Yes,4,No,No,9.35
+243,Madhup Anand,Object Oriented Programming,28,28,56,C,61,Yes,3,Yes,No,6.15
+243,Madhup Anand,Discrete Mathematics,15,25,40,D,62,Yes,2,Yes,Yes,6.15
+243,Madhup Anand,Computer Organization,15,38,53,D,95,Yes,1,No,No,6.15
+243,Madhup Anand,Database Management Systems,13,36,49,D,71,Yes,5,Yes,Yes,6.15
+243,Madhup Anand,Data Communication,30,48,78,B,73,Yes,1,No,Yes,6.15
+244,Farhan Chaudhari,Object Oriented Programming,11,45,56,C,99,Yes,3,Yes,No,8.55
+244,Farhan Chaudhari,Discrete Mathematics,26,29,55,C,70,Yes,2,No,Yes,8.55
+244,Farhan Chaudhari,Computer Organization,12,65,77,B,97,Yes,4,No,No,8.55
+244,Farhan Chaudhari,Database Management Systems,13,35,48,D,62,Yes,4,No,Yes,8.55
+244,Farhan Chaudhari,Data Communication,21,63,84,B,96,Yes,1,Yes,Yes,8.55
+245,Aarna Khurana,Object Oriented Programming,24,31,55,C,80,Yes,3,Yes,Yes,7.89
+245,Aarna Khurana,Discrete Mathematics,18,50,68,C,61,Yes,4,No,No,7.89
+245,Aarna Khurana,Computer Organization,17,37,54,D,100,Yes,5,Yes,Yes,7.89
+245,Aarna Khurana,Database Management Systems,14,38,52,D,100,Yes,3,No,Yes,7.89
+245,Aarna Khurana,Data Communication,20,34,54,D,81,Yes,3,No,Yes,7.89
+246,Zaina Vohra,Object Oriented Programming,22,46,68,C,60,Yes,1,Yes,No,6.6
+246,Zaina Vohra,Discrete Mathematics,19,54,73,B,60,Yes,5,No,Yes,6.6
+246,Zaina Vohra,Computer Organization,15,67,82,B,85,Yes,5,Yes,No,6.6
+246,Zaina Vohra,Database Management Systems,12,52,64,C,84,Yes,3,Yes,Yes,6.6
+246,Zaina Vohra,Data Communication,12,70,82,B,65,Yes,5,No,Yes,6.6
+247,Urvi Dash,Object Oriented Programming,13,31,44,D,97,Yes,2,Yes,Yes,6.76
+247,Urvi Dash,Discrete Mathematics,12,41,53,D,87,Yes,1,No,No,6.76
+247,Urvi Dash,Computer Organization,19,51,70,B,76,Yes,4,No,Yes,6.76
+247,Urvi Dash,Database Management Systems,29,27,56,C,76,Yes,2,Yes,Yes,6.76
+247,Urvi Dash,Data Communication,20,70,90,A,84,Yes,3,Yes,Yes,6.76
+248,Vardaniya Kamdar,Object Oriented Programming,20,30,50,D,90,Yes,2,No,Yes,9.51
+248,Vardaniya Kamdar,Discrete Mathematics,29,30,59,C,70,Yes,5,No,Yes,9.51
+248,Vardaniya Kamdar,Computer Organization,22,42,64,C,94,Yes,4,No,No,9.51
+248,Vardaniya Kamdar,Database Management Systems,16,67,83,B,96,Yes,5,Yes,Yes,9.51
+248,Vardaniya Kamdar,Data Communication,28,62,90,A,84,Yes,4,Yes,No,9.51
+249,Himmat Sabharwal,Object Oriented Programming,10,24,34,F,73,No,1,Yes,Yes,9.39
+249,Himmat Sabharwal,Discrete Mathematics,15,20,35,F,100,No,2,No,Yes,9.39
+249,Himmat Sabharwal,Computer Organization,29,66,95,A,92,Yes,4,Yes,No,9.39
+249,Himmat Sabharwal,Database Management Systems,15,65,80,B,91,Yes,1,No,No,9.39
+249,Himmat Sabharwal,Data Communication,26,47,73,B,63,Yes,4,Yes,No,9.39
+250,Sana Kala,Object Oriented Programming,24,28,52,D,89,Yes,1,No,No,8.6
+250,Sana Kala,Discrete Mathematics,13,36,49,D,88,Yes,1,Yes,No,8.6
+250,Sana Kala,Computer Organization,18,31,49,D,74,Yes,3,No,Yes,8.6
+250,Sana Kala,Database Management Systems,14,54,68,C,84,Yes,4,No,No,8.6
+250,Sana Kala,Data Communication,13,69,82,B,62,Yes,3,Yes,No,8.6
+251,Yakshit Grover,Object Oriented Programming,28,59,87,A,84,Yes,5,No,Yes,8.35
+251,Yakshit Grover,Discrete Mathematics,16,64,80,B,69,Yes,4,Yes,No,8.35
+251,Yakshit Grover,Computer Organization,22,49,71,B,96,Yes,4,Yes,No,8.35
+251,Yakshit Grover,Database Management Systems,13,55,68,C,81,Yes,1,No,Yes,8.35
+251,Yakshit Grover,Data Communication,22,58,80,B,75,Yes,2,No,Yes,8.35
+252,Sana Goda,Object Oriented Programming,10,32,42,D,70,Yes,5,No,No,9.35
+252,Sana Goda,Discrete Mathematics,14,62,76,B,72,Yes,4,Yes,No,9.35
+252,Sana Goda,Computer Organization,19,50,69,C,67,Yes,1,Yes,Yes,9.35
+252,Sana Goda,Database Management Systems,27,45,72,B,64,Yes,3,No,No,9.35
+252,Sana Goda,Data Communication,20,30,50,D,86,Yes,5,Yes,Yes,9.35
+253,Tushar Mangal,Object Oriented Programming,28,55,83,B,66,Yes,3,Yes,Yes,9.01
+253,Tushar Mangal,Discrete Mathematics,11,29,40,D,66,Yes,1,Yes,No,9.01
+253,Tushar Mangal,Computer Organization,27,33,60,C,61,Yes,4,Yes,No,9.01
+253,Tushar Mangal,Database Management Systems,27,21,48,D,75,Yes,5,No,Yes,9.01
+253,Tushar Mangal,Data Communication,22,40,62,C,63,Yes,5,No,Yes,9.01
+254,Nakul Chandra,Object Oriented Programming,26,42,68,C,89,Yes,1,No,No,9.58
+254,Nakul Chandra,Discrete Mathematics,26,21,47,D,66,Yes,2,Yes,No,9.58
+254,Nakul Chandra,Computer Organization,15,26,41,D,68,Yes,1,Yes,No,9.58
+254,Nakul Chandra,Database Management Systems,23,46,69,C,91,Yes,1,Yes,Yes,9.58
+254,Nakul Chandra,Data Communication,14,38,52,D,68,Yes,2,No,No,9.58
+255,Mannat Wali,Object Oriented Programming,14,64,78,B,99,Yes,5,Yes,Yes,6.33
+255,Mannat Wali,Discrete Mathematics,29,63,92,A,72,Yes,2,Yes,No,6.33
+255,Mannat Wali,Computer Organization,15,20,35,F,79,No,3,Yes,Yes,6.33
+255,Mannat Wali,Database Management Systems,18,38,56,C,65,Yes,4,Yes,Yes,6.33
+255,Mannat Wali,Data Communication,22,20,42,D,100,Yes,5,Yes,Yes,6.33
+256,Oorja Bhatnagar,Object Oriented Programming,15,40,55,C,90,Yes,4,No,No,7.43
+256,Oorja Bhatnagar,Discrete Mathematics,15,26,41,D,74,Yes,1,No,No,7.43
+256,Oorja Bhatnagar,Computer Organization,19,41,60,C,89,Yes,4,No,Yes,7.43
+256,Oorja Bhatnagar,Database Management Systems,19,52,71,B,95,Yes,2,No,No,7.43
+256,Oorja Bhatnagar,Data Communication,14,55,69,C,78,Yes,3,No,No,7.43
+257,Anahi Bhakta,Object Oriented Programming,24,42,66,C,70,Yes,5,Yes,Yes,9.16
+257,Anahi Bhakta,Discrete Mathematics,30,23,53,D,98,Yes,4,No,No,9.16
+257,Anahi Bhakta,Computer Organization,19,21,40,D,81,Yes,1,Yes,No,9.16
+257,Anahi Bhakta,Database Management Systems,16,67,83,B,87,Yes,3,Yes,No,9.16
+257,Anahi Bhakta,Data Communication,12,46,58,C,62,Yes,2,Yes,Yes,9.16
+258,Hazel Sinha,Object Oriented Programming,19,29,48,D,87,Yes,3,Yes,No,7.43
+258,Hazel Sinha,Discrete Mathematics,19,28,47,D,74,Yes,5,No,No,7.43
+258,Hazel Sinha,Computer Organization,24,70,94,A,100,Yes,3,No,No,7.43
+258,Hazel Sinha,Database Management Systems,23,43,66,C,68,Yes,2,Yes,Yes,7.43
+258,Hazel Sinha,Data Communication,15,29,44,D,93,Yes,4,No,No,7.43
+259,Lavanya Bakshi,Object Oriented Programming,10,49,59,C,88,Yes,1,Yes,Yes,9.83
+259,Lavanya Bakshi,Discrete Mathematics,16,28,44,D,74,Yes,5,No,No,9.83
+259,Lavanya Bakshi,Computer Organization,11,33,44,D,98,Yes,4,No,No,9.83
+259,Lavanya Bakshi,Database Management Systems,18,34,52,D,84,Yes,4,Yes,No,9.83
+259,Lavanya Bakshi,Data Communication,28,21,49,D,81,Yes,2,Yes,No,9.83
+260,Aarush Tailor,Object Oriented Programming,13,22,35,F,75,No,4,No,No,5.18
+260,Aarush Tailor,Discrete Mathematics,11,25,36,F,94,No,2,Yes,No,5.18
+260,Aarush Tailor,Computer Organization,18,33,51,D,92,Yes,2,Yes,No,5.18
+260,Aarush Tailor,Database Management Systems,14,44,58,C,72,Yes,4,No,Yes,5.18
+260,Aarush Tailor,Data Communication,26,56,82,B,62,Yes,1,No,Yes,5.18
+261,Kavya Raj,Object Oriented Programming,29,35,64,C,96,Yes,4,No,Yes,9.32
+261,Kavya Raj,Discrete Mathematics,29,32,61,C,65,Yes,5,No,No,9.32
+261,Kavya Raj,Computer Organization,11,44,55,C,67,Yes,4,Yes,Yes,9.32
+261,Kavya Raj,Database Management Systems,25,45,70,B,72,Yes,3,No,No,9.32
+261,Kavya Raj,Data Communication,26,38,64,C,68,Yes,5,No,Yes,9.32
+262,Kanav Rajagopalan,Object Oriented Programming,10,28,38,F,70,No,4,No,No,8.34
+262,Kanav Rajagopalan,Discrete Mathematics,13,30,43,D,77,Yes,2,Yes,Yes,8.34
+262,Kanav Rajagopalan,Computer Organization,26,43,69,C,61,Yes,2,No,No,8.34
+262,Kanav Rajagopalan,Database Management Systems,13,68,81,B,97,Yes,1,No,No,8.34
+262,Kanav Rajagopalan,Data Communication,23,66,89,A,77,Yes,2,No,Yes,8.34
+263,Anvi Chana,Object Oriented Programming,19,28,47,D,68,Yes,2,Yes,Yes,5.03
+263,Anvi Chana,Discrete Mathematics,28,21,49,D,97,Yes,1,No,Yes,5.03
+263,Anvi Chana,Computer Organization,30,36,66,C,60,Yes,4,Yes,No,5.03
+263,Anvi Chana,Database Management Systems,30,30,60,C,66,Yes,5,Yes,No,5.03
+263,Anvi Chana,Data Communication,24,44,68,C,85,Yes,3,No,Yes,5.03
+264,Dhanush Tella,Object Oriented Programming,25,32,57,C,100,Yes,2,No,Yes,6.27
+264,Dhanush Tella,Discrete Mathematics,15,58,73,B,93,Yes,2,Yes,Yes,6.27
+264,Dhanush Tella,Computer Organization,15,23,38,F,87,No,2,No,No,6.27
+264,Dhanush Tella,Database Management Systems,25,31,56,C,79,Yes,4,No,No,6.27
+264,Dhanush Tella,Data Communication,10,45,55,C,78,Yes,3,No,No,6.27
+265,Aayush Jain,Object Oriented Programming,17,41,58,C,77,Yes,1,No,No,8.53
+265,Aayush Jain,Discrete Mathematics,14,38,52,D,62,Yes,5,Yes,No,8.53
+265,Aayush Jain,Computer Organization,11,42,53,D,99,Yes,2,No,No,8.53
+265,Aayush Jain,Database Management Systems,15,65,80,B,87,Yes,4,No,Yes,8.53
+265,Aayush Jain,Data Communication,11,68,79,B,69,Yes,4,No,Yes,8.53
+266,Yashvi Bala,Object Oriented Programming,16,25,41,D,63,Yes,2,Yes,Yes,9.16
+266,Yashvi Bala,Discrete Mathematics,19,68,87,A,67,Yes,4,No,Yes,9.16
+266,Yashvi Bala,Computer Organization,22,60,82,B,83,Yes,2,Yes,No,9.16
+266,Yashvi Bala,Database Management Systems,24,67,91,A,77,Yes,2,No,No,9.16
+266,Yashvi Bala,Data Communication,24,43,67,C,83,Yes,1,No,No,9.16
+267,Ritvik Deep,Object Oriented Programming,21,41,62,C,67,Yes,4,Yes,No,6.11
+267,Ritvik Deep,Discrete Mathematics,13,64,77,B,71,Yes,2,Yes,No,6.11
+267,Ritvik Deep,Computer Organization,29,36,65,C,93,Yes,3,Yes,No,6.11
+267,Ritvik Deep,Database Management Systems,30,28,58,C,77,Yes,2,No,Yes,6.11
+267,Ritvik Deep,Data Communication,21,40,61,C,86,Yes,5,Yes,Yes,6.11
+268,Zeeshan Karpe,Object Oriented Programming,29,38,67,C,65,Yes,2,Yes,No,9.97
+268,Zeeshan Karpe,Discrete Mathematics,19,43,62,C,65,Yes,1,Yes,Yes,9.97
+268,Zeeshan Karpe,Computer Organization,19,66,85,A,84,Yes,2,Yes,Yes,9.97
+268,Zeeshan Karpe,Database Management Systems,14,65,79,B,71,Yes,2,No,Yes,9.97
+268,Zeeshan Karpe,Data Communication,30,31,61,C,60,Yes,3,Yes,No,9.97
+269,Prisha Warrior,Object Oriented Programming,13,66,79,B,64,Yes,3,Yes,No,7.27
+269,Prisha Warrior,Discrete Mathematics,29,29,58,C,95,Yes,2,No,Yes,7.27
+269,Prisha Warrior,Computer Organization,13,47,60,C,92,Yes,3,Yes,No,7.27
+269,Prisha Warrior,Database Management Systems,26,24,50,D,77,Yes,3,No,No,7.27
+269,Prisha Warrior,Data Communication,24,62,86,A,84,Yes,3,Yes,No,7.27
+270,Renee Gulati,Object Oriented Programming,17,55,72,B,88,Yes,1,No,Yes,8.01
+270,Renee Gulati,Discrete Mathematics,28,21,49,D,67,Yes,1,Yes,Yes,8.01
+270,Renee Gulati,Computer Organization,28,63,91,A,80,Yes,2,Yes,Yes,8.01
+270,Renee Gulati,Database Management Systems,19,22,41,D,63,Yes,3,No,Yes,8.01
+270,Renee Gulati,Data Communication,14,25,39,F,79,No,3,No,Yes,8.01
+271,Advik Borah,Object Oriented Programming,27,29,56,C,62,Yes,2,Yes,Yes,9.51
+271,Advik Borah,Discrete Mathematics,14,26,40,D,72,Yes,5,Yes,No,9.51
+271,Advik Borah,Computer Organization,14,53,67,C,67,Yes,3,No,No,9.51
+271,Advik Borah,Database Management Systems,30,46,76,B,71,Yes,3,Yes,No,9.51
+271,Advik Borah,Data Communication,28,37,65,C,63,Yes,5,No,Yes,9.51
+272,Adah Dara,Object Oriented Programming,11,66,77,B,86,Yes,1,Yes,No,5.06
+272,Adah Dara,Discrete Mathematics,16,27,43,D,85,Yes,3,No,No,5.06
+272,Adah Dara,Computer Organization,29,20,49,D,88,Yes,5,Yes,Yes,5.06
+272,Adah Dara,Database Management Systems,28,46,74,B,79,Yes,5,Yes,Yes,5.06
+272,Adah Dara,Data Communication,19,47,66,C,84,Yes,2,No,No,5.06
+273,Suhana Wable,Object Oriented Programming,17,56,73,B,94,Yes,5,Yes,Yes,7.86
+273,Suhana Wable,Discrete Mathematics,29,48,77,B,80,Yes,5,No,Yes,7.86
+273,Suhana Wable,Computer Organization,19,61,80,B,85,Yes,3,Yes,Yes,7.86
+273,Suhana Wable,Database Management Systems,14,28,42,D,76,Yes,4,No,Yes,7.86
+273,Suhana Wable,Data Communication,13,38,51,D,86,Yes,4,No,Yes,7.86
+274,Damini Handa,Object Oriented Programming,19,61,80,B,80,Yes,1,Yes,No,5.17
+274,Damini Handa,Discrete Mathematics,28,30,58,C,62,Yes,2,Yes,No,5.17
+274,Damini Handa,Computer Organization,26,34,60,C,96,Yes,5,No,Yes,5.17
+274,Damini Handa,Database Management Systems,10,65,75,B,99,Yes,2,No,No,5.17
+274,Damini Handa,Data Communication,24,24,48,D,67,Yes,5,Yes,Yes,5.17
+275,Yuvaan Kadakia,Object Oriented Programming,19,61,80,B,62,Yes,2,No,Yes,6.89
+275,Yuvaan Kadakia,Discrete Mathematics,21,59,80,B,68,Yes,3,No,Yes,6.89
+275,Yuvaan Kadakia,Computer Organization,12,57,69,C,64,Yes,5,No,No,6.89
+275,Yuvaan Kadakia,Database Management Systems,29,55,84,B,63,Yes,3,No,Yes,6.89
+275,Yuvaan Kadakia,Data Communication,26,63,89,A,82,Yes,5,No,No,6.89
+276,Nishith Tripathi,Object Oriented Programming,13,50,63,C,74,Yes,1,Yes,No,8.32
+276,Nishith Tripathi,Discrete Mathematics,27,23,50,D,96,Yes,2,No,Yes,8.32
+276,Nishith Tripathi,Computer Organization,24,38,62,C,78,Yes,1,No,No,8.32
+276,Nishith Tripathi,Database Management Systems,15,59,74,B,77,Yes,3,No,Yes,8.32
+276,Nishith Tripathi,Data Communication,25,34,59,C,63,Yes,2,No,Yes,8.32
+277,Azad Ranganathan,Object Oriented Programming,24,50,74,B,82,Yes,2,Yes,Yes,5.26
+277,Azad Ranganathan,Discrete Mathematics,24,68,92,A,69,Yes,1,Yes,No,5.26
+277,Azad Ranganathan,Computer Organization,20,51,71,B,83,Yes,5,No,No,5.26
+277,Azad Ranganathan,Database Management Systems,20,47,67,C,62,Yes,3,No,Yes,5.26
+277,Azad Ranganathan,Data Communication,19,46,65,C,63,Yes,2,No,No,5.26
+278,Vardaniya Sani,Object Oriented Programming,24,39,63,C,61,Yes,4,Yes,Yes,8.8
+278,Vardaniya Sani,Discrete Mathematics,17,39,56,C,80,Yes,1,Yes,Yes,8.8
+278,Vardaniya Sani,Computer Organization,21,23,44,D,94,Yes,5,No,Yes,8.8
+278,Vardaniya Sani,Database Management Systems,28,59,87,A,83,Yes,4,No,No,8.8
+278,Vardaniya Sani,Data Communication,12,37,49,D,82,Yes,2,Yes,Yes,8.8
+279,Miraya Jayaraman,Object Oriented Programming,19,29,48,D,64,Yes,2,Yes,No,7.39
+279,Miraya Jayaraman,Discrete Mathematics,19,28,47,D,64,Yes,3,No,Yes,7.39
+279,Miraya Jayaraman,Computer Organization,22,60,82,B,60,Yes,2,Yes,No,7.39
+279,Miraya Jayaraman,Database Management Systems,19,21,40,D,94,Yes,1,Yes,Yes,7.39
+279,Miraya Jayaraman,Data Communication,14,28,42,D,63,Yes,4,Yes,No,7.39
+280,Yakshit Ganesh,Object Oriented Programming,23,41,64,C,83,Yes,5,Yes,Yes,6.0
+280,Yakshit Ganesh,Discrete Mathematics,18,35,53,D,77,Yes,3,Yes,Yes,6.0
+280,Yakshit Ganesh,Computer Organization,12,22,34,F,68,No,1,Yes,Yes,6.0
+280,Yakshit Ganesh,Database Management Systems,30,64,94,A,89,Yes,1,Yes,No,6.0
+280,Yakshit Ganesh,Data Communication,13,43,56,C,97,Yes,5,Yes,No,6.0
+281,Nehmat Dyal,Object Oriented Programming,13,41,54,D,89,Yes,4,Yes,Yes,8.73
+281,Nehmat Dyal,Discrete Mathematics,10,56,66,C,69,Yes,1,No,No,8.73
+281,Nehmat Dyal,Computer Organization,22,51,73,B,69,Yes,3,No,Yes,8.73
+281,Nehmat Dyal,Database Management Systems,18,52,70,B,64,Yes,2,Yes,Yes,8.73
+281,Nehmat Dyal,Data Communication,23,60,83,B,89,Yes,3,No,No,8.73
+282,Vivaan Dua,Object Oriented Programming,11,50,61,C,98,Yes,3,No,No,8.29
+282,Vivaan Dua,Discrete Mathematics,14,32,46,D,63,Yes,1,No,Yes,8.29
+282,Vivaan Dua,Computer Organization,28,41,69,C,83,Yes,4,No,No,8.29
+282,Vivaan Dua,Database Management Systems,18,55,73,B,65,Yes,4,No,No,8.29
+282,Vivaan Dua,Data Communication,28,65,93,A,99,Yes,5,Yes,Yes,8.29
+283,Armaan Deo,Object Oriented Programming,27,58,85,A,92,Yes,3,Yes,No,5.64
+283,Armaan Deo,Discrete Mathematics,17,67,84,B,84,Yes,5,No,Yes,5.64
+283,Armaan Deo,Computer Organization,11,61,72,B,62,Yes,5,No,No,5.64
+283,Armaan Deo,Database Management Systems,12,45,57,C,99,Yes,3,No,Yes,5.64
+283,Armaan Deo,Data Communication,18,52,70,B,84,Yes,5,No,No,5.64
+284,Ishita Ramachandran,Object Oriented Programming,21,24,45,D,65,Yes,1,No,No,9.55
+284,Ishita Ramachandran,Discrete Mathematics,23,25,48,D,70,Yes,4,No,Yes,9.55
+284,Ishita Ramachandran,Computer Organization,16,27,43,D,82,Yes,3,Yes,Yes,9.55
+284,Ishita Ramachandran,Database Management Systems,24,34,58,C,92,Yes,5,Yes,No,9.55
+284,Ishita Ramachandran,Data Communication,26,67,93,A,85,Yes,1,No,Yes,9.55
+285,Mehul Chauhan,Object Oriented Programming,11,45,56,C,97,Yes,4,No,Yes,6.69
+285,Mehul Chauhan,Discrete Mathematics,12,40,52,D,71,Yes,3,Yes,No,6.69
+285,Mehul Chauhan,Computer Organization,22,44,66,C,67,Yes,2,Yes,No,6.69
+285,Mehul Chauhan,Database Management Systems,16,28,44,D,81,Yes,2,No,Yes,6.69
+285,Mehul Chauhan,Data Communication,20,48,68,C,91,Yes,2,No,No,6.69
+286,Abram Vyas,Object Oriented Programming,27,45,72,B,97,Yes,5,No,No,7.64
+286,Abram Vyas,Discrete Mathematics,25,45,70,B,75,Yes,4,No,No,7.64
+286,Abram Vyas,Computer Organization,27,25,52,D,72,Yes,2,Yes,Yes,7.64
+286,Abram Vyas,Database Management Systems,22,63,85,A,72,Yes,2,Yes,No,7.64
+286,Abram Vyas,Data Communication,22,57,79,B,76,Yes,5,Yes,No,7.64
+287,Seher Sabharwal,Object Oriented Programming,29,21,50,D,97,Yes,3,Yes,Yes,6.38
+287,Seher Sabharwal,Discrete Mathematics,12,51,63,C,75,Yes,4,No,Yes,6.38
+287,Seher Sabharwal,Computer Organization,28,26,54,D,93,Yes,5,Yes,Yes,6.38
+287,Seher Sabharwal,Database Management Systems,17,31,48,D,89,Yes,5,Yes,No,6.38
+287,Seher Sabharwal,Data Communication,10,23,33,F,73,No,3,Yes,Yes,6.38
+288,Jayan Choudhry,Object Oriented Programming,14,34,48,D,69,Yes,5,Yes,No,5.09
+288,Jayan Choudhry,Discrete Mathematics,24,23,47,D,76,Yes,2,Yes,No,5.09
+288,Jayan Choudhry,Computer Organization,27,23,50,D,99,Yes,4,Yes,No,5.09
+288,Jayan Choudhry,Database Management Systems,23,53,76,B,89,Yes,2,Yes,Yes,5.09
+288,Jayan Choudhry,Data Communication,18,35,53,D,88,Yes,2,Yes,Yes,5.09
+289,Dhanuk Sankar,Object Oriented Programming,28,66,94,A,69,Yes,3,No,Yes,6.76
+289,Dhanuk Sankar,Discrete Mathematics,15,51,66,C,71,Yes,1,No,No,6.76
+289,Dhanuk Sankar,Computer Organization,16,20,36,F,80,No,1,Yes,No,6.76
+289,Dhanuk Sankar,Database Management Systems,24,34,58,C,72,Yes,4,Yes,Yes,6.76
+289,Dhanuk Sankar,Data Communication,14,27,41,D,69,Yes,3,Yes,Yes,6.76
+290,Keya Dubey,Object Oriented Programming,11,57,68,C,79,Yes,1,Yes,Yes,8.52
+290,Keya Dubey,Discrete Mathematics,22,31,53,D,96,Yes,5,Yes,Yes,8.52
+290,Keya Dubey,Computer Organization,26,24,50,D,72,Yes,4,Yes,No,8.52
+290,Keya Dubey,Database Management Systems,17,57,74,B,61,Yes,3,No,No,8.52
+290,Keya Dubey,Data Communication,13,70,83,B,100,Yes,4,No,Yes,8.52
+291,Farhan Bakshi,Object Oriented Programming,15,68,83,B,77,Yes,1,No,No,8.93
+291,Farhan Bakshi,Discrete Mathematics,14,70,84,B,75,Yes,4,Yes,No,8.93
+291,Farhan Bakshi,Computer Organization,30,52,82,B,79,Yes,2,Yes,Yes,8.93
+291,Farhan Bakshi,Database Management Systems,12,35,47,D,65,Yes,5,No,Yes,8.93
+291,Farhan Bakshi,Data Communication,17,23,40,D,64,Yes,5,No,Yes,8.93
+292,Yuvraj  Bhandari,Object Oriented Programming,25,69,94,A,94,Yes,1,No,Yes,9.22
+292,Yuvraj  Bhandari,Discrete Mathematics,13,41,54,D,61,Yes,5,No,Yes,9.22
+292,Yuvraj  Bhandari,Computer Organization,22,28,50,D,88,Yes,3,Yes,Yes,9.22
+292,Yuvraj  Bhandari,Database Management Systems,23,43,66,C,73,Yes,5,Yes,No,9.22
+292,Yuvraj  Bhandari,Data Communication,19,27,46,D,63,Yes,5,Yes,Yes,9.22
+293,Shray Ghosh,Object Oriented Programming,22,27,49,D,65,Yes,2,Yes,Yes,7.36
+293,Shray Ghosh,Discrete Mathematics,14,28,42,D,90,Yes,4,No,Yes,7.36
+293,Shray Ghosh,Computer Organization,17,69,86,A,83,Yes,3,No,Yes,7.36
+293,Shray Ghosh,Database Management Systems,18,50,68,C,85,Yes,3,No,Yes,7.36
+293,Shray Ghosh,Data Communication,14,55,69,C,89,Yes,4,No,No,7.36
+294,Amira Chakraborty,Object Oriented Programming,21,32,53,D,90,Yes,4,Yes,Yes,9.12
+294,Amira Chakraborty,Discrete Mathematics,21,43,64,C,92,Yes,4,Yes,No,9.12
+294,Amira Chakraborty,Computer Organization,13,56,69,C,100,Yes,5,No,No,9.12
+294,Amira Chakraborty,Database Management Systems,25,25,50,D,85,Yes,1,Yes,No,9.12
+294,Amira Chakraborty,Data Communication,18,47,65,C,98,Yes,1,No,Yes,9.12
+295,Advika Loke,Object Oriented Programming,26,48,74,B,83,Yes,4,No,No,7.12
+295,Advika Loke,Discrete Mathematics,20,64,84,B,78,Yes,2,No,No,7.12
+295,Advika Loke,Computer Organization,16,37,53,D,77,Yes,4,No,No,7.12
+295,Advika Loke,Database Management Systems,16,20,36,F,69,No,3,Yes,Yes,7.12
+295,Advika Loke,Data Communication,29,36,65,C,96,Yes,4,Yes,No,7.12
+296,Shalv Varty,Object Oriented Programming,13,68,81,B,100,Yes,5,No,Yes,8.49
+296,Shalv Varty,Discrete Mathematics,20,29,49,D,77,Yes,2,No,Yes,8.49
+296,Shalv Varty,Computer Organization,13,59,72,B,86,Yes,3,No,No,8.49
+296,Shalv Varty,Database Management Systems,19,63,82,B,88,Yes,4,Yes,No,8.49
+296,Shalv Varty,Data Communication,27,64,91,A,95,Yes,5,Yes,No,8.49
+297,Farhan Varty,Object Oriented Programming,11,31,42,D,81,Yes,1,No,No,7.46
+297,Farhan Varty,Discrete Mathematics,29,41,70,B,69,Yes,2,Yes,Yes,7.46
+297,Farhan Varty,Computer Organization,22,70,92,A,63,Yes,5,Yes,Yes,7.46
+297,Farhan Varty,Database Management Systems,19,21,40,D,85,Yes,3,Yes,No,7.46
+297,Farhan Varty,Data Communication,15,66,81,B,98,Yes,1,Yes,Yes,7.46
+298,Piya D’Alia,Object Oriented Programming,28,23,51,D,77,Yes,2,Yes,Yes,6.73
+298,Piya D’Alia,Discrete Mathematics,15,64,79,B,76,Yes,2,Yes,No,6.73
+298,Piya D’Alia,Computer Organization,28,48,76,B,64,Yes,5,Yes,Yes,6.73
+298,Piya D’Alia,Database Management Systems,19,59,78,B,73,Yes,5,No,No,6.73
+298,Piya D’Alia,Data Communication,16,29,45,D,92,Yes,2,Yes,Yes,6.73
+299,Divyansh Atwal,Object Oriented Programming,25,48,73,B,61,Yes,5,No,Yes,8.22
+299,Divyansh Atwal,Discrete Mathematics,13,61,74,B,68,Yes,1,Yes,Yes,8.22
+299,Divyansh Atwal,Computer Organization,11,29,40,D,66,Yes,5,Yes,No,8.22
+299,Divyansh Atwal,Database Management Systems,19,53,72,B,74,Yes,4,Yes,Yes,8.22
+299,Divyansh Atwal,Data Communication,27,51,78,B,63,Yes,4,No,Yes,8.22
+300,Anahita Gandhi,Object Oriented Programming,13,38,51,D,72,Yes,5,No,Yes,7.01
+300,Anahita Gandhi,Discrete Mathematics,27,66,93,A,60,Yes,2,Yes,Yes,7.01
+300,Anahita Gandhi,Computer Organization,13,37,50,D,62,Yes,5,No,No,7.01
+300,Anahita Gandhi,Database Management Systems,21,29,50,D,83,Yes,1,Yes,Yes,7.01
+300,Anahita Gandhi,Data Communication,26,29,55,C,67,Yes,5,No,Yes,7.01
+301,Oorja Divan,Object Oriented Programming,10,30,40,D,78,Yes,1,No,No,5.21
+301,Oorja Divan,Discrete Mathematics,26,43,69,C,62,Yes,2,Yes,Yes,5.21
+301,Oorja Divan,Computer Organization,11,36,47,D,69,Yes,4,Yes,Yes,5.21
+301,Oorja Divan,Database Management Systems,18,23,41,D,77,Yes,4,Yes,No,5.21
+301,Oorja Divan,Data Communication,23,26,49,D,92,Yes,5,Yes,No,5.21
+302,Hansh Dhaliwal,Object Oriented Programming,15,55,70,B,72,Yes,3,Yes,Yes,8.99
+302,Hansh Dhaliwal,Discrete Mathematics,21,39,60,C,83,Yes,3,Yes,No,8.99
+302,Hansh Dhaliwal,Computer Organization,12,31,43,D,84,Yes,2,No,No,8.99
+302,Hansh Dhaliwal,Database Management Systems,18,33,51,D,65,Yes,4,Yes,Yes,8.99
+302,Hansh Dhaliwal,Data Communication,29,20,49,D,87,Yes,2,No,No,8.99
+303,Advik Rastogi,Object Oriented Programming,21,50,71,B,90,Yes,2,No,No,7.26
+303,Advik Rastogi,Discrete Mathematics,10,48,58,C,78,Yes,2,Yes,No,7.26
+303,Advik Rastogi,Computer Organization,20,20,40,D,60,Yes,4,Yes,No,7.26
+303,Advik Rastogi,Database Management Systems,28,44,72,B,71,Yes,3,Yes,No,7.26
+303,Advik Rastogi,Data Communication,13,61,74,B,76,Yes,4,Yes,No,7.26
+304,Anahi Goel,Object Oriented Programming,17,22,39,F,79,No,5,Yes,Yes,7.98
+304,Anahi Goel,Discrete Mathematics,19,64,83,B,73,Yes,2,No,Yes,7.98
+304,Anahi Goel,Computer Organization,17,22,39,F,80,No,2,No,No,7.98
+304,Anahi Goel,Database Management Systems,18,31,49,D,98,Yes,5,No,No,7.98
+304,Anahi Goel,Data Communication,26,27,53,D,61,Yes,3,No,Yes,7.98
+305,Sahil Sundaram,Object Oriented Programming,28,63,91,A,62,Yes,5,Yes,No,9.36
+305,Sahil Sundaram,Discrete Mathematics,16,63,79,B,92,Yes,5,No,No,9.36
+305,Sahil Sundaram,Computer Organization,20,28,48,D,91,Yes,1,No,Yes,9.36
+305,Sahil Sundaram,Database Management Systems,12,42,54,D,65,Yes,4,Yes,No,9.36
+305,Sahil Sundaram,Data Communication,17,24,41,D,98,Yes,3,Yes,No,9.36
+306,Emir Kapoor,Object Oriented Programming,26,45,71,B,74,Yes,2,Yes,No,9.87
+306,Emir Kapoor,Discrete Mathematics,16,53,69,C,79,Yes,4,No,Yes,9.87
+306,Emir Kapoor,Computer Organization,22,39,61,C,100,Yes,1,Yes,Yes,9.87
+306,Emir Kapoor,Database Management Systems,12,63,75,B,82,Yes,2,Yes,Yes,9.87
+306,Emir Kapoor,Data Communication,18,54,72,B,96,Yes,1,Yes,Yes,9.87
+307,Samarth Yogi,Object Oriented Programming,30,60,90,A,77,Yes,2,No,No,7.74
+307,Samarth Yogi,Discrete Mathematics,26,26,52,D,63,Yes,3,Yes,No,7.74
+307,Samarth Yogi,Computer Organization,18,32,50,D,71,Yes,5,Yes,No,7.74
+307,Samarth Yogi,Database Management Systems,22,66,88,A,68,Yes,3,Yes,No,7.74
+307,Samarth Yogi,Data Communication,14,50,64,C,84,Yes,4,No,Yes,7.74
+308,Anya Verma,Object Oriented Programming,12,26,38,F,87,No,5,Yes,Yes,6.75
+308,Anya Verma,Discrete Mathematics,24,62,86,A,81,Yes,5,No,Yes,6.75
+308,Anya Verma,Computer Organization,10,56,66,C,74,Yes,1,No,No,6.75
+308,Anya Verma,Database Management Systems,24,39,63,C,87,Yes,2,Yes,No,6.75
+308,Anya Verma,Data Communication,10,48,58,C,74,Yes,4,Yes,Yes,6.75
+309,Oorja Tata,Object Oriented Programming,16,23,39,F,100,No,4,No,No,6.41
+309,Oorja Tata,Discrete Mathematics,26,65,91,A,73,Yes,4,No,No,6.41
+309,Oorja Tata,Computer Organization,22,61,83,B,83,Yes,3,Yes,Yes,6.41
+309,Oorja Tata,Database Management Systems,28,45,73,B,77,Yes,4,Yes,Yes,6.41
+309,Oorja Tata,Data Communication,28,33,61,C,68,Yes,5,Yes,Yes,6.41
+310,Raghav Tripathi,Object Oriented Programming,28,54,82,B,83,Yes,1,No,Yes,8.54
+310,Raghav Tripathi,Discrete Mathematics,25,57,82,B,90,Yes,1,Yes,Yes,8.54
+310,Raghav Tripathi,Computer Organization,18,34,52,D,61,Yes,2,No,Yes,8.54
+310,Raghav Tripathi,Database Management Systems,14,30,44,D,73,Yes,4,Yes,No,8.54
+310,Raghav Tripathi,Data Communication,11,20,31,F,96,No,2,No,Yes,8.54
+311,Dhruv Din,Object Oriented Programming,13,40,53,D,70,Yes,5,No,Yes,5.54
+311,Dhruv Din,Discrete Mathematics,15,68,83,B,92,Yes,3,No,No,5.54
+311,Dhruv Din,Computer Organization,14,24,38,F,98,No,1,No,Yes,5.54
+311,Dhruv Din,Database Management Systems,23,63,86,A,68,Yes,4,No,Yes,5.54
+311,Dhruv Din,Data Communication,21,44,65,C,96,Yes,5,No,No,5.54
+312,Nitara Wason,Object Oriented Programming,25,49,74,B,67,Yes,4,Yes,No,6.29
+312,Nitara Wason,Discrete Mathematics,26,21,47,D,81,Yes,3,No,No,6.29
+312,Nitara Wason,Computer Organization,16,33,49,D,83,Yes,3,No,No,6.29
+312,Nitara Wason,Database Management Systems,28,21,49,D,100,Yes,2,Yes,Yes,6.29
+312,Nitara Wason,Data Communication,16,50,66,C,72,Yes,4,No,Yes,6.29
+313,Zoya Chakraborty,Object Oriented Programming,12,65,77,B,81,Yes,3,No,Yes,7.49
+313,Zoya Chakraborty,Discrete Mathematics,20,53,73,B,89,Yes,5,Yes,No,7.49
+313,Zoya Chakraborty,Computer Organization,26,41,67,C,94,Yes,2,No,No,7.49
+313,Zoya Chakraborty,Database Management Systems,28,24,52,D,93,Yes,5,Yes,Yes,7.49
+313,Zoya Chakraborty,Data Communication,11,39,50,D,65,Yes,4,No,No,7.49
+314,Sahil Grover,Object Oriented Programming,11,62,73,B,84,Yes,2,No,No,8.78
+314,Sahil Grover,Discrete Mathematics,29,24,53,D,60,Yes,3,No,No,8.78
+314,Sahil Grover,Computer Organization,10,27,37,F,70,No,2,Yes,Yes,8.78
+314,Sahil Grover,Database Management Systems,15,65,80,B,94,Yes,2,Yes,Yes,8.78
+314,Sahil Grover,Data Communication,14,32,46,D,66,Yes,5,Yes,No,8.78
+315,Jayan Borah,Object Oriented Programming,20,55,75,B,63,Yes,5,No,Yes,8.04
+315,Jayan Borah,Discrete Mathematics,28,45,73,B,81,Yes,5,No,No,8.04
+315,Jayan Borah,Computer Organization,30,64,94,A,76,Yes,4,Yes,Yes,8.04
+315,Jayan Borah,Database Management Systems,30,22,52,D,85,Yes,4,No,Yes,8.04
+315,Jayan Borah,Data Communication,29,33,62,C,82,Yes,5,Yes,No,8.04
+316,Ivan Koshy,Object Oriented Programming,12,32,44,D,78,Yes,1,Yes,Yes,9.71
+316,Ivan Koshy,Discrete Mathematics,22,37,59,C,92,Yes,2,Yes,Yes,9.71
+316,Ivan Koshy,Computer Organization,10,28,38,F,66,No,1,Yes,No,9.71
+316,Ivan Koshy,Database Management Systems,14,38,52,D,60,Yes,4,No,Yes,9.71
+316,Ivan Koshy,Data Communication,21,66,87,A,71,Yes,3,No,No,9.71
+317,Eshani Vyas,Object Oriented Programming,13,25,38,F,74,No,1,No,Yes,9.07
+317,Eshani Vyas,Discrete Mathematics,28,22,50,D,61,Yes,3,No,Yes,9.07
+317,Eshani Vyas,Computer Organization,11,59,70,B,60,Yes,1,No,No,9.07
+317,Eshani Vyas,Database Management Systems,29,55,84,B,74,Yes,5,No,Yes,9.07
+317,Eshani Vyas,Data Communication,21,50,71,B,72,Yes,2,Yes,No,9.07
+318,Drishya Butala,Object Oriented Programming,15,55,70,B,93,Yes,1,Yes,No,9.31
+318,Drishya Butala,Discrete Mathematics,30,41,71,B,97,Yes,2,Yes,Yes,9.31
+318,Drishya Butala,Computer Organization,27,34,61,C,99,Yes,4,Yes,No,9.31
+318,Drishya Butala,Database Management Systems,24,26,50,D,79,Yes,1,Yes,Yes,9.31
+318,Drishya Butala,Data Communication,19,67,86,A,95,Yes,1,Yes,No,9.31
+319,Zaina Loke,Object Oriented Programming,13,43,56,C,78,Yes,3,No,Yes,5.25
+319,Zaina Loke,Discrete Mathematics,30,43,73,B,75,Yes,2,No,Yes,5.25
+319,Zaina Loke,Computer Organization,23,62,85,A,82,Yes,5,No,No,5.25
+319,Zaina Loke,Database Management Systems,28,59,87,A,79,Yes,2,No,Yes,5.25
+319,Zaina Loke,Data Communication,29,22,51,D,65,Yes,2,No,No,5.25
+320,Shamik Bhardwaj,Object Oriented Programming,12,50,62,C,65,Yes,4,Yes,Yes,5.72
+320,Shamik Bhardwaj,Discrete Mathematics,27,56,83,B,60,Yes,2,Yes,Yes,5.72
+320,Shamik Bhardwaj,Computer Organization,27,51,78,B,99,Yes,4,Yes,Yes,5.72
+320,Shamik Bhardwaj,Database Management Systems,13,58,71,B,82,Yes,3,No,Yes,5.72
+320,Shamik Bhardwaj,Data Communication,14,61,75,B,99,Yes,5,Yes,No,5.72
+321,Kaira Kaul,Object Oriented Programming,29,65,94,A,76,Yes,1,Yes,No,5.94
+321,Kaira Kaul,Discrete Mathematics,19,40,59,C,61,Yes,3,Yes,No,5.94
+321,Kaira Kaul,Computer Organization,18,26,44,D,88,Yes,2,No,No,5.94
+321,Kaira Kaul,Database Management Systems,25,66,91,A,84,Yes,1,No,No,5.94
+321,Kaira Kaul,Data Communication,14,49,63,C,62,Yes,5,No,Yes,5.94
+322,Arnav Dey,Object Oriented Programming,10,47,57,C,76,Yes,5,Yes,No,7.66
+322,Arnav Dey,Discrete Mathematics,10,56,66,C,79,Yes,3,Yes,No,7.66
+322,Arnav Dey,Computer Organization,10,62,72,B,81,Yes,4,No,Yes,7.66
+322,Arnav Dey,Database Management Systems,14,34,48,D,96,Yes,3,Yes,Yes,7.66
+322,Arnav Dey,Data Communication,12,44,56,C,69,Yes,3,No,No,7.66
+323,Shanaya Bhatia,Object Oriented Programming,27,22,49,D,60,Yes,3,Yes,Yes,7.03
+323,Shanaya Bhatia,Discrete Mathematics,20,52,72,B,97,Yes,2,No,Yes,7.03
+323,Shanaya Bhatia,Computer Organization,23,34,57,C,83,Yes,3,Yes,No,7.03
+323,Shanaya Bhatia,Database Management Systems,19,34,53,D,100,Yes,4,No,No,7.03
+323,Shanaya Bhatia,Data Communication,12,55,67,C,61,Yes,3,No,Yes,7.03
+324,Emir Chahal,Object Oriented Programming,15,38,53,D,93,Yes,5,Yes,Yes,7.84
+324,Emir Chahal,Discrete Mathematics,16,31,47,D,81,Yes,1,No,Yes,7.84
+324,Emir Chahal,Computer Organization,26,56,82,B,63,Yes,4,Yes,Yes,7.84
+324,Emir Chahal,Database Management Systems,30,66,96,A,87,Yes,5,No,No,7.84
+324,Emir Chahal,Data Communication,18,42,60,C,64,Yes,5,No,No,7.84
+325,Mahika Kumar,Object Oriented Programming,20,37,57,C,72,Yes,2,No,Yes,8.51
+325,Mahika Kumar,Discrete Mathematics,30,67,97,A,72,Yes,3,Yes,Yes,8.51
+325,Mahika Kumar,Computer Organization,26,56,82,B,79,Yes,5,No,No,8.51
+325,Mahika Kumar,Database Management Systems,14,52,66,C,76,Yes,2,Yes,Yes,8.51
+325,Mahika Kumar,Data Communication,27,32,59,C,71,Yes,4,No,No,8.51
+326,Jayan Raval,Object Oriented Programming,19,29,48,D,99,Yes,4,No,No,6.08
+326,Jayan Raval,Discrete Mathematics,22,54,76,B,68,Yes,5,No,Yes,6.08
+326,Jayan Raval,Computer Organization,22,27,49,D,82,Yes,5,No,Yes,6.08
+326,Jayan Raval,Database Management Systems,28,41,69,C,68,Yes,1,Yes,Yes,6.08
+326,Jayan Raval,Data Communication,17,70,87,A,93,Yes,2,Yes,Yes,6.08
+327,Chirag Venkataraman,Object Oriented Programming,21,68,89,A,67,Yes,3,No,No,9.8
+327,Chirag Venkataraman,Discrete Mathematics,21,69,90,A,63,Yes,1,No,Yes,9.8
+327,Chirag Venkataraman,Computer Organization,12,21,33,F,60,No,5,No,No,9.8
+327,Chirag Venkataraman,Database Management Systems,13,55,68,C,69,Yes,3,No,No,9.8
+327,Chirag Venkataraman,Data Communication,13,58,71,B,74,Yes,2,Yes,Yes,9.8
+328,Alia Tak,Object Oriented Programming,20,52,72,B,86,Yes,3,Yes,No,6.73
+328,Alia Tak,Discrete Mathematics,12,30,42,D,87,Yes,5,No,No,6.73
+328,Alia Tak,Computer Organization,17,23,40,D,60,Yes,5,No,Yes,6.73
+328,Alia Tak,Database Management Systems,14,64,78,B,96,Yes,3,Yes,Yes,6.73
+328,Alia Tak,Data Communication,21,38,59,C,71,Yes,5,No,Yes,6.73
+329,Diya Konda,Object Oriented Programming,18,57,75,B,71,Yes,2,Yes,No,9.56
+329,Diya Konda,Discrete Mathematics,27,68,95,A,84,Yes,5,No,Yes,9.56
+329,Diya Konda,Computer Organization,30,53,83,B,73,Yes,5,Yes,No,9.56
+329,Diya Konda,Database Management Systems,23,26,49,D,82,Yes,1,Yes,No,9.56
+329,Diya Konda,Data Communication,26,35,61,C,62,Yes,5,No,Yes,9.56
+330,Dhanuk Apte,Object Oriented Programming,23,23,46,D,78,Yes,5,No,No,5.47
+330,Dhanuk Apte,Discrete Mathematics,26,55,81,B,99,Yes,5,No,Yes,5.47
+330,Dhanuk Apte,Computer Organization,15,45,60,C,88,Yes,5,No,No,5.47
+330,Dhanuk Apte,Database Management Systems,30,59,89,A,61,Yes,2,Yes,No,5.47
+330,Dhanuk Apte,Data Communication,20,57,77,B,72,Yes,4,Yes,No,5.47
+331,Prisha Badami,Object Oriented Programming,30,34,64,C,96,Yes,1,Yes,No,9.1
+331,Prisha Badami,Discrete Mathematics,13,33,46,D,96,Yes,2,Yes,Yes,9.1
+331,Prisha Badami,Computer Organization,28,63,91,A,65,Yes,5,Yes,No,9.1
+331,Prisha Badami,Database Management Systems,19,44,63,C,84,Yes,3,Yes,No,9.1
+331,Prisha Badami,Data Communication,25,54,79,B,88,Yes,2,No,Yes,9.1
+332,Bhamini Brar,Object Oriented Programming,19,40,59,C,75,Yes,2,No,No,7.61
+332,Bhamini Brar,Discrete Mathematics,18,60,78,B,85,Yes,4,Yes,No,7.61
+332,Bhamini Brar,Computer Organization,24,70,94,A,91,Yes,2,No,Yes,7.61
+332,Bhamini Brar,Database Management Systems,21,30,51,D,73,Yes,1,Yes,No,7.61
+332,Bhamini Brar,Data Communication,22,61,83,B,64,Yes,3,Yes,No,7.61
+333,Samiha Raja,Object Oriented Programming,19,53,72,B,84,Yes,3,No,No,5.72
+333,Samiha Raja,Discrete Mathematics,11,39,50,D,71,Yes,1,Yes,No,5.72
+333,Samiha Raja,Computer Organization,19,69,88,A,72,Yes,1,Yes,No,5.72
+333,Samiha Raja,Database Management Systems,21,53,74,B,80,Yes,1,Yes,No,5.72
+333,Samiha Raja,Data Communication,11,45,56,C,64,Yes,2,Yes,No,5.72
+334,Armaan Sathe,Object Oriented Programming,13,27,40,D,93,Yes,3,Yes,Yes,9.14
+334,Armaan Sathe,Discrete Mathematics,19,55,74,B,82,Yes,1,No,Yes,9.14
+334,Armaan Sathe,Computer Organization,14,25,39,F,64,No,1,No,Yes,9.14
+334,Armaan Sathe,Database Management Systems,21,40,61,C,80,Yes,1,No,Yes,9.14
+334,Armaan Sathe,Data Communication,20,41,61,C,63,Yes,4,No,No,9.14
+335,Vedika Goswami,Object Oriented Programming,12,54,66,C,65,Yes,3,No,Yes,7.48
+335,Vedika Goswami,Discrete Mathematics,27,42,69,C,88,Yes,5,Yes,No,7.48
+335,Vedika Goswami,Computer Organization,17,21,38,F,97,No,4,No,No,7.48
+335,Vedika Goswami,Database Management Systems,28,62,90,A,83,Yes,4,No,Yes,7.48
+335,Vedika Goswami,Data Communication,16,21,37,F,67,No,1,Yes,No,7.48
+336,Damini Baral,Object Oriented Programming,18,22,40,D,81,Yes,1,No,No,7.64
+336,Damini Baral,Discrete Mathematics,14,37,51,D,78,Yes,5,Yes,Yes,7.64
+336,Damini Baral,Computer Organization,16,23,39,F,70,No,2,No,No,7.64
+336,Damini Baral,Database Management Systems,13,35,48,D,95,Yes,1,No,Yes,7.64
+336,Damini Baral,Data Communication,12,42,54,D,76,Yes,4,No,No,7.64
+337,Indranil Batta,Object Oriented Programming,22,45,67,C,79,Yes,3,Yes,Yes,6.09
+337,Indranil Batta,Discrete Mathematics,25,24,49,D,66,Yes,3,No,No,6.09
+337,Indranil Batta,Computer Organization,28,64,92,A,62,Yes,2,No,No,6.09
+337,Indranil Batta,Database Management Systems,30,41,71,B,92,Yes,3,Yes,No,6.09
+337,Indranil Batta,Data Communication,17,45,62,C,73,Yes,5,No,Yes,6.09
+338,Zaina Shere,Object Oriented Programming,10,28,38,F,63,No,4,Yes,Yes,6.54
+338,Zaina Shere,Discrete Mathematics,30,24,54,D,88,Yes,3,No,Yes,6.54
+338,Zaina Shere,Computer Organization,22,58,80,B,60,Yes,2,Yes,Yes,6.54
+338,Zaina Shere,Database Management Systems,12,52,64,C,83,Yes,2,No,No,6.54
+338,Zaina Shere,Data Communication,22,23,45,D,89,Yes,5,Yes,No,6.54
+339,Ranbir Bora,Object Oriented Programming,21,33,54,D,73,Yes,2,Yes,Yes,7.69
+339,Ranbir Bora,Discrete Mathematics,12,43,55,C,79,Yes,1,No,Yes,7.69
+339,Ranbir Bora,Computer Organization,28,65,93,A,99,Yes,2,Yes,No,7.69
+339,Ranbir Bora,Database Management Systems,13,30,43,D,74,Yes,3,No,No,7.69
+339,Ranbir Bora,Data Communication,17,67,84,B,77,Yes,5,Yes,No,7.69
+340,Armaan Sarkar,Object Oriented Programming,25,33,58,C,89,Yes,1,No,No,7.75
+340,Armaan Sarkar,Discrete Mathematics,30,63,93,A,67,Yes,5,No,No,7.75
+340,Armaan Sarkar,Computer Organization,12,37,49,D,80,Yes,5,Yes,Yes,7.75
+340,Armaan Sarkar,Database Management Systems,28,37,65,C,93,Yes,4,Yes,Yes,7.75
+340,Armaan Sarkar,Data Communication,13,34,47,D,76,Yes,2,No,Yes,7.75
+341,Alisha Suri,Object Oriented Programming,13,43,56,C,93,Yes,3,No,No,6.25
+341,Alisha Suri,Discrete Mathematics,22,33,55,C,88,Yes,1,No,No,6.25
+341,Alisha Suri,Computer Organization,30,50,80,B,95,Yes,3,No,No,6.25
+341,Alisha Suri,Database Management Systems,12,53,65,C,85,Yes,2,Yes,Yes,6.25
+341,Alisha Suri,Data Communication,22,50,72,B,62,Yes,4,No,Yes,6.25
+342,Divyansh Raju,Object Oriented Programming,14,47,61,C,73,Yes,2,Yes,No,9.03
+342,Divyansh Raju,Discrete Mathematics,16,38,54,D,95,Yes,4,Yes,Yes,9.03
+342,Divyansh Raju,Computer Organization,23,21,44,D,93,Yes,2,No,Yes,9.03
+342,Divyansh Raju,Database Management Systems,20,25,45,D,87,Yes,2,Yes,No,9.03
+342,Divyansh Raju,Data Communication,11,34,45,D,73,Yes,1,Yes,Yes,9.03
+343,Kimaya Dara,Object Oriented Programming,21,66,87,A,97,Yes,5,Yes,No,5.1
+343,Kimaya Dara,Discrete Mathematics,12,58,70,B,68,Yes,2,Yes,No,5.1
+343,Kimaya Dara,Computer Organization,10,29,39,F,91,No,1,Yes,Yes,5.1
+343,Kimaya Dara,Database Management Systems,18,36,54,D,64,Yes,2,No,Yes,5.1
+343,Kimaya Dara,Data Communication,18,51,69,C,85,Yes,1,No,Yes,5.1
+344,Kiaan Upadhyay,Object Oriented Programming,17,42,59,C,95,Yes,5,No,No,9.24
+344,Kiaan Upadhyay,Discrete Mathematics,12,68,80,B,60,Yes,1,Yes,No,9.24
+344,Kiaan Upadhyay,Computer Organization,15,61,76,B,63,Yes,4,No,Yes,9.24
+344,Kiaan Upadhyay,Database Management Systems,19,59,78,B,79,Yes,5,Yes,Yes,9.24
+344,Kiaan Upadhyay,Data Communication,23,30,53,D,61,Yes,3,Yes,No,9.24
+345,Riaan Dass,Object Oriented Programming,10,47,57,C,72,Yes,4,No,No,7.05
+345,Riaan Dass,Discrete Mathematics,22,41,63,C,83,Yes,5,No,No,7.05
+345,Riaan Dass,Computer Organization,12,67,79,B,76,Yes,5,No,No,7.05
+345,Riaan Dass,Database Management Systems,18,65,83,B,62,Yes,3,No,No,7.05
+345,Riaan Dass,Data Communication,11,23,34,F,76,No,5,No,No,7.05
+346,Dharmajan Johal,Object Oriented Programming,15,51,66,C,76,Yes,5,Yes,Yes,7.94
+346,Dharmajan Johal,Discrete Mathematics,28,40,68,C,60,Yes,5,Yes,Yes,7.94
+346,Dharmajan Johal,Computer Organization,27,41,68,C,85,Yes,1,Yes,No,7.94
+346,Dharmajan Johal,Database Management Systems,27,66,93,A,77,Yes,3,Yes,Yes,7.94
+346,Dharmajan Johal,Data Communication,21,55,76,B,81,Yes,4,Yes,No,7.94
+347,Sumer Chada,Object Oriented Programming,11,25,36,F,85,No,2,Yes,Yes,8.93
+347,Sumer Chada,Discrete Mathematics,15,36,51,D,95,Yes,2,Yes,No,8.93
+347,Sumer Chada,Computer Organization,13,20,33,F,98,No,2,No,No,8.93
+347,Sumer Chada,Database Management Systems,24,42,66,C,72,Yes,2,No,Yes,8.93
+347,Sumer Chada,Data Communication,26,46,72,B,75,Yes,1,Yes,No,8.93
+348,Elakshi Sagar,Object Oriented Programming,19,40,59,C,86,Yes,5,Yes,Yes,6.39
+348,Elakshi Sagar,Discrete Mathematics,22,35,57,C,68,Yes,3,No,Yes,6.39
+348,Elakshi Sagar,Computer Organization,26,20,46,D,96,Yes,3,No,No,6.39
+348,Elakshi Sagar,Database Management Systems,20,36,56,C,98,Yes,5,Yes,Yes,6.39
+348,Elakshi Sagar,Data Communication,21,34,55,C,86,Yes,4,Yes,Yes,6.39
+349,Lakshit Kibe,Object Oriented Programming,19,59,78,B,100,Yes,5,Yes,Yes,8.36
+349,Lakshit Kibe,Discrete Mathematics,15,70,85,A,98,Yes,1,Yes,Yes,8.36
+349,Lakshit Kibe,Computer Organization,23,37,60,C,83,Yes,4,Yes,No,8.36
+349,Lakshit Kibe,Database Management Systems,17,22,39,F,62,No,5,Yes,No,8.36
+349,Lakshit Kibe,Data Communication,13,61,74,B,86,Yes,2,Yes,Yes,8.36
+350,Aaryahi Dewan,Object Oriented Programming,29,44,73,B,64,Yes,3,Yes,Yes,5.44
+350,Aaryahi Dewan,Discrete Mathematics,23,27,50,D,95,Yes,2,Yes,No,5.44
+350,Aaryahi Dewan,Computer Organization,10,48,58,C,96,Yes,4,Yes,Yes,5.44
+350,Aaryahi Dewan,Database Management Systems,22,21,43,D,78,Yes,4,Yes,No,5.44
+350,Aaryahi Dewan,Data Communication,23,30,53,D,89,Yes,4,No,No,5.44
+351,Emir Handa,Object Oriented Programming,20,48,68,C,86,Yes,3,Yes,Yes,9.49
+351,Emir Handa,Discrete Mathematics,16,44,60,C,83,Yes,1,No,Yes,9.49
+351,Emir Handa,Computer Organization,16,21,37,F,74,No,1,No,Yes,9.49
+351,Emir Handa,Database Management Systems,18,43,61,C,71,Yes,4,Yes,No,9.49
+351,Emir Handa,Data Communication,23,41,64,C,68,Yes,3,Yes,No,9.49
+352,Kartik Date,Object Oriented Programming,10,26,36,F,73,No,4,No,No,6.21
+352,Kartik Date,Discrete Mathematics,22,52,74,B,67,Yes,2,Yes,Yes,6.21
+352,Kartik Date,Computer Organization,27,65,92,A,90,Yes,2,No,Yes,6.21
+352,Kartik Date,Database Management Systems,26,21,47,D,75,Yes,3,No,No,6.21
+352,Kartik Date,Data Communication,19,67,86,A,61,Yes,4,Yes,Yes,6.21
+353,Zaina Bose,Object Oriented Programming,20,25,45,D,87,Yes,2,Yes,No,8.39
+353,Zaina Bose,Discrete Mathematics,19,24,43,D,91,Yes,2,No,No,8.39
+353,Zaina Bose,Computer Organization,22,29,51,D,63,Yes,2,No,No,8.39
+353,Zaina Bose,Database Management Systems,12,54,66,C,67,Yes,3,Yes,No,8.39
+353,Zaina Bose,Data Communication,30,35,65,C,92,Yes,4,Yes,No,8.39
+354,Arnav Chakraborty,Object Oriented Programming,29,42,71,B,71,Yes,4,No,No,9.8
+354,Arnav Chakraborty,Discrete Mathematics,30,39,69,C,87,Yes,1,Yes,No,9.8
+354,Arnav Chakraborty,Computer Organization,20,54,74,B,82,Yes,1,No,Yes,9.8
+354,Arnav Chakraborty,Database Management Systems,29,49,78,B,81,Yes,2,No,No,9.8
+354,Arnav Chakraborty,Data Communication,12,39,51,D,83,Yes,5,Yes,No,9.8
+355,Azad Chad,Object Oriented Programming,14,46,60,C,95,Yes,3,No,Yes,5.34
+355,Azad Chad,Discrete Mathematics,11,69,80,B,90,Yes,3,Yes,No,5.34
+355,Azad Chad,Computer Organization,23,70,93,A,63,Yes,5,Yes,No,5.34
+355,Azad Chad,Database Management Systems,16,21,37,F,67,No,3,Yes,Yes,5.34
+355,Azad Chad,Data Communication,23,32,55,C,74,Yes,2,Yes,Yes,5.34
+356,Anahi Bora,Object Oriented Programming,28,45,73,B,87,Yes,2,Yes,Yes,6.08
+356,Anahi Bora,Discrete Mathematics,30,27,57,C,88,Yes,5,Yes,Yes,6.08
+356,Anahi Bora,Computer Organization,14,24,38,F,70,No,1,No,Yes,6.08
+356,Anahi Bora,Database Management Systems,15,44,59,C,92,Yes,5,No,Yes,6.08
+356,Anahi Bora,Data Communication,30,21,51,D,93,Yes,1,Yes,No,6.08
+357,Kartik Soman,Object Oriented Programming,29,35,64,C,100,Yes,2,Yes,Yes,7.73
+357,Kartik Soman,Discrete Mathematics,28,37,65,C,91,Yes,4,No,No,7.73
+357,Kartik Soman,Computer Organization,12,61,73,B,76,Yes,5,Yes,No,7.73
+357,Kartik Soman,Database Management Systems,28,67,95,A,85,Yes,3,Yes,No,7.73
+357,Kartik Soman,Data Communication,26,61,87,A,95,Yes,3,Yes,Yes,7.73
+358,Mahika Sahni,Object Oriented Programming,20,61,81,B,91,Yes,2,No,No,5.68
+358,Mahika Sahni,Discrete Mathematics,21,45,66,C,67,Yes,2,No,No,5.68
+358,Mahika Sahni,Computer Organization,14,39,53,D,92,Yes,4,Yes,Yes,5.68
+358,Mahika Sahni,Database Management Systems,18,33,51,D,80,Yes,3,No,No,5.68
+358,Mahika Sahni,Data Communication,24,56,80,B,74,Yes,3,No,No,5.68
+359,Parinaaz Chauhan,Object Oriented Programming,26,53,79,B,98,Yes,5,No,Yes,6.23
+359,Parinaaz Chauhan,Discrete Mathematics,28,35,63,C,78,Yes,4,No,Yes,6.23
+359,Parinaaz Chauhan,Computer Organization,26,58,84,B,75,Yes,5,No,No,6.23
+359,Parinaaz Chauhan,Database Management Systems,10,69,79,B,85,Yes,2,No,Yes,6.23
+359,Parinaaz Chauhan,Data Communication,25,61,86,A,80,Yes,4,Yes,No,6.23
+360,Shlok Kannan,Object Oriented Programming,16,68,84,B,93,Yes,2,Yes,Yes,5.87
+360,Shlok Kannan,Discrete Mathematics,18,64,82,B,62,Yes,2,Yes,No,5.87
+360,Shlok Kannan,Computer Organization,24,35,59,C,90,Yes,2,Yes,Yes,5.87
+360,Shlok Kannan,Database Management Systems,11,66,77,B,92,Yes,1,No,Yes,5.87
+360,Shlok Kannan,Data Communication,12,43,55,C,80,Yes,1,No,Yes,5.87
+361,Uthkarsh Khare,Object Oriented Programming,30,31,61,C,63,Yes,1,No,Yes,9.45
+361,Uthkarsh Khare,Discrete Mathematics,22,27,49,D,82,Yes,2,No,No,9.45
+361,Uthkarsh Khare,Computer Organization,20,26,46,D,81,Yes,5,Yes,No,9.45
+361,Uthkarsh Khare,Database Management Systems,16,20,36,F,70,No,4,No,No,9.45
+361,Uthkarsh Khare,Data Communication,18,24,42,D,98,Yes,5,Yes,Yes,9.45
+362,Krish Thaker,Object Oriented Programming,25,69,94,A,87,Yes,4,No,Yes,6.67
+362,Krish Thaker,Discrete Mathematics,19,44,63,C,100,Yes,3,Yes,No,6.67
+362,Krish Thaker,Computer Organization,19,30,49,D,70,Yes,3,Yes,Yes,6.67
+362,Krish Thaker,Database Management Systems,20,52,72,B,89,Yes,2,Yes,Yes,6.67
+362,Krish Thaker,Data Communication,28,45,73,B,94,Yes,5,Yes,Yes,6.67
+363,Damini Gokhale,Object Oriented Programming,19,60,79,B,93,Yes,1,Yes,Yes,5.74
+363,Damini Gokhale,Discrete Mathematics,11,60,71,B,74,Yes,3,No,Yes,5.74
+363,Damini Gokhale,Computer Organization,18,67,85,A,69,Yes,3,Yes,No,5.74
+363,Damini Gokhale,Database Management Systems,30,50,80,B,85,Yes,3,No,Yes,5.74
+363,Damini Gokhale,Data Communication,22,58,80,B,76,Yes,4,Yes,Yes,5.74
+364,Nayantara Subramaniam,Object Oriented Programming,18,54,72,B,75,Yes,5,No,No,5.6
+364,Nayantara Subramaniam,Discrete Mathematics,14,59,73,B,82,Yes,5,No,Yes,5.6
+364,Nayantara Subramaniam,Computer Organization,28,35,63,C,68,Yes,4,No,No,5.6
+364,Nayantara Subramaniam,Database Management Systems,28,37,65,C,60,Yes,4,Yes,No,5.6
+364,Nayantara Subramaniam,Data Communication,23,42,65,C,96,Yes,3,No,Yes,5.6
+365,Shaan Sarma,Object Oriented Programming,17,58,75,B,97,Yes,3,No,No,7.18
+365,Shaan Sarma,Discrete Mathematics,26,20,46,D,63,Yes,4,No,Yes,7.18
+365,Shaan Sarma,Computer Organization,17,65,82,B,64,Yes,5,Yes,No,7.18
+365,Shaan Sarma,Database Management Systems,24,28,52,D,95,Yes,3,Yes,No,7.18
+365,Shaan Sarma,Data Communication,15,67,82,B,97,Yes,3,Yes,Yes,7.18
+366,Urvi Venkatesh,Object Oriented Programming,29,57,86,A,81,Yes,3,Yes,Yes,6.74
+366,Urvi Venkatesh,Discrete Mathematics,23,25,48,D,87,Yes,1,No,Yes,6.74
+366,Urvi Venkatesh,Computer Organization,28,42,70,B,90,Yes,5,Yes,Yes,6.74
+366,Urvi Venkatesh,Database Management Systems,22,55,77,B,88,Yes,2,Yes,Yes,6.74
+366,Urvi Venkatesh,Data Communication,18,39,57,C,95,Yes,3,Yes,No,6.74
+367,Taimur Vohra,Object Oriented Programming,19,61,80,B,84,Yes,5,Yes,No,5.88
+367,Taimur Vohra,Discrete Mathematics,10,36,46,D,82,Yes,3,No,Yes,5.88
+367,Taimur Vohra,Computer Organization,27,70,97,A,63,Yes,3,Yes,No,5.88
+367,Taimur Vohra,Database Management Systems,16,53,69,C,100,Yes,1,Yes,No,5.88
+367,Taimur Vohra,Data Communication,18,41,59,C,79,Yes,2,Yes,No,5.88
+368,Eva Singh,Object Oriented Programming,17,22,39,F,100,No,1,Yes,No,5.54
+368,Eva Singh,Discrete Mathematics,26,27,53,D,71,Yes,2,No,Yes,5.54
+368,Eva Singh,Computer Organization,10,68,78,B,85,Yes,1,Yes,Yes,5.54
+368,Eva Singh,Database Management Systems,14,22,36,F,75,No,5,No,Yes,5.54
+368,Eva Singh,Data Communication,15,20,35,F,69,No,5,Yes,No,5.54
+369,Aaryahi Garg,Object Oriented Programming,23,62,85,A,84,Yes,1,No,No,5.54
+369,Aaryahi Garg,Discrete Mathematics,18,40,58,C,60,Yes,4,Yes,No,5.54
+369,Aaryahi Garg,Computer Organization,30,66,96,A,88,Yes,4,No,No,5.54
+369,Aaryahi Garg,Database Management Systems,13,43,56,C,98,Yes,4,Yes,Yes,5.54
+369,Aaryahi Garg,Data Communication,15,64,79,B,70,Yes,3,No,No,5.54
+370,Shalv Walia,Object Oriented Programming,22,64,86,A,79,Yes,3,No,Yes,5.37
+370,Shalv Walia,Discrete Mathematics,28,47,75,B,63,Yes,3,No,Yes,5.37
+370,Shalv Walia,Computer Organization,19,35,54,D,98,Yes,2,Yes,Yes,5.37
+370,Shalv Walia,Database Management Systems,29,32,61,C,79,Yes,2,Yes,No,5.37
+370,Shalv Walia,Data Communication,21,57,78,B,91,Yes,5,Yes,No,5.37
+371,Ojas Garde,Object Oriented Programming,25,60,85,A,70,Yes,3,No,No,6.91
+371,Ojas Garde,Discrete Mathematics,23,28,51,D,100,Yes,4,Yes,Yes,6.91
+371,Ojas Garde,Computer Organization,10,31,41,D,86,Yes,3,Yes,Yes,6.91
+371,Ojas Garde,Database Management Systems,11,40,51,D,90,Yes,3,No,Yes,6.91
+371,Ojas Garde,Data Communication,13,65,78,B,73,Yes,2,No,Yes,6.91
+372,Tiya Gole,Object Oriented Programming,27,37,64,C,79,Yes,4,No,No,7.76
+372,Tiya Gole,Discrete Mathematics,15,20,35,F,75,No,3,Yes,Yes,7.76
+372,Tiya Gole,Computer Organization,21,55,76,B,88,Yes,1,No,No,7.76
+372,Tiya Gole,Database Management Systems,24,51,75,B,87,Yes,1,Yes,No,7.76
+372,Tiya Gole,Data Communication,12,68,80,B,82,Yes,1,No,Yes,7.76
+373,Abram Lanka,Object Oriented Programming,12,42,54,D,83,Yes,3,Yes,No,8.05
+373,Abram Lanka,Discrete Mathematics,10,63,73,B,66,Yes,5,Yes,No,8.05
+373,Abram Lanka,Computer Organization,22,52,74,B,93,Yes,1,No,Yes,8.05
+373,Abram Lanka,Database Management Systems,26,38,64,C,77,Yes,3,No,Yes,8.05
+373,Abram Lanka,Data Communication,14,63,77,B,71,Yes,4,Yes,No,8.05
+374,Anaya Dhillon,Object Oriented Programming,19,27,46,D,81,Yes,4,No,No,6.42
+374,Anaya Dhillon,Discrete Mathematics,22,49,71,B,80,Yes,2,Yes,No,6.42
+374,Anaya Dhillon,Computer Organization,23,41,64,C,98,Yes,3,Yes,Yes,6.42
+374,Anaya Dhillon,Database Management Systems,14,56,70,B,96,Yes,5,No,Yes,6.42
+374,Anaya Dhillon,Data Communication,30,44,74,B,97,Yes,2,Yes,No,6.42
+375,Renee Saraf,Object Oriented Programming,20,39,59,C,67,Yes,2,Yes,No,9.89
+375,Renee Saraf,Discrete Mathematics,13,32,45,D,69,Yes,2,Yes,No,9.89
+375,Renee Saraf,Computer Organization,26,40,66,C,91,Yes,2,Yes,No,9.89
+375,Renee Saraf,Database Management Systems,23,70,93,A,80,Yes,2,Yes,No,9.89
+375,Renee Saraf,Data Communication,12,51,63,C,74,Yes,3,Yes,No,9.89
+376,Pari Chad,Object Oriented Programming,11,67,78,B,87,Yes,3,Yes,Yes,6.95
+376,Pari Chad,Discrete Mathematics,12,44,56,C,88,Yes,4,No,No,6.95
+376,Pari Chad,Computer Organization,12,38,50,D,68,Yes,5,No,Yes,6.95
+376,Pari Chad,Database Management Systems,19,35,54,D,65,Yes,4,No,No,6.95
+376,Pari Chad,Data Communication,11,45,56,C,93,Yes,4,Yes,Yes,6.95
+377,Nakul Dey,Object Oriented Programming,27,41,68,C,91,Yes,5,No,Yes,8.55
+377,Nakul Dey,Discrete Mathematics,19,33,52,D,71,Yes,1,No,Yes,8.55
+377,Nakul Dey,Computer Organization,28,57,85,A,69,Yes,5,No,No,8.55
+377,Nakul Dey,Database Management Systems,28,49,77,B,77,Yes,5,No,No,8.55
+377,Nakul Dey,Data Communication,27,53,80,B,68,Yes,1,Yes,Yes,8.55
+378,Samarth Korpal,Object Oriented Programming,21,60,81,B,62,Yes,3,Yes,Yes,7.75
+378,Samarth Korpal,Discrete Mathematics,13,54,67,C,77,Yes,1,Yes,Yes,7.75
+378,Samarth Korpal,Computer Organization,18,64,82,B,72,Yes,5,No,Yes,7.75
+378,Samarth Korpal,Database Management Systems,15,27,42,D,85,Yes,5,No,Yes,7.75
+378,Samarth Korpal,Data Communication,15,53,68,C,78,Yes,5,No,No,7.75
+379,Badal Raj,Object Oriented Programming,15,30,45,D,88,Yes,5,No,No,7.35
+379,Badal Raj,Discrete Mathematics,22,28,50,D,66,Yes,4,Yes,Yes,7.35
+379,Badal Raj,Computer Organization,14,66,80,B,88,Yes,4,No,No,7.35
+379,Badal Raj,Database Management Systems,11,60,71,B,90,Yes,3,No,Yes,7.35
+379,Badal Raj,Data Communication,15,62,77,B,80,Yes,5,No,No,7.35
+380,Manikya Raval,Object Oriented Programming,19,42,61,C,100,Yes,2,No,Yes,6.31
+380,Manikya Raval,Discrete Mathematics,22,24,46,D,85,Yes,1,Yes,Yes,6.31
+380,Manikya Raval,Computer Organization,21,61,82,B,64,Yes,4,Yes,No,6.31
+380,Manikya Raval,Database Management Systems,20,44,64,C,75,Yes,4,Yes,Yes,6.31
+380,Manikya Raval,Data Communication,24,52,76,B,74,Yes,3,No,No,6.31
+381,Ranbir Deol,Object Oriented Programming,12,44,56,C,90,Yes,3,No,Yes,9.01
+381,Ranbir Deol,Discrete Mathematics,10,52,62,C,67,Yes,2,No,No,9.01
+381,Ranbir Deol,Computer Organization,22,62,84,B,99,Yes,1,Yes,No,9.01
+381,Ranbir Deol,Database Management Systems,22,49,71,B,62,Yes,1,No,No,9.01
+381,Ranbir Deol,Data Communication,21,46,67,C,74,Yes,3,No,No,9.01
+382,Aaryahi Agrawal,Object Oriented Programming,14,68,82,B,97,Yes,4,No,No,6.45
+382,Aaryahi Agrawal,Discrete Mathematics,24,36,60,C,90,Yes,1,No,No,6.45
+382,Aaryahi Agrawal,Computer Organization,25,42,67,C,72,Yes,1,Yes,No,6.45
+382,Aaryahi Agrawal,Database Management Systems,23,50,73,B,74,Yes,2,No,No,6.45
+382,Aaryahi Agrawal,Data Communication,28,27,55,C,90,Yes,5,Yes,Yes,6.45
+383,Lakshay Chad,Object Oriented Programming,15,54,69,C,70,Yes,2,No,Yes,7.23
+383,Lakshay Chad,Discrete Mathematics,23,33,56,C,86,Yes,5,No,No,7.23
+383,Lakshay Chad,Computer Organization,10,34,44,D,77,Yes,1,Yes,No,7.23
+383,Lakshay Chad,Database Management Systems,19,30,49,D,85,Yes,4,Yes,Yes,7.23
+383,Lakshay Chad,Data Communication,10,67,77,B,69,Yes,3,Yes,Yes,7.23
+384,Shanaya Rau,Object Oriented Programming,24,43,67,C,63,Yes,4,Yes,No,9.74
+384,Shanaya Rau,Discrete Mathematics,26,70,96,A,85,Yes,5,Yes,Yes,9.74
+384,Shanaya Rau,Computer Organization,29,36,65,C,76,Yes,2,No,Yes,9.74
+384,Shanaya Rau,Database Management Systems,22,39,61,C,72,Yes,5,Yes,No,9.74
+384,Shanaya Rau,Data Communication,30,53,83,B,64,Yes,3,Yes,Yes,9.74
+385,Seher Bhandari,Object Oriented Programming,10,66,76,B,78,Yes,2,Yes,Yes,6.3
+385,Seher Bhandari,Discrete Mathematics,25,38,63,C,94,Yes,2,Yes,No,6.3
+385,Seher Bhandari,Computer Organization,25,31,56,C,74,Yes,3,Yes,Yes,6.3
+385,Seher Bhandari,Database Management Systems,16,31,47,D,83,Yes,2,Yes,No,6.3
+385,Seher Bhandari,Data Communication,27,42,69,C,100,Yes,1,Yes,No,6.3
+386,Divit Johal,Object Oriented Programming,29,57,86,A,87,Yes,3,Yes,No,9.09
+386,Divit Johal,Discrete Mathematics,18,56,74,B,90,Yes,5,Yes,Yes,9.09
+386,Divit Johal,Computer Organization,27,35,62,C,70,Yes,1,Yes,No,9.09
+386,Divit Johal,Database Management Systems,17,61,78,B,70,Yes,2,No,Yes,9.09
+386,Divit Johal,Data Communication,11,61,72,B,74,Yes,1,No,No,9.09
+387,Nishith Yohannan,Object Oriented Programming,12,69,81,B,95,Yes,2,Yes,Yes,6.16
+387,Nishith Yohannan,Discrete Mathematics,18,38,56,C,75,Yes,5,No,No,6.16
+387,Nishith Yohannan,Computer Organization,24,24,48,D,73,Yes,1,No,Yes,6.16
+387,Nishith Yohannan,Database Management Systems,26,50,76,B,78,Yes,2,No,Yes,6.16
+387,Nishith Yohannan,Data Communication,29,61,90,A,79,Yes,1,No,Yes,6.16
+388,Rania Dasgupta,Object Oriented Programming,22,70,92,A,73,Yes,1,Yes,Yes,9.46
+388,Rania Dasgupta,Discrete Mathematics,14,34,48,D,65,Yes,2,No,No,9.46
+388,Rania Dasgupta,Computer Organization,16,37,53,D,77,Yes,2,Yes,No,9.46
+388,Rania Dasgupta,Database Management Systems,21,32,53,D,64,Yes,4,Yes,Yes,9.46
+388,Rania Dasgupta,Data Communication,22,67,89,A,76,Yes,1,Yes,Yes,9.46
+389,Hunar Ratta,Object Oriented Programming,18,22,40,D,90,Yes,3,Yes,No,6.91
+389,Hunar Ratta,Discrete Mathematics,13,36,49,D,88,Yes,4,Yes,Yes,6.91
+389,Hunar Ratta,Computer Organization,12,30,42,D,84,Yes,4,No,Yes,6.91
+389,Hunar Ratta,Database Management Systems,30,22,52,D,82,Yes,1,No,No,6.91
+389,Hunar Ratta,Data Communication,21,63,84,B,100,Yes,2,Yes,Yes,6.91
+390,Aarush Jaggi,Object Oriented Programming,18,29,47,D,63,Yes,4,Yes,No,7.88
+390,Aarush Jaggi,Discrete Mathematics,15,37,52,D,63,Yes,1,Yes,No,7.88
+390,Aarush Jaggi,Computer Organization,29,57,86,A,86,Yes,5,No,Yes,7.88
+390,Aarush Jaggi,Database Management Systems,14,65,79,B,98,Yes,5,Yes,Yes,7.88
+390,Aarush Jaggi,Data Communication,17,38,55,C,70,Yes,1,Yes,Yes,7.88
+391,Sara Chhabra,Object Oriented Programming,20,29,49,D,100,Yes,2,No,No,9.93
+391,Sara Chhabra,Discrete Mathematics,12,26,38,F,75,No,3,No,Yes,9.93
+391,Sara Chhabra,Computer Organization,30,41,71,B,70,Yes,1,No,No,9.93
+391,Sara Chhabra,Database Management Systems,23,23,46,D,93,Yes,3,No,Yes,9.93
+391,Sara Chhabra,Data Communication,20,70,90,A,87,Yes,4,No,Yes,9.93
+392,Indrajit Kurian,Object Oriented Programming,16,49,65,C,91,Yes,3,Yes,Yes,8.19
+392,Indrajit Kurian,Discrete Mathematics,10,64,74,B,98,Yes,5,Yes,No,8.19
+392,Indrajit Kurian,Computer Organization,23,56,79,B,73,Yes,1,No,Yes,8.19
+392,Indrajit Kurian,Database Management Systems,25,70,95,A,98,Yes,5,Yes,No,8.19
+392,Indrajit Kurian,Data Communication,16,28,44,D,74,Yes,5,No,No,8.19
+393,Jiya Desai,Object Oriented Programming,25,22,47,D,82,Yes,3,Yes,Yes,8.5
+393,Jiya Desai,Discrete Mathematics,21,49,70,B,82,Yes,1,Yes,Yes,8.5
+393,Jiya Desai,Computer Organization,22,41,63,C,68,Yes,1,Yes,No,8.5
+393,Jiya Desai,Database Management Systems,26,38,64,C,74,Yes,1,No,No,8.5
+393,Jiya Desai,Data Communication,12,61,73,B,63,Yes,1,No,No,8.5
+394,Gokul Kanda,Object Oriented Programming,11,43,54,D,97,Yes,3,Yes,No,5.84
+394,Gokul Kanda,Discrete Mathematics,19,61,80,B,87,Yes,1,Yes,Yes,5.84
+394,Gokul Kanda,Computer Organization,22,25,47,D,92,Yes,4,Yes,No,5.84
+394,Gokul Kanda,Database Management Systems,28,23,51,D,96,Yes,5,No,No,5.84
+394,Gokul Kanda,Data Communication,28,65,93,A,96,Yes,4,No,No,5.84
+395,Pari Jha,Object Oriented Programming,19,38,57,C,69,Yes,1,Yes,No,8.61
+395,Pari Jha,Discrete Mathematics,24,36,60,C,94,Yes,4,Yes,Yes,8.61
+395,Pari Jha,Computer Organization,10,21,31,F,95,No,4,Yes,Yes,8.61
+395,Pari Jha,Database Management Systems,28,28,56,C,74,Yes,5,Yes,Yes,8.61
+395,Pari Jha,Data Communication,16,44,60,C,66,Yes,5,Yes,Yes,8.61
+396,Advik Sahni,Object Oriented Programming,14,62,76,B,83,Yes,1,Yes,Yes,6.74
+396,Advik Sahni,Discrete Mathematics,10,23,33,F,63,No,4,Yes,Yes,6.74
+396,Advik Sahni,Computer Organization,10,52,62,C,82,Yes,5,Yes,No,6.74
+396,Advik Sahni,Database Management Systems,25,44,69,C,76,Yes,3,Yes,Yes,6.74
+396,Advik Sahni,Data Communication,12,49,61,C,63,Yes,3,Yes,Yes,6.74
+397,Faiyaz Sanghvi,Object Oriented Programming,24,41,65,C,74,Yes,4,No,Yes,7.01
+397,Faiyaz Sanghvi,Discrete Mathematics,10,28,38,F,67,No,2,Yes,No,7.01
+397,Faiyaz Sanghvi,Computer Organization,16,69,85,A,98,Yes,4,No,No,7.01
+397,Faiyaz Sanghvi,Database Management Systems,26,61,87,A,89,Yes,2,No,No,7.01
+397,Faiyaz Sanghvi,Data Communication,11,53,64,C,80,Yes,5,Yes,No,7.01
+398,Hansh Krish,Object Oriented Programming,28,70,98,A,72,Yes,2,Yes,No,8.39
+398,Hansh Krish,Discrete Mathematics,30,57,87,A,91,Yes,4,Yes,No,8.39
+398,Hansh Krish,Computer Organization,25,22,47,D,97,Yes,3,No,Yes,8.39
+398,Hansh Krish,Database Management Systems,21,52,73,B,85,Yes,1,No,Yes,8.39
+398,Hansh Krish,Data Communication,12,47,59,C,85,Yes,3,Yes,Yes,8.39
+399,Vihaan Dugar,Object Oriented Programming,14,46,60,C,66,Yes,5,No,Yes,6.75
+399,Vihaan Dugar,Discrete Mathematics,16,67,83,B,81,Yes,2,Yes,No,6.75
+399,Vihaan Dugar,Computer Organization,16,39,55,C,78,Yes,3,Yes,No,6.75
+399,Vihaan Dugar,Database Management Systems,28,37,65,C,90,Yes,4,Yes,No,6.75
+399,Vihaan Dugar,Data Communication,26,24,50,D,73,Yes,1,Yes,Yes,6.75
+400,Anahi Gera,Object Oriented Programming,27,43,70,B,91,Yes,2,No,No,7.48
+400,Anahi Gera,Discrete Mathematics,21,66,87,A,91,Yes,2,Yes,Yes,7.48
+400,Anahi Gera,Computer Organization,21,49,70,B,60,Yes,1,No,Yes,7.48
+400,Anahi Gera,Database Management Systems,29,39,68,C,94,Yes,2,No,No,7.48
+400,Anahi Gera,Data Communication,19,46,65,C,73,Yes,4,No,Yes,7.48
+401,Nirvi Sha,Object Oriented Programming,19,69,88,A,75,Yes,3,Yes,Yes,8.45
+401,Nirvi Sha,Discrete Mathematics,18,50,68,C,70,Yes,3,Yes,No,8.45
+401,Nirvi Sha,Computer Organization,12,54,66,C,72,Yes,4,Yes,No,8.45
+401,Nirvi Sha,Database Management Systems,24,23,47,D,69,Yes,3,Yes,No,8.45
+401,Nirvi Sha,Data Communication,19,62,81,B,62,Yes,4,Yes,No,8.45
+402,Vritika Wadhwa,Object Oriented Programming,22,55,77,B,82,Yes,1,Yes,No,6.81
+402,Vritika Wadhwa,Discrete Mathematics,25,68,93,A,75,Yes,3,Yes,Yes,6.81
+402,Vritika Wadhwa,Computer Organization,29,68,97,A,70,Yes,3,No,No,6.81
+402,Vritika Wadhwa,Database Management Systems,21,38,59,C,69,Yes,2,Yes,Yes,6.81
+402,Vritika Wadhwa,Data Communication,26,70,96,A,96,Yes,1,No,No,6.81
+403,Ayesha Deshmukh,Object Oriented Programming,18,62,80,B,65,Yes,4,Yes,Yes,5.15
+403,Ayesha Deshmukh,Discrete Mathematics,26,31,57,C,91,Yes,3,Yes,Yes,5.15
+403,Ayesha Deshmukh,Computer Organization,19,66,85,A,84,Yes,4,No,No,5.15
+403,Ayesha Deshmukh,Database Management Systems,16,34,50,D,61,Yes,5,Yes,No,5.15
+403,Ayesha Deshmukh,Data Communication,17,55,72,B,84,Yes,5,Yes,Yes,5.15
+404,Yakshit Konda,Object Oriented Programming,30,35,65,C,68,Yes,5,No,Yes,7.9
+404,Yakshit Konda,Discrete Mathematics,26,28,54,D,77,Yes,3,No,Yes,7.9
+404,Yakshit Konda,Computer Organization,23,30,53,D,84,Yes,2,Yes,Yes,7.9
+404,Yakshit Konda,Database Management Systems,28,48,76,B,70,Yes,4,No,No,7.9
+404,Yakshit Konda,Data Communication,24,47,71,B,79,Yes,1,No,No,7.9
+405,Krish Varkey,Object Oriented Programming,29,57,86,A,92,Yes,2,No,Yes,8.38
+405,Krish Varkey,Discrete Mathematics,21,60,81,B,80,Yes,4,No,No,8.38
+405,Krish Varkey,Computer Organization,11,52,63,C,73,Yes,3,Yes,No,8.38
+405,Krish Varkey,Database Management Systems,26,42,68,C,81,Yes,2,No,Yes,8.38
+405,Krish Varkey,Data Communication,15,53,68,C,80,Yes,3,No,No,8.38
+406,Darshit Khalsa,Object Oriented Programming,18,62,80,B,70,Yes,2,Yes,No,5.01
+406,Darshit Khalsa,Discrete Mathematics,10,47,57,C,93,Yes,1,Yes,Yes,5.01
+406,Darshit Khalsa,Computer Organization,30,46,76,B,95,Yes,4,Yes,No,5.01
+406,Darshit Khalsa,Database Management Systems,14,55,69,C,84,Yes,2,No,No,5.01
+406,Darshit Khalsa,Data Communication,28,42,70,B,80,Yes,4,No,No,5.01
+407,Inaaya  Chaudhry,Object Oriented Programming,11,32,43,D,63,Yes,3,Yes,No,7.31
+407,Inaaya  Chaudhry,Discrete Mathematics,29,40,69,C,75,Yes,5,Yes,No,7.31
+407,Inaaya  Chaudhry,Computer Organization,10,29,39,F,74,No,3,Yes,Yes,7.31
+407,Inaaya  Chaudhry,Database Management Systems,18,51,69,C,75,Yes,5,Yes,Yes,7.31
+407,Inaaya  Chaudhry,Data Communication,23,42,65,C,95,Yes,1,No,No,7.31
+408,Ayesha Date,Object Oriented Programming,26,61,87,A,75,Yes,5,Yes,No,5.49
+408,Ayesha Date,Discrete Mathematics,30,57,87,A,80,Yes,2,Yes,No,5.49
+408,Ayesha Date,Computer Organization,14,63,77,B,64,Yes,3,Yes,Yes,5.49
+408,Ayesha Date,Database Management Systems,24,66,90,A,71,Yes,1,No,No,5.49
+408,Ayesha Date,Data Communication,20,57,77,B,62,Yes,5,No,No,5.49
+409,Diya Bala,Object Oriented Programming,24,35,59,C,90,Yes,2,Yes,No,7.44
+409,Diya Bala,Discrete Mathematics,10,21,31,F,81,No,5,Yes,Yes,7.44
+409,Diya Bala,Computer Organization,22,33,55,C,100,Yes,4,No,Yes,7.44
+409,Diya Bala,Database Management Systems,18,22,40,D,71,Yes,1,Yes,No,7.44
+409,Diya Bala,Data Communication,14,35,49,D,81,Yes,5,No,No,7.44
+410,Armaan Gulati,Object Oriented Programming,26,69,95,A,87,Yes,4,No,Yes,7.57
+410,Armaan Gulati,Discrete Mathematics,11,53,64,C,90,Yes,2,Yes,Yes,7.57
+410,Armaan Gulati,Computer Organization,19,42,61,C,83,Yes,2,No,Yes,7.57
+410,Armaan Gulati,Database Management Systems,16,59,75,B,66,Yes,2,No,Yes,7.57
+410,Armaan Gulati,Data Communication,12,28,40,D,61,Yes,1,No,No,7.57
+411,Amira Batra,Object Oriented Programming,14,50,64,C,97,Yes,5,No,No,7.13
+411,Amira Batra,Discrete Mathematics,29,56,85,A,96,Yes,2,No,Yes,7.13
+411,Amira Batra,Computer Organization,30,38,68,C,93,Yes,4,No,Yes,7.13
+411,Amira Batra,Database Management Systems,23,57,80,B,62,Yes,5,Yes,Yes,7.13
+411,Amira Batra,Data Communication,18,25,43,D,87,Yes,3,Yes,No,7.13
+412,Drishya Tripathi,Object Oriented Programming,29,20,49,D,70,Yes,5,Yes,No,7.89
+412,Drishya Tripathi,Discrete Mathematics,16,63,79,B,78,Yes,4,No,Yes,7.89
+412,Drishya Tripathi,Computer Organization,25,20,45,D,67,Yes,2,No,No,7.89
+412,Drishya Tripathi,Database Management Systems,12,38,50,D,60,Yes,1,Yes,No,7.89
+412,Drishya Tripathi,Data Communication,20,61,81,B,90,Yes,1,Yes,Yes,7.89
+413,Taran Bandi,Object Oriented Programming,24,56,80,B,98,Yes,5,No,No,9.29
+413,Taran Bandi,Discrete Mathematics,27,51,78,B,63,Yes,2,No,No,9.29
+413,Taran Bandi,Computer Organization,15,63,78,B,71,Yes,4,No,Yes,9.29
+413,Taran Bandi,Database Management Systems,18,58,76,B,86,Yes,1,Yes,Yes,9.29
+413,Taran Bandi,Data Communication,20,63,83,B,92,Yes,5,No,Yes,9.29
+414,Vritika Majumdar,Object Oriented Programming,18,61,79,B,93,Yes,2,Yes,No,8.41
+414,Vritika Majumdar,Discrete Mathematics,13,61,74,B,64,Yes,2,No,Yes,8.41
+414,Vritika Majumdar,Computer Organization,11,49,60,C,79,Yes,2,Yes,Yes,8.41
+414,Vritika Majumdar,Database Management Systems,15,54,69,C,68,Yes,2,Yes,Yes,8.41
+414,Vritika Majumdar,Data Communication,15,67,82,B,61,Yes,1,Yes,Yes,8.41
+415,Jayant Bora,Object Oriented Programming,27,37,64,C,91,Yes,1,Yes,No,9.11
+415,Jayant Bora,Discrete Mathematics,12,20,32,F,96,No,4,No,No,9.11
+415,Jayant Bora,Computer Organization,19,42,61,C,94,Yes,5,Yes,No,9.11
+415,Jayant Bora,Database Management Systems,12,40,52,D,76,Yes,2,No,Yes,9.11
+415,Jayant Bora,Data Communication,11,67,78,B,90,Yes,3,Yes,Yes,9.11
+416,Ishita Sundaram,Object Oriented Programming,10,52,62,C,83,Yes,1,No,Yes,6.08
+416,Ishita Sundaram,Discrete Mathematics,14,55,69,C,78,Yes,1,Yes,No,6.08
+416,Ishita Sundaram,Computer Organization,21,35,56,C,68,Yes,2,No,No,6.08
+416,Ishita Sundaram,Database Management Systems,28,56,84,B,72,Yes,4,No,No,6.08
+416,Ishita Sundaram,Data Communication,21,21,42,D,99,Yes,1,No,Yes,6.08
+417,Hazel Butala,Object Oriented Programming,16,64,80,B,75,Yes,1,No,No,6.73
+417,Hazel Butala,Discrete Mathematics,18,58,76,B,61,Yes,5,Yes,Yes,6.73
+417,Hazel Butala,Computer Organization,25,39,64,C,66,Yes,4,No,Yes,6.73
+417,Hazel Butala,Database Management Systems,24,24,48,D,92,Yes,3,Yes,No,6.73
+417,Hazel Butala,Data Communication,23,51,74,B,71,Yes,1,Yes,Yes,6.73
+418,Jayant Ravel,Object Oriented Programming,16,26,42,D,76,Yes,3,Yes,Yes,8.44
+418,Jayant Ravel,Discrete Mathematics,25,23,48,D,81,Yes,1,No,Yes,8.44
+418,Jayant Ravel,Computer Organization,17,29,46,D,62,Yes,4,No,Yes,8.44
+418,Jayant Ravel,Database Management Systems,16,61,77,B,74,Yes,5,No,Yes,8.44
+418,Jayant Ravel,Data Communication,17,67,84,B,98,Yes,3,Yes,Yes,8.44
+419,Anya Brar,Object Oriented Programming,29,23,52,D,95,Yes,5,No,Yes,7.57
+419,Anya Brar,Discrete Mathematics,20,25,45,D,82,Yes,3,No,No,7.57
+419,Anya Brar,Computer Organization,12,53,65,C,84,Yes,2,Yes,Yes,7.57
+419,Anya Brar,Database Management Systems,20,20,40,D,78,Yes,1,Yes,Yes,7.57
+419,Anya Brar,Data Communication,12,30,42,D,64,Yes,5,No,No,7.57
+420,Zain Rattan,Object Oriented Programming,13,32,45,D,64,Yes,1,Yes,No,5.16
+420,Zain Rattan,Discrete Mathematics,20,25,45,D,98,Yes,1,No,Yes,5.16
+420,Zain Rattan,Computer Organization,20,53,73,B,84,Yes,3,No,Yes,5.16
+420,Zain Rattan,Database Management Systems,30,29,59,C,76,Yes,5,No,No,5.16
+420,Zain Rattan,Data Communication,26,24,50,D,86,Yes,4,No,Yes,5.16
+421,Vardaniya Sandal,Object Oriented Programming,20,20,40,D,62,Yes,2,No,Yes,9.35
+421,Vardaniya Sandal,Discrete Mathematics,11,35,46,D,75,Yes,2,No,Yes,9.35
+421,Vardaniya Sandal,Computer Organization,15,49,64,C,60,Yes,2,No,Yes,9.35
+421,Vardaniya Sandal,Database Management Systems,18,69,87,A,69,Yes,1,Yes,No,9.35
+421,Vardaniya Sandal,Data Communication,29,33,62,C,83,Yes,4,Yes,No,9.35
+422,Damini Andra,Object Oriented Programming,14,64,78,B,83,Yes,2,Yes,No,9.08
+422,Damini Andra,Discrete Mathematics,10,31,41,D,65,Yes,2,Yes,No,9.08
+422,Damini Andra,Computer Organization,18,36,54,D,79,Yes,5,No,Yes,9.08
+422,Damini Andra,Database Management Systems,26,42,68,C,82,Yes,2,Yes,Yes,9.08
+422,Damini Andra,Data Communication,23,31,54,D,82,Yes,2,No,No,9.08
+423,Stuvan Shroff,Object Oriented Programming,19,46,65,C,97,Yes,3,No,No,5.5
+423,Stuvan Shroff,Discrete Mathematics,22,39,61,C,63,Yes,3,Yes,Yes,5.5
+423,Stuvan Shroff,Computer Organization,26,47,73,B,72,Yes,2,Yes,No,5.5
+423,Stuvan Shroff,Database Management Systems,15,24,39,F,96,No,5,Yes,Yes,5.5
+423,Stuvan Shroff,Data Communication,22,69,91,A,78,Yes,5,No,No,5.5
+424,Manjari Bumb,Object Oriented Programming,28,39,67,C,92,Yes,2,No,No,7.0
+424,Manjari Bumb,Discrete Mathematics,21,58,79,B,82,Yes,3,No,No,7.0
+424,Manjari Bumb,Computer Organization,29,60,89,A,93,Yes,4,No,Yes,7.0
+424,Manjari Bumb,Database Management Systems,24,58,82,B,93,Yes,2,No,No,7.0
+424,Manjari Bumb,Data Communication,27,34,61,C,98,Yes,4,No,Yes,7.0
+425,Raunak Virk,Object Oriented Programming,21,51,72,B,82,Yes,1,No,No,8.25
+425,Raunak Virk,Discrete Mathematics,25,23,48,D,76,Yes,2,Yes,No,8.25
+425,Raunak Virk,Computer Organization,10,30,40,D,74,Yes,2,No,Yes,8.25
+425,Raunak Virk,Database Management Systems,11,58,69,C,92,Yes,3,No,Yes,8.25
+425,Raunak Virk,Data Communication,23,22,45,D,81,Yes,5,Yes,No,8.25
+426,Tiya Iyer,Object Oriented Programming,25,35,60,C,73,Yes,4,Yes,Yes,7.04
+426,Tiya Iyer,Discrete Mathematics,17,36,53,D,98,Yes,3,No,Yes,7.04
+426,Tiya Iyer,Computer Organization,21,62,83,B,86,Yes,5,No,Yes,7.04
+426,Tiya Iyer,Database Management Systems,24,38,62,C,88,Yes,2,Yes,No,7.04
+426,Tiya Iyer,Data Communication,20,54,74,B,88,Yes,3,Yes,No,7.04
+427,Nitya Chaudhuri,Object Oriented Programming,16,25,41,D,88,Yes,5,Yes,No,9.35
+427,Nitya Chaudhuri,Discrete Mathematics,24,26,50,D,62,Yes,3,No,Yes,9.35
+427,Nitya Chaudhuri,Computer Organization,28,64,92,A,67,Yes,3,Yes,No,9.35
+427,Nitya Chaudhuri,Database Management Systems,30,27,57,C,89,Yes,4,No,No,9.35
+427,Nitya Chaudhuri,Data Communication,18,38,56,C,100,Yes,2,No,Yes,9.35
+428,Vedika Kalita,Object Oriented Programming,25,24,49,D,81,Yes,5,Yes,Yes,8.17
+428,Vedika Kalita,Discrete Mathematics,14,55,69,C,72,Yes,3,No,No,8.17
+428,Vedika Kalita,Computer Organization,12,51,63,C,79,Yes,2,No,No,8.17
+428,Vedika Kalita,Database Management Systems,28,23,51,D,76,Yes,5,No,No,8.17
+428,Vedika Kalita,Data Communication,24,34,58,C,82,Yes,4,No,Yes,8.17
+429,Suhana Datta,Object Oriented Programming,12,25,37,F,76,No,2,No,Yes,7.91
+429,Suhana Datta,Discrete Mathematics,21,63,84,B,72,Yes,2,Yes,Yes,7.91
+429,Suhana Datta,Computer Organization,13,62,75,B,88,Yes,4,No,Yes,7.91
+429,Suhana Datta,Database Management Systems,21,56,77,B,68,Yes,2,No,No,7.91
+429,Suhana Datta,Data Communication,12,57,69,C,96,Yes,5,No,Yes,7.91
+430,Kiara Goel,Object Oriented Programming,22,20,42,D,74,Yes,5,Yes,Yes,9.45
+430,Kiara Goel,Discrete Mathematics,28,34,62,C,91,Yes,5,No,Yes,9.45
+430,Kiara Goel,Computer Organization,15,53,68,C,94,Yes,5,No,Yes,9.45
+430,Kiara Goel,Database Management Systems,22,42,64,C,73,Yes,4,No,No,9.45
+430,Kiara Goel,Data Communication,28,70,98,A,94,Yes,1,No,Yes,9.45
+431,Indrajit Yohannan,Object Oriented Programming,16,23,39,F,74,No,5,No,Yes,6.0
+431,Indrajit Yohannan,Discrete Mathematics,25,20,45,D,88,Yes,1,No,No,6.0
+431,Indrajit Yohannan,Computer Organization,21,26,47,D,98,Yes,3,No,Yes,6.0
+431,Indrajit Yohannan,Database Management Systems,14,70,84,B,83,Yes,5,Yes,No,6.0
+431,Indrajit Yohannan,Data Communication,22,44,66,C,84,Yes,2,Yes,No,6.0
+432,Nishith Shah,Object Oriented Programming,10,37,47,D,65,Yes,5,Yes,Yes,5.64
+432,Nishith Shah,Discrete Mathematics,14,23,37,F,68,No,2,Yes,Yes,5.64
+432,Nishith Shah,Computer Organization,28,70,98,A,89,Yes,5,No,Yes,5.64
+432,Nishith Shah,Database Management Systems,18,47,65,C,71,Yes,5,Yes,No,5.64
+432,Nishith Shah,Data Communication,12,51,63,C,87,Yes,3,Yes,Yes,5.64
+433,Seher Deshmukh,Object Oriented Programming,16,52,68,C,83,Yes,3,Yes,No,8.2
+433,Seher Deshmukh,Discrete Mathematics,19,51,70,B,90,Yes,3,Yes,Yes,8.2
+433,Seher Deshmukh,Computer Organization,18,22,40,D,71,Yes,3,No,No,8.2
+433,Seher Deshmukh,Database Management Systems,10,61,71,B,93,Yes,3,Yes,Yes,8.2
+433,Seher Deshmukh,Data Communication,23,64,87,A,94,Yes,1,Yes,No,8.2
+434,Reyansh Wable,Object Oriented Programming,30,59,89,A,66,Yes,3,No,No,7.62
+434,Reyansh Wable,Discrete Mathematics,28,23,51,D,84,Yes,3,Yes,Yes,7.62
+434,Reyansh Wable,Computer Organization,24,54,78,B,86,Yes,5,Yes,No,7.62
+434,Reyansh Wable,Database Management Systems,14,31,45,D,89,Yes,5,No,No,7.62
+434,Reyansh Wable,Data Communication,28,50,78,B,60,Yes,3,No,No,7.62
+435,Romil Baria,Object Oriented Programming,27,43,70,B,67,Yes,1,Yes,Yes,5.98
+435,Romil Baria,Discrete Mathematics,17,47,64,C,76,Yes,2,No,Yes,5.98
+435,Romil Baria,Computer Organization,24,22,46,D,67,Yes,2,Yes,Yes,5.98
+435,Romil Baria,Database Management Systems,10,64,74,B,78,Yes,4,No,No,5.98
+435,Romil Baria,Data Communication,25,60,85,A,85,Yes,3,Yes,No,5.98
+436,Gokul Date,Object Oriented Programming,13,69,82,B,95,Yes,2,No,No,7.41
+436,Gokul Date,Discrete Mathematics,27,39,66,C,83,Yes,2,No,No,7.41
+436,Gokul Date,Computer Organization,21,27,48,D,89,Yes,5,No,Yes,7.41
+436,Gokul Date,Database Management Systems,30,45,75,B,97,Yes,2,Yes,Yes,7.41
+436,Gokul Date,Data Communication,30,61,91,A,84,Yes,3,No,Yes,7.41
+437,Oorja Rege,Object Oriented Programming,25,21,46,D,74,Yes,1,No,No,5.42
+437,Oorja Rege,Discrete Mathematics,24,52,76,B,80,Yes,2,Yes,No,5.42
+437,Oorja Rege,Computer Organization,19,45,64,C,61,Yes,4,No,No,5.42
+437,Oorja Rege,Database Management Systems,22,31,53,D,95,Yes,4,No,Yes,5.42
+437,Oorja Rege,Data Communication,11,65,76,B,86,Yes,1,Yes,Yes,5.42
+438,Nirvaan Madan,Object Oriented Programming,30,40,70,B,80,Yes,5,Yes,Yes,7.54
+438,Nirvaan Madan,Discrete Mathematics,25,22,47,D,62,Yes,4,No,No,7.54
+438,Nirvaan Madan,Computer Organization,19,39,58,C,68,Yes,5,No,Yes,7.54
+438,Nirvaan Madan,Database Management Systems,14,63,77,B,99,Yes,2,No,No,7.54
+438,Nirvaan Madan,Data Communication,25,30,55,C,98,Yes,1,Yes,Yes,7.54
+439,Samaira Kumar,Object Oriented Programming,22,24,46,D,71,Yes,2,Yes,Yes,6.67
+439,Samaira Kumar,Discrete Mathematics,28,67,95,A,89,Yes,1,Yes,No,6.67
+439,Samaira Kumar,Computer Organization,10,59,69,C,90,Yes,5,No,No,6.67
+439,Samaira Kumar,Database Management Systems,19,61,80,B,67,Yes,5,No,Yes,6.67
+439,Samaira Kumar,Data Communication,25,27,52,D,74,Yes,1,No,Yes,6.67
+440,Ayesha Bandi,Object Oriented Programming,13,48,61,C,86,Yes,3,No,Yes,9.61
+440,Ayesha Bandi,Discrete Mathematics,29,56,85,A,91,Yes,5,No,No,9.61
+440,Ayesha Bandi,Computer Organization,20,50,70,B,62,Yes,3,Yes,Yes,9.61
+440,Ayesha Bandi,Database Management Systems,29,55,84,B,92,Yes,4,No,Yes,9.61
+440,Ayesha Bandi,Data Communication,25,62,87,A,93,Yes,4,No,No,9.61
+441,Oorja Goda,Object Oriented Programming,14,61,75,B,88,Yes,2,Yes,Yes,8.43
+441,Oorja Goda,Discrete Mathematics,27,39,66,C,79,Yes,1,Yes,Yes,8.43
+441,Oorja Goda,Computer Organization,24,70,94,A,97,Yes,5,No,No,8.43
+441,Oorja Goda,Database Management Systems,27,28,55,C,69,Yes,4,Yes,No,8.43
+441,Oorja Goda,Data Communication,29,57,86,A,80,Yes,5,Yes,Yes,8.43
+442,Prisha Tata,Object Oriented Programming,26,20,46,D,82,Yes,1,Yes,No,6.94
+442,Prisha Tata,Discrete Mathematics,12,53,65,C,76,Yes,3,Yes,No,6.94
+442,Prisha Tata,Computer Organization,15,43,58,C,95,Yes,3,No,Yes,6.94
+442,Prisha Tata,Database Management Systems,15,33,48,D,63,Yes,2,Yes,Yes,6.94
+442,Prisha Tata,Data Communication,18,70,88,A,66,Yes,2,No,No,6.94
+443,Zeeshan Garde,Object Oriented Programming,20,61,81,B,66,Yes,4,No,Yes,5.39
+443,Zeeshan Garde,Discrete Mathematics,23,68,91,A,70,Yes,2,No,No,5.39
+443,Zeeshan Garde,Computer Organization,23,29,52,D,81,Yes,1,Yes,No,5.39
+443,Zeeshan Garde,Database Management Systems,21,37,58,C,89,Yes,1,Yes,Yes,5.39
+443,Zeeshan Garde,Data Communication,10,49,59,C,77,Yes,3,No,Yes,5.39
+444,Shalv Sant,Object Oriented Programming,10,45,55,C,91,Yes,2,No,No,7.1
+444,Shalv Sant,Discrete Mathematics,27,41,68,C,64,Yes,5,No,No,7.1
+444,Shalv Sant,Computer Organization,13,57,70,B,98,Yes,2,No,No,7.1
+444,Shalv Sant,Database Management Systems,14,28,42,D,89,Yes,3,No,Yes,7.1
+444,Shalv Sant,Data Communication,19,65,84,B,68,Yes,4,Yes,No,7.1
+445,Damini Sabharwal,Object Oriented Programming,11,22,33,F,82,No,4,Yes,No,7.16
+445,Damini Sabharwal,Discrete Mathematics,11,38,49,D,66,Yes,1,Yes,No,7.16
+445,Damini Sabharwal,Computer Organization,26,65,91,A,95,Yes,5,Yes,No,7.16
+445,Damini Sabharwal,Database Management Systems,18,51,69,C,100,Yes,2,Yes,Yes,7.16
+445,Damini Sabharwal,Data Communication,24,49,73,B,65,Yes,5,No,No,7.16
+446,Sumer Bava,Object Oriented Programming,16,40,56,C,100,Yes,5,No,No,6.77
+446,Sumer Bava,Discrete Mathematics,24,54,78,B,69,Yes,1,Yes,Yes,6.77
+446,Sumer Bava,Computer Organization,18,21,39,F,70,No,3,No,Yes,6.77
+446,Sumer Bava,Database Management Systems,21,44,65,C,88,Yes,4,No,Yes,6.77
+446,Sumer Bava,Data Communication,25,60,85,A,79,Yes,2,No,Yes,6.77
+447,Dishani Ganguly,Object Oriented Programming,11,40,51,D,81,Yes,3,Yes,Yes,6.92
+447,Dishani Ganguly,Discrete Mathematics,10,68,78,B,67,Yes,3,Yes,Yes,6.92
+447,Dishani Ganguly,Computer Organization,24,60,84,B,70,Yes,1,No,Yes,6.92
+447,Dishani Ganguly,Database Management Systems,30,32,62,C,81,Yes,3,Yes,No,6.92
+447,Dishani Ganguly,Data Communication,17,21,38,F,71,No,2,Yes,Yes,6.92
+448,Umang Suri,Object Oriented Programming,23,52,75,B,81,Yes,5,No,Yes,8.44
+448,Umang Suri,Discrete Mathematics,13,34,47,D,60,Yes,4,No,No,8.44
+448,Umang Suri,Computer Organization,27,50,77,B,100,Yes,5,Yes,Yes,8.44
+448,Umang Suri,Database Management Systems,26,59,85,A,77,Yes,4,No,No,8.44
+448,Umang Suri,Data Communication,16,49,65,C,67,Yes,1,No,Yes,8.44
+449,Indranil Varughese,Object Oriented Programming,29,27,56,C,91,Yes,5,Yes,No,6.92
+449,Indranil Varughese,Discrete Mathematics,26,28,54,D,78,Yes,2,Yes,Yes,6.92
+449,Indranil Varughese,Computer Organization,19,22,41,D,99,Yes,4,Yes,Yes,6.92
+449,Indranil Varughese,Database Management Systems,30,53,83,B,78,Yes,3,Yes,No,6.92
+449,Indranil Varughese,Data Communication,14,68,82,B,82,Yes,4,Yes,Yes,6.92
+450,Hansh Gaba,Object Oriented Programming,19,62,81,B,73,Yes,3,No,No,5.82
+450,Hansh Gaba,Discrete Mathematics,10,35,45,D,70,Yes,3,No,Yes,5.82
+450,Hansh Gaba,Computer Organization,11,21,32,F,85,No,1,No,Yes,5.82
+450,Hansh Gaba,Database Management Systems,11,39,50,D,89,Yes,5,No,Yes,5.82
+450,Hansh Gaba,Data Communication,16,50,66,C,81,Yes,5,Yes,Yes,5.82
+451,Yuvraj  Samra,Object Oriented Programming,10,60,70,B,64,Yes,3,No,No,7.23
+451,Yuvraj  Samra,Discrete Mathematics,29,43,72,B,88,Yes,2,No,Yes,7.23
+451,Yuvraj  Samra,Computer Organization,10,70,80,B,60,Yes,5,Yes,Yes,7.23
+451,Yuvraj  Samra,Database Management Systems,18,46,64,C,69,Yes,3,No,Yes,7.23
+451,Yuvraj  Samra,Data Communication,13,56,69,C,63,Yes,3,No,Yes,7.23
+452,Tara Shanker,Object Oriented Programming,17,69,86,A,84,Yes,2,No,No,9.45
+452,Tara Shanker,Discrete Mathematics,20,59,79,B,72,Yes,1,Yes,Yes,9.45
+452,Tara Shanker,Computer Organization,19,30,49,D,63,Yes,4,Yes,Yes,9.45
+452,Tara Shanker,Database Management Systems,30,44,74,B,88,Yes,2,No,Yes,9.45
+452,Tara Shanker,Data Communication,19,20,39,F,98,No,5,Yes,No,9.45
+453,Navya Loyal,Object Oriented Programming,19,55,74,B,64,Yes,3,Yes,No,5.93
+453,Navya Loyal,Discrete Mathematics,27,65,92,A,100,Yes,3,Yes,No,5.93
+453,Navya Loyal,Computer Organization,27,58,85,A,80,Yes,4,No,No,5.93
+453,Navya Loyal,Database Management Systems,16,24,40,D,68,Yes,3,Yes,Yes,5.93
+453,Navya Loyal,Data Communication,21,37,58,C,93,Yes,5,Yes,Yes,5.93
+454,Dishani Sundaram,Object Oriented Programming,20,41,61,C,89,Yes,1,No,Yes,5.43
+454,Dishani Sundaram,Discrete Mathematics,30,63,93,A,66,Yes,5,Yes,Yes,5.43
+454,Dishani Sundaram,Computer Organization,17,58,75,B,65,Yes,2,Yes,No,5.43
+454,Dishani Sundaram,Database Management Systems,11,58,69,C,68,Yes,3,No,Yes,5.43
+454,Dishani Sundaram,Data Communication,23,22,45,D,71,Yes,5,No,Yes,5.43
+455,Manjari Ramesh,Object Oriented Programming,20,41,61,C,75,Yes,2,Yes,No,8.19
+455,Manjari Ramesh,Discrete Mathematics,24,48,72,B,100,Yes,5,Yes,Yes,8.19
+455,Manjari Ramesh,Computer Organization,14,36,50,D,88,Yes,1,No,No,8.19
+455,Manjari Ramesh,Database Management Systems,26,67,93,A,69,Yes,2,Yes,Yes,8.19
+455,Manjari Ramesh,Data Communication,16,31,47,D,77,Yes,4,No,Yes,8.19
+456,Nishith Vyas,Object Oriented Programming,20,31,51,D,61,Yes,1,Yes,Yes,9.17
+456,Nishith Vyas,Discrete Mathematics,29,65,94,A,63,Yes,5,No,Yes,9.17
+456,Nishith Vyas,Computer Organization,20,26,46,D,85,Yes,5,No,Yes,9.17
+456,Nishith Vyas,Database Management Systems,26,33,59,C,95,Yes,5,Yes,Yes,9.17
+456,Nishith Vyas,Data Communication,29,61,90,A,100,Yes,5,No,Yes,9.17
+457,Dishani Vaidya,Object Oriented Programming,29,69,98,A,87,Yes,3,Yes,Yes,7.98
+457,Dishani Vaidya,Discrete Mathematics,22,68,90,A,79,Yes,1,Yes,No,7.98
+457,Dishani Vaidya,Computer Organization,26,70,96,A,95,Yes,4,No,No,7.98
+457,Dishani Vaidya,Database Management Systems,28,67,95,A,80,Yes,3,Yes,No,7.98
+457,Dishani Vaidya,Data Communication,10,36,46,D,64,Yes,1,No,Yes,7.98
+458,Raghav Dewan,Object Oriented Programming,25,70,95,A,66,Yes,5,Yes,No,6.66
+458,Raghav Dewan,Discrete Mathematics,14,52,66,C,78,Yes,5,Yes,No,6.66
+458,Raghav Dewan,Computer Organization,21,47,68,C,81,Yes,5,No,Yes,6.66
+458,Raghav Dewan,Database Management Systems,12,24,36,F,62,No,4,Yes,No,6.66
+458,Raghav Dewan,Data Communication,27,60,87,A,77,Yes,4,No,No,6.66
+459,Adah Date,Object Oriented Programming,22,44,66,C,86,Yes,4,No,Yes,9.39
+459,Adah Date,Discrete Mathematics,25,51,76,B,62,Yes,4,Yes,No,9.39
+459,Adah Date,Computer Organization,21,45,66,C,100,Yes,3,No,Yes,9.39
+459,Adah Date,Database Management Systems,17,50,67,C,96,Yes,4,Yes,No,9.39
+459,Adah Date,Data Communication,23,51,74,B,93,Yes,2,No,No,9.39
+460,Emir Bir,Object Oriented Programming,16,38,54,D,94,Yes,5,Yes,Yes,9.11
+460,Emir Bir,Discrete Mathematics,30,47,77,B,83,Yes,5,No,Yes,9.11
+460,Emir Bir,Computer Organization,20,41,61,C,86,Yes,5,No,No,9.11
+460,Emir Bir,Database Management Systems,14,39,53,D,69,Yes,3,Yes,No,9.11
+460,Emir Bir,Data Communication,24,28,52,D,89,Yes,5,Yes,No,9.11
+461,Ehsaan Issac,Object Oriented Programming,16,47,63,C,63,Yes,3,Yes,No,7.17
+461,Ehsaan Issac,Discrete Mathematics,27,69,96,A,65,Yes,4,Yes,Yes,7.17
+461,Ehsaan Issac,Computer Organization,22,69,91,A,87,Yes,5,Yes,No,7.17
+461,Ehsaan Issac,Database Management Systems,10,35,45,D,63,Yes,4,Yes,No,7.17
+461,Ehsaan Issac,Data Communication,27,43,70,B,76,Yes,2,No,No,7.17
+462,Piya Ben,Object Oriented Programming,19,42,61,C,70,Yes,4,No,No,6.27
+462,Piya Ben,Discrete Mathematics,14,56,70,B,67,Yes,3,Yes,Yes,6.27
+462,Piya Ben,Computer Organization,20,36,56,C,87,Yes,4,No,Yes,6.27
+462,Piya Ben,Database Management Systems,19,40,59,C,81,Yes,5,No,Yes,6.27
+462,Piya Ben,Data Communication,11,59,70,B,93,Yes,3,No,Yes,6.27
+463,Vedika Sankar,Object Oriented Programming,28,69,97,A,77,Yes,5,No,No,5.84
+463,Vedika Sankar,Discrete Mathematics,30,66,96,A,79,Yes,1,Yes,Yes,5.84
+463,Vedika Sankar,Computer Organization,17,41,58,C,89,Yes,3,No,No,5.84
+463,Vedika Sankar,Database Management Systems,19,35,54,D,72,Yes,4,Yes,Yes,5.84
+463,Vedika Sankar,Data Communication,26,22,48,D,63,Yes,1,No,Yes,5.84
+464,Kanav Konda,Object Oriented Programming,11,29,40,D,95,Yes,5,No,Yes,6.7
+464,Kanav Konda,Discrete Mathematics,15,24,39,F,98,No,5,No,Yes,6.7
+464,Kanav Konda,Computer Organization,24,39,63,C,76,Yes,5,No,No,6.7
+464,Kanav Konda,Database Management Systems,20,63,83,B,80,Yes,5,No,Yes,6.7
+464,Kanav Konda,Data Communication,26,21,47,D,61,Yes,3,Yes,No,6.7
+465,Ishaan Kulkarni,Object Oriented Programming,14,21,35,F,62,No,2,Yes,Yes,5.74
+465,Ishaan Kulkarni,Discrete Mathematics,26,27,53,D,79,Yes,4,Yes,No,5.74
+465,Ishaan Kulkarni,Computer Organization,15,39,54,D,69,Yes,2,No,Yes,5.74
+465,Ishaan Kulkarni,Database Management Systems,16,39,55,C,90,Yes,2,Yes,Yes,5.74
+465,Ishaan Kulkarni,Data Communication,26,35,61,C,95,Yes,1,No,No,5.74
+466,Nirvi Sahni,Object Oriented Programming,17,54,71,B,73,Yes,3,Yes,No,9.74
+466,Nirvi Sahni,Discrete Mathematics,14,38,52,D,74,Yes,5,Yes,No,9.74
+466,Nirvi Sahni,Computer Organization,12,46,58,C,88,Yes,2,No,No,9.74
+466,Nirvi Sahni,Database Management Systems,17,30,47,D,82,Yes,1,Yes,Yes,9.74
+466,Nirvi Sahni,Data Communication,14,66,80,B,66,Yes,5,No,No,9.74
+467,Ira Mallick,Object Oriented Programming,17,26,43,D,86,Yes,5,Yes,No,8.31
+467,Ira Mallick,Discrete Mathematics,14,20,34,F,96,No,1,No,Yes,8.31
+467,Ira Mallick,Computer Organization,15,29,44,D,90,Yes,3,Yes,Yes,8.31
+467,Ira Mallick,Database Management Systems,17,66,83,B,63,Yes,1,No,Yes,8.31
+467,Ira Mallick,Data Communication,18,48,66,C,87,Yes,2,Yes,Yes,8.31
+468,Ishaan Khanna,Object Oriented Programming,20,55,75,B,84,Yes,2,Yes,Yes,6.05
+468,Ishaan Khanna,Discrete Mathematics,14,28,42,D,92,Yes,1,Yes,Yes,6.05
+468,Ishaan Khanna,Computer Organization,23,63,86,A,73,Yes,4,No,No,6.05
+468,Ishaan Khanna,Database Management Systems,13,40,53,D,84,Yes,3,Yes,Yes,6.05
+468,Ishaan Khanna,Data Communication,24,45,69,C,89,Yes,1,Yes,Yes,6.05
+469,Ayesha Gour,Object Oriented Programming,30,61,91,A,63,Yes,3,No,Yes,6.98
+469,Ayesha Gour,Discrete Mathematics,25,39,64,C,82,Yes,4,No,Yes,6.98
+469,Ayesha Gour,Computer Organization,11,32,43,D,90,Yes,2,No,No,6.98
+469,Ayesha Gour,Database Management Systems,18,48,66,C,89,Yes,2,No,No,6.98
+469,Ayesha Gour,Data Communication,26,37,63,C,88,Yes,4,No,No,6.98
+470,Anya Majumdar,Object Oriented Programming,29,28,57,C,80,Yes,3,No,Yes,6.81
+470,Anya Majumdar,Discrete Mathematics,20,56,76,B,67,Yes,4,No,No,6.81
+470,Anya Majumdar,Computer Organization,11,30,41,D,60,Yes,4,Yes,Yes,6.81
+470,Anya Majumdar,Database Management Systems,18,27,45,D,91,Yes,1,Yes,Yes,6.81
+470,Anya Majumdar,Data Communication,23,36,59,C,84,Yes,2,Yes,No,6.81
+471,Gokul Aggarwal,Object Oriented Programming,17,65,82,B,61,Yes,3,No,No,7.14
+471,Gokul Aggarwal,Discrete Mathematics,23,47,70,B,91,Yes,3,No,Yes,7.14
+471,Gokul Aggarwal,Computer Organization,29,37,66,C,72,Yes,2,No,Yes,7.14
+471,Gokul Aggarwal,Database Management Systems,15,40,55,C,91,Yes,3,Yes,Yes,7.14
+471,Gokul Aggarwal,Data Communication,27,45,72,B,98,Yes,5,Yes,Yes,7.14
+472,Navya Dixit,Object Oriented Programming,17,27,44,D,89,Yes,5,No,No,6.75
+472,Navya Dixit,Discrete Mathematics,26,61,87,A,64,Yes,5,Yes,Yes,6.75
+472,Navya Dixit,Computer Organization,30,43,73,B,69,Yes,1,Yes,No,6.75
+472,Navya Dixit,Database Management Systems,14,41,55,C,74,Yes,1,Yes,No,6.75
+472,Navya Dixit,Data Communication,10,61,71,B,69,Yes,5,Yes,Yes,6.75
+473,Lavanya Jaggi,Object Oriented Programming,11,38,49,D,77,Yes,2,No,Yes,5.05
+473,Lavanya Jaggi,Discrete Mathematics,14,31,45,D,70,Yes,1,No,No,5.05
+473,Lavanya Jaggi,Computer Organization,21,40,61,C,96,Yes,2,No,Yes,5.05
+473,Lavanya Jaggi,Database Management Systems,17,48,65,C,83,Yes,5,No,No,5.05
+473,Lavanya Jaggi,Data Communication,14,29,43,D,93,Yes,3,Yes,No,5.05
+474,Tarini Kuruvilla,Object Oriented Programming,21,24,45,D,63,Yes,1,No,No,5.15
+474,Tarini Kuruvilla,Discrete Mathematics,12,36,48,D,94,Yes,1,No,No,5.15
+474,Tarini Kuruvilla,Computer Organization,17,51,68,C,76,Yes,5,No,No,5.15
+474,Tarini Kuruvilla,Database Management Systems,30,66,96,A,74,Yes,2,Yes,Yes,5.15
+474,Tarini Kuruvilla,Data Communication,12,53,65,C,100,Yes,1,Yes,Yes,5.15
+475,Baiju Dass,Object Oriented Programming,27,69,96,A,84,Yes,2,Yes,Yes,8.84
+475,Baiju Dass,Discrete Mathematics,25,65,90,A,68,Yes,1,No,Yes,8.84
+475,Baiju Dass,Computer Organization,10,62,72,B,96,Yes,1,Yes,Yes,8.84
+475,Baiju Dass,Database Management Systems,15,51,66,C,98,Yes,3,No,No,8.84
+475,Baiju Dass,Data Communication,18,41,59,C,82,Yes,3,No,No,8.84
+476,Saira Kadakia,Object Oriented Programming,12,59,71,B,95,Yes,4,No,Yes,6.64
+476,Saira Kadakia,Discrete Mathematics,29,22,51,D,81,Yes,3,Yes,Yes,6.64
+476,Saira Kadakia,Computer Organization,17,49,66,C,83,Yes,3,Yes,Yes,6.64
+476,Saira Kadakia,Database Management Systems,10,48,58,C,95,Yes,3,Yes,Yes,6.64
+476,Saira Kadakia,Data Communication,12,41,53,D,64,Yes,4,No,No,6.64
+477,Nitara Keer,Object Oriented Programming,29,52,81,B,75,Yes,5,Yes,No,6.45
+477,Nitara Keer,Discrete Mathematics,23,55,78,B,72,Yes,3,No,No,6.45
+477,Nitara Keer,Computer Organization,27,70,97,A,86,Yes,2,Yes,No,6.45
+477,Nitara Keer,Database Management Systems,30,55,85,A,99,Yes,5,No,No,6.45
+477,Nitara Keer,Data Communication,15,33,48,D,92,Yes,2,No,Yes,6.45
+478,Piya Barman,Object Oriented Programming,15,37,52,D,85,Yes,2,No,Yes,5.19
+478,Piya Barman,Discrete Mathematics,18,46,64,C,74,Yes,5,No,No,5.19
+478,Piya Barman,Computer Organization,19,53,72,B,74,Yes,2,Yes,Yes,5.19
+478,Piya Barman,Database Management Systems,11,23,34,F,84,No,1,Yes,No,5.19
+478,Piya Barman,Data Communication,24,29,53,D,100,Yes,4,Yes,Yes,5.19
+479,Trisha Bahl,Object Oriented Programming,21,36,57,C,76,Yes,2,Yes,No,5.14
+479,Trisha Bahl,Discrete Mathematics,29,41,70,B,70,Yes,2,Yes,No,5.14
+479,Trisha Bahl,Computer Organization,28,30,58,C,70,Yes,1,No,No,5.14
+479,Trisha Bahl,Database Management Systems,22,51,73,B,81,Yes,1,Yes,Yes,5.14
+479,Trisha Bahl,Data Communication,10,22,32,F,98,No,3,Yes,No,5.14
+480,Zara Baria,Object Oriented Programming,13,60,73,B,78,Yes,4,Yes,Yes,8.35
+480,Zara Baria,Discrete Mathematics,20,69,89,A,86,Yes,1,No,No,8.35
+480,Zara Baria,Computer Organization,19,35,54,D,86,Yes,3,Yes,No,8.35
+480,Zara Baria,Database Management Systems,24,67,91,A,100,Yes,3,No,Yes,8.35
+480,Zara Baria,Data Communication,15,37,52,D,79,Yes,5,Yes,Yes,8.35
+481,Taimur Sekhon,Object Oriented Programming,18,58,76,B,63,Yes,5,Yes,No,5.65
+481,Taimur Sekhon,Discrete Mathematics,11,69,80,B,75,Yes,5,Yes,No,5.65
+481,Taimur Sekhon,Computer Organization,21,62,83,B,74,Yes,3,Yes,Yes,5.65
+481,Taimur Sekhon,Database Management Systems,26,37,63,C,66,Yes,3,Yes,No,5.65
+481,Taimur Sekhon,Data Communication,13,58,71,B,96,Yes,5,No,No,5.65
+482,Pranay Handa,Object Oriented Programming,20,21,41,D,90,Yes,5,No,No,9.76
+482,Pranay Handa,Discrete Mathematics,27,37,64,C,74,Yes,5,Yes,No,9.76
+482,Pranay Handa,Computer Organization,10,65,75,B,65,Yes,1,Yes,Yes,9.76
+482,Pranay Handa,Database Management Systems,22,20,42,D,75,Yes,3,Yes,No,9.76
+482,Pranay Handa,Data Communication,28,61,89,A,92,Yes,3,No,No,9.76
+483,Anahi Andra,Object Oriented Programming,20,23,43,D,90,Yes,1,Yes,Yes,9.53
+483,Anahi Andra,Discrete Mathematics,15,62,77,B,97,Yes,5,Yes,Yes,9.53
+483,Anahi Andra,Computer Organization,16,58,74,B,97,Yes,1,Yes,Yes,9.53
+483,Anahi Andra,Database Management Systems,25,41,66,C,91,Yes,3,Yes,Yes,9.53
+483,Anahi Andra,Data Communication,13,33,46,D,84,Yes,4,No,No,9.53
+484,Anahita Sarin,Object Oriented Programming,13,23,36,F,74,No,5,No,No,5.93
+484,Anahita Sarin,Discrete Mathematics,27,41,68,C,75,Yes,4,No,Yes,5.93
+484,Anahita Sarin,Computer Organization,14,57,71,B,84,Yes,1,No,Yes,5.93
+484,Anahita Sarin,Database Management Systems,30,61,91,A,94,Yes,3,No,No,5.93
+484,Anahita Sarin,Data Communication,16,46,62,C,92,Yes,2,No,Yes,5.93
+485,Shlok Deep,Object Oriented Programming,23,25,48,D,90,Yes,3,No,No,6.43
+485,Shlok Deep,Discrete Mathematics,29,62,91,A,93,Yes,2,No,No,6.43
+485,Shlok Deep,Computer Organization,16,20,36,F,86,No,4,Yes,No,6.43
+485,Shlok Deep,Database Management Systems,29,47,76,B,78,Yes,4,No,Yes,6.43
+485,Shlok Deep,Data Communication,24,42,66,C,62,Yes,2,Yes,Yes,6.43
+486,Raunak Shetty,Object Oriented Programming,21,70,91,A,76,Yes,4,Yes,Yes,5.89
+486,Raunak Shetty,Discrete Mathematics,30,34,64,C,63,Yes,1,Yes,Yes,5.89
+486,Raunak Shetty,Computer Organization,17,20,37,F,91,No,1,No,No,5.89
+486,Raunak Shetty,Database Management Systems,18,66,84,B,67,Yes,4,Yes,Yes,5.89
+486,Raunak Shetty,Data Communication,27,26,53,D,83,Yes,5,No,No,5.89
+487,Gatik Kant,Object Oriented Programming,13,24,37,F,72,No,2,Yes,No,9.03
+487,Gatik Kant,Discrete Mathematics,29,39,68,C,89,Yes,5,Yes,Yes,9.03
+487,Gatik Kant,Computer Organization,29,53,82,B,87,Yes,1,Yes,No,9.03
+487,Gatik Kant,Database Management Systems,14,62,76,B,94,Yes,5,Yes,No,9.03
+487,Gatik Kant,Data Communication,26,32,58,C,67,Yes,3,Yes,Yes,9.03
+488,Indranil Babu,Object Oriented Programming,30,49,79,B,100,Yes,3,No,No,5.78
+488,Indranil Babu,Discrete Mathematics,11,33,44,D,86,Yes,5,No,Yes,5.78
+488,Indranil Babu,Computer Organization,26,55,81,B,100,Yes,1,Yes,No,5.78
+488,Indranil Babu,Database Management Systems,21,30,51,D,61,Yes,5,No,Yes,5.78
+488,Indranil Babu,Data Communication,11,64,75,B,64,Yes,5,Yes,No,5.78
+489,Renee Doctor,Object Oriented Programming,27,27,54,D,85,Yes,5,No,Yes,5.63
+489,Renee Doctor,Discrete Mathematics,16,29,45,D,71,Yes,5,Yes,Yes,5.63
+489,Renee Doctor,Computer Organization,17,66,83,B,64,Yes,5,No,No,5.63
+489,Renee Doctor,Database Management Systems,10,55,65,C,77,Yes,1,Yes,Yes,5.63
+489,Renee Doctor,Data Communication,20,61,81,B,88,Yes,2,No,No,5.63
+490,Neelofar Dey,Object Oriented Programming,24,67,91,A,75,Yes,2,Yes,Yes,5.05
+490,Neelofar Dey,Discrete Mathematics,14,46,60,C,77,Yes,1,No,Yes,5.05
+490,Neelofar Dey,Computer Organization,12,31,43,D,65,Yes,2,No,No,5.05
+490,Neelofar Dey,Database Management Systems,23,45,68,C,73,Yes,3,Yes,Yes,5.05
+490,Neelofar Dey,Data Communication,23,26,49,D,71,Yes,5,No,No,5.05
+491,Purab Zacharia,Object Oriented Programming,13,69,82,B,100,Yes,4,No,Yes,5.14
+491,Purab Zacharia,Discrete Mathematics,28,28,56,C,77,Yes,4,No,No,5.14
+491,Purab Zacharia,Computer Organization,30,49,79,B,75,Yes,3,No,No,5.14
+491,Purab Zacharia,Database Management Systems,11,49,60,C,69,Yes,4,No,Yes,5.14
+491,Purab Zacharia,Data Communication,20,20,40,D,73,Yes,4,Yes,No,5.14
+492,Bhavin Bhat,Object Oriented Programming,30,44,74,B,89,Yes,5,Yes,No,8.89
+492,Bhavin Bhat,Discrete Mathematics,19,66,85,A,63,Yes,4,No,Yes,8.89
+492,Bhavin Bhat,Computer Organization,11,47,58,C,86,Yes,4,No,No,8.89
+492,Bhavin Bhat,Database Management Systems,21,53,74,B,71,Yes,1,Yes,Yes,8.89
+492,Bhavin Bhat,Data Communication,29,44,73,B,73,Yes,3,Yes,Yes,8.89
+493,Uthkarsh Venkatesh,Object Oriented Programming,19,45,64,C,97,Yes,4,Yes,No,6.71
+493,Uthkarsh Venkatesh,Discrete Mathematics,28,57,85,A,84,Yes,3,Yes,Yes,6.71
+493,Uthkarsh Venkatesh,Computer Organization,13,49,62,C,95,Yes,3,No,No,6.71
+493,Uthkarsh Venkatesh,Database Management Systems,29,44,73,B,80,Yes,5,Yes,No,6.71
+493,Uthkarsh Venkatesh,Data Communication,15,60,75,B,84,Yes,2,No,No,6.71
+494,Vardaniya Keer,Object Oriented Programming,26,29,55,C,67,Yes,5,No,Yes,8.17
+494,Vardaniya Keer,Discrete Mathematics,23,66,89,A,77,Yes,2,No,No,8.17
+494,Vardaniya Keer,Computer Organization,21,53,74,B,90,Yes,4,No,Yes,8.17
+494,Vardaniya Keer,Database Management Systems,21,63,84,B,65,Yes,5,No,Yes,8.17
+494,Vardaniya Keer,Data Communication,30,37,67,C,85,Yes,5,No,Yes,8.17
+495,Taimur Sarkar,Object Oriented Programming,25,55,80,B,97,Yes,1,Yes,Yes,5.54
+495,Taimur Sarkar,Discrete Mathematics,10,66,76,B,99,Yes,2,No,Yes,5.54
+495,Taimur Sarkar,Computer Organization,16,42,58,C,89,Yes,5,No,Yes,5.54
+495,Taimur Sarkar,Database Management Systems,12,58,70,B,80,Yes,4,Yes,Yes,5.54
+495,Taimur Sarkar,Data Communication,27,66,93,A,95,Yes,1,Yes,Yes,5.54
+496,Pari Khatri,Object Oriented Programming,12,32,44,D,83,Yes,1,No,No,5.75
+496,Pari Khatri,Discrete Mathematics,27,54,81,B,78,Yes,4,Yes,Yes,5.75
+496,Pari Khatri,Computer Organization,22,59,81,B,72,Yes,4,No,No,5.75
+496,Pari Khatri,Database Management Systems,20,63,83,B,91,Yes,5,No,No,5.75
+496,Pari Khatri,Data Communication,13,45,58,C,83,Yes,4,Yes,No,5.75
+497,Navya Behl,Object Oriented Programming,13,66,79,B,79,Yes,1,Yes,No,9.28
+497,Navya Behl,Discrete Mathematics,16,63,79,B,86,Yes,4,Yes,No,9.28
+497,Navya Behl,Computer Organization,27,53,80,B,87,Yes,2,Yes,No,9.28
+497,Navya Behl,Database Management Systems,25,51,76,B,65,Yes,2,Yes,Yes,9.28
+497,Navya Behl,Data Communication,22,64,86,A,74,Yes,2,Yes,No,9.28
+498,Seher Sunder,Object Oriented Programming,13,36,49,D,100,Yes,1,No,Yes,8.16
+498,Seher Sunder,Discrete Mathematics,30,59,89,A,94,Yes,5,No,No,8.16
+498,Seher Sunder,Computer Organization,24,36,60,C,64,Yes,5,No,Yes,8.16
+498,Seher Sunder,Database Management Systems,20,59,79,B,88,Yes,3,No,No,8.16
+498,Seher Sunder,Data Communication,13,23,36,F,64,No,4,No,No,8.16
+499,Nehmat Baral,Object Oriented Programming,13,26,39,F,86,No,2,No,Yes,6.42
+499,Nehmat Baral,Discrete Mathematics,12,26,38,F,75,No,1,Yes,No,6.42
+499,Nehmat Baral,Computer Organization,19,61,80,B,82,Yes,5,Yes,Yes,6.42
+499,Nehmat Baral,Database Management Systems,28,22,50,D,87,Yes,3,Yes,No,6.42
+499,Nehmat Baral,Data Communication,20,41,61,C,68,Yes,4,Yes,No,6.42
+500,Kashvi Sundaram,Object Oriented Programming,24,70,94,A,98,Yes,5,No,Yes,8.02
+500,Kashvi Sundaram,Discrete Mathematics,11,63,74,B,79,Yes,4,No,Yes,8.02
+500,Kashvi Sundaram,Computer Organization,27,29,56,C,80,Yes,4,No,Yes,8.02
+500,Kashvi Sundaram,Database Management Systems,21,58,79,B,61,Yes,3,Yes,No,8.02
+500,Kashvi Sundaram,Data Communication,28,20,48,D,85,Yes,2,Yes,Yes,8.02

@@ -1,0 +1,2501 @@
+student_id,name,subject,internal_marks,external_marks,total_score,grade,attendance_percentage,passed,subject_interest_level,needs_support_in_subject,peer_help_provided,semester_gpa
+1,Riya Srinivasan,Mathematics-I,11,40,51,D,61,Yes,5,No,Yes,8.23
+1,Riya Srinivasan,Programming in C,21,50,71,B,77,Yes,3,Yes,Yes,8.23
+1,Riya Srinivasan,Engineering Physics,17,41,58,C,72,Yes,3,No,Yes,8.23
+1,Riya Srinivasan,English Communication,13,22,35,F,63,No,5,Yes,No,8.23
+1,Riya Srinivasan,Basic Electronics,26,44,70,B,64,Yes,1,Yes,No,8.23
+2,Myra Boase,Mathematics-I,27,27,54,D,82,Yes,2,No,Yes,7.27
+2,Myra Boase,Programming in C,23,29,52,D,80,Yes,2,Yes,Yes,7.27
+2,Myra Boase,Engineering Physics,15,50,65,C,79,Yes,4,No,No,7.27
+2,Myra Boase,English Communication,21,28,49,D,67,Yes,2,No,No,7.27
+2,Myra Boase,Basic Electronics,15,42,57,C,70,Yes,2,No,Yes,7.27
+3,Aaryahi Dalal,Mathematics-I,18,60,78,B,93,Yes,2,No,Yes,5.48
+3,Aaryahi Dalal,Programming in C,21,62,83,B,65,Yes,2,Yes,No,5.48
+3,Aaryahi Dalal,Engineering Physics,30,70,100,A,93,Yes,1,Yes,No,5.48
+3,Aaryahi Dalal,English Communication,22,51,73,B,80,Yes,2,No,No,5.48
+3,Aaryahi Dalal,Basic Electronics,12,64,76,B,64,Yes,4,No,Yes,5.48
+4,Kashvi Handa,Mathematics-I,19,34,53,D,95,Yes,4,No,Yes,5.69
+4,Kashvi Handa,Programming in C,22,43,65,C,86,Yes,3,No,Yes,5.69
+4,Kashvi Handa,Engineering Physics,30,35,65,C,85,Yes,3,No,No,5.69
+4,Kashvi Handa,English Communication,17,37,54,D,62,Yes,2,Yes,No,5.69
+4,Kashvi Handa,Basic Electronics,19,57,76,B,62,Yes,5,No,No,5.69
+5,Yashvi Garg,Mathematics-I,18,55,73,B,71,Yes,4,No,Yes,8.82
+5,Yashvi Garg,Programming in C,18,20,38,F,82,No,5,Yes,No,8.82
+5,Yashvi Garg,Engineering Physics,27,67,94,A,63,Yes,3,Yes,No,8.82
+5,Yashvi Garg,English Communication,25,65,90,A,92,Yes,3,Yes,Yes,8.82
+5,Yashvi Garg,Basic Electronics,13,65,78,B,72,Yes,1,No,Yes,8.82
+6,Shalv Johal,Mathematics-I,11,33,44,D,63,Yes,1,Yes,Yes,9.82
+6,Shalv Johal,Programming in C,15,56,71,B,82,Yes,3,No,No,9.82
+6,Shalv Johal,Engineering Physics,20,53,73,B,77,Yes,4,Yes,No,9.82
+6,Shalv Johal,English Communication,16,49,65,C,79,Yes,1,Yes,No,9.82
+6,Shalv Johal,Basic Electronics,25,42,67,C,72,Yes,5,Yes,Yes,9.82
+7,Vritika De,Mathematics-I,19,38,57,C,100,Yes,5,No,No,8.95
+7,Vritika De,Programming in C,12,47,59,C,75,Yes,3,No,Yes,8.95
+7,Vritika De,Engineering Physics,17,67,84,B,79,Yes,2,No,No,8.95
+7,Vritika De,English Communication,10,31,41,D,67,Yes,5,No,No,8.95
+7,Vritika De,Basic Electronics,16,62,78,B,67,Yes,1,Yes,No,8.95
+8,Lagan Chokshi,Mathematics-I,23,55,78,B,93,Yes,2,Yes,Yes,7.65
+8,Lagan Chokshi,Programming in C,16,39,55,C,92,Yes,4,Yes,No,7.65
+8,Lagan Chokshi,Engineering Physics,24,53,77,B,65,Yes,4,No,No,7.65
+8,Lagan Chokshi,English Communication,15,59,74,B,90,Yes,3,No,Yes,7.65
+8,Lagan Chokshi,Basic Electronics,26,36,62,C,67,Yes,1,No,Yes,7.65
+9,Manjari Tank,Mathematics-I,25,32,57,C,80,Yes,5,No,Yes,8.58
+9,Manjari Tank,Programming in C,11,44,55,C,60,Yes,4,Yes,No,8.58
+9,Manjari Tank,Engineering Physics,15,57,72,B,68,Yes,2,No,Yes,8.58
+9,Manjari Tank,English Communication,20,33,53,D,73,Yes,5,No,No,8.58
+9,Manjari Tank,Basic Electronics,27,68,95,A,73,Yes,5,No,No,8.58
+10,Adira Suresh,Mathematics-I,24,53,77,B,96,Yes,1,No,Yes,9.43
+10,Adira Suresh,Programming in C,15,31,46,D,64,Yes,4,No,Yes,9.43
+10,Adira Suresh,Engineering Physics,11,31,42,D,93,Yes,1,No,Yes,9.43
+10,Adira Suresh,English Communication,28,60,88,A,72,Yes,2,No,Yes,9.43
+10,Adira Suresh,Basic Electronics,27,60,87,A,95,Yes,4,Yes,No,9.43
+11,Nishith Saran,Mathematics-I,28,31,59,C,89,Yes,5,Yes,No,8.24
+11,Nishith Saran,Programming in C,22,67,89,A,99,Yes,5,Yes,No,8.24
+11,Nishith Saran,Engineering Physics,24,56,80,B,93,Yes,5,No,No,8.24
+11,Nishith Saran,English Communication,10,34,44,D,74,Yes,2,Yes,No,8.24
+11,Nishith Saran,Basic Electronics,23,35,58,C,95,Yes,3,Yes,No,8.24
+12,Madhup Sharma,Mathematics-I,13,24,37,F,85,No,5,Yes,Yes,6.24
+12,Madhup Sharma,Programming in C,30,26,56,C,80,Yes,5,No,Yes,6.24
+12,Madhup Sharma,Engineering Physics,25,41,66,C,65,Yes,3,Yes,No,6.24
+12,Madhup Sharma,English Communication,19,25,44,D,88,Yes,4,No,Yes,6.24
+12,Madhup Sharma,Basic Electronics,14,67,81,B,89,Yes,5,No,No,6.24
+13,Nayantara Bhagat,Mathematics-I,10,22,32,F,96,No,2,No,Yes,8.52
+13,Nayantara Bhagat,Programming in C,24,59,83,B,94,Yes,1,No,No,8.52
+13,Nayantara Bhagat,Engineering Physics,19,66,85,A,67,Yes,2,Yes,Yes,8.52
+13,Nayantara Bhagat,English Communication,17,56,73,B,80,Yes,4,Yes,Yes,8.52
+13,Nayantara Bhagat,Basic Electronics,21,58,79,B,78,Yes,5,No,No,8.52
+14,Lakshay Sami,Mathematics-I,11,48,59,C,96,Yes,4,No,Yes,6.47
+14,Lakshay Sami,Programming in C,20,26,46,D,87,Yes,3,No,No,6.47
+14,Lakshay Sami,Engineering Physics,30,46,76,B,79,Yes,5,No,No,6.47
+14,Lakshay Sami,English Communication,16,36,52,D,86,Yes,2,No,Yes,6.47
+14,Lakshay Sami,Basic Electronics,29,52,81,B,65,Yes,5,No,No,6.47
+15,Ivana Saran,Mathematics-I,23,24,47,D,77,Yes,5,Yes,No,6.06
+15,Ivana Saran,Programming in C,22,21,43,D,86,Yes,4,No,Yes,6.06
+15,Ivana Saran,Engineering Physics,10,46,56,C,64,Yes,1,Yes,No,6.06
+15,Ivana Saran,English Communication,21,46,67,C,75,Yes,3,Yes,No,6.06
+15,Ivana Saran,Basic Electronics,12,26,38,F,68,No,5,Yes,No,6.06
+16,Dishani Sidhu,Mathematics-I,12,67,79,B,94,Yes,1,No,Yes,5.55
+16,Dishani Sidhu,Programming in C,17,46,63,C,60,Yes,3,Yes,Yes,5.55
+16,Dishani Sidhu,Engineering Physics,18,28,46,D,61,Yes,1,No,No,5.55
+16,Dishani Sidhu,English Communication,28,23,51,D,96,Yes,3,Yes,No,5.55
+16,Dishani Sidhu,Basic Electronics,11,66,77,B,65,Yes,1,No,No,5.55
+17,Alia Saha,Mathematics-I,13,43,56,C,92,Yes,5,No,No,5.95
+17,Alia Saha,Programming in C,29,23,52,D,97,Yes,2,Yes,Yes,5.95
+17,Alia Saha,Engineering Physics,22,36,58,C,95,Yes,3,No,No,5.95
+17,Alia Saha,English Communication,23,40,63,C,71,Yes,4,No,Yes,5.95
+17,Alia Saha,Basic Electronics,18,22,40,D,75,Yes,1,Yes,Yes,5.95
+18,Yasmin Boase,Mathematics-I,29,59,88,A,67,Yes,4,Yes,No,8.37
+18,Yasmin Boase,Programming in C,30,53,83,B,99,Yes,5,Yes,Yes,8.37
+18,Yasmin Boase,Engineering Physics,11,29,40,D,73,Yes,5,No,No,8.37
+18,Yasmin Boase,English Communication,16,68,84,B,76,Yes,2,No,Yes,8.37
+18,Yasmin Boase,Basic Electronics,21,68,89,A,72,Yes,4,No,Yes,8.37
+19,Akarsh Mandal,Mathematics-I,16,24,40,D,65,Yes,1,No,No,5.53
+19,Akarsh Mandal,Programming in C,10,47,57,C,78,Yes,1,No,No,5.53
+19,Akarsh Mandal,Engineering Physics,11,38,49,D,90,Yes,1,No,No,5.53
+19,Akarsh Mandal,English Communication,24,44,68,C,70,Yes,3,No,Yes,5.53
+19,Akarsh Mandal,Basic Electronics,14,22,36,F,92,No,5,Yes,No,5.53
+20,Zaina Srinivas,Mathematics-I,15,69,84,B,70,Yes,4,No,Yes,5.7
+20,Zaina Srinivas,Programming in C,24,26,50,D,60,Yes,5,No,No,5.7
+20,Zaina Srinivas,Engineering Physics,27,55,82,B,91,Yes,4,Yes,No,5.7
+20,Zaina Srinivas,English Communication,10,58,68,C,84,Yes,2,No,No,5.7
+20,Zaina Srinivas,Basic Electronics,18,29,47,D,73,Yes,3,Yes,Yes,5.7
+21,Vihaan Balan,Mathematics-I,19,31,50,D,78,Yes,2,No,No,8.99
+21,Vihaan Balan,Programming in C,26,54,80,B,94,Yes,5,Yes,No,8.99
+21,Vihaan Balan,Engineering Physics,18,30,48,D,88,Yes,4,No,Yes,8.99
+21,Vihaan Balan,English Communication,12,65,77,B,100,Yes,4,Yes,Yes,8.99
+21,Vihaan Balan,Basic Electronics,19,51,70,B,61,Yes,4,No,No,8.99
+22,Manjari Brahmbhatt,Mathematics-I,12,31,43,D,62,Yes,2,No,Yes,6.36
+22,Manjari Brahmbhatt,Programming in C,10,50,60,C,60,Yes,1,No,Yes,6.36
+22,Manjari Brahmbhatt,Engineering Physics,30,57,87,A,79,Yes,5,No,Yes,6.36
+22,Manjari Brahmbhatt,English Communication,19,36,55,C,90,Yes,3,Yes,No,6.36
+22,Manjari Brahmbhatt,Basic Electronics,17,66,83,B,84,Yes,1,No,No,6.36
+23,Adira Bawa,Mathematics-I,25,40,65,C,87,Yes,4,Yes,No,7.52
+23,Adira Bawa,Programming in C,14,54,68,C,86,Yes,5,Yes,Yes,7.52
+23,Adira Bawa,Engineering Physics,21,26,47,D,76,Yes,5,Yes,Yes,7.52
+23,Adira Bawa,English Communication,16,29,45,D,77,Yes,3,Yes,No,7.52
+23,Adira Bawa,Basic Electronics,21,36,57,C,97,Yes,4,No,No,7.52
+24,Dhanuk Amble,Mathematics-I,24,31,55,C,89,Yes,2,No,Yes,5.51
+24,Dhanuk Amble,Programming in C,17,21,38,F,72,No,3,Yes,Yes,5.51
+24,Dhanuk Amble,Engineering Physics,12,42,54,D,94,Yes,1,Yes,Yes,5.51
+24,Dhanuk Amble,English Communication,25,32,57,C,73,Yes,1,No,Yes,5.51
+24,Dhanuk Amble,Basic Electronics,14,51,65,C,82,Yes,3,Yes,Yes,5.51
+25,Tiya Dhar,Mathematics-I,26,64,90,A,92,Yes,3,No,Yes,8.47
+25,Tiya Dhar,Programming in C,27,70,97,A,60,Yes,5,Yes,No,8.47
+25,Tiya Dhar,Engineering Physics,30,47,77,B,87,Yes,2,No,No,8.47
+25,Tiya Dhar,English Communication,19,67,86,A,80,Yes,3,No,No,8.47
+25,Tiya Dhar,Basic Electronics,12,53,65,C,99,Yes,2,No,No,8.47
+26,Emir Kapadia,Mathematics-I,16,20,36,F,60,No,2,Yes,Yes,6.55
+26,Emir Kapadia,Programming in C,12,60,72,B,85,Yes,1,Yes,No,6.55
+26,Emir Kapadia,Engineering Physics,29,24,53,D,77,Yes,2,No,Yes,6.55
+26,Emir Kapadia,English Communication,21,52,73,B,99,Yes,1,Yes,No,6.55
+26,Emir Kapadia,Basic Electronics,29,63,92,A,72,Yes,1,Yes,No,6.55
+27,Jhanvi Garg,Mathematics-I,28,39,67,C,70,Yes,1,Yes,No,9.18
+27,Jhanvi Garg,Programming in C,16,40,56,C,89,Yes,2,No,No,9.18
+27,Jhanvi Garg,Engineering Physics,15,64,79,B,61,Yes,1,No,Yes,9.18
+27,Jhanvi Garg,English Communication,23,51,74,B,86,Yes,4,Yes,No,9.18
+27,Jhanvi Garg,Basic Electronics,19,21,40,D,69,Yes,2,No,Yes,9.18
+28,Aayush Das,Mathematics-I,10,29,39,F,98,No,2,Yes,No,9.26
+28,Aayush Das,Programming in C,17,61,78,B,66,Yes,5,No,No,9.26
+28,Aayush Das,Engineering Physics,26,60,86,A,67,Yes,4,No,No,9.26
+28,Aayush Das,English Communication,20,59,79,B,72,Yes,2,No,Yes,9.26
+28,Aayush Das,Basic Electronics,21,35,56,C,88,Yes,2,Yes,Yes,9.26
+29,Aarav Dave,Mathematics-I,24,32,56,C,82,Yes,4,No,No,8.7
+29,Aarav Dave,Programming in C,17,60,77,B,62,Yes,2,Yes,Yes,8.7
+29,Aarav Dave,Engineering Physics,15,68,83,B,98,Yes,5,No,No,8.7
+29,Aarav Dave,English Communication,12,30,42,D,79,Yes,4,Yes,No,8.7
+29,Aarav Dave,Basic Electronics,13,45,58,C,61,Yes,4,Yes,Yes,8.7
+30,Inaaya  Sule,Mathematics-I,14,26,40,D,65,Yes,2,No,Yes,5.34
+30,Inaaya  Sule,Programming in C,12,56,68,C,98,Yes,1,Yes,No,5.34
+30,Inaaya  Sule,Engineering Physics,13,56,69,C,81,Yes,3,No,No,5.34
+30,Inaaya  Sule,English Communication,15,47,62,C,72,Yes,2,No,Yes,5.34
+30,Inaaya  Sule,Basic Electronics,24,49,73,B,87,Yes,1,No,Yes,5.34
+31,Aarush Rao,Mathematics-I,28,60,88,A,69,Yes,3,No,No,8.67
+31,Aarush Rao,Programming in C,29,49,78,B,96,Yes,2,No,No,8.67
+31,Aarush Rao,Engineering Physics,14,37,51,D,89,Yes,5,No,Yes,8.67
+31,Aarush Rao,English Communication,28,46,74,B,77,Yes,1,Yes,Yes,8.67
+31,Aarush Rao,Basic Electronics,20,36,56,C,73,Yes,2,Yes,No,8.67
+32,Umang Soman,Mathematics-I,28,63,91,A,93,Yes,5,Yes,Yes,8.42
+32,Umang Soman,Programming in C,29,36,65,C,78,Yes,4,Yes,Yes,8.42
+32,Umang Soman,Engineering Physics,26,37,63,C,69,Yes,4,No,No,8.42
+32,Umang Soman,English Communication,26,60,86,A,96,Yes,3,No,No,8.42
+32,Umang Soman,Basic Electronics,12,64,76,B,62,Yes,1,Yes,Yes,8.42
+33,Renee Brahmbhatt,Mathematics-I,10,52,62,C,84,Yes,5,No,No,7.13
+33,Renee Brahmbhatt,Programming in C,30,33,63,C,82,Yes,1,No,Yes,7.13
+33,Renee Brahmbhatt,Engineering Physics,18,46,64,C,78,Yes,3,No,No,7.13
+33,Renee Brahmbhatt,English Communication,15,28,43,D,93,Yes,1,No,Yes,7.13
+33,Renee Brahmbhatt,Basic Electronics,24,63,87,A,98,Yes,3,No,No,7.13
+34,Emir Kala,Mathematics-I,13,46,59,C,84,Yes,4,Yes,Yes,6.47
+34,Emir Kala,Programming in C,20,40,60,C,97,Yes,3,Yes,Yes,6.47
+34,Emir Kala,Engineering Physics,16,66,82,B,74,Yes,5,No,No,6.47
+34,Emir Kala,English Communication,28,21,49,D,64,Yes,5,Yes,Yes,6.47
+34,Emir Kala,Basic Electronics,30,27,57,C,98,Yes,4,Yes,Yes,6.47
+35,Dhanuk Desai,Mathematics-I,26,54,80,B,87,Yes,3,No,Yes,9.28
+35,Dhanuk Desai,Programming in C,16,62,78,B,73,Yes,2,No,No,9.28
+35,Dhanuk Desai,Engineering Physics,29,21,50,D,71,Yes,2,No,No,9.28
+35,Dhanuk Desai,English Communication,23,39,62,C,96,Yes,1,No,No,9.28
+35,Dhanuk Desai,Basic Electronics,18,54,72,B,100,Yes,2,Yes,No,9.28
+36,Anahita Khanna,Mathematics-I,22,40,62,C,96,Yes,1,Yes,Yes,8.21
+36,Anahita Khanna,Programming in C,22,26,48,D,80,Yes,4,No,No,8.21
+36,Anahita Khanna,Engineering Physics,21,67,88,A,90,Yes,4,No,Yes,8.21
+36,Anahita Khanna,English Communication,10,21,31,F,63,No,2,No,Yes,8.21
+36,Anahita Khanna,Basic Electronics,17,27,44,D,71,Yes,5,Yes,No,8.21
+37,Shamik Konda,Mathematics-I,30,50,80,B,76,Yes,4,Yes,Yes,5.62
+37,Shamik Konda,Programming in C,17,53,70,B,79,Yes,4,No,No,5.62
+37,Shamik Konda,Engineering Physics,23,53,76,B,68,Yes,4,Yes,No,5.62
+37,Shamik Konda,English Communication,18,56,74,B,72,Yes,4,Yes,Yes,5.62
+37,Shamik Konda,Basic Electronics,21,65,86,A,63,Yes,4,No,No,5.62
+38,Alisha Mannan,Mathematics-I,11,38,49,D,87,Yes,1,No,No,7.0
+38,Alisha Mannan,Programming in C,10,26,36,F,73,No,4,Yes,Yes,7.0
+38,Alisha Mannan,Engineering Physics,17,63,80,B,92,Yes,5,No,No,7.0
+38,Alisha Mannan,English Communication,24,49,73,B,63,Yes,5,No,Yes,7.0
+38,Alisha Mannan,Basic Electronics,14,36,50,D,70,Yes,4,No,No,7.0
+39,Zeeshan Mangat,Mathematics-I,13,70,83,B,82,Yes,3,Yes,No,7.03
+39,Zeeshan Mangat,Programming in C,12,64,76,B,70,Yes,5,No,No,7.03
+39,Zeeshan Mangat,Engineering Physics,25,52,77,B,60,Yes,1,No,No,7.03
+39,Zeeshan Mangat,English Communication,25,57,82,B,78,Yes,3,Yes,Yes,7.03
+39,Zeeshan Mangat,Basic Electronics,23,39,62,C,80,Yes,1,No,No,7.03
+40,Aaina Lad,Mathematics-I,13,32,45,D,96,Yes,5,No,No,9.6
+40,Aaina Lad,Programming in C,27,60,87,A,76,Yes,5,No,No,9.6
+40,Aaina Lad,Engineering Physics,21,44,65,C,72,Yes,4,Yes,No,9.6
+40,Aaina Lad,English Communication,27,33,60,C,86,Yes,4,No,Yes,9.6
+40,Aaina Lad,Basic Electronics,22,67,89,A,65,Yes,2,No,Yes,9.6
+41,Kanav Goel,Mathematics-I,17,53,70,B,89,Yes,3,No,Yes,9.01
+41,Kanav Goel,Programming in C,15,51,66,C,94,Yes,2,No,Yes,9.01
+41,Kanav Goel,Engineering Physics,28,42,70,B,82,Yes,1,No,Yes,9.01
+41,Kanav Goel,English Communication,17,24,41,D,65,Yes,3,Yes,No,9.01
+41,Kanav Goel,Basic Electronics,22,25,47,D,64,Yes,3,Yes,No,9.01
+42,Himmat Johal,Mathematics-I,16,28,44,D,74,Yes,4,Yes,No,7.84
+42,Himmat Johal,Programming in C,11,49,60,C,87,Yes,2,No,No,7.84
+42,Himmat Johal,Engineering Physics,16,42,58,C,63,Yes,5,Yes,No,7.84
+42,Himmat Johal,English Communication,19,50,69,C,99,Yes,5,No,Yes,7.84
+42,Himmat Johal,Basic Electronics,29,49,78,B,97,Yes,5,Yes,Yes,7.84
+43,Saksham Gade,Mathematics-I,23,25,48,D,68,Yes,3,Yes,No,9.89
+43,Saksham Gade,Programming in C,12,59,71,B,69,Yes,4,No,Yes,9.89
+43,Saksham Gade,Engineering Physics,20,42,62,C,80,Yes,1,No,Yes,9.89
+43,Saksham Gade,English Communication,19,61,80,B,73,Yes,2,Yes,Yes,9.89
+43,Saksham Gade,Basic Electronics,28,33,61,C,68,Yes,4,No,Yes,9.89
+44,Nitara Contractor,Mathematics-I,27,24,51,D,70,Yes,3,No,Yes,6.83
+44,Nitara Contractor,Programming in C,22,34,56,C,74,Yes,2,No,Yes,6.83
+44,Nitara Contractor,Engineering Physics,16,27,43,D,74,Yes,2,Yes,Yes,6.83
+44,Nitara Contractor,English Communication,22,50,72,B,97,Yes,4,No,No,6.83
+44,Nitara Contractor,Basic Electronics,23,51,74,B,77,Yes,4,No,No,6.83
+45,Arhaan Bhasin,Mathematics-I,26,66,92,A,82,Yes,5,Yes,Yes,8.18
+45,Arhaan Bhasin,Programming in C,17,61,78,B,85,Yes,2,No,Yes,8.18
+45,Arhaan Bhasin,Engineering Physics,24,49,73,B,84,Yes,5,No,No,8.18
+45,Arhaan Bhasin,English Communication,21,28,49,D,63,Yes,4,No,No,8.18
+45,Arhaan Bhasin,Basic Electronics,24,26,50,D,69,Yes,1,Yes,Yes,8.18
+46,Riaan Reddy,Mathematics-I,12,61,73,B,60,Yes,5,No,Yes,7.83
+46,Riaan Reddy,Programming in C,30,61,91,A,71,Yes,4,No,Yes,7.83
+46,Riaan Reddy,Engineering Physics,21,42,63,C,63,Yes,5,No,Yes,7.83
+46,Riaan Reddy,English Communication,27,45,72,B,68,Yes,2,Yes,Yes,7.83
+46,Riaan Reddy,Basic Electronics,26,36,62,C,97,Yes,3,No,Yes,7.83
+47,Lakshay Khalsa,Mathematics-I,29,62,91,A,83,Yes,3,Yes,Yes,9.42
+47,Lakshay Khalsa,Programming in C,24,61,85,A,74,Yes,5,Yes,No,9.42
+47,Lakshay Khalsa,Engineering Physics,28,55,83,B,70,Yes,5,Yes,No,9.42
+47,Lakshay Khalsa,English Communication,29,27,56,C,84,Yes,4,No,No,9.42
+47,Lakshay Khalsa,Basic Electronics,21,70,91,A,84,Yes,2,No,Yes,9.42
+48,Baiju Bath,Mathematics-I,10,51,61,C,85,Yes,1,Yes,No,5.01
+48,Baiju Bath,Programming in C,25,48,73,B,86,Yes,2,Yes,Yes,5.01
+48,Baiju Bath,Engineering Physics,16,26,42,D,98,Yes,3,No,No,5.01
+48,Baiju Bath,English Communication,27,65,92,A,92,Yes,1,No,Yes,5.01
+48,Baiju Bath,Basic Electronics,20,66,86,A,82,Yes,4,Yes,Yes,5.01
+49,Anay Dani,Mathematics-I,15,51,66,C,71,Yes,4,No,Yes,7.61
+49,Anay Dani,Programming in C,20,61,81,B,93,Yes,4,No,No,7.61
+49,Anay Dani,Engineering Physics,16,43,59,C,69,Yes,3,No,No,7.61
+49,Anay Dani,English Communication,12,64,76,B,100,Yes,1,No,Yes,7.61
+49,Anay Dani,Basic Electronics,20,21,41,D,72,Yes,4,No,Yes,7.61
+50,Yasmin Vyas,Mathematics-I,30,51,81,B,90,Yes,2,No,No,8.89
+50,Yasmin Vyas,Programming in C,16,26,42,D,77,Yes,5,No,No,8.89
+50,Yasmin Vyas,Engineering Physics,22,66,88,A,69,Yes,3,No,Yes,8.89
+50,Yasmin Vyas,English Communication,23,54,77,B,91,Yes,1,No,Yes,8.89
+50,Yasmin Vyas,Basic Electronics,29,26,55,C,83,Yes,4,No,Yes,8.89
+51,Hridaan Tandon,Mathematics-I,19,43,62,C,86,Yes,3,No,No,5.18
+51,Hridaan Tandon,Programming in C,12,32,44,D,73,Yes,5,No,Yes,5.18
+51,Hridaan Tandon,Engineering Physics,10,34,44,D,75,Yes,1,Yes,Yes,5.18
+51,Hridaan Tandon,English Communication,25,36,61,C,96,Yes,2,Yes,No,5.18
+51,Hridaan Tandon,Basic Electronics,16,62,78,B,61,Yes,2,No,No,5.18
+52,Samar Shere,Mathematics-I,30,27,57,C,100,Yes,2,No,Yes,6.46
+52,Samar Shere,Programming in C,21,32,53,D,73,Yes,3,Yes,Yes,6.46
+52,Samar Shere,Engineering Physics,29,49,78,B,76,Yes,3,Yes,No,6.46
+52,Samar Shere,English Communication,29,33,62,C,96,Yes,1,Yes,No,6.46
+52,Samar Shere,Basic Electronics,26,66,92,A,69,Yes,4,Yes,Yes,6.46
+53,Dishani Mander,Mathematics-I,13,33,46,D,75,Yes,1,Yes,No,8.94
+53,Dishani Mander,Programming in C,21,70,91,A,65,Yes,3,Yes,No,8.94
+53,Dishani Mander,Engineering Physics,11,40,51,D,96,Yes,4,No,Yes,8.94
+53,Dishani Mander,English Communication,12,30,42,D,77,Yes,2,Yes,Yes,8.94
+53,Dishani Mander,Basic Electronics,21,39,60,C,82,Yes,2,Yes,Yes,8.94
+54,Shanaya Chhabra,Mathematics-I,18,36,54,D,89,Yes,4,No,Yes,7.08
+54,Shanaya Chhabra,Programming in C,29,22,51,D,69,Yes,5,No,Yes,7.08
+54,Shanaya Chhabra,Engineering Physics,12,62,74,B,79,Yes,1,Yes,Yes,7.08
+54,Shanaya Chhabra,English Communication,13,59,72,B,80,Yes,1,Yes,No,7.08
+54,Shanaya Chhabra,Basic Electronics,15,50,65,C,77,Yes,5,No,No,7.08
+55,Purab Choudhury,Mathematics-I,13,54,67,C,78,Yes,2,Yes,Yes,8.07
+55,Purab Choudhury,Programming in C,11,29,40,D,63,Yes,3,No,No,8.07
+55,Purab Choudhury,Engineering Physics,28,62,90,A,83,Yes,4,No,Yes,8.07
+55,Purab Choudhury,English Communication,24,44,68,C,62,Yes,1,Yes,No,8.07
+55,Purab Choudhury,Basic Electronics,13,44,57,C,65,Yes,3,No,Yes,8.07
+56,Damini Amble,Mathematics-I,25,39,64,C,69,Yes,3,No,No,7.75
+56,Damini Amble,Programming in C,11,51,62,C,70,Yes,1,No,Yes,7.75
+56,Damini Amble,Engineering Physics,18,55,73,B,67,Yes,1,No,No,7.75
+56,Damini Amble,English Communication,23,23,46,D,65,Yes,4,Yes,Yes,7.75
+56,Damini Amble,Basic Electronics,20,65,85,A,66,Yes,5,Yes,Yes,7.75
+57,Kiara Malhotra,Mathematics-I,28,20,48,D,64,Yes,3,No,Yes,6.96
+57,Kiara Malhotra,Programming in C,29,56,85,A,98,Yes,5,Yes,No,6.96
+57,Kiara Malhotra,Engineering Physics,15,68,83,B,88,Yes,2,Yes,Yes,6.96
+57,Kiara Malhotra,English Communication,30,57,87,A,65,Yes,3,No,No,6.96
+57,Kiara Malhotra,Basic Electronics,22,53,75,B,93,Yes,3,No,Yes,6.96
+58,Indranil Gade,Mathematics-I,20,63,83,B,94,Yes,4,No,No,5.49
+58,Indranil Gade,Programming in C,19,70,89,A,86,Yes,3,Yes,Yes,5.49
+58,Indranil Gade,Engineering Physics,19,52,71,B,70,Yes,3,Yes,No,5.49
+58,Indranil Gade,English Communication,12,53,65,C,75,Yes,4,No,Yes,5.49
+58,Indranil Gade,Basic Electronics,21,70,91,A,78,Yes,4,Yes,No,5.49
+59,Siya Das,Mathematics-I,30,50,80,B,69,Yes,3,Yes,Yes,9.65
+59,Siya Das,Programming in C,26,69,95,A,93,Yes,3,Yes,Yes,9.65
+59,Siya Das,Engineering Physics,17,55,72,B,100,Yes,4,Yes,Yes,9.65
+59,Siya Das,English Communication,27,40,67,C,93,Yes,2,Yes,Yes,9.65
+59,Siya Das,Basic Electronics,20,70,90,A,68,Yes,2,Yes,No,9.65
+60,Jayesh Ganesan,Mathematics-I,19,36,55,C,63,Yes,2,No,Yes,5.27
+60,Jayesh Ganesan,Programming in C,28,31,59,C,96,Yes,4,No,No,5.27
+60,Jayesh Ganesan,Engineering Physics,19,40,59,C,63,Yes,1,Yes,No,5.27
+60,Jayesh Ganesan,English Communication,13,61,74,B,73,Yes,4,No,Yes,5.27
+60,Jayesh Ganesan,Basic Electronics,22,44,66,C,64,Yes,3,Yes,No,5.27
+61,Sahil Char,Mathematics-I,23,69,92,A,64,Yes,4,No,No,7.92
+61,Sahil Char,Programming in C,30,35,65,C,60,Yes,2,Yes,Yes,7.92
+61,Sahil Char,Engineering Physics,26,56,82,B,85,Yes,5,No,No,7.92
+61,Sahil Char,English Communication,15,26,41,D,62,Yes,5,Yes,No,7.92
+61,Sahil Char,Basic Electronics,23,61,84,B,63,Yes,3,Yes,No,7.92
+62,Hansh Chandran,Mathematics-I,10,30,40,D,89,Yes,4,No,Yes,7.91
+62,Hansh Chandran,Programming in C,23,39,62,C,87,Yes,2,No,Yes,7.91
+62,Hansh Chandran,Engineering Physics,11,48,59,C,63,Yes,2,Yes,Yes,7.91
+62,Hansh Chandran,English Communication,11,56,67,C,64,Yes,2,Yes,No,7.91
+62,Hansh Chandran,Basic Electronics,27,51,78,B,95,Yes,1,No,No,7.91
+63,Akarsh Reddy,Mathematics-I,26,51,77,B,95,Yes,2,Yes,Yes,6.83
+63,Akarsh Reddy,Programming in C,28,62,90,A,96,Yes,5,Yes,Yes,6.83
+63,Akarsh Reddy,Engineering Physics,20,20,40,D,94,Yes,4,Yes,No,6.83
+63,Akarsh Reddy,English Communication,25,68,93,A,68,Yes,5,Yes,Yes,6.83
+63,Akarsh Reddy,Basic Electronics,26,63,89,A,83,Yes,1,No,Yes,6.83
+64,Kismat Bir,Mathematics-I,20,20,40,D,100,Yes,4,Yes,Yes,7.38
+64,Kismat Bir,Programming in C,12,66,78,B,86,Yes,3,Yes,No,7.38
+64,Kismat Bir,Engineering Physics,13,56,69,C,72,Yes,5,Yes,Yes,7.38
+64,Kismat Bir,English Communication,13,57,70,B,94,Yes,3,Yes,Yes,7.38
+64,Kismat Bir,Basic Electronics,27,65,92,A,68,Yes,3,Yes,No,7.38
+65,Jayan Kapur,Mathematics-I,24,69,93,A,93,Yes,1,Yes,Yes,6.93
+65,Jayan Kapur,Programming in C,17,64,81,B,84,Yes,4,No,No,6.93
+65,Jayan Kapur,Engineering Physics,17,48,65,C,67,Yes,1,No,No,6.93
+65,Jayan Kapur,English Communication,22,34,56,C,82,Yes,1,Yes,Yes,6.93
+65,Jayan Kapur,Basic Electronics,26,52,78,B,71,Yes,3,Yes,Yes,6.93
+66,Madhav Saran,Mathematics-I,30,38,68,C,75,Yes,5,No,No,6.8
+66,Madhav Saran,Programming in C,29,61,90,A,73,Yes,4,No,Yes,6.8
+66,Madhav Saran,Engineering Physics,16,41,57,C,97,Yes,4,Yes,No,6.8
+66,Madhav Saran,English Communication,26,21,47,D,82,Yes,3,No,No,6.8
+66,Madhav Saran,Basic Electronics,24,34,58,C,66,Yes,4,No,Yes,6.8
+67,Renee Jaggi,Mathematics-I,11,24,35,F,86,No,5,No,No,5.32
+67,Renee Jaggi,Programming in C,19,67,86,A,61,Yes,2,No,Yes,5.32
+67,Renee Jaggi,Engineering Physics,11,43,54,D,80,Yes,4,No,Yes,5.32
+67,Renee Jaggi,English Communication,10,59,69,C,70,Yes,1,Yes,Yes,5.32
+67,Renee Jaggi,Basic Electronics,16,34,50,D,62,Yes,3,No,Yes,5.32
+68,Aarna Doshi,Mathematics-I,24,24,48,D,73,Yes,1,Yes,No,7.94
+68,Aarna Doshi,Programming in C,30,49,79,B,82,Yes,4,Yes,Yes,7.94
+68,Aarna Doshi,Engineering Physics,22,59,81,B,81,Yes,1,Yes,Yes,7.94
+68,Aarna Doshi,English Communication,19,41,60,C,70,Yes,3,Yes,Yes,7.94
+68,Aarna Doshi,Basic Electronics,28,67,95,A,90,Yes,5,No,Yes,7.94
+69,Saksham Virk,Mathematics-I,24,51,75,B,83,Yes,1,Yes,Yes,9.41
+69,Saksham Virk,Programming in C,23,51,74,B,64,Yes,4,No,No,9.41
+69,Saksham Virk,Engineering Physics,13,36,49,D,83,Yes,4,Yes,Yes,9.41
+69,Saksham Virk,English Communication,14,34,48,D,74,Yes,4,Yes,No,9.41
+69,Saksham Virk,Basic Electronics,28,61,89,A,66,Yes,1,No,Yes,9.41
+70,Arhaan Doctor,Mathematics-I,30,34,64,C,85,Yes,2,Yes,Yes,9.03
+70,Arhaan Doctor,Programming in C,10,26,36,F,96,No,1,No,Yes,9.03
+70,Arhaan Doctor,Engineering Physics,21,34,55,C,72,Yes,4,Yes,Yes,9.03
+70,Arhaan Doctor,English Communication,28,40,68,C,72,Yes,4,No,No,9.03
+70,Arhaan Doctor,Basic Electronics,14,67,81,B,94,Yes,3,No,Yes,9.03
+71,Hridaan Chandra,Mathematics-I,26,49,75,B,69,Yes,3,Yes,Yes,7.14
+71,Hridaan Chandra,Programming in C,10,67,77,B,90,Yes,4,No,Yes,7.14
+71,Hridaan Chandra,Engineering Physics,24,27,51,D,70,Yes,1,No,No,7.14
+71,Hridaan Chandra,English Communication,29,65,94,A,81,Yes,3,No,No,7.14
+71,Hridaan Chandra,Basic Electronics,22,26,48,D,67,Yes,2,Yes,No,7.14
+72,Kabir Krishnan,Mathematics-I,29,65,94,A,74,Yes,2,Yes,Yes,5.36
+72,Kabir Krishnan,Programming in C,16,41,57,C,61,Yes,1,No,Yes,5.36
+72,Kabir Krishnan,Engineering Physics,30,45,75,B,97,Yes,5,No,Yes,5.36
+72,Kabir Krishnan,English Communication,14,60,74,B,94,Yes,3,No,Yes,5.36
+72,Kabir Krishnan,Basic Electronics,26,67,93,A,72,Yes,3,No,No,5.36
+73,Zoya Cheema,Mathematics-I,14,57,71,B,92,Yes,3,Yes,Yes,8.42
+73,Zoya Cheema,Programming in C,20,62,82,B,88,Yes,2,Yes,Yes,8.42
+73,Zoya Cheema,Engineering Physics,30,68,98,A,98,Yes,1,No,No,8.42
+73,Zoya Cheema,English Communication,21,35,56,C,83,Yes,5,Yes,No,8.42
+73,Zoya Cheema,Basic Electronics,13,42,55,C,74,Yes,1,Yes,No,8.42
+74,Mehul Kakar,Mathematics-I,22,66,88,A,71,Yes,5,No,No,8.15
+74,Mehul Kakar,Programming in C,30,41,71,B,100,Yes,1,Yes,Yes,8.15
+74,Mehul Kakar,Engineering Physics,16,42,58,C,61,Yes,2,Yes,Yes,8.15
+74,Mehul Kakar,English Communication,14,27,41,D,73,Yes,2,No,No,8.15
+74,Mehul Kakar,Basic Electronics,10,35,45,D,97,Yes,3,Yes,Yes,8.15
+75,Krish Anand,Mathematics-I,22,63,85,A,61,Yes,4,No,Yes,8.27
+75,Krish Anand,Programming in C,24,47,71,B,62,Yes,4,Yes,Yes,8.27
+75,Krish Anand,Engineering Physics,10,35,45,D,93,Yes,4,Yes,Yes,8.27
+75,Krish Anand,English Communication,27,42,69,C,61,Yes,3,No,Yes,8.27
+75,Krish Anand,Basic Electronics,20,28,48,D,63,Yes,3,Yes,Yes,8.27
+76,Farhan Chopra,Mathematics-I,13,55,68,C,91,Yes,1,No,Yes,8.11
+76,Farhan Chopra,Programming in C,20,34,54,D,66,Yes,3,Yes,Yes,8.11
+76,Farhan Chopra,Engineering Physics,21,47,68,C,72,Yes,2,No,Yes,8.11
+76,Farhan Chopra,English Communication,18,35,53,D,63,Yes,3,Yes,Yes,8.11
+76,Farhan Chopra,Basic Electronics,21,38,59,C,61,Yes,5,Yes,No,8.11
+77,Chirag Sarraf,Mathematics-I,18,52,70,B,87,Yes,1,No,Yes,6.66
+77,Chirag Sarraf,Programming in C,13,56,69,C,84,Yes,2,No,Yes,6.66
+77,Chirag Sarraf,Engineering Physics,17,62,79,B,90,Yes,5,Yes,No,6.66
+77,Chirag Sarraf,English Communication,16,28,44,D,70,Yes,3,Yes,No,6.66
+77,Chirag Sarraf,Basic Electronics,12,51,63,C,83,Yes,2,Yes,No,6.66
+78,Anay Magar,Mathematics-I,28,63,91,A,72,Yes,4,No,No,8.06
+78,Anay Magar,Programming in C,24,56,80,B,85,Yes,4,Yes,Yes,8.06
+78,Anay Magar,Engineering Physics,25,62,87,A,100,Yes,4,Yes,Yes,8.06
+78,Anay Magar,English Communication,22,46,68,C,74,Yes,2,No,Yes,8.06
+78,Anay Magar,Basic Electronics,11,64,75,B,76,Yes,2,Yes,Yes,8.06
+79,Miraan Hari,Mathematics-I,27,56,83,B,79,Yes,4,Yes,Yes,8.25
+79,Miraan Hari,Programming in C,10,41,51,D,62,Yes,3,No,Yes,8.25
+79,Miraan Hari,Engineering Physics,27,50,77,B,87,Yes,4,No,No,8.25
+79,Miraan Hari,English Communication,17,45,62,C,98,Yes,3,No,Yes,8.25
+79,Miraan Hari,Basic Electronics,14,30,44,D,93,Yes,4,Yes,Yes,8.25
+80,Vihaan Mahal,Mathematics-I,24,67,91,A,96,Yes,3,Yes,Yes,8.5
+80,Vihaan Mahal,Programming in C,17,32,49,D,91,Yes,5,No,No,8.5
+80,Vihaan Mahal,Engineering Physics,19,33,52,D,73,Yes,4,No,No,8.5
+80,Vihaan Mahal,English Communication,17,35,52,D,61,Yes,3,Yes,No,8.5
+80,Vihaan Mahal,Basic Electronics,21,66,87,A,92,Yes,1,No,No,8.5
+81,Yashvi Dasgupta,Mathematics-I,10,65,75,B,88,Yes,1,No,Yes,8.44
+81,Yashvi Dasgupta,Programming in C,20,33,53,D,90,Yes,1,No,Yes,8.44
+81,Yashvi Dasgupta,Engineering Physics,26,58,84,B,98,Yes,5,Yes,Yes,8.44
+81,Yashvi Dasgupta,English Communication,24,47,71,B,95,Yes,3,No,No,8.44
+81,Yashvi Dasgupta,Basic Electronics,18,64,82,B,84,Yes,2,Yes,Yes,8.44
+82,Anaya Batta,Mathematics-I,16,37,53,D,92,Yes,3,Yes,Yes,7.43
+82,Anaya Batta,Programming in C,30,24,54,D,68,Yes,3,Yes,No,7.43
+82,Anaya Batta,Engineering Physics,12,68,80,B,85,Yes,1,No,No,7.43
+82,Anaya Batta,English Communication,21,28,49,D,95,Yes,5,No,Yes,7.43
+82,Anaya Batta,Basic Electronics,25,22,47,D,92,Yes,1,Yes,Yes,7.43
+83,Ehsaan Thakur,Mathematics-I,19,23,42,D,94,Yes,3,No,No,8.31
+83,Ehsaan Thakur,Programming in C,25,26,51,D,63,Yes,5,No,Yes,8.31
+83,Ehsaan Thakur,Engineering Physics,25,70,95,A,94,Yes,3,No,Yes,8.31
+83,Ehsaan Thakur,English Communication,11,29,40,D,93,Yes,2,Yes,Yes,8.31
+83,Ehsaan Thakur,Basic Electronics,10,36,46,D,97,Yes,5,Yes,Yes,8.31
+84,Kanav Kurian,Mathematics-I,18,21,39,F,96,No,4,Yes,Yes,9.17
+84,Kanav Kurian,Programming in C,21,20,41,D,83,Yes,4,Yes,No,9.17
+84,Kanav Kurian,Engineering Physics,30,67,97,A,64,Yes,5,Yes,No,9.17
+84,Kanav Kurian,English Communication,11,37,48,D,96,Yes,1,Yes,No,9.17
+84,Kanav Kurian,Basic Electronics,17,43,60,C,78,Yes,3,No,No,9.17
+85,Aarush Sharma,Mathematics-I,28,52,80,B,99,Yes,4,Yes,No,6.06
+85,Aarush Sharma,Programming in C,28,28,56,C,68,Yes,4,No,No,6.06
+85,Aarush Sharma,Engineering Physics,29,45,74,B,99,Yes,3,Yes,Yes,6.06
+85,Aarush Sharma,English Communication,27,53,80,B,97,Yes,4,Yes,Yes,6.06
+85,Aarush Sharma,Basic Electronics,22,36,58,C,62,Yes,5,No,Yes,6.06
+86,Pranay Barad,Mathematics-I,27,66,93,A,83,Yes,1,Yes,No,6.45
+86,Pranay Barad,Programming in C,25,70,95,A,82,Yes,3,No,Yes,6.45
+86,Pranay Barad,Engineering Physics,18,22,40,D,60,Yes,2,Yes,No,6.45
+86,Pranay Barad,English Communication,30,45,75,B,66,Yes,5,No,No,6.45
+86,Pranay Barad,Basic Electronics,19,49,68,C,61,Yes,1,No,Yes,6.45
+87,Divyansh Kadakia,Mathematics-I,23,28,51,D,70,Yes,4,Yes,No,8.31
+87,Divyansh Kadakia,Programming in C,15,24,39,F,92,No,2,No,No,8.31
+87,Divyansh Kadakia,Engineering Physics,27,43,70,B,69,Yes,1,Yes,Yes,8.31
+87,Divyansh Kadakia,English Communication,26,26,52,D,85,Yes,3,No,Yes,8.31
+87,Divyansh Kadakia,Basic Electronics,10,32,42,D,100,Yes,5,No,Yes,8.31
+88,Lakshay Chandran,Mathematics-I,24,48,72,B,95,Yes,5,Yes,No,9.79
+88,Lakshay Chandran,Programming in C,26,61,87,A,62,Yes,3,Yes,No,9.79
+88,Lakshay Chandran,Engineering Physics,21,37,58,C,72,Yes,1,Yes,No,9.79
+88,Lakshay Chandran,English Communication,12,44,56,C,82,Yes,4,No,Yes,9.79
+88,Lakshay Chandran,Basic Electronics,11,37,48,D,97,Yes,2,No,Yes,9.79
+89,Anahi Dayal,Mathematics-I,28,62,90,A,85,Yes,2,Yes,Yes,6.85
+89,Anahi Dayal,Programming in C,27,67,94,A,98,Yes,4,No,Yes,6.85
+89,Anahi Dayal,Engineering Physics,20,58,78,B,88,Yes,4,No,Yes,6.85
+89,Anahi Dayal,English Communication,18,31,49,D,74,Yes,2,Yes,Yes,6.85
+89,Anahi Dayal,Basic Electronics,17,70,87,A,78,Yes,1,Yes,No,6.85
+90,Yashvi Sidhu,Mathematics-I,11,46,57,C,73,Yes,4,No,Yes,6.11
+90,Yashvi Sidhu,Programming in C,26,40,66,C,88,Yes,3,No,No,6.11
+90,Yashvi Sidhu,Engineering Physics,21,46,67,C,64,Yes,5,No,Yes,6.11
+90,Yashvi Sidhu,English Communication,10,45,55,C,84,Yes,3,Yes,Yes,6.11
+90,Yashvi Sidhu,Basic Electronics,22,29,51,D,68,Yes,2,No,No,6.11
+91,Saanvi Thakur,Mathematics-I,30,60,90,A,77,Yes,4,No,Yes,5.83
+91,Saanvi Thakur,Programming in C,17,21,38,F,94,No,3,Yes,No,5.83
+91,Saanvi Thakur,Engineering Physics,27,67,94,A,90,Yes,3,No,Yes,5.83
+91,Saanvi Thakur,English Communication,11,41,52,D,72,Yes,4,Yes,No,5.83
+91,Saanvi Thakur,Basic Electronics,14,27,41,D,86,Yes,5,No,Yes,5.83
+92,Mohanlal Swaminathan,Mathematics-I,25,22,47,D,76,Yes,1,Yes,No,5.5
+92,Mohanlal Swaminathan,Programming in C,27,43,70,B,99,Yes,3,Yes,No,5.5
+92,Mohanlal Swaminathan,Engineering Physics,12,70,82,B,63,Yes,1,Yes,Yes,5.5
+92,Mohanlal Swaminathan,English Communication,15,64,79,B,66,Yes,5,No,Yes,5.5
+92,Mohanlal Swaminathan,Basic Electronics,22,35,57,C,79,Yes,5,Yes,Yes,5.5
+93,Vivaan Soman,Mathematics-I,23,70,93,A,84,Yes,3,Yes,No,7.51
+93,Vivaan Soman,Programming in C,26,59,85,A,81,Yes,1,Yes,Yes,7.51
+93,Vivaan Soman,Engineering Physics,20,42,62,C,97,Yes,2,No,No,7.51
+93,Vivaan Soman,English Communication,20,40,60,C,100,Yes,1,Yes,No,7.51
+93,Vivaan Soman,Basic Electronics,15,38,53,D,79,Yes,4,No,Yes,7.51
+94,Shanaya Sinha,Mathematics-I,28,38,66,C,63,Yes,1,No,No,7.71
+94,Shanaya Sinha,Programming in C,10,25,35,F,66,No,2,Yes,No,7.71
+94,Shanaya Sinha,Engineering Physics,11,31,42,D,64,Yes,4,No,Yes,7.71
+94,Shanaya Sinha,English Communication,25,62,87,A,67,Yes,4,Yes,No,7.71
+94,Shanaya Sinha,Basic Electronics,14,62,76,B,97,Yes,3,No,No,7.71
+95,Pari Wadhwa,Mathematics-I,14,27,41,D,96,Yes,2,Yes,Yes,8.52
+95,Pari Wadhwa,Programming in C,30,52,82,B,83,Yes,1,No,No,8.52
+95,Pari Wadhwa,Engineering Physics,12,67,79,B,89,Yes,5,No,Yes,8.52
+95,Pari Wadhwa,English Communication,25,43,68,C,63,Yes,1,Yes,Yes,8.52
+95,Pari Wadhwa,Basic Electronics,20,34,54,D,68,Yes,3,No,No,8.52
+96,Prisha Lata,Mathematics-I,21,34,55,C,81,Yes,3,Yes,Yes,9.99
+96,Prisha Lata,Programming in C,13,62,75,B,100,Yes,1,Yes,Yes,9.99
+96,Prisha Lata,Engineering Physics,29,65,94,A,96,Yes,1,No,No,9.99
+96,Prisha Lata,English Communication,20,26,46,D,62,Yes,4,Yes,No,9.99
+96,Prisha Lata,Basic Electronics,26,38,64,C,99,Yes,5,No,Yes,9.99
+97,Akarsh Subramaniam,Mathematics-I,22,29,51,D,82,Yes,3,Yes,Yes,6.11
+97,Akarsh Subramaniam,Programming in C,14,25,39,F,90,No,5,No,No,6.11
+97,Akarsh Subramaniam,Engineering Physics,29,43,72,B,93,Yes,2,Yes,Yes,6.11
+97,Akarsh Subramaniam,English Communication,24,28,52,D,71,Yes,5,Yes,Yes,6.11
+97,Akarsh Subramaniam,Basic Electronics,14,65,79,B,69,Yes,3,Yes,No,6.11
+98,Biju Maharaj,Mathematics-I,26,67,93,A,61,Yes,3,No,Yes,8.75
+98,Biju Maharaj,Programming in C,15,31,46,D,91,Yes,4,No,No,8.75
+98,Biju Maharaj,Engineering Physics,20,62,82,B,94,Yes,3,No,Yes,8.75
+98,Biju Maharaj,English Communication,24,33,57,C,67,Yes,2,Yes,Yes,8.75
+98,Biju Maharaj,Basic Electronics,24,29,53,D,82,Yes,4,Yes,Yes,8.75
+99,Siya Varma,Mathematics-I,11,46,57,C,80,Yes,5,No,Yes,7.49
+99,Siya Varma,Programming in C,14,42,56,C,95,Yes,4,No,No,7.49
+99,Siya Varma,Engineering Physics,29,59,88,A,90,Yes,5,Yes,Yes,7.49
+99,Siya Varma,English Communication,15,35,50,D,99,Yes,5,Yes,Yes,7.49
+99,Siya Varma,Basic Electronics,14,22,36,F,70,No,4,No,Yes,7.49
+100,Vritika Viswanathan,Mathematics-I,11,25,36,F,61,No,1,Yes,No,7.74
+100,Vritika Viswanathan,Programming in C,22,63,85,A,71,Yes,3,No,No,7.74
+100,Vritika Viswanathan,Engineering Physics,30,42,72,B,88,Yes,5,No,Yes,7.74
+100,Vritika Viswanathan,English Communication,21,69,90,A,65,Yes,5,Yes,Yes,7.74
+100,Vritika Viswanathan,Basic Electronics,23,44,67,C,85,Yes,5,Yes,No,7.74
+101,Anya Sethi,Mathematics-I,26,27,53,D,99,Yes,2,No,No,8.01
+101,Anya Sethi,Programming in C,11,36,47,D,67,Yes,3,Yes,Yes,8.01
+101,Anya Sethi,Engineering Physics,11,32,43,D,92,Yes,5,Yes,Yes,8.01
+101,Anya Sethi,English Communication,30,24,54,D,84,Yes,1,Yes,No,8.01
+101,Anya Sethi,Basic Electronics,21,21,42,D,71,Yes,1,No,Yes,8.01
+102,Romil Kaur,Mathematics-I,29,30,59,C,65,Yes,2,No,No,9.24
+102,Romil Kaur,Programming in C,29,61,90,A,86,Yes,3,Yes,Yes,9.24
+102,Romil Kaur,Engineering Physics,14,69,83,B,92,Yes,1,No,Yes,9.24
+102,Romil Kaur,English Communication,15,54,69,C,61,Yes,1,No,No,9.24
+102,Romil Kaur,Basic Electronics,24,51,75,B,70,Yes,3,No,No,9.24
+103,Zaina Chandra,Mathematics-I,30,50,80,B,78,Yes,4,Yes,No,7.3
+103,Zaina Chandra,Programming in C,22,54,76,B,81,Yes,4,Yes,Yes,7.3
+103,Zaina Chandra,Engineering Physics,18,43,61,C,79,Yes,2,Yes,No,7.3
+103,Zaina Chandra,English Communication,20,65,85,A,75,Yes,1,Yes,Yes,7.3
+103,Zaina Chandra,Basic Electronics,12,21,33,F,87,No,5,No,No,7.3
+104,Tanya Khalsa,Mathematics-I,26,28,54,D,67,Yes,4,Yes,Yes,8.43
+104,Tanya Khalsa,Programming in C,24,44,68,C,66,Yes,3,No,Yes,8.43
+104,Tanya Khalsa,Engineering Physics,20,29,49,D,91,Yes,2,No,No,8.43
+104,Tanya Khalsa,English Communication,10,32,42,D,78,Yes,2,Yes,Yes,8.43
+104,Tanya Khalsa,Basic Electronics,24,43,67,C,76,Yes,2,No,No,8.43
+105,Rania Dugar,Mathematics-I,27,29,56,C,84,Yes,4,Yes,No,8.93
+105,Rania Dugar,Programming in C,30,21,51,D,93,Yes,2,Yes,No,8.93
+105,Rania Dugar,Engineering Physics,15,34,49,D,74,Yes,3,No,No,8.93
+105,Rania Dugar,English Communication,13,42,55,C,74,Yes,2,No,No,8.93
+105,Rania Dugar,Basic Electronics,20,34,54,D,67,Yes,2,Yes,Yes,8.93
+106,Nayantara Anne,Mathematics-I,11,66,77,B,62,Yes,2,Yes,Yes,6.66
+106,Nayantara Anne,Programming in C,23,20,43,D,95,Yes,4,No,No,6.66
+106,Nayantara Anne,Engineering Physics,28,62,90,A,65,Yes,3,Yes,Yes,6.66
+106,Nayantara Anne,English Communication,17,38,55,C,68,Yes,5,Yes,Yes,6.66
+106,Nayantara Anne,Basic Electronics,12,60,72,B,94,Yes,2,No,Yes,6.66
+107,Saira Vaidya,Mathematics-I,11,49,60,C,70,Yes,3,Yes,Yes,9.55
+107,Saira Vaidya,Programming in C,24,49,73,B,87,Yes,1,No,No,9.55
+107,Saira Vaidya,Engineering Physics,16,22,38,F,81,No,5,Yes,Yes,9.55
+107,Saira Vaidya,English Communication,22,47,69,C,86,Yes,2,No,No,9.55
+107,Saira Vaidya,Basic Electronics,22,23,45,D,88,Yes,5,No,Yes,9.55
+108,Adira Kapur,Mathematics-I,27,30,57,C,87,Yes,5,No,No,9.86
+108,Adira Kapur,Programming in C,24,60,84,B,61,Yes,3,Yes,No,9.86
+108,Adira Kapur,Engineering Physics,13,54,67,C,90,Yes,3,No,No,9.86
+108,Adira Kapur,English Communication,15,47,62,C,96,Yes,1,Yes,Yes,9.86
+108,Adira Kapur,Basic Electronics,14,35,49,D,100,Yes,3,No,Yes,9.86
+109,Sumer Tak,Mathematics-I,25,37,62,C,62,Yes,5,Yes,Yes,6.76
+109,Sumer Tak,Programming in C,24,49,73,B,92,Yes,4,No,No,6.76
+109,Sumer Tak,Engineering Physics,26,63,89,A,62,Yes,2,Yes,No,6.76
+109,Sumer Tak,English Communication,11,53,64,C,88,Yes,5,No,Yes,6.76
+109,Sumer Tak,Basic Electronics,12,33,45,D,70,Yes,1,No,No,6.76
+110,Kabir Dutt,Mathematics-I,22,67,89,A,70,Yes,4,No,Yes,8.18
+110,Kabir Dutt,Programming in C,15,47,62,C,71,Yes,5,Yes,Yes,8.18
+110,Kabir Dutt,Engineering Physics,11,50,61,C,72,Yes,2,Yes,No,8.18
+110,Kabir Dutt,English Communication,21,52,73,B,68,Yes,5,Yes,Yes,8.18
+110,Kabir Dutt,Basic Electronics,28,64,92,A,60,Yes,5,Yes,No,8.18
+111,Eshani Gala,Mathematics-I,27,69,96,A,94,Yes,3,No,Yes,8.97
+111,Eshani Gala,Programming in C,29,48,77,B,92,Yes,3,No,Yes,8.97
+111,Eshani Gala,Engineering Physics,14,55,69,C,82,Yes,3,Yes,Yes,8.97
+111,Eshani Gala,English Communication,13,53,66,C,86,Yes,1,Yes,No,8.97
+111,Eshani Gala,Basic Electronics,11,44,55,C,79,Yes,2,No,No,8.97
+112,Miraan Tailor,Mathematics-I,26,68,94,A,96,Yes,1,No,No,6.95
+112,Miraan Tailor,Programming in C,17,64,81,B,62,Yes,5,No,Yes,6.95
+112,Miraan Tailor,Engineering Physics,22,43,65,C,65,Yes,2,Yes,No,6.95
+112,Miraan Tailor,English Communication,26,45,71,B,71,Yes,4,Yes,Yes,6.95
+112,Miraan Tailor,Basic Electronics,24,33,57,C,85,Yes,4,No,Yes,6.95
+113,Aayush Sridhar,Mathematics-I,24,30,54,D,67,Yes,1,No,Yes,8.15
+113,Aayush Sridhar,Programming in C,17,67,84,B,95,Yes,5,No,No,8.15
+113,Aayush Sridhar,Engineering Physics,13,54,67,C,100,Yes,4,Yes,No,8.15
+113,Aayush Sridhar,English Communication,25,40,65,C,69,Yes,2,Yes,Yes,8.15
+113,Aayush Sridhar,Basic Electronics,13,30,43,D,72,Yes,1,Yes,No,8.15
+114,Keya Kade,Mathematics-I,20,55,75,B,63,Yes,2,No,No,5.5
+114,Keya Kade,Programming in C,25,51,76,B,85,Yes,1,Yes,No,5.5
+114,Keya Kade,Engineering Physics,18,27,45,D,99,Yes,2,No,Yes,5.5
+114,Keya Kade,English Communication,11,66,77,B,99,Yes,3,Yes,Yes,5.5
+114,Keya Kade,Basic Electronics,14,43,57,C,91,Yes,5,Yes,Yes,5.5
+115,Bhavin Buch,Mathematics-I,15,56,71,B,79,Yes,2,Yes,No,5.23
+115,Bhavin Buch,Programming in C,19,60,79,B,95,Yes,4,Yes,Yes,5.23
+115,Bhavin Buch,Engineering Physics,28,67,95,A,69,Yes,5,Yes,No,5.23
+115,Bhavin Buch,English Communication,30,49,79,B,91,Yes,5,Yes,Yes,5.23
+115,Bhavin Buch,Basic Electronics,16,45,61,C,83,Yes,1,No,No,5.23
+116,Samarth Chad,Mathematics-I,29,49,78,B,63,Yes,5,Yes,No,6.66
+116,Samarth Chad,Programming in C,24,63,87,A,93,Yes,3,Yes,No,6.66
+116,Samarth Chad,Engineering Physics,18,50,68,C,97,Yes,5,Yes,No,6.66
+116,Samarth Chad,English Communication,10,30,40,D,93,Yes,1,Yes,No,6.66
+116,Samarth Chad,Basic Electronics,29,20,49,D,96,Yes,4,No,Yes,6.66
+117,Adira Agarwal,Mathematics-I,12,60,72,B,81,Yes,5,Yes,Yes,5.51
+117,Adira Agarwal,Programming in C,22,58,80,B,71,Yes,5,No,No,5.51
+117,Adira Agarwal,Engineering Physics,23,28,51,D,61,Yes,3,No,Yes,5.51
+117,Adira Agarwal,English Communication,23,47,70,B,98,Yes,2,No,No,5.51
+117,Adira Agarwal,Basic Electronics,25,37,62,C,92,Yes,2,No,No,5.51
+118,Raunak Warrior,Mathematics-I,15,35,50,D,62,Yes,3,Yes,No,8.76
+118,Raunak Warrior,Programming in C,17,49,66,C,94,Yes,1,No,Yes,8.76
+118,Raunak Warrior,Engineering Physics,14,65,79,B,73,Yes,3,No,No,8.76
+118,Raunak Warrior,English Communication,24,25,49,D,78,Yes,4,Yes,No,8.76
+118,Raunak Warrior,Basic Electronics,27,35,62,C,87,Yes,5,No,Yes,8.76
+119,Pranay Koshy,Mathematics-I,12,21,33,F,88,No,3,No,No,7.21
+119,Pranay Koshy,Programming in C,22,61,83,B,98,Yes,2,Yes,No,7.21
+119,Pranay Koshy,Engineering Physics,29,20,49,D,89,Yes,3,Yes,No,7.21
+119,Pranay Koshy,English Communication,11,20,31,F,84,No,3,No,No,7.21
+119,Pranay Koshy,Basic Electronics,30,23,53,D,67,Yes,2,Yes,No,7.21
+120,Piya Mammen,Mathematics-I,16,43,59,C,75,Yes,4,Yes,No,7.86
+120,Piya Mammen,Programming in C,13,69,82,B,79,Yes,3,No,Yes,7.86
+120,Piya Mammen,Engineering Physics,15,67,82,B,83,Yes,2,No,No,7.86
+120,Piya Mammen,English Communication,22,50,72,B,70,Yes,4,Yes,No,7.86
+120,Piya Mammen,Basic Electronics,19,25,44,D,72,Yes,5,Yes,Yes,7.86
+121,Zoya Tara,Mathematics-I,22,25,47,D,67,Yes,1,Yes,No,8.8
+121,Zoya Tara,Programming in C,18,64,82,B,86,Yes,1,Yes,Yes,8.8
+121,Zoya Tara,Engineering Physics,21,28,49,D,60,Yes,3,No,No,8.8
+121,Zoya Tara,English Communication,30,59,89,A,64,Yes,4,Yes,No,8.8
+121,Zoya Tara,Basic Electronics,29,30,59,C,97,Yes,4,Yes,No,8.8
+122,Tejas Subramanian,Mathematics-I,15,45,60,C,61,Yes,4,Yes,No,6.87
+122,Tejas Subramanian,Programming in C,21,25,46,D,95,Yes,4,Yes,Yes,6.87
+122,Tejas Subramanian,Engineering Physics,11,41,52,D,82,Yes,2,Yes,Yes,6.87
+122,Tejas Subramanian,English Communication,23,25,48,D,69,Yes,2,No,No,6.87
+122,Tejas Subramanian,Basic Electronics,29,41,70,B,76,Yes,1,Yes,Yes,6.87
+123,Seher Contractor,Mathematics-I,10,47,57,C,94,Yes,4,Yes,No,9.61
+123,Seher Contractor,Programming in C,19,20,39,F,100,No,2,Yes,No,9.61
+123,Seher Contractor,Engineering Physics,27,52,79,B,96,Yes,3,No,No,9.61
+123,Seher Contractor,English Communication,29,26,55,C,72,Yes,3,Yes,No,9.61
+123,Seher Contractor,Basic Electronics,22,39,61,C,97,Yes,2,Yes,Yes,9.61
+124,Navya Goel,Mathematics-I,20,68,88,A,94,Yes,4,No,No,5.11
+124,Navya Goel,Programming in C,12,31,43,D,89,Yes,4,No,Yes,5.11
+124,Navya Goel,Engineering Physics,21,39,60,C,72,Yes,5,Yes,Yes,5.11
+124,Navya Goel,English Communication,23,57,80,B,80,Yes,1,No,No,5.11
+124,Navya Goel,Basic Electronics,22,28,50,D,88,Yes,4,Yes,No,5.11
+125,Devansh Golla,Mathematics-I,15,37,52,D,96,Yes,5,No,No,5.5
+125,Devansh Golla,Programming in C,14,36,50,D,82,Yes,5,Yes,No,5.5
+125,Devansh Golla,Engineering Physics,15,50,65,C,63,Yes,5,No,Yes,5.5
+125,Devansh Golla,English Communication,25,24,49,D,85,Yes,2,Yes,No,5.5
+125,Devansh Golla,Basic Electronics,20,21,41,D,67,Yes,5,No,Yes,5.5
+126,Khushi Vaidya,Mathematics-I,29,39,68,C,87,Yes,5,No,No,6.2
+126,Khushi Vaidya,Programming in C,14,35,49,D,61,Yes,5,No,No,6.2
+126,Khushi Vaidya,Engineering Physics,20,66,86,A,78,Yes,1,Yes,No,6.2
+126,Khushi Vaidya,English Communication,11,29,40,D,83,Yes,3,Yes,No,6.2
+126,Khushi Vaidya,Basic Electronics,23,34,57,C,70,Yes,1,No,No,6.2
+127,Keya Balakrishnan,Mathematics-I,16,67,83,B,75,Yes,4,Yes,Yes,9.34
+127,Keya Balakrishnan,Programming in C,29,48,77,B,79,Yes,2,No,Yes,9.34
+127,Keya Balakrishnan,Engineering Physics,15,28,43,D,78,Yes,4,Yes,Yes,9.34
+127,Keya Balakrishnan,English Communication,28,23,51,D,97,Yes,1,No,No,9.34
+127,Keya Balakrishnan,Basic Electronics,23,57,80,B,99,Yes,1,No,Yes,9.34
+128,Oorja Rout,Mathematics-I,20,22,42,D,77,Yes,5,Yes,No,7.16
+128,Oorja Rout,Programming in C,10,23,33,F,75,No,3,No,No,7.16
+128,Oorja Rout,Engineering Physics,27,65,92,A,89,Yes,4,No,No,7.16
+128,Oorja Rout,English Communication,30,65,95,A,66,Yes,3,No,Yes,7.16
+128,Oorja Rout,Basic Electronics,17,40,57,C,87,Yes,4,Yes,No,7.16
+129,Aarav Gade,Mathematics-I,15,28,43,D,85,Yes,5,No,Yes,8.09
+129,Aarav Gade,Programming in C,14,24,38,F,88,No,5,Yes,Yes,8.09
+129,Aarav Gade,Engineering Physics,17,29,46,D,92,Yes,3,Yes,No,8.09
+129,Aarav Gade,English Communication,10,45,55,C,90,Yes,4,Yes,Yes,8.09
+129,Aarav Gade,Basic Electronics,11,63,74,B,80,Yes,5,No,Yes,8.09
+130,Dhruv Mangat,Mathematics-I,23,21,44,D,71,Yes,1,No,No,7.19
+130,Dhruv Mangat,Programming in C,28,29,57,C,96,Yes,1,No,No,7.19
+130,Dhruv Mangat,Engineering Physics,18,63,81,B,62,Yes,5,Yes,No,7.19
+130,Dhruv Mangat,English Communication,18,40,58,C,67,Yes,1,Yes,No,7.19
+130,Dhruv Mangat,Basic Electronics,15,41,56,C,97,Yes,1,No,No,7.19
+131,Chirag Gola,Mathematics-I,22,30,52,D,93,Yes,4,Yes,No,6.45
+131,Chirag Gola,Programming in C,17,49,66,C,89,Yes,1,Yes,Yes,6.45
+131,Chirag Gola,Engineering Physics,17,23,40,D,75,Yes,5,No,No,6.45
+131,Chirag Gola,English Communication,26,62,88,A,99,Yes,1,Yes,No,6.45
+131,Chirag Gola,Basic Electronics,10,36,46,D,79,Yes,5,Yes,No,6.45
+132,Samar Kari,Mathematics-I,18,46,64,C,66,Yes,1,No,Yes,5.02
+132,Samar Kari,Programming in C,16,20,36,F,100,No,4,No,Yes,5.02
+132,Samar Kari,Engineering Physics,16,59,75,B,80,Yes,5,Yes,No,5.02
+132,Samar Kari,English Communication,27,33,60,C,62,Yes,5,Yes,Yes,5.02
+132,Samar Kari,Basic Electronics,10,25,35,F,99,No,2,No,No,5.02
+133,Anahi Aggarwal,Mathematics-I,13,25,38,F,69,No,3,Yes,No,5.08
+133,Anahi Aggarwal,Programming in C,16,22,38,F,79,No,1,No,No,5.08
+133,Anahi Aggarwal,Engineering Physics,18,58,76,B,86,Yes,4,No,No,5.08
+133,Anahi Aggarwal,English Communication,17,33,50,D,69,Yes,3,No,Yes,5.08
+133,Anahi Aggarwal,Basic Electronics,15,66,81,B,84,Yes,5,Yes,Yes,5.08
+134,Tejas Tak,Mathematics-I,10,42,52,D,90,Yes,4,Yes,Yes,7.52
+134,Tejas Tak,Programming in C,22,41,63,C,84,Yes,1,Yes,No,7.52
+134,Tejas Tak,Engineering Physics,25,56,81,B,74,Yes,1,No,Yes,7.52
+134,Tejas Tak,English Communication,26,33,59,C,92,Yes,2,Yes,Yes,7.52
+134,Tejas Tak,Basic Electronics,10,27,37,F,72,No,1,No,Yes,7.52
+135,Kismat Din,Mathematics-I,14,58,72,B,76,Yes,1,Yes,No,5.39
+135,Kismat Din,Programming in C,26,36,62,C,69,Yes,3,Yes,No,5.39
+135,Kismat Din,Engineering Physics,20,55,75,B,62,Yes,2,No,Yes,5.39
+135,Kismat Din,English Communication,17,20,37,F,70,No,5,Yes,No,5.39
+135,Kismat Din,Basic Electronics,30,39,69,C,81,Yes,5,Yes,Yes,5.39
+136,Kimaya Comar,Mathematics-I,25,54,79,B,92,Yes,5,Yes,No,7.01
+136,Kimaya Comar,Programming in C,23,48,71,B,88,Yes,4,Yes,Yes,7.01
+136,Kimaya Comar,Engineering Physics,12,32,44,D,89,Yes,3,Yes,No,7.01
+136,Kimaya Comar,English Communication,15,48,63,C,74,Yes,2,Yes,No,7.01
+136,Kimaya Comar,Basic Electronics,25,43,68,C,61,Yes,1,No,No,7.01
+137,Zara Chakrabarti,Mathematics-I,10,29,39,F,78,No,1,Yes,Yes,8.75
+137,Zara Chakrabarti,Programming in C,17,61,78,B,64,Yes,2,Yes,Yes,8.75
+137,Zara Chakrabarti,Engineering Physics,16,48,64,C,61,Yes,5,Yes,Yes,8.75
+137,Zara Chakrabarti,English Communication,20,30,50,D,81,Yes,4,Yes,Yes,8.75
+137,Zara Chakrabarti,Basic Electronics,15,38,53,D,61,Yes,3,Yes,Yes,8.75
+138,Samiha Batra,Mathematics-I,16,58,74,B,95,Yes,1,Yes,No,5.78
+138,Samiha Batra,Programming in C,13,38,51,D,96,Yes,2,No,Yes,5.78
+138,Samiha Batra,Engineering Physics,25,22,47,D,94,Yes,3,No,No,5.78
+138,Samiha Batra,English Communication,27,50,77,B,99,Yes,4,No,Yes,5.78
+138,Samiha Batra,Basic Electronics,23,43,66,C,97,Yes,3,No,Yes,5.78
+139,Chirag Shankar,Mathematics-I,24,35,59,C,75,Yes,1,Yes,Yes,7.91
+139,Chirag Shankar,Programming in C,20,45,65,C,91,Yes,3,No,No,7.91
+139,Chirag Shankar,Engineering Physics,12,60,72,B,63,Yes,5,No,No,7.91
+139,Chirag Shankar,English Communication,22,33,55,C,81,Yes,1,Yes,No,7.91
+139,Chirag Shankar,Basic Electronics,17,24,41,D,81,Yes,3,No,No,7.91
+140,Kanav Mall,Mathematics-I,21,49,70,B,100,Yes,1,Yes,Yes,7.4
+140,Kanav Mall,Programming in C,29,56,85,A,98,Yes,3,Yes,Yes,7.4
+140,Kanav Mall,Engineering Physics,18,30,48,D,62,Yes,1,No,Yes,7.4
+140,Kanav Mall,English Communication,30,64,94,A,83,Yes,2,No,Yes,7.4
+140,Kanav Mall,Basic Electronics,30,42,72,B,66,Yes,2,Yes,No,7.4
+141,Ishita Sant,Mathematics-I,29,42,71,B,83,Yes,4,No,No,5.43
+141,Ishita Sant,Programming in C,16,68,84,B,89,Yes,2,No,No,5.43
+141,Ishita Sant,Engineering Physics,17,34,51,D,96,Yes,1,No,Yes,5.43
+141,Ishita Sant,English Communication,30,45,75,B,88,Yes,2,No,No,5.43
+141,Ishita Sant,Basic Electronics,13,39,52,D,65,Yes,3,Yes,Yes,5.43
+142,Aarav Dutta,Mathematics-I,30,62,92,A,71,Yes,3,No,Yes,7.31
+142,Aarav Dutta,Programming in C,30,42,72,B,66,Yes,1,No,No,7.31
+142,Aarav Dutta,Engineering Physics,26,35,61,C,86,Yes,1,No,No,7.31
+142,Aarav Dutta,English Communication,10,54,64,C,62,Yes,5,Yes,Yes,7.31
+142,Aarav Dutta,Basic Electronics,29,39,68,C,87,Yes,2,No,No,7.31
+143,Lagan Bhatt,Mathematics-I,12,33,45,D,74,Yes,3,Yes,No,5.59
+143,Lagan Bhatt,Programming in C,14,45,59,C,65,Yes,2,Yes,Yes,5.59
+143,Lagan Bhatt,Engineering Physics,18,34,52,D,80,Yes,5,Yes,No,5.59
+143,Lagan Bhatt,English Communication,25,64,89,A,84,Yes,3,No,Yes,5.59
+143,Lagan Bhatt,Basic Electronics,18,48,66,C,97,Yes,4,No,No,5.59
+144,Lakshit Bajaj,Mathematics-I,29,59,88,A,91,Yes,5,No,Yes,6.11
+144,Lakshit Bajaj,Programming in C,18,67,85,A,100,Yes,4,Yes,Yes,6.11
+144,Lakshit Bajaj,Engineering Physics,24,67,91,A,64,Yes,3,No,No,6.11
+144,Lakshit Bajaj,English Communication,19,40,59,C,69,Yes,1,No,Yes,6.11
+144,Lakshit Bajaj,Basic Electronics,17,37,54,D,94,Yes,5,Yes,No,6.11
+145,Nirvi Kohli,Mathematics-I,16,29,45,D,85,Yes,3,Yes,Yes,9.79
+145,Nirvi Kohli,Programming in C,27,35,62,C,63,Yes,2,No,Yes,9.79
+145,Nirvi Kohli,Engineering Physics,10,67,77,B,100,Yes,4,No,No,9.79
+145,Nirvi Kohli,English Communication,28,30,58,C,69,Yes,1,No,No,9.79
+145,Nirvi Kohli,Basic Electronics,18,61,79,B,98,Yes,4,Yes,No,9.79
+146,Devansh Chauhan,Mathematics-I,11,57,68,C,95,Yes,1,No,Yes,5.5
+146,Devansh Chauhan,Programming in C,29,22,51,D,72,Yes,3,Yes,Yes,5.5
+146,Devansh Chauhan,Engineering Physics,29,41,70,B,78,Yes,3,Yes,No,5.5
+146,Devansh Chauhan,English Communication,26,33,59,C,73,Yes,2,No,No,5.5
+146,Devansh Chauhan,Basic Electronics,25,49,74,B,61,Yes,1,Yes,Yes,5.5
+147,Manikya Gandhi,Mathematics-I,30,46,76,B,91,Yes,2,Yes,Yes,5.03
+147,Manikya Gandhi,Programming in C,24,51,75,B,63,Yes,4,Yes,No,5.03
+147,Manikya Gandhi,Engineering Physics,30,38,68,C,99,Yes,5,No,Yes,5.03
+147,Manikya Gandhi,English Communication,26,28,54,D,66,Yes,1,Yes,No,5.03
+147,Manikya Gandhi,Basic Electronics,30,50,80,B,95,Yes,2,Yes,Yes,5.03
+148,Azad Balasubramanian,Mathematics-I,20,36,56,C,83,Yes,5,No,No,6.26
+148,Azad Balasubramanian,Programming in C,21,42,63,C,81,Yes,3,Yes,No,6.26
+148,Azad Balasubramanian,Engineering Physics,11,54,65,C,94,Yes,2,No,No,6.26
+148,Azad Balasubramanian,English Communication,22,33,55,C,88,Yes,4,No,No,6.26
+148,Azad Balasubramanian,Basic Electronics,25,28,53,D,82,Yes,1,No,No,6.26
+149,Ritvik Chadha,Mathematics-I,26,70,96,A,98,Yes,4,No,No,7.66
+149,Ritvik Chadha,Programming in C,19,33,52,D,66,Yes,3,No,Yes,7.66
+149,Ritvik Chadha,Engineering Physics,28,30,58,C,82,Yes,4,Yes,Yes,7.66
+149,Ritvik Chadha,English Communication,12,52,64,C,97,Yes,2,Yes,Yes,7.66
+149,Ritvik Chadha,Basic Electronics,19,55,74,B,97,Yes,5,No,Yes,7.66
+150,Seher Badami,Mathematics-I,24,52,76,B,73,Yes,3,No,Yes,6.77
+150,Seher Badami,Programming in C,11,40,51,D,95,Yes,4,Yes,No,6.77
+150,Seher Badami,Engineering Physics,25,32,57,C,93,Yes,5,Yes,No,6.77
+150,Seher Badami,English Communication,22,68,90,A,61,Yes,1,Yes,Yes,6.77
+150,Seher Badami,Basic Electronics,21,59,80,B,89,Yes,2,No,No,6.77
+151,Saanvi Kant,Mathematics-I,15,56,71,B,85,Yes,1,No,Yes,9.82
+151,Saanvi Kant,Programming in C,11,28,39,F,89,No,5,Yes,No,9.82
+151,Saanvi Kant,Engineering Physics,22,22,44,D,70,Yes,2,Yes,No,9.82
+151,Saanvi Kant,English Communication,30,48,78,B,91,Yes,2,No,Yes,9.82
+151,Saanvi Kant,Basic Electronics,14,64,78,B,82,Yes,1,No,No,9.82
+152,Ayesha Gera,Mathematics-I,26,62,88,A,97,Yes,2,Yes,No,7.77
+152,Ayesha Gera,Programming in C,26,66,92,A,88,Yes,3,Yes,No,7.77
+152,Ayesha Gera,Engineering Physics,15,57,72,B,91,Yes,1,No,No,7.77
+152,Ayesha Gera,English Communication,22,35,57,C,90,Yes,4,No,No,7.77
+152,Ayesha Gera,Basic Electronics,22,59,81,B,73,Yes,4,No,No,7.77
+153,Khushi Dora,Mathematics-I,15,65,80,B,76,Yes,5,No,No,5.25
+153,Khushi Dora,Programming in C,19,63,82,B,100,Yes,5,Yes,No,5.25
+153,Khushi Dora,Engineering Physics,23,36,59,C,60,Yes,1,Yes,No,5.25
+153,Khushi Dora,English Communication,22,42,64,C,70,Yes,4,No,No,5.25
+153,Khushi Dora,Basic Electronics,19,62,81,B,93,Yes,4,Yes,Yes,5.25
+154,Piya Char,Mathematics-I,19,57,76,B,82,Yes,2,Yes,Yes,5.83
+154,Piya Char,Programming in C,11,55,66,C,69,Yes,5,Yes,Yes,5.83
+154,Piya Char,Engineering Physics,27,21,48,D,100,Yes,5,No,No,5.83
+154,Piya Char,English Communication,21,55,76,B,62,Yes,4,Yes,No,5.83
+154,Piya Char,Basic Electronics,11,61,72,B,98,Yes,2,Yes,Yes,5.83
+155,Kanav Soman,Mathematics-I,21,21,42,D,61,Yes,4,No,Yes,5.87
+155,Kanav Soman,Programming in C,19,37,56,C,96,Yes,3,Yes,Yes,5.87
+155,Kanav Soman,Engineering Physics,13,67,80,B,93,Yes,4,Yes,No,5.87
+155,Kanav Soman,English Communication,29,24,53,D,64,Yes,1,No,No,5.87
+155,Kanav Soman,Basic Electronics,10,27,37,F,60,No,2,Yes,No,5.87
+156,Vanya Venkataraman,Mathematics-I,18,36,54,D,61,Yes,1,No,Yes,6.3
+156,Vanya Venkataraman,Programming in C,21,32,53,D,84,Yes,5,Yes,No,6.3
+156,Vanya Venkataraman,Engineering Physics,29,46,75,B,85,Yes,2,No,No,6.3
+156,Vanya Venkataraman,English Communication,24,59,83,B,97,Yes,2,Yes,No,6.3
+156,Vanya Venkataraman,Basic Electronics,30,61,91,A,70,Yes,4,No,Yes,6.3
+157,Hrishita Kari,Mathematics-I,24,51,75,B,95,Yes,4,No,No,8.79
+157,Hrishita Kari,Programming in C,21,68,89,A,84,Yes,2,Yes,No,8.79
+157,Hrishita Kari,Engineering Physics,18,67,85,A,92,Yes,5,No,No,8.79
+157,Hrishita Kari,English Communication,21,48,69,C,76,Yes,3,Yes,No,8.79
+157,Hrishita Kari,Basic Electronics,11,40,51,D,67,Yes,4,Yes,Yes,8.79
+158,Shlok Manda,Mathematics-I,16,32,48,D,92,Yes,1,No,No,5.2
+158,Shlok Manda,Programming in C,11,24,35,F,91,No,1,Yes,Yes,5.2
+158,Shlok Manda,Engineering Physics,13,60,73,B,62,Yes,3,No,No,5.2
+158,Shlok Manda,English Communication,23,67,90,A,87,Yes,3,Yes,No,5.2
+158,Shlok Manda,Basic Electronics,29,35,64,C,66,Yes,4,No,Yes,5.2
+159,Adah Barad,Mathematics-I,16,65,81,B,80,Yes,1,No,No,8.5
+159,Adah Barad,Programming in C,16,68,84,B,94,Yes,1,No,No,8.5
+159,Adah Barad,Engineering Physics,14,49,63,C,76,Yes,4,No,Yes,8.5
+159,Adah Barad,English Communication,24,29,53,D,77,Yes,4,Yes,Yes,8.5
+159,Adah Barad,Basic Electronics,29,69,98,A,63,Yes,2,Yes,No,8.5
+160,Rati Saha,Mathematics-I,25,61,86,A,79,Yes,4,No,Yes,8.25
+160,Rati Saha,Programming in C,14,39,53,D,97,Yes,5,No,No,8.25
+160,Rati Saha,Engineering Physics,22,36,58,C,94,Yes,1,Yes,No,8.25
+160,Rati Saha,English Communication,15,35,50,D,61,Yes,4,Yes,Yes,8.25
+160,Rati Saha,Basic Electronics,29,56,85,A,88,Yes,4,No,Yes,8.25
+161,Manikya Wali,Mathematics-I,16,48,64,C,87,Yes,2,Yes,Yes,6.85
+161,Manikya Wali,Programming in C,10,67,77,B,97,Yes,3,No,Yes,6.85
+161,Manikya Wali,Engineering Physics,10,63,73,B,82,Yes,2,Yes,Yes,6.85
+161,Manikya Wali,English Communication,28,37,65,C,95,Yes,3,No,Yes,6.85
+161,Manikya Wali,Basic Electronics,12,20,32,F,62,No,1,No,Yes,6.85
+162,Vritika Krishna,Mathematics-I,20,36,56,C,94,Yes,3,No,No,9.88
+162,Vritika Krishna,Programming in C,21,37,58,C,72,Yes,2,No,No,9.88
+162,Vritika Krishna,Engineering Physics,14,33,47,D,98,Yes,5,Yes,No,9.88
+162,Vritika Krishna,English Communication,17,63,80,B,92,Yes,3,Yes,No,9.88
+162,Vritika Krishna,Basic Electronics,17,65,82,B,98,Yes,2,Yes,No,9.88
+163,Umang Handa,Mathematics-I,29,34,63,C,62,Yes,2,Yes,Yes,9.41
+163,Umang Handa,Programming in C,19,66,85,A,89,Yes,1,Yes,No,9.41
+163,Umang Handa,Engineering Physics,12,65,77,B,60,Yes,2,No,Yes,9.41
+163,Umang Handa,English Communication,10,51,61,C,63,Yes,1,No,Yes,9.41
+163,Umang Handa,Basic Electronics,25,36,61,C,89,Yes,4,No,Yes,9.41
+164,Darshit Raj,Mathematics-I,23,38,61,C,86,Yes,3,Yes,Yes,5.37
+164,Darshit Raj,Programming in C,24,43,67,C,99,Yes,1,Yes,No,5.37
+164,Darshit Raj,Engineering Physics,20,26,46,D,66,Yes,1,No,Yes,5.37
+164,Darshit Raj,English Communication,20,27,47,D,100,Yes,3,Yes,Yes,5.37
+164,Darshit Raj,Basic Electronics,12,44,56,C,99,Yes,5,No,Yes,5.37
+165,Seher Vaidya,Mathematics-I,11,38,49,D,77,Yes,3,No,Yes,5.12
+165,Seher Vaidya,Programming in C,22,20,42,D,84,Yes,2,Yes,No,5.12
+165,Seher Vaidya,Engineering Physics,29,52,81,B,91,Yes,1,No,Yes,5.12
+165,Seher Vaidya,English Communication,27,25,52,D,74,Yes,3,No,Yes,5.12
+165,Seher Vaidya,Basic Electronics,14,48,62,C,69,Yes,5,No,Yes,5.12
+166,Shanaya Hari,Mathematics-I,30,66,96,A,71,Yes,1,Yes,No,6.59
+166,Shanaya Hari,Programming in C,14,42,56,C,79,Yes,4,No,Yes,6.59
+166,Shanaya Hari,Engineering Physics,21,48,69,C,79,Yes,4,Yes,No,6.59
+166,Shanaya Hari,English Communication,24,37,61,C,82,Yes,3,Yes,Yes,6.59
+166,Shanaya Hari,Basic Electronics,29,53,82,B,86,Yes,1,No,No,6.59
+167,Taran Bhargava,Mathematics-I,19,45,64,C,95,Yes,3,Yes,No,8.98
+167,Taran Bhargava,Programming in C,19,38,57,C,85,Yes,1,Yes,No,8.98
+167,Taran Bhargava,Engineering Physics,16,23,39,F,83,No,5,Yes,No,8.98
+167,Taran Bhargava,English Communication,23,24,47,D,76,Yes,4,Yes,Yes,8.98
+167,Taran Bhargava,Basic Electronics,15,40,55,C,76,Yes,4,No,Yes,8.98
+168,Fateh Rajan,Mathematics-I,22,67,89,A,64,Yes,4,Yes,Yes,7.74
+168,Fateh Rajan,Programming in C,30,34,64,C,78,Yes,4,Yes,No,7.74
+168,Fateh Rajan,Engineering Physics,28,64,92,A,64,Yes,1,Yes,Yes,7.74
+168,Fateh Rajan,English Communication,22,59,81,B,78,Yes,4,No,Yes,7.74
+168,Fateh Rajan,Basic Electronics,13,52,65,C,99,Yes,2,No,No,7.74
+169,Oorja Dixit,Mathematics-I,23,58,81,B,100,Yes,2,No,Yes,7.11
+169,Oorja Dixit,Programming in C,17,59,76,B,70,Yes,2,No,Yes,7.11
+169,Oorja Dixit,Engineering Physics,16,22,38,F,81,No,2,No,Yes,7.11
+169,Oorja Dixit,English Communication,30,29,59,C,79,Yes,5,No,Yes,7.11
+169,Oorja Dixit,Basic Electronics,22,29,51,D,91,Yes,2,Yes,No,7.11
+170,Oorja Dhillon,Mathematics-I,20,68,88,A,90,Yes,3,Yes,No,7.19
+170,Oorja Dhillon,Programming in C,27,60,87,A,65,Yes,2,Yes,Yes,7.19
+170,Oorja Dhillon,Engineering Physics,29,65,94,A,61,Yes,4,Yes,No,7.19
+170,Oorja Dhillon,English Communication,19,45,64,C,60,Yes,5,No,No,7.19
+170,Oorja Dhillon,Basic Electronics,28,45,73,B,94,Yes,1,No,No,7.19
+171,Divij Bhatti,Mathematics-I,18,35,53,D,97,Yes,1,No,No,8.68
+171,Divij Bhatti,Programming in C,11,32,43,D,97,Yes,3,No,Yes,8.68
+171,Divij Bhatti,Engineering Physics,29,28,57,C,92,Yes,4,No,No,8.68
+171,Divij Bhatti,English Communication,26,50,76,B,87,Yes,1,No,No,8.68
+171,Divij Bhatti,Basic Electronics,28,41,69,C,75,Yes,1,No,Yes,8.68
+172,Aarna Kanda,Mathematics-I,26,43,69,C,100,Yes,5,No,Yes,6.16
+172,Aarna Kanda,Programming in C,23,31,54,D,90,Yes,2,No,Yes,6.16
+172,Aarna Kanda,Engineering Physics,13,23,36,F,78,No,1,Yes,No,6.16
+172,Aarna Kanda,English Communication,10,20,30,F,60,No,4,No,Yes,6.16
+172,Aarna Kanda,Basic Electronics,13,55,68,C,68,Yes,1,Yes,Yes,6.16
+173,Dhanuk Rau,Mathematics-I,21,25,46,D,76,Yes,1,No,No,5.17
+173,Dhanuk Rau,Programming in C,29,41,70,B,95,Yes,5,No,Yes,5.17
+173,Dhanuk Rau,Engineering Physics,18,63,81,B,98,Yes,5,No,No,5.17
+173,Dhanuk Rau,English Communication,22,28,50,D,63,Yes,3,Yes,Yes,5.17
+173,Dhanuk Rau,Basic Electronics,10,46,56,C,69,Yes,2,No,Yes,5.17
+174,Stuvan Din,Mathematics-I,26,51,77,B,92,Yes,1,Yes,Yes,8.34
+174,Stuvan Din,Programming in C,23,50,73,B,78,Yes,4,No,No,8.34
+174,Stuvan Din,Engineering Physics,28,25,53,D,91,Yes,5,Yes,No,8.34
+174,Stuvan Din,English Communication,17,41,58,C,100,Yes,2,No,No,8.34
+174,Stuvan Din,Basic Electronics,10,62,72,B,93,Yes,4,Yes,No,8.34
+175,Riaan Dhingra,Mathematics-I,26,64,90,A,69,Yes,4,Yes,Yes,8.3
+175,Riaan Dhingra,Programming in C,29,66,95,A,99,Yes,5,No,No,8.3
+175,Riaan Dhingra,Engineering Physics,18,20,38,F,99,No,3,No,No,8.3
+175,Riaan Dhingra,English Communication,10,34,44,D,65,Yes,4,Yes,Yes,8.3
+175,Riaan Dhingra,Basic Electronics,22,32,54,D,73,Yes,5,Yes,No,8.3
+176,Saksham Bhatnagar,Mathematics-I,18,44,62,C,80,Yes,5,Yes,Yes,9.89
+176,Saksham Bhatnagar,Programming in C,23,28,51,D,72,Yes,3,Yes,No,9.89
+176,Saksham Bhatnagar,Engineering Physics,24,42,66,C,83,Yes,2,No,Yes,9.89
+176,Saksham Bhatnagar,English Communication,17,66,83,B,82,Yes,4,No,No,9.89
+176,Saksham Bhatnagar,Basic Electronics,22,45,67,C,88,Yes,2,Yes,Yes,9.89
+177,Diya Sathe,Mathematics-I,20,35,55,C,90,Yes,4,Yes,No,8.71
+177,Diya Sathe,Programming in C,29,42,71,B,86,Yes,1,No,Yes,8.71
+177,Diya Sathe,Engineering Physics,17,31,48,D,97,Yes,4,Yes,No,8.71
+177,Diya Sathe,English Communication,15,23,38,F,65,No,5,Yes,No,8.71
+177,Diya Sathe,Basic Electronics,24,64,88,A,78,Yes,3,No,No,8.71
+178,Neelofar Gour,Mathematics-I,11,37,48,D,83,Yes,1,Yes,Yes,5.94
+178,Neelofar Gour,Programming in C,14,62,76,B,71,Yes,3,Yes,No,5.94
+178,Neelofar Gour,Engineering Physics,26,70,96,A,64,Yes,2,No,No,5.94
+178,Neelofar Gour,English Communication,22,57,79,B,94,Yes,1,Yes,Yes,5.94
+178,Neelofar Gour,Basic Electronics,14,65,79,B,100,Yes,4,Yes,No,5.94
+179,Priyansh Shere,Mathematics-I,16,22,38,F,68,No,5,Yes,No,6.93
+179,Priyansh Shere,Programming in C,19,42,61,C,86,Yes,1,No,Yes,6.93
+179,Priyansh Shere,Engineering Physics,12,64,76,B,66,Yes,5,Yes,Yes,6.93
+179,Priyansh Shere,English Communication,27,27,54,D,72,Yes,4,No,No,6.93
+179,Priyansh Shere,Basic Electronics,12,39,51,D,71,Yes,3,No,Yes,6.93
+180,Mohanlal Gupta,Mathematics-I,12,29,41,D,69,Yes,5,No,Yes,7.79
+180,Mohanlal Gupta,Programming in C,27,35,62,C,100,Yes,2,No,No,7.79
+180,Mohanlal Gupta,Engineering Physics,30,29,59,C,82,Yes,1,No,Yes,7.79
+180,Mohanlal Gupta,English Communication,12,31,43,D,83,Yes,3,Yes,No,7.79
+180,Mohanlal Gupta,Basic Electronics,19,61,80,B,93,Yes,4,Yes,No,7.79
+181,Ela Dhingra,Mathematics-I,21,50,71,B,70,Yes,2,Yes,Yes,8.01
+181,Ela Dhingra,Programming in C,24,46,70,B,75,Yes,5,No,No,8.01
+181,Ela Dhingra,Engineering Physics,14,53,67,C,62,Yes,1,Yes,No,8.01
+181,Ela Dhingra,English Communication,25,38,63,C,92,Yes,5,Yes,No,8.01
+181,Ela Dhingra,Basic Electronics,11,48,59,C,81,Yes,2,Yes,No,8.01
+182,Shalv Soni,Mathematics-I,21,38,59,C,74,Yes,1,Yes,Yes,7.98
+182,Shalv Soni,Programming in C,18,41,59,C,100,Yes,2,No,Yes,7.98
+182,Shalv Soni,Engineering Physics,24,70,94,A,69,Yes,5,No,No,7.98
+182,Shalv Soni,English Communication,12,31,43,D,68,Yes,5,No,Yes,7.98
+182,Shalv Soni,Basic Electronics,21,65,86,A,71,Yes,1,Yes,No,7.98
+183,Umang Ramakrishnan,Mathematics-I,11,39,50,D,81,Yes,5,No,Yes,5.71
+183,Umang Ramakrishnan,Programming in C,22,20,42,D,75,Yes,5,No,Yes,5.71
+183,Umang Ramakrishnan,Engineering Physics,24,41,65,C,96,Yes,3,Yes,No,5.71
+183,Umang Ramakrishnan,English Communication,28,52,80,B,79,Yes,5,Yes,Yes,5.71
+183,Umang Ramakrishnan,Basic Electronics,17,64,81,B,88,Yes,1,Yes,No,5.71
+184,Arhaan Bedi,Mathematics-I,17,68,85,A,79,Yes,5,Yes,No,6.05
+184,Arhaan Bedi,Programming in C,20,34,54,D,82,Yes,4,No,No,6.05
+184,Arhaan Bedi,Engineering Physics,20,35,55,C,81,Yes,2,Yes,Yes,6.05
+184,Arhaan Bedi,English Communication,13,48,61,C,78,Yes,5,No,Yes,6.05
+184,Arhaan Bedi,Basic Electronics,24,65,89,A,78,Yes,5,No,Yes,6.05
+185,Mohanlal Dugar,Mathematics-I,11,27,38,F,96,No,2,Yes,No,5.82
+185,Mohanlal Dugar,Programming in C,27,33,60,C,75,Yes,4,Yes,Yes,5.82
+185,Mohanlal Dugar,Engineering Physics,30,62,92,A,60,Yes,4,Yes,No,5.82
+185,Mohanlal Dugar,English Communication,24,24,48,D,72,Yes,2,Yes,No,5.82
+185,Mohanlal Dugar,Basic Electronics,15,21,36,F,77,No,2,No,No,5.82
+186,Pihu Chanda,Mathematics-I,27,54,81,B,77,Yes,1,No,Yes,5.83
+186,Pihu Chanda,Programming in C,10,67,77,B,64,Yes,5,Yes,No,5.83
+186,Pihu Chanda,Engineering Physics,28,22,50,D,100,Yes,3,No,No,5.83
+186,Pihu Chanda,English Communication,16,54,70,B,63,Yes,3,No,No,5.83
+186,Pihu Chanda,Basic Electronics,24,35,59,C,99,Yes,4,No,No,5.83
+187,Pari Sarkar,Mathematics-I,13,26,39,F,68,No,5,No,No,9.55
+187,Pari Sarkar,Programming in C,24,35,59,C,98,Yes,2,No,Yes,9.55
+187,Pari Sarkar,Engineering Physics,29,39,68,C,65,Yes,4,Yes,No,9.55
+187,Pari Sarkar,English Communication,23,47,70,B,93,Yes,2,Yes,No,9.55
+187,Pari Sarkar,Basic Electronics,12,69,81,B,73,Yes,3,No,No,9.55
+188,Rania Tak,Mathematics-I,24,23,47,D,62,Yes,1,No,No,9.56
+188,Rania Tak,Programming in C,19,58,77,B,74,Yes,2,Yes,Yes,9.56
+188,Rania Tak,Engineering Physics,29,66,95,A,89,Yes,3,No,Yes,9.56
+188,Rania Tak,English Communication,12,23,35,F,70,No,1,Yes,No,9.56
+188,Rania Tak,Basic Electronics,17,46,63,C,66,Yes,3,Yes,Yes,9.56
+189,Ishita Barman,Mathematics-I,30,34,64,C,75,Yes,2,Yes,Yes,5.57
+189,Ishita Barman,Programming in C,14,27,41,D,75,Yes,5,Yes,No,5.57
+189,Ishita Barman,Engineering Physics,24,34,58,C,67,Yes,3,No,No,5.57
+189,Ishita Barman,English Communication,18,34,52,D,71,Yes,4,Yes,Yes,5.57
+189,Ishita Barman,Basic Electronics,25,52,77,B,75,Yes,1,Yes,Yes,5.57
+190,Advika Hari,Mathematics-I,17,66,83,B,90,Yes,5,Yes,Yes,5.98
+190,Advika Hari,Programming in C,25,65,90,A,86,Yes,2,Yes,Yes,5.98
+190,Advika Hari,Engineering Physics,16,20,36,F,89,No,2,Yes,No,5.98
+190,Advika Hari,English Communication,24,42,66,C,73,Yes,4,No,Yes,5.98
+190,Advika Hari,Basic Electronics,30,24,54,D,96,Yes,3,Yes,No,5.98
+191,Adira Doshi,Mathematics-I,28,31,59,C,97,Yes,1,Yes,No,6.07
+191,Adira Doshi,Programming in C,24,30,54,D,79,Yes,1,Yes,Yes,6.07
+191,Adira Doshi,Engineering Physics,28,50,78,B,69,Yes,1,No,No,6.07
+191,Adira Doshi,English Communication,11,45,56,C,67,Yes,3,No,Yes,6.07
+191,Adira Doshi,Basic Electronics,26,51,77,B,64,Yes,3,No,No,6.07
+192,Ritvik Toor,Mathematics-I,24,61,85,A,82,Yes,4,Yes,No,6.26
+192,Ritvik Toor,Programming in C,23,62,85,A,100,Yes,2,No,No,6.26
+192,Ritvik Toor,Engineering Physics,13,38,51,D,91,Yes,1,No,Yes,6.26
+192,Ritvik Toor,English Communication,13,43,56,C,95,Yes,4,No,No,6.26
+192,Ritvik Toor,Basic Electronics,16,43,59,C,71,Yes,4,Yes,Yes,6.26
+193,Mannat Sandhu,Mathematics-I,30,31,61,C,61,Yes,1,Yes,Yes,5.46
+193,Mannat Sandhu,Programming in C,28,56,84,B,81,Yes,4,No,No,5.46
+193,Mannat Sandhu,Engineering Physics,12,38,50,D,73,Yes,4,Yes,Yes,5.46
+193,Mannat Sandhu,English Communication,24,53,77,B,96,Yes,3,No,No,5.46
+193,Mannat Sandhu,Basic Electronics,24,42,66,C,76,Yes,5,No,No,5.46
+194,Dhanush Rama,Mathematics-I,15,65,80,B,94,Yes,5,Yes,No,5.28
+194,Dhanush Rama,Programming in C,19,48,67,C,87,Yes,5,No,Yes,5.28
+194,Dhanush Rama,Engineering Physics,20,68,88,A,99,Yes,3,No,No,5.28
+194,Dhanush Rama,English Communication,17,46,63,C,74,Yes,4,No,No,5.28
+194,Dhanush Rama,Basic Electronics,23,69,92,A,95,Yes,3,Yes,No,5.28
+195,Shalv Iyengar,Mathematics-I,16,29,45,D,83,Yes,4,No,No,6.12
+195,Shalv Iyengar,Programming in C,15,33,48,D,88,Yes,4,No,Yes,6.12
+195,Shalv Iyengar,Engineering Physics,27,45,72,B,79,Yes,2,Yes,No,6.12
+195,Shalv Iyengar,English Communication,29,34,63,C,97,Yes,2,Yes,No,6.12
+195,Shalv Iyengar,Basic Electronics,14,21,35,F,66,No,4,No,No,6.12
+196,Indranil Bava,Mathematics-I,12,42,54,D,71,Yes,2,No,No,9.02
+196,Indranil Bava,Programming in C,30,56,86,A,96,Yes,3,No,Yes,9.02
+196,Indranil Bava,Engineering Physics,30,22,52,D,83,Yes,2,No,No,9.02
+196,Indranil Bava,English Communication,12,33,45,D,63,Yes,4,Yes,No,9.02
+196,Indranil Bava,Basic Electronics,12,30,42,D,70,Yes,3,Yes,Yes,9.02
+197,Rania Chaudhuri,Mathematics-I,13,44,57,C,66,Yes,3,Yes,Yes,9.56
+197,Rania Chaudhuri,Programming in C,10,57,67,C,62,Yes,3,Yes,No,9.56
+197,Rania Chaudhuri,Engineering Physics,12,51,63,C,85,Yes,5,No,No,9.56
+197,Rania Chaudhuri,English Communication,22,44,66,C,94,Yes,3,No,No,9.56
+197,Rania Chaudhuri,Basic Electronics,17,23,40,D,88,Yes,2,Yes,No,9.56
+198,Madhav Chatterjee,Mathematics-I,23,39,62,C,82,Yes,1,Yes,Yes,8.94
+198,Madhav Chatterjee,Programming in C,22,57,79,B,70,Yes,4,No,Yes,8.94
+198,Madhav Chatterjee,Engineering Physics,27,56,83,B,100,Yes,5,No,No,8.94
+198,Madhav Chatterjee,English Communication,23,46,69,C,86,Yes,5,No,No,8.94
+198,Madhav Chatterjee,Basic Electronics,23,53,76,B,86,Yes,5,Yes,No,8.94
+199,Badal Mangal,Mathematics-I,28,27,55,C,74,Yes,2,No,Yes,9.02
+199,Badal Mangal,Programming in C,25,49,74,B,69,Yes,1,No,Yes,9.02
+199,Badal Mangal,Engineering Physics,29,24,53,D,62,Yes,3,No,Yes,9.02
+199,Badal Mangal,English Communication,15,37,52,D,64,Yes,5,No,Yes,9.02
+199,Badal Mangal,Basic Electronics,23,30,53,D,97,Yes,4,Yes,No,9.02
+200,Inaaya  Butala,Mathematics-I,30,52,82,B,85,Yes,1,Yes,No,9.72
+200,Inaaya  Butala,Programming in C,25,35,60,C,92,Yes,4,No,No,9.72
+200,Inaaya  Butala,Engineering Physics,30,25,55,C,86,Yes,5,Yes,Yes,9.72
+200,Inaaya  Butala,English Communication,11,20,31,F,69,No,4,Yes,No,9.72
+200,Inaaya  Butala,Basic Electronics,11,31,42,D,64,Yes,5,Yes,No,9.72
+201,Tanya Dey,Mathematics-I,16,63,79,B,79,Yes,5,Yes,No,9.27
+201,Tanya Dey,Programming in C,26,21,47,D,70,Yes,1,No,No,9.27
+201,Tanya Dey,Engineering Physics,24,61,85,A,62,Yes,4,No,Yes,9.27
+201,Tanya Dey,English Communication,24,39,63,C,87,Yes,4,No,Yes,9.27
+201,Tanya Dey,Basic Electronics,12,68,80,B,93,Yes,2,No,Yes,9.27
+202,Nirvaan Kumar,Mathematics-I,20,67,87,A,90,Yes,3,No,No,5.9
+202,Nirvaan Kumar,Programming in C,19,38,57,C,83,Yes,2,Yes,Yes,5.9
+202,Nirvaan Kumar,Engineering Physics,30,23,53,D,100,Yes,1,Yes,No,5.9
+202,Nirvaan Kumar,English Communication,12,40,52,D,70,Yes,1,No,No,5.9
+202,Nirvaan Kumar,Basic Electronics,12,29,41,D,98,Yes,5,No,Yes,5.9
+203,Yuvraj  Sawhney,Mathematics-I,17,55,72,B,78,Yes,5,No,Yes,9.99
+203,Yuvraj  Sawhney,Programming in C,21,40,61,C,81,Yes,3,Yes,No,9.99
+203,Yuvraj  Sawhney,Engineering Physics,28,44,72,B,61,Yes,3,No,Yes,9.99
+203,Yuvraj  Sawhney,English Communication,23,69,92,A,76,Yes,2,No,Yes,9.99
+203,Yuvraj  Sawhney,Basic Electronics,24,69,93,A,86,Yes,5,No,No,9.99
+204,Vritika Varghese,Mathematics-I,24,32,56,C,85,Yes,2,No,Yes,8.32
+204,Vritika Varghese,Programming in C,16,57,73,B,100,Yes,1,No,Yes,8.32
+204,Vritika Varghese,Engineering Physics,10,34,44,D,87,Yes,5,No,Yes,8.32
+204,Vritika Varghese,English Communication,23,30,53,D,79,Yes,3,Yes,Yes,8.32
+204,Vritika Varghese,Basic Electronics,26,60,86,A,85,Yes,3,Yes,No,8.32
+205,Jayant Anand,Mathematics-I,24,24,48,D,85,Yes,4,Yes,No,6.05
+205,Jayant Anand,Programming in C,25,61,86,A,85,Yes,2,No,No,6.05
+205,Jayant Anand,Engineering Physics,26,22,48,D,77,Yes,4,No,Yes,6.05
+205,Jayant Anand,English Communication,27,65,92,A,82,Yes,2,No,Yes,6.05
+205,Jayant Anand,Basic Electronics,30,42,72,B,75,Yes,2,No,No,6.05
+206,Nakul Chacko,Mathematics-I,22,53,75,B,60,Yes,5,Yes,Yes,5.01
+206,Nakul Chacko,Programming in C,26,57,83,B,89,Yes,3,No,No,5.01
+206,Nakul Chacko,Engineering Physics,24,25,49,D,69,Yes,3,Yes,No,5.01
+206,Nakul Chacko,English Communication,16,31,47,D,85,Yes,3,Yes,No,5.01
+206,Nakul Chacko,Basic Electronics,15,61,76,B,62,Yes,3,Yes,No,5.01
+207,Zara Shankar,Mathematics-I,14,69,83,B,86,Yes,2,No,No,8.6
+207,Zara Shankar,Programming in C,15,52,67,C,94,Yes,4,No,Yes,8.6
+207,Zara Shankar,Engineering Physics,19,28,47,D,83,Yes,4,No,Yes,8.6
+207,Zara Shankar,English Communication,10,31,41,D,67,Yes,2,No,No,8.6
+207,Zara Shankar,Basic Electronics,28,41,69,C,61,Yes,2,Yes,Yes,8.6
+208,Kavya Atwal,Mathematics-I,15,69,84,B,74,Yes,3,Yes,Yes,9.16
+208,Kavya Atwal,Programming in C,24,56,80,B,96,Yes,4,Yes,No,9.16
+208,Kavya Atwal,Engineering Physics,16,30,46,D,70,Yes,2,No,Yes,9.16
+208,Kavya Atwal,English Communication,15,66,81,B,69,Yes,4,No,Yes,9.16
+208,Kavya Atwal,Basic Electronics,19,47,66,C,68,Yes,5,No,No,9.16
+209,Jayan Mani,Mathematics-I,26,29,55,C,89,Yes,4,No,No,7.35
+209,Jayan Mani,Programming in C,10,58,68,C,60,Yes,3,Yes,Yes,7.35
+209,Jayan Mani,Engineering Physics,25,48,73,B,83,Yes,3,Yes,Yes,7.35
+209,Jayan Mani,English Communication,15,30,45,D,76,Yes,4,No,Yes,7.35
+209,Jayan Mani,Basic Electronics,29,51,80,B,74,Yes,2,Yes,No,7.35
+210,Jiya Sarraf,Mathematics-I,28,64,92,A,68,Yes,2,Yes,Yes,6.19
+210,Jiya Sarraf,Programming in C,16,43,59,C,87,Yes,3,Yes,No,6.19
+210,Jiya Sarraf,Engineering Physics,30,29,59,C,78,Yes,2,No,Yes,6.19
+210,Jiya Sarraf,English Communication,27,37,64,C,86,Yes,4,No,Yes,6.19
+210,Jiya Sarraf,Basic Electronics,27,26,53,D,69,Yes,3,Yes,Yes,6.19
+211,Kanav Talwar,Mathematics-I,28,20,48,D,91,Yes,3,No,No,8.85
+211,Kanav Talwar,Programming in C,12,56,68,C,82,Yes,4,Yes,Yes,8.85
+211,Kanav Talwar,Engineering Physics,23,51,74,B,79,Yes,1,Yes,No,8.85
+211,Kanav Talwar,English Communication,15,32,47,D,90,Yes,1,Yes,No,8.85
+211,Kanav Talwar,Basic Electronics,12,43,55,C,80,Yes,3,Yes,Yes,8.85
+212,Urvi Gole,Mathematics-I,11,58,69,C,100,Yes,2,Yes,Yes,7.84
+212,Urvi Gole,Programming in C,15,60,75,B,60,Yes,2,Yes,No,7.84
+212,Urvi Gole,Engineering Physics,15,39,54,D,100,Yes,1,No,Yes,7.84
+212,Urvi Gole,English Communication,14,20,34,F,66,No,1,Yes,No,7.84
+212,Urvi Gole,Basic Electronics,11,22,33,F,73,No,4,No,No,7.84
+213,Pranay Arya,Mathematics-I,30,23,53,D,96,Yes,5,No,No,6.37
+213,Pranay Arya,Programming in C,22,39,61,C,89,Yes,2,Yes,Yes,6.37
+213,Pranay Arya,Engineering Physics,19,62,81,B,99,Yes,3,No,Yes,6.37
+213,Pranay Arya,English Communication,28,30,58,C,67,Yes,4,No,Yes,6.37
+213,Pranay Arya,Basic Electronics,25,35,60,C,84,Yes,4,Yes,No,6.37
+214,Lavanya Saxena,Mathematics-I,12,36,48,D,75,Yes,3,Yes,Yes,8.19
+214,Lavanya Saxena,Programming in C,18,44,62,C,62,Yes,4,No,Yes,8.19
+214,Lavanya Saxena,Engineering Physics,10,50,60,C,97,Yes,2,No,No,8.19
+214,Lavanya Saxena,English Communication,29,25,54,D,95,Yes,4,Yes,No,8.19
+214,Lavanya Saxena,Basic Electronics,18,64,82,B,80,Yes,4,Yes,No,8.19
+215,Abram Doshi,Mathematics-I,27,36,63,C,86,Yes,2,Yes,Yes,6.75
+215,Abram Doshi,Programming in C,13,43,56,C,65,Yes,5,No,No,6.75
+215,Abram Doshi,Engineering Physics,13,66,79,B,81,Yes,1,No,No,6.75
+215,Abram Doshi,English Communication,25,54,79,B,81,Yes,5,No,Yes,6.75
+215,Abram Doshi,Basic Electronics,30,28,58,C,98,Yes,2,Yes,No,6.75
+216,Anay Gole,Mathematics-I,27,47,74,B,79,Yes,5,No,No,8.14
+216,Anay Gole,Programming in C,23,49,72,B,79,Yes,2,Yes,No,8.14
+216,Anay Gole,Engineering Physics,22,60,82,B,96,Yes,3,No,Yes,8.14
+216,Anay Gole,English Communication,13,37,50,D,74,Yes,2,Yes,Yes,8.14
+216,Anay Gole,Basic Electronics,19,37,56,C,64,Yes,3,No,Yes,8.14
+217,Jayant Toor,Mathematics-I,25,56,81,B,63,Yes,5,No,No,6.98
+217,Jayant Toor,Programming in C,27,44,71,B,81,Yes,1,No,No,6.98
+217,Jayant Toor,Engineering Physics,16,32,48,D,81,Yes,1,No,Yes,6.98
+217,Jayant Toor,English Communication,28,57,85,A,68,Yes,5,Yes,Yes,6.98
+217,Jayant Toor,Basic Electronics,16,45,61,C,93,Yes,4,Yes,No,6.98
+218,Veer Sem,Mathematics-I,12,36,48,D,67,Yes,4,No,Yes,8.75
+218,Veer Sem,Programming in C,12,45,57,C,70,Yes,2,No,No,8.75
+218,Veer Sem,Engineering Physics,14,26,40,D,70,Yes,5,No,No,8.75
+218,Veer Sem,English Communication,25,48,73,B,66,Yes,1,No,No,8.75
+218,Veer Sem,Basic Electronics,18,20,38,F,100,No,1,No,Yes,8.75
+219,Adira Ben,Mathematics-I,15,23,38,F,88,No,5,Yes,Yes,7.68
+219,Adira Ben,Programming in C,24,69,93,A,95,Yes,1,Yes,Yes,7.68
+219,Adira Ben,Engineering Physics,20,43,63,C,97,Yes,1,Yes,Yes,7.68
+219,Adira Ben,English Communication,20,30,50,D,87,Yes,1,No,No,7.68
+219,Adira Ben,Basic Electronics,11,42,53,D,74,Yes,3,Yes,No,7.68
+220,Vidur Tandon,Mathematics-I,15,33,48,D,91,Yes,2,No,Yes,6.19
+220,Vidur Tandon,Programming in C,13,65,78,B,60,Yes,5,No,No,6.19
+220,Vidur Tandon,Engineering Physics,15,25,40,D,81,Yes,3,No,No,6.19
+220,Vidur Tandon,English Communication,12,21,33,F,65,No,1,Yes,No,6.19
+220,Vidur Tandon,Basic Electronics,17,41,58,C,65,Yes,5,Yes,No,6.19
+221,Lakshay Keer,Mathematics-I,20,54,74,B,62,Yes,4,Yes,Yes,6.56
+221,Lakshay Keer,Programming in C,19,31,50,D,74,Yes,1,Yes,No,6.56
+221,Lakshay Keer,Engineering Physics,17,63,80,B,65,Yes,4,No,No,6.56
+221,Lakshay Keer,English Communication,27,48,75,B,72,Yes,2,No,No,6.56
+221,Lakshay Keer,Basic Electronics,25,31,56,C,88,Yes,2,Yes,Yes,6.56
+222,Pranay Khanna,Mathematics-I,29,68,97,A,99,Yes,2,No,Yes,9.02
+222,Pranay Khanna,Programming in C,22,21,43,D,99,Yes,2,No,Yes,9.02
+222,Pranay Khanna,Engineering Physics,11,55,66,C,62,Yes,4,Yes,No,9.02
+222,Pranay Khanna,English Communication,23,50,73,B,84,Yes,5,Yes,No,9.02
+222,Pranay Khanna,Basic Electronics,12,23,35,F,66,No,5,No,Yes,9.02
+223,Dhanuk Bhandari,Mathematics-I,13,25,38,F,74,No,4,Yes,No,6.39
+223,Dhanuk Bhandari,Programming in C,28,39,67,C,92,Yes,2,Yes,Yes,6.39
+223,Dhanuk Bhandari,Engineering Physics,18,24,42,D,91,Yes,5,Yes,No,6.39
+223,Dhanuk Bhandari,English Communication,10,59,69,C,92,Yes,5,No,No,6.39
+223,Dhanuk Bhandari,Basic Electronics,28,56,84,B,78,Yes,2,No,No,6.39
+224,Anya Buch,Mathematics-I,26,35,61,C,87,Yes,5,Yes,Yes,6.54
+224,Anya Buch,Programming in C,18,37,55,C,91,Yes,3,No,Yes,6.54
+224,Anya Buch,Engineering Physics,23,38,61,C,97,Yes,1,Yes,No,6.54
+224,Anya Buch,English Communication,27,45,72,B,86,Yes,2,Yes,No,6.54
+224,Anya Buch,Basic Electronics,30,35,65,C,88,Yes,4,Yes,Yes,6.54
+225,Myra Manne,Mathematics-I,30,49,79,B,67,Yes,5,Yes,Yes,9.37
+225,Myra Manne,Programming in C,21,61,82,B,61,Yes,1,No,Yes,9.37
+225,Myra Manne,Engineering Physics,14,62,76,B,81,Yes,3,No,No,9.37
+225,Myra Manne,English Communication,11,25,36,F,76,No,1,No,No,9.37
+225,Myra Manne,Basic Electronics,20,49,69,C,90,Yes,3,Yes,No,9.37
+226,Prerak Ramanathan,Mathematics-I,12,55,67,C,70,Yes,3,No,No,6.86
+226,Prerak Ramanathan,Programming in C,18,43,61,C,93,Yes,4,No,Yes,6.86
+226,Prerak Ramanathan,Engineering Physics,20,49,69,C,87,Yes,3,No,No,6.86
+226,Prerak Ramanathan,English Communication,25,42,67,C,60,Yes,1,Yes,No,6.86
+226,Prerak Ramanathan,Basic Electronics,18,61,79,B,78,Yes,4,Yes,Yes,6.86
+227,Shayak Dhingra,Mathematics-I,19,24,43,D,96,Yes,1,No,No,6.42
+227,Shayak Dhingra,Programming in C,15,31,46,D,99,Yes,3,Yes,Yes,6.42
+227,Shayak Dhingra,Engineering Physics,17,64,81,B,70,Yes,4,No,No,6.42
+227,Shayak Dhingra,English Communication,18,30,48,D,97,Yes,3,Yes,No,6.42
+227,Shayak Dhingra,Basic Electronics,30,40,70,B,99,Yes,1,No,No,6.42
+228,Kismat Wali,Mathematics-I,28,23,51,D,92,Yes,4,Yes,No,5.53
+228,Kismat Wali,Programming in C,29,34,63,C,82,Yes,5,Yes,No,5.53
+228,Kismat Wali,Engineering Physics,20,49,69,C,68,Yes,4,Yes,No,5.53
+228,Kismat Wali,English Communication,28,61,89,A,79,Yes,1,Yes,No,5.53
+228,Kismat Wali,Basic Electronics,23,47,70,B,74,Yes,4,No,No,5.53
+229,Nayantara Dara,Mathematics-I,30,26,56,C,72,Yes,2,Yes,Yes,5.33
+229,Nayantara Dara,Programming in C,17,58,75,B,98,Yes,1,Yes,No,5.33
+229,Nayantara Dara,Engineering Physics,19,35,54,D,92,Yes,4,Yes,No,5.33
+229,Nayantara Dara,English Communication,16,53,69,C,70,Yes,5,No,Yes,5.33
+229,Nayantara Dara,Basic Electronics,11,54,65,C,71,Yes,4,No,Yes,5.33
+230,Tushar Tella,Mathematics-I,15,38,53,D,92,Yes,2,Yes,No,5.1
+230,Tushar Tella,Programming in C,23,23,46,D,94,Yes,3,Yes,No,5.1
+230,Tushar Tella,Engineering Physics,11,41,52,D,85,Yes,4,No,No,5.1
+230,Tushar Tella,English Communication,30,31,61,C,87,Yes,3,No,Yes,5.1
+230,Tushar Tella,Basic Electronics,14,48,62,C,65,Yes,1,No,No,5.1
+231,Shray Karan,Mathematics-I,29,35,64,C,71,Yes,4,Yes,Yes,9.78
+231,Shray Karan,Programming in C,13,69,82,B,86,Yes,3,No,Yes,9.78
+231,Shray Karan,Engineering Physics,10,39,49,D,63,Yes,4,Yes,No,9.78
+231,Shray Karan,English Communication,23,25,48,D,90,Yes,1,No,No,9.78
+231,Shray Karan,Basic Electronics,30,64,94,A,81,Yes,3,Yes,Yes,9.78
+232,Anaya Kulkarni,Mathematics-I,29,20,49,D,75,Yes,2,Yes,Yes,5.46
+232,Anaya Kulkarni,Programming in C,10,53,63,C,79,Yes,1,No,Yes,5.46
+232,Anaya Kulkarni,Engineering Physics,24,26,50,D,65,Yes,5,Yes,No,5.46
+232,Anaya Kulkarni,English Communication,11,70,81,B,91,Yes,4,Yes,Yes,5.46
+232,Anaya Kulkarni,Basic Electronics,28,35,63,C,60,Yes,5,No,No,5.46
+233,Abram Sundaram,Mathematics-I,26,48,74,B,79,Yes,5,No,No,5.78
+233,Abram Sundaram,Programming in C,29,52,81,B,70,Yes,5,Yes,No,5.78
+233,Abram Sundaram,Engineering Physics,30,35,65,C,68,Yes,2,Yes,Yes,5.78
+233,Abram Sundaram,English Communication,17,36,53,D,76,Yes,5,Yes,No,5.78
+233,Abram Sundaram,Basic Electronics,15,43,58,C,82,Yes,4,Yes,No,5.78
+234,Dhruv Iyengar,Mathematics-I,12,42,54,D,72,Yes,1,No,No,6.2
+234,Dhruv Iyengar,Programming in C,23,27,50,D,78,Yes,4,No,No,6.2
+234,Dhruv Iyengar,Engineering Physics,24,67,91,A,71,Yes,1,Yes,Yes,6.2
+234,Dhruv Iyengar,English Communication,13,27,40,D,62,Yes,5,No,Yes,6.2
+234,Dhruv Iyengar,Basic Electronics,13,36,49,D,75,Yes,5,No,No,6.2
+235,Neysa Dara,Mathematics-I,26,64,90,A,92,Yes,4,Yes,Yes,6.66
+235,Neysa Dara,Programming in C,14,56,70,B,91,Yes,1,No,No,6.66
+235,Neysa Dara,Engineering Physics,12,31,43,D,95,Yes,4,Yes,Yes,6.66
+235,Neysa Dara,English Communication,11,43,54,D,68,Yes,1,Yes,No,6.66
+235,Neysa Dara,Basic Electronics,16,65,81,B,89,Yes,1,No,Yes,6.66
+236,Ishita Randhawa,Mathematics-I,11,37,48,D,69,Yes,5,Yes,No,9.99
+236,Ishita Randhawa,Programming in C,14,51,65,C,93,Yes,4,No,No,9.99
+236,Ishita Randhawa,Engineering Physics,29,57,86,A,99,Yes,1,No,No,9.99
+236,Ishita Randhawa,English Communication,14,50,64,C,83,Yes,4,No,Yes,9.99
+236,Ishita Randhawa,Basic Electronics,22,58,80,B,78,Yes,4,No,Yes,9.99
+237,Zara Sampath,Mathematics-I,13,50,63,C,85,Yes,4,Yes,Yes,7.13
+237,Zara Sampath,Programming in C,25,37,62,C,84,Yes,3,Yes,Yes,7.13
+237,Zara Sampath,Engineering Physics,11,29,40,D,90,Yes,5,No,Yes,7.13
+237,Zara Sampath,English Communication,18,52,70,B,73,Yes,4,No,Yes,7.13
+237,Zara Sampath,Basic Electronics,24,63,87,A,63,Yes,1,Yes,Yes,7.13
+238,Saira Wali,Mathematics-I,16,20,36,F,62,No,1,No,Yes,5.42
+238,Saira Wali,Programming in C,20,42,62,C,77,Yes,4,No,Yes,5.42
+238,Saira Wali,Engineering Physics,14,70,84,B,77,Yes,3,No,No,5.42
+238,Saira Wali,English Communication,12,64,76,B,61,Yes,3,No,No,5.42
+238,Saira Wali,Basic Electronics,10,20,30,F,67,No,3,No,No,5.42
+239,Piya Agarwal,Mathematics-I,30,26,56,C,84,Yes,1,No,Yes,5.63
+239,Piya Agarwal,Programming in C,25,24,49,D,87,Yes,5,Yes,Yes,5.63
+239,Piya Agarwal,Engineering Physics,11,28,39,F,76,No,4,No,Yes,5.63
+239,Piya Agarwal,English Communication,10,54,64,C,94,Yes,2,Yes,No,5.63
+239,Piya Agarwal,Basic Electronics,18,50,68,C,89,Yes,1,No,No,5.63
+240,Jiya Sem,Mathematics-I,20,69,89,A,61,Yes,1,No,Yes,7.1
+240,Jiya Sem,Programming in C,19,38,57,C,73,Yes,1,Yes,Yes,7.1
+240,Jiya Sem,Engineering Physics,22,67,89,A,72,Yes,3,Yes,No,7.1
+240,Jiya Sem,English Communication,19,70,89,A,80,Yes,4,Yes,Yes,7.1
+240,Jiya Sem,Basic Electronics,11,64,75,B,62,Yes,1,Yes,No,7.1
+241,Kabir Trivedi,Mathematics-I,15,69,84,B,71,Yes,3,Yes,Yes,5.2
+241,Kabir Trivedi,Programming in C,21,23,44,D,74,Yes,3,Yes,No,5.2
+241,Kabir Trivedi,Engineering Physics,13,28,41,D,95,Yes,3,Yes,Yes,5.2
+241,Kabir Trivedi,English Communication,25,63,88,A,72,Yes,4,Yes,No,5.2
+241,Kabir Trivedi,Basic Electronics,24,63,87,A,98,Yes,2,No,No,5.2
+242,Saanvi Ravi,Mathematics-I,16,48,64,C,98,Yes,2,No,No,5.27
+242,Saanvi Ravi,Programming in C,13,51,64,C,77,Yes,4,Yes,No,5.27
+242,Saanvi Ravi,Engineering Physics,20,40,60,C,81,Yes,3,No,No,5.27
+242,Saanvi Ravi,English Communication,21,60,81,B,85,Yes,5,Yes,Yes,5.27
+242,Saanvi Ravi,Basic Electronics,19,62,81,B,64,Yes,4,Yes,No,5.27
+243,Madhup Anand,Mathematics-I,30,60,90,A,95,Yes,4,No,Yes,6.25
+243,Madhup Anand,Programming in C,10,68,78,B,72,Yes,3,Yes,No,6.25
+243,Madhup Anand,Engineering Physics,26,46,72,B,76,Yes,4,No,Yes,6.25
+243,Madhup Anand,English Communication,13,56,69,C,64,Yes,1,Yes,Yes,6.25
+243,Madhup Anand,Basic Electronics,17,50,67,C,64,Yes,5,Yes,No,6.25
+244,Farhan Chaudhari,Mathematics-I,15,63,78,B,83,Yes,4,No,No,5.3
+244,Farhan Chaudhari,Programming in C,14,28,42,D,78,Yes,5,Yes,Yes,5.3
+244,Farhan Chaudhari,Engineering Physics,10,58,68,C,83,Yes,1,No,No,5.3
+244,Farhan Chaudhari,English Communication,14,30,44,D,88,Yes,3,Yes,Yes,5.3
+244,Farhan Chaudhari,Basic Electronics,22,30,52,D,63,Yes,2,No,Yes,5.3
+245,Aarna Khurana,Mathematics-I,14,69,83,B,97,Yes,2,No,Yes,9.38
+245,Aarna Khurana,Programming in C,12,44,56,C,77,Yes,2,Yes,No,9.38
+245,Aarna Khurana,Engineering Physics,28,56,84,B,62,Yes,4,Yes,No,9.38
+245,Aarna Khurana,English Communication,18,48,66,C,85,Yes,5,Yes,Yes,9.38
+245,Aarna Khurana,Basic Electronics,21,54,75,B,68,Yes,2,No,No,9.38
+246,Zaina Vohra,Mathematics-I,24,43,67,C,94,Yes,1,No,No,10.0
+246,Zaina Vohra,Programming in C,24,38,62,C,94,Yes,5,Yes,Yes,10.0
+246,Zaina Vohra,Engineering Physics,23,23,46,D,74,Yes,5,Yes,No,10.0
+246,Zaina Vohra,English Communication,25,43,68,C,63,Yes,3,Yes,Yes,10.0
+246,Zaina Vohra,Basic Electronics,20,60,80,B,62,Yes,2,No,Yes,10.0
+247,Urvi Dash,Mathematics-I,21,70,91,A,95,Yes,4,No,Yes,5.86
+247,Urvi Dash,Programming in C,18,42,60,C,88,Yes,2,No,No,5.86
+247,Urvi Dash,Engineering Physics,13,68,81,B,86,Yes,4,Yes,No,5.86
+247,Urvi Dash,English Communication,17,22,39,F,80,No,3,No,Yes,5.86
+247,Urvi Dash,Basic Electronics,17,45,62,C,75,Yes,2,No,Yes,5.86
+248,Vardaniya Kamdar,Mathematics-I,28,36,64,C,65,Yes,4,No,No,5.0
+248,Vardaniya Kamdar,Programming in C,17,22,39,F,72,No,5,Yes,Yes,5.0
+248,Vardaniya Kamdar,Engineering Physics,10,28,38,F,94,No,1,Yes,No,5.0
+248,Vardaniya Kamdar,English Communication,14,45,59,C,92,Yes,3,No,No,5.0
+248,Vardaniya Kamdar,Basic Electronics,18,30,48,D,80,Yes,5,No,No,5.0
+249,Himmat Sabharwal,Mathematics-I,19,41,60,C,65,Yes,5,Yes,Yes,6.24
+249,Himmat Sabharwal,Programming in C,28,21,49,D,82,Yes,2,No,Yes,6.24
+249,Himmat Sabharwal,Engineering Physics,23,43,66,C,96,Yes,1,No,Yes,6.24
+249,Himmat Sabharwal,English Communication,17,62,79,B,78,Yes,2,Yes,No,6.24
+249,Himmat Sabharwal,Basic Electronics,17,59,76,B,64,Yes,5,No,Yes,6.24
+250,Sana Kala,Mathematics-I,10,22,32,F,60,No,1,No,No,9.59
+250,Sana Kala,Programming in C,16,67,83,B,69,Yes,1,No,Yes,9.59
+250,Sana Kala,Engineering Physics,12,62,74,B,70,Yes,4,Yes,No,9.59
+250,Sana Kala,English Communication,30,65,95,A,90,Yes,2,Yes,No,9.59
+250,Sana Kala,Basic Electronics,16,24,40,D,100,Yes,5,Yes,No,9.59
+251,Yakshit Grover,Mathematics-I,26,65,91,A,83,Yes,5,No,No,6.3
+251,Yakshit Grover,Programming in C,18,22,40,D,99,Yes,2,No,No,6.3
+251,Yakshit Grover,Engineering Physics,29,34,63,C,83,Yes,4,No,No,6.3
+251,Yakshit Grover,English Communication,14,58,72,B,68,Yes,2,Yes,Yes,6.3
+251,Yakshit Grover,Basic Electronics,19,51,70,B,87,Yes,3,Yes,No,6.3
+252,Sana Goda,Mathematics-I,17,43,60,C,94,Yes,2,Yes,No,7.62
+252,Sana Goda,Programming in C,21,48,69,C,68,Yes,3,Yes,Yes,7.62
+252,Sana Goda,Engineering Physics,18,26,44,D,85,Yes,3,No,No,7.62
+252,Sana Goda,English Communication,21,67,88,A,68,Yes,3,No,No,7.62
+252,Sana Goda,Basic Electronics,30,53,83,B,92,Yes,1,No,Yes,7.62
+253,Tushar Mangal,Mathematics-I,11,62,73,B,65,Yes,4,No,Yes,8.17
+253,Tushar Mangal,Programming in C,12,36,48,D,86,Yes,3,Yes,Yes,8.17
+253,Tushar Mangal,Engineering Physics,19,45,64,C,78,Yes,5,No,Yes,8.17
+253,Tushar Mangal,English Communication,21,64,85,A,60,Yes,2,Yes,No,8.17
+253,Tushar Mangal,Basic Electronics,24,37,61,C,87,Yes,5,Yes,No,8.17
+254,Nakul Chandra,Mathematics-I,21,22,43,D,85,Yes,5,Yes,Yes,6.87
+254,Nakul Chandra,Programming in C,13,25,38,F,77,No,4,Yes,No,6.87
+254,Nakul Chandra,Engineering Physics,14,39,53,D,95,Yes,4,Yes,Yes,6.87
+254,Nakul Chandra,English Communication,13,65,78,B,76,Yes,5,No,No,6.87
+254,Nakul Chandra,Basic Electronics,30,26,56,C,92,Yes,1,No,No,6.87
+255,Mannat Wali,Mathematics-I,14,55,69,C,63,Yes,4,Yes,Yes,5.43
+255,Mannat Wali,Programming in C,18,35,53,D,73,Yes,3,No,No,5.43
+255,Mannat Wali,Engineering Physics,28,68,96,A,79,Yes,4,Yes,No,5.43
+255,Mannat Wali,English Communication,21,34,55,C,93,Yes,3,Yes,Yes,5.43
+255,Mannat Wali,Basic Electronics,27,26,53,D,70,Yes,4,Yes,No,5.43
+256,Oorja Bhatnagar,Mathematics-I,24,38,62,C,65,Yes,5,No,Yes,9.51
+256,Oorja Bhatnagar,Programming in C,13,60,73,B,68,Yes,2,No,No,9.51
+256,Oorja Bhatnagar,Engineering Physics,13,43,56,C,69,Yes,5,Yes,Yes,9.51
+256,Oorja Bhatnagar,English Communication,22,26,48,D,65,Yes,4,No,Yes,9.51
+256,Oorja Bhatnagar,Basic Electronics,17,62,79,B,69,Yes,5,No,No,9.51
+257,Anahi Bhakta,Mathematics-I,20,39,59,C,65,Yes,3,Yes,No,8.06
+257,Anahi Bhakta,Programming in C,10,66,76,B,83,Yes,4,Yes,Yes,8.06
+257,Anahi Bhakta,Engineering Physics,20,68,88,A,97,Yes,3,No,Yes,8.06
+257,Anahi Bhakta,English Communication,29,29,58,C,75,Yes,5,Yes,No,8.06
+257,Anahi Bhakta,Basic Electronics,18,34,52,D,66,Yes,1,Yes,No,8.06
+258,Hazel Sinha,Mathematics-I,20,47,67,C,95,Yes,3,Yes,Yes,7.59
+258,Hazel Sinha,Programming in C,27,41,68,C,71,Yes,5,Yes,Yes,7.59
+258,Hazel Sinha,Engineering Physics,17,41,58,C,80,Yes,2,Yes,No,7.59
+258,Hazel Sinha,English Communication,24,47,71,B,69,Yes,5,No,Yes,7.59
+258,Hazel Sinha,Basic Electronics,28,51,79,B,71,Yes,5,No,No,7.59
+259,Lavanya Bakshi,Mathematics-I,27,48,75,B,68,Yes,5,Yes,No,8.33
+259,Lavanya Bakshi,Programming in C,16,46,62,C,60,Yes,4,Yes,Yes,8.33
+259,Lavanya Bakshi,Engineering Physics,20,44,64,C,87,Yes,5,Yes,Yes,8.33
+259,Lavanya Bakshi,English Communication,13,64,77,B,100,Yes,3,No,No,8.33
+259,Lavanya Bakshi,Basic Electronics,21,49,70,B,72,Yes,1,No,No,8.33
+260,Aarush Tailor,Mathematics-I,28,27,55,C,99,Yes,3,No,No,7.61
+260,Aarush Tailor,Programming in C,16,35,51,D,92,Yes,1,Yes,Yes,7.61
+260,Aarush Tailor,Engineering Physics,24,56,80,B,77,Yes,2,Yes,No,7.61
+260,Aarush Tailor,English Communication,22,22,44,D,68,Yes,1,Yes,Yes,7.61
+260,Aarush Tailor,Basic Electronics,15,59,74,B,94,Yes,5,No,Yes,7.61
+261,Kavya Raj,Mathematics-I,29,31,60,C,71,Yes,2,Yes,No,9.72
+261,Kavya Raj,Programming in C,27,66,93,A,89,Yes,2,Yes,Yes,9.72
+261,Kavya Raj,Engineering Physics,29,67,96,A,89,Yes,3,Yes,No,9.72
+261,Kavya Raj,English Communication,25,46,71,B,93,Yes,5,Yes,No,9.72
+261,Kavya Raj,Basic Electronics,25,47,72,B,82,Yes,5,No,No,9.72
+262,Kanav Rajagopalan,Mathematics-I,24,44,68,C,92,Yes,3,Yes,Yes,7.61
+262,Kanav Rajagopalan,Programming in C,22,39,61,C,93,Yes,4,Yes,Yes,7.61
+262,Kanav Rajagopalan,Engineering Physics,18,31,49,D,99,Yes,2,Yes,Yes,7.61
+262,Kanav Rajagopalan,English Communication,17,70,87,A,83,Yes,3,Yes,Yes,7.61
+262,Kanav Rajagopalan,Basic Electronics,29,65,94,A,98,Yes,1,Yes,Yes,7.61
+263,Anvi Chana,Mathematics-I,10,43,53,D,73,Yes,1,No,Yes,9.84
+263,Anvi Chana,Programming in C,25,23,48,D,92,Yes,5,Yes,Yes,9.84
+263,Anvi Chana,Engineering Physics,29,67,96,A,76,Yes,2,No,Yes,9.84
+263,Anvi Chana,English Communication,27,39,66,C,64,Yes,5,Yes,Yes,9.84
+263,Anvi Chana,Basic Electronics,20,65,85,A,93,Yes,1,No,Yes,9.84
+264,Dhanush Tella,Mathematics-I,10,39,49,D,72,Yes,5,No,Yes,9.43
+264,Dhanush Tella,Programming in C,14,62,76,B,99,Yes,5,Yes,Yes,9.43
+264,Dhanush Tella,Engineering Physics,10,29,39,F,78,No,1,No,Yes,9.43
+264,Dhanush Tella,English Communication,29,61,90,A,81,Yes,1,No,Yes,9.43
+264,Dhanush Tella,Basic Electronics,15,41,56,C,71,Yes,5,Yes,No,9.43
+265,Aayush Jain,Mathematics-I,18,29,47,D,89,Yes,4,No,No,6.62
+265,Aayush Jain,Programming in C,11,59,70,B,91,Yes,3,No,Yes,6.62
+265,Aayush Jain,Engineering Physics,24,48,72,B,78,Yes,2,No,Yes,6.62
+265,Aayush Jain,English Communication,18,39,57,C,63,Yes,2,Yes,Yes,6.62
+265,Aayush Jain,Basic Electronics,30,31,61,C,78,Yes,2,Yes,No,6.62
+266,Yashvi Bala,Mathematics-I,25,70,95,A,96,Yes,2,Yes,Yes,6.45
+266,Yashvi Bala,Programming in C,28,41,69,C,100,Yes,4,Yes,No,6.45
+266,Yashvi Bala,Engineering Physics,16,23,39,F,73,No,5,Yes,No,6.45
+266,Yashvi Bala,English Communication,20,38,58,C,98,Yes,4,No,No,6.45
+266,Yashvi Bala,Basic Electronics,26,24,50,D,62,Yes,1,No,Yes,6.45
+267,Ritvik Deep,Mathematics-I,26,41,67,C,91,Yes,3,No,Yes,6.19
+267,Ritvik Deep,Programming in C,27,40,67,C,85,Yes,2,No,Yes,6.19
+267,Ritvik Deep,Engineering Physics,16,51,67,C,88,Yes,1,No,No,6.19
+267,Ritvik Deep,English Communication,15,40,55,C,72,Yes,5,Yes,Yes,6.19
+267,Ritvik Deep,Basic Electronics,16,69,85,A,94,Yes,3,Yes,No,6.19
+268,Zeeshan Karpe,Mathematics-I,22,50,72,B,71,Yes,4,Yes,No,9.75
+268,Zeeshan Karpe,Programming in C,14,21,35,F,63,No,2,Yes,Yes,9.75
+268,Zeeshan Karpe,Engineering Physics,26,47,73,B,62,Yes,1,No,Yes,9.75
+268,Zeeshan Karpe,English Communication,16,58,74,B,69,Yes,1,Yes,No,9.75
+268,Zeeshan Karpe,Basic Electronics,25,28,53,D,93,Yes,3,Yes,No,9.75
+269,Prisha Warrior,Mathematics-I,23,32,55,C,91,Yes,3,No,No,6.79
+269,Prisha Warrior,Programming in C,15,60,75,B,67,Yes,4,No,No,6.79
+269,Prisha Warrior,Engineering Physics,22,57,79,B,91,Yes,3,No,Yes,6.79
+269,Prisha Warrior,English Communication,27,48,75,B,73,Yes,2,Yes,No,6.79
+269,Prisha Warrior,Basic Electronics,21,21,42,D,71,Yes,5,Yes,Yes,6.79
+270,Renee Gulati,Mathematics-I,28,39,67,C,87,Yes,1,No,Yes,9.6
+270,Renee Gulati,Programming in C,22,52,74,B,91,Yes,2,Yes,Yes,9.6
+270,Renee Gulati,Engineering Physics,30,50,80,B,75,Yes,3,No,Yes,9.6
+270,Renee Gulati,English Communication,23,63,86,A,65,Yes,1,Yes,No,9.6
+270,Renee Gulati,Basic Electronics,29,46,75,B,92,Yes,1,Yes,Yes,9.6
+271,Advik Borah,Mathematics-I,19,26,45,D,89,Yes,5,Yes,No,7.38
+271,Advik Borah,Programming in C,10,65,75,B,92,Yes,5,No,No,7.38
+271,Advik Borah,Engineering Physics,15,57,72,B,82,Yes,4,Yes,Yes,7.38
+271,Advik Borah,English Communication,16,52,68,C,98,Yes,5,No,No,7.38
+271,Advik Borah,Basic Electronics,19,64,83,B,78,Yes,3,Yes,Yes,7.38
+272,Adah Dara,Mathematics-I,25,51,76,B,86,Yes,4,No,No,6.12
+272,Adah Dara,Programming in C,30,25,55,C,86,Yes,4,No,No,6.12
+272,Adah Dara,Engineering Physics,16,57,73,B,60,Yes,3,No,Yes,6.12
+272,Adah Dara,English Communication,10,37,47,D,90,Yes,4,Yes,Yes,6.12
+272,Adah Dara,Basic Electronics,13,56,69,C,61,Yes,3,No,No,6.12
+273,Suhana Wable,Mathematics-I,29,63,92,A,75,Yes,4,Yes,Yes,8.85
+273,Suhana Wable,Programming in C,22,42,64,C,92,Yes,2,Yes,No,8.85
+273,Suhana Wable,Engineering Physics,17,69,86,A,93,Yes,5,No,No,8.85
+273,Suhana Wable,English Communication,17,42,59,C,90,Yes,2,Yes,Yes,8.85
+273,Suhana Wable,Basic Electronics,30,66,96,A,82,Yes,5,Yes,No,8.85
+274,Damini Handa,Mathematics-I,16,60,76,B,79,Yes,3,Yes,No,6.39
+274,Damini Handa,Programming in C,16,55,71,B,91,Yes,5,No,No,6.39
+274,Damini Handa,Engineering Physics,11,44,55,C,83,Yes,2,No,Yes,6.39
+274,Damini Handa,English Communication,20,46,66,C,95,Yes,1,No,Yes,6.39
+274,Damini Handa,Basic Electronics,16,23,39,F,71,No,2,No,Yes,6.39
+275,Yuvaan Kadakia,Mathematics-I,12,36,48,D,74,Yes,4,No,No,6.05
+275,Yuvaan Kadakia,Programming in C,22,32,54,D,77,Yes,5,No,No,6.05
+275,Yuvaan Kadakia,Engineering Physics,25,58,83,B,88,Yes,4,No,Yes,6.05
+275,Yuvaan Kadakia,English Communication,13,59,72,B,61,Yes,5,Yes,Yes,6.05
+275,Yuvaan Kadakia,Basic Electronics,29,36,65,C,78,Yes,1,Yes,Yes,6.05
+276,Nishith Tripathi,Mathematics-I,25,58,83,B,67,Yes,2,Yes,No,6.55
+276,Nishith Tripathi,Programming in C,26,66,92,A,95,Yes,4,Yes,No,6.55
+276,Nishith Tripathi,Engineering Physics,29,48,77,B,65,Yes,3,Yes,Yes,6.55
+276,Nishith Tripathi,English Communication,10,59,69,C,98,Yes,3,Yes,Yes,6.55
+276,Nishith Tripathi,Basic Electronics,14,63,77,B,61,Yes,4,Yes,Yes,6.55
+277,Azad Ranganathan,Mathematics-I,30,64,94,A,74,Yes,5,Yes,Yes,8.89
+277,Azad Ranganathan,Programming in C,25,20,45,D,98,Yes,4,No,Yes,8.89
+277,Azad Ranganathan,Engineering Physics,28,32,60,C,82,Yes,2,Yes,No,8.89
+277,Azad Ranganathan,English Communication,24,33,57,C,71,Yes,5,Yes,No,8.89
+277,Azad Ranganathan,Basic Electronics,26,26,52,D,75,Yes,4,No,Yes,8.89
+278,Vardaniya Sani,Mathematics-I,19,47,66,C,96,Yes,2,No,Yes,8.64
+278,Vardaniya Sani,Programming in C,21,30,51,D,90,Yes,5,No,Yes,8.64
+278,Vardaniya Sani,Engineering Physics,15,53,68,C,92,Yes,4,No,Yes,8.64
+278,Vardaniya Sani,English Communication,20,62,82,B,66,Yes,2,No,Yes,8.64
+278,Vardaniya Sani,Basic Electronics,26,69,95,A,98,Yes,2,No,No,8.64
+279,Miraya Jayaraman,Mathematics-I,12,37,49,D,90,Yes,3,No,No,7.39
+279,Miraya Jayaraman,Programming in C,21,34,55,C,90,Yes,5,No,Yes,7.39
+279,Miraya Jayaraman,Engineering Physics,27,49,76,B,90,Yes,1,Yes,No,7.39
+279,Miraya Jayaraman,English Communication,17,45,62,C,62,Yes,3,Yes,Yes,7.39
+279,Miraya Jayaraman,Basic Electronics,11,54,65,C,60,Yes,5,No,Yes,7.39
+280,Yakshit Ganesh,Mathematics-I,11,67,78,B,87,Yes,2,Yes,Yes,6.55
+280,Yakshit Ganesh,Programming in C,28,44,72,B,85,Yes,2,Yes,No,6.55
+280,Yakshit Ganesh,Engineering Physics,26,57,83,B,67,Yes,5,Yes,No,6.55
+280,Yakshit Ganesh,English Communication,18,21,39,F,66,No,1,No,Yes,6.55
+280,Yakshit Ganesh,Basic Electronics,29,59,88,A,84,Yes,5,No,Yes,6.55
+281,Nehmat Dyal,Mathematics-I,27,60,87,A,72,Yes,3,Yes,No,5.95
+281,Nehmat Dyal,Programming in C,22,38,60,C,99,Yes,2,Yes,No,5.95
+281,Nehmat Dyal,Engineering Physics,24,47,71,B,66,Yes,1,Yes,No,5.95
+281,Nehmat Dyal,English Communication,26,23,49,D,98,Yes,5,Yes,No,5.95
+281,Nehmat Dyal,Basic Electronics,28,20,48,D,76,Yes,4,No,Yes,5.95
+282,Vivaan Dua,Mathematics-I,12,22,34,F,85,No,5,Yes,No,6.89
+282,Vivaan Dua,Programming in C,23,49,72,B,74,Yes,1,Yes,No,6.89
+282,Vivaan Dua,Engineering Physics,14,37,51,D,86,Yes,3,Yes,No,6.89
+282,Vivaan Dua,English Communication,21,53,74,B,88,Yes,4,No,Yes,6.89
+282,Vivaan Dua,Basic Electronics,10,46,56,C,79,Yes,5,Yes,Yes,6.89
+283,Armaan Deo,Mathematics-I,25,35,60,C,92,Yes,1,Yes,Yes,5.61
+283,Armaan Deo,Programming in C,16,54,70,B,82,Yes,5,Yes,Yes,5.61
+283,Armaan Deo,Engineering Physics,28,29,57,C,60,Yes,3,Yes,No,5.61
+283,Armaan Deo,English Communication,14,53,67,C,91,Yes,2,Yes,Yes,5.61
+283,Armaan Deo,Basic Electronics,14,41,55,C,85,Yes,3,Yes,No,5.61
+284,Ishita Ramachandran,Mathematics-I,11,65,76,B,95,Yes,3,No,No,6.0
+284,Ishita Ramachandran,Programming in C,19,65,84,B,76,Yes,5,No,No,6.0
+284,Ishita Ramachandran,Engineering Physics,18,22,40,D,88,Yes,3,No,No,6.0
+284,Ishita Ramachandran,English Communication,22,27,49,D,73,Yes,3,No,Yes,6.0
+284,Ishita Ramachandran,Basic Electronics,13,51,64,C,81,Yes,2,No,No,6.0
+285,Mehul Chauhan,Mathematics-I,13,25,38,F,95,No,3,Yes,No,9.99
+285,Mehul Chauhan,Programming in C,22,47,69,C,99,Yes,1,No,Yes,9.99
+285,Mehul Chauhan,Engineering Physics,23,41,64,C,90,Yes,1,Yes,No,9.99
+285,Mehul Chauhan,English Communication,25,34,59,C,86,Yes,3,Yes,No,9.99
+285,Mehul Chauhan,Basic Electronics,11,43,54,D,71,Yes,1,No,No,9.99
+286,Abram Vyas,Mathematics-I,29,36,65,C,99,Yes,5,No,Yes,7.67
+286,Abram Vyas,Programming in C,11,56,67,C,61,Yes,1,No,Yes,7.67
+286,Abram Vyas,Engineering Physics,22,70,92,A,86,Yes,5,Yes,Yes,7.67
+286,Abram Vyas,English Communication,16,52,68,C,83,Yes,2,Yes,No,7.67
+286,Abram Vyas,Basic Electronics,21,46,67,C,77,Yes,3,Yes,Yes,7.67
+287,Seher Sabharwal,Mathematics-I,30,50,80,B,71,Yes,4,No,No,7.34
+287,Seher Sabharwal,Programming in C,25,62,87,A,79,Yes,2,No,Yes,7.34
+287,Seher Sabharwal,Engineering Physics,30,67,97,A,74,Yes,5,Yes,No,7.34
+287,Seher Sabharwal,English Communication,16,29,45,D,82,Yes,2,Yes,No,7.34
+287,Seher Sabharwal,Basic Electronics,18,50,68,C,62,Yes,1,No,Yes,7.34
+288,Jayan Choudhry,Mathematics-I,10,53,63,C,63,Yes,4,No,No,6.19
+288,Jayan Choudhry,Programming in C,20,25,45,D,88,Yes,5,Yes,No,6.19
+288,Jayan Choudhry,Engineering Physics,23,67,90,A,79,Yes,5,Yes,No,6.19
+288,Jayan Choudhry,English Communication,29,49,78,B,75,Yes,5,No,Yes,6.19
+288,Jayan Choudhry,Basic Electronics,16,42,58,C,95,Yes,5,No,Yes,6.19
+289,Dhanuk Sankar,Mathematics-I,14,24,38,F,73,No,4,Yes,No,9.1
+289,Dhanuk Sankar,Programming in C,14,22,36,F,71,No,5,No,No,9.1
+289,Dhanuk Sankar,Engineering Physics,16,59,75,B,61,Yes,4,Yes,Yes,9.1
+289,Dhanuk Sankar,English Communication,22,60,82,B,86,Yes,5,Yes,No,9.1
+289,Dhanuk Sankar,Basic Electronics,17,47,64,C,100,Yes,2,No,Yes,9.1
+290,Keya Dubey,Mathematics-I,22,56,78,B,84,Yes,1,Yes,Yes,7.87
+290,Keya Dubey,Programming in C,30,70,100,A,75,Yes,2,Yes,Yes,7.87
+290,Keya Dubey,Engineering Physics,26,26,52,D,71,Yes,4,No,No,7.87
+290,Keya Dubey,English Communication,25,27,52,D,78,Yes,5,No,Yes,7.87
+290,Keya Dubey,Basic Electronics,10,65,75,B,88,Yes,4,No,Yes,7.87
+291,Farhan Bakshi,Mathematics-I,15,35,50,D,80,Yes,3,Yes,No,9.42
+291,Farhan Bakshi,Programming in C,15,36,51,D,99,Yes,1,No,No,9.42
+291,Farhan Bakshi,Engineering Physics,18,63,81,B,82,Yes,5,Yes,Yes,9.42
+291,Farhan Bakshi,English Communication,13,54,67,C,96,Yes,3,No,Yes,9.42
+291,Farhan Bakshi,Basic Electronics,18,31,49,D,76,Yes,4,Yes,Yes,9.42
+292,Yuvraj  Bhandari,Mathematics-I,12,69,81,B,80,Yes,1,No,No,9.36
+292,Yuvraj  Bhandari,Programming in C,24,29,53,D,85,Yes,3,No,No,9.36
+292,Yuvraj  Bhandari,Engineering Physics,24,60,84,B,93,Yes,4,Yes,Yes,9.36
+292,Yuvraj  Bhandari,English Communication,24,42,66,C,90,Yes,4,No,No,9.36
+292,Yuvraj  Bhandari,Basic Electronics,30,36,66,C,88,Yes,1,No,Yes,9.36
+293,Shray Ghosh,Mathematics-I,26,51,77,B,81,Yes,5,Yes,Yes,6.71
+293,Shray Ghosh,Programming in C,21,48,69,C,63,Yes,5,Yes,No,6.71
+293,Shray Ghosh,Engineering Physics,24,20,44,D,76,Yes,2,No,Yes,6.71
+293,Shray Ghosh,English Communication,27,67,94,A,68,Yes,1,Yes,No,6.71
+293,Shray Ghosh,Basic Electronics,10,50,60,C,73,Yes,5,No,Yes,6.71
+294,Amira Chakraborty,Mathematics-I,13,57,70,B,97,Yes,2,Yes,Yes,6.7
+294,Amira Chakraborty,Programming in C,25,59,84,B,81,Yes,3,Yes,Yes,6.7
+294,Amira Chakraborty,Engineering Physics,27,36,63,C,86,Yes,2,No,Yes,6.7
+294,Amira Chakraborty,English Communication,30,39,69,C,68,Yes,4,Yes,No,6.7
+294,Amira Chakraborty,Basic Electronics,13,21,34,F,63,No,5,No,No,6.7
+295,Advika Loke,Mathematics-I,14,30,44,D,98,Yes,5,Yes,No,7.76
+295,Advika Loke,Programming in C,21,47,68,C,64,Yes,5,No,Yes,7.76
+295,Advika Loke,Engineering Physics,28,46,74,B,97,Yes,1,No,No,7.76
+295,Advika Loke,English Communication,22,56,78,B,74,Yes,5,No,Yes,7.76
+295,Advika Loke,Basic Electronics,13,46,59,C,84,Yes,4,No,No,7.76
+296,Shalv Varty,Mathematics-I,19,25,44,D,83,Yes,3,Yes,No,6.52
+296,Shalv Varty,Programming in C,24,50,74,B,85,Yes,1,Yes,Yes,6.52
+296,Shalv Varty,Engineering Physics,19,68,87,A,93,Yes,1,Yes,Yes,6.52
+296,Shalv Varty,English Communication,23,30,53,D,96,Yes,5,Yes,No,6.52
+296,Shalv Varty,Basic Electronics,25,50,75,B,94,Yes,5,Yes,Yes,6.52
+297,Farhan Varty,Mathematics-I,16,60,76,B,81,Yes,5,No,No,9.4
+297,Farhan Varty,Programming in C,22,37,59,C,78,Yes,2,Yes,No,9.4
+297,Farhan Varty,Engineering Physics,25,42,67,C,96,Yes,4,Yes,Yes,9.4
+297,Farhan Varty,English Communication,22,65,87,A,99,Yes,3,Yes,No,9.4
+297,Farhan Varty,Basic Electronics,25,33,58,C,73,Yes,3,Yes,Yes,9.4
+298,Piya D’Alia,Mathematics-I,12,26,38,F,91,No,3,Yes,No,6.57
+298,Piya D’Alia,Programming in C,20,66,86,A,93,Yes,1,Yes,No,6.57
+298,Piya D’Alia,Engineering Physics,26,43,69,C,94,Yes,1,Yes,Yes,6.57
+298,Piya D’Alia,English Communication,22,30,52,D,61,Yes,1,No,No,6.57
+298,Piya D’Alia,Basic Electronics,28,49,77,B,83,Yes,2,Yes,No,6.57
+299,Divyansh Atwal,Mathematics-I,19,43,62,C,94,Yes,4,No,Yes,7.83
+299,Divyansh Atwal,Programming in C,11,70,81,B,96,Yes,2,No,Yes,7.83
+299,Divyansh Atwal,Engineering Physics,20,61,81,B,91,Yes,3,Yes,No,7.83
+299,Divyansh Atwal,English Communication,11,65,76,B,86,Yes,4,Yes,Yes,7.83
+299,Divyansh Atwal,Basic Electronics,28,62,90,A,67,Yes,4,No,No,7.83
+300,Anahita Gandhi,Mathematics-I,29,28,57,C,64,Yes,1,No,No,6.35
+300,Anahita Gandhi,Programming in C,19,23,42,D,99,Yes,3,Yes,Yes,6.35
+300,Anahita Gandhi,Engineering Physics,28,69,97,A,73,Yes,1,No,Yes,6.35
+300,Anahita Gandhi,English Communication,29,66,95,A,90,Yes,4,Yes,Yes,6.35
+300,Anahita Gandhi,Basic Electronics,16,57,73,B,67,Yes,2,Yes,No,6.35
+301,Oorja Divan,Mathematics-I,13,35,48,D,82,Yes,5,Yes,No,6.65
+301,Oorja Divan,Programming in C,17,42,59,C,96,Yes,5,Yes,No,6.65
+301,Oorja Divan,Engineering Physics,10,64,74,B,99,Yes,5,Yes,Yes,6.65
+301,Oorja Divan,English Communication,14,27,41,D,62,Yes,3,Yes,No,6.65
+301,Oorja Divan,Basic Electronics,29,47,76,B,100,Yes,1,No,Yes,6.65
+302,Hansh Dhaliwal,Mathematics-I,19,31,50,D,66,Yes,1,Yes,No,7.03
+302,Hansh Dhaliwal,Programming in C,24,38,62,C,98,Yes,4,No,No,7.03
+302,Hansh Dhaliwal,Engineering Physics,21,69,90,A,100,Yes,4,Yes,Yes,7.03
+302,Hansh Dhaliwal,English Communication,17,44,61,C,71,Yes,2,Yes,Yes,7.03
+302,Hansh Dhaliwal,Basic Electronics,27,54,81,B,69,Yes,4,No,No,7.03
+303,Advik Rastogi,Mathematics-I,20,38,58,C,62,Yes,1,No,Yes,6.76
+303,Advik Rastogi,Programming in C,19,48,67,C,62,Yes,2,Yes,Yes,6.76
+303,Advik Rastogi,Engineering Physics,21,26,47,D,99,Yes,2,Yes,No,6.76
+303,Advik Rastogi,English Communication,23,53,76,B,90,Yes,5,Yes,Yes,6.76
+303,Advik Rastogi,Basic Electronics,27,23,50,D,89,Yes,2,No,No,6.76
+304,Anahi Goel,Mathematics-I,19,47,66,C,81,Yes,4,Yes,No,8.76
+304,Anahi Goel,Programming in C,25,22,47,D,85,Yes,5,No,No,8.76
+304,Anahi Goel,Engineering Physics,19,27,46,D,70,Yes,1,Yes,No,8.76
+304,Anahi Goel,English Communication,26,39,65,C,63,Yes,3,No,No,8.76
+304,Anahi Goel,Basic Electronics,16,52,68,C,78,Yes,1,No,No,8.76
+305,Sahil Sundaram,Mathematics-I,10,51,61,C,90,Yes,1,No,Yes,6.68
+305,Sahil Sundaram,Programming in C,20,38,58,C,75,Yes,4,No,No,6.68
+305,Sahil Sundaram,Engineering Physics,12,34,46,D,98,Yes,5,Yes,Yes,6.68
+305,Sahil Sundaram,English Communication,21,22,43,D,70,Yes,3,No,No,6.68
+305,Sahil Sundaram,Basic Electronics,14,59,73,B,96,Yes,3,Yes,Yes,6.68
+306,Emir Kapoor,Mathematics-I,28,66,94,A,74,Yes,4,No,Yes,6.76
+306,Emir Kapoor,Programming in C,10,26,36,F,62,No,4,No,No,6.76
+306,Emir Kapoor,Engineering Physics,25,69,94,A,81,Yes,4,No,No,6.76
+306,Emir Kapoor,English Communication,17,59,76,B,75,Yes,1,Yes,No,6.76
+306,Emir Kapoor,Basic Electronics,12,33,45,D,79,Yes,2,No,Yes,6.76
+307,Samarth Yogi,Mathematics-I,18,29,47,D,80,Yes,3,Yes,Yes,8.51
+307,Samarth Yogi,Programming in C,26,65,91,A,67,Yes,2,No,No,8.51
+307,Samarth Yogi,Engineering Physics,12,39,51,D,65,Yes,4,No,No,8.51
+307,Samarth Yogi,English Communication,30,27,57,C,71,Yes,4,Yes,No,8.51
+307,Samarth Yogi,Basic Electronics,17,25,42,D,64,Yes,4,Yes,No,8.51
+308,Anya Verma,Mathematics-I,12,22,34,F,91,No,3,No,No,7.19
+308,Anya Verma,Programming in C,15,29,44,D,65,Yes,4,Yes,No,7.19
+308,Anya Verma,Engineering Physics,15,60,75,B,80,Yes,4,Yes,No,7.19
+308,Anya Verma,English Communication,19,48,67,C,67,Yes,4,Yes,No,7.19
+308,Anya Verma,Basic Electronics,11,21,32,F,83,No,5,Yes,Yes,7.19
+309,Oorja Tata,Mathematics-I,19,58,77,B,87,Yes,1,No,Yes,7.09
+309,Oorja Tata,Programming in C,13,52,65,C,88,Yes,4,No,No,7.09
+309,Oorja Tata,Engineering Physics,28,32,60,C,79,Yes,1,Yes,No,7.09
+309,Oorja Tata,English Communication,18,54,72,B,77,Yes,3,Yes,Yes,7.09
+309,Oorja Tata,Basic Electronics,18,37,55,C,91,Yes,5,No,No,7.09
+310,Raghav Tripathi,Mathematics-I,24,29,53,D,61,Yes,3,No,No,7.8
+310,Raghav Tripathi,Programming in C,19,39,58,C,64,Yes,4,No,No,7.8
+310,Raghav Tripathi,Engineering Physics,28,69,97,A,85,Yes,4,Yes,No,7.8
+310,Raghav Tripathi,English Communication,21,42,63,C,93,Yes,3,No,Yes,7.8
+310,Raghav Tripathi,Basic Electronics,28,67,95,A,74,Yes,2,Yes,Yes,7.8
+311,Dhruv Din,Mathematics-I,18,53,71,B,68,Yes,3,No,No,9.46
+311,Dhruv Din,Programming in C,12,37,49,D,70,Yes,5,No,Yes,9.46
+311,Dhruv Din,Engineering Physics,19,21,40,D,70,Yes,4,Yes,Yes,9.46
+311,Dhruv Din,English Communication,25,66,91,A,67,Yes,4,No,Yes,9.46
+311,Dhruv Din,Basic Electronics,21,53,74,B,72,Yes,4,Yes,Yes,9.46
+312,Nitara Wason,Mathematics-I,18,28,46,D,65,Yes,3,Yes,No,9.35
+312,Nitara Wason,Programming in C,30,23,53,D,65,Yes,5,No,Yes,9.35
+312,Nitara Wason,Engineering Physics,30,53,83,B,95,Yes,3,Yes,Yes,9.35
+312,Nitara Wason,English Communication,14,39,53,D,94,Yes,1,Yes,Yes,9.35
+312,Nitara Wason,Basic Electronics,26,34,60,C,75,Yes,4,No,No,9.35
+313,Zoya Chakraborty,Mathematics-I,27,66,93,A,85,Yes,1,No,Yes,8.63
+313,Zoya Chakraborty,Programming in C,18,28,46,D,85,Yes,5,Yes,No,8.63
+313,Zoya Chakraborty,Engineering Physics,10,54,64,C,85,Yes,3,No,No,8.63
+313,Zoya Chakraborty,English Communication,20,44,64,C,93,Yes,4,No,Yes,8.63
+313,Zoya Chakraborty,Basic Electronics,13,52,65,C,93,Yes,4,No,Yes,8.63
+314,Sahil Grover,Mathematics-I,17,59,76,B,100,Yes,1,No,No,5.81
+314,Sahil Grover,Programming in C,25,48,73,B,92,Yes,3,No,Yes,5.81
+314,Sahil Grover,Engineering Physics,23,60,83,B,69,Yes,1,Yes,Yes,5.81
+314,Sahil Grover,English Communication,20,70,90,A,86,Yes,5,Yes,No,5.81
+314,Sahil Grover,Basic Electronics,16,47,63,C,96,Yes,4,Yes,Yes,5.81
+315,Jayan Borah,Mathematics-I,16,38,54,D,65,Yes,4,No,Yes,7.71
+315,Jayan Borah,Programming in C,13,69,82,B,66,Yes,1,No,Yes,7.71
+315,Jayan Borah,Engineering Physics,21,62,83,B,78,Yes,3,Yes,Yes,7.71
+315,Jayan Borah,English Communication,26,44,70,B,72,Yes,3,Yes,Yes,7.71
+315,Jayan Borah,Basic Electronics,21,35,56,C,77,Yes,4,No,No,7.71
+316,Ivan Koshy,Mathematics-I,19,41,60,C,81,Yes,4,Yes,Yes,8.9
+316,Ivan Koshy,Programming in C,30,38,68,C,75,Yes,1,Yes,Yes,8.9
+316,Ivan Koshy,Engineering Physics,28,24,52,D,82,Yes,2,No,Yes,8.9
+316,Ivan Koshy,English Communication,29,39,68,C,65,Yes,3,No,No,8.9
+316,Ivan Koshy,Basic Electronics,15,46,61,C,93,Yes,4,Yes,No,8.9
+317,Eshani Vyas,Mathematics-I,14,31,45,D,81,Yes,1,Yes,No,5.59
+317,Eshani Vyas,Programming in C,16,33,49,D,83,Yes,2,Yes,Yes,5.59
+317,Eshani Vyas,Engineering Physics,11,37,48,D,83,Yes,1,No,Yes,5.59
+317,Eshani Vyas,English Communication,12,37,49,D,70,Yes,1,Yes,No,5.59
+317,Eshani Vyas,Basic Electronics,12,21,33,F,95,No,4,No,No,5.59
+318,Drishya Butala,Mathematics-I,18,66,84,B,79,Yes,2,Yes,No,8.47
+318,Drishya Butala,Programming in C,21,59,80,B,62,Yes,2,Yes,Yes,8.47
+318,Drishya Butala,Engineering Physics,18,67,85,A,88,Yes,3,Yes,Yes,8.47
+318,Drishya Butala,English Communication,30,61,91,A,89,Yes,1,No,No,8.47
+318,Drishya Butala,Basic Electronics,10,32,42,D,83,Yes,1,No,No,8.47
+319,Zaina Loke,Mathematics-I,15,28,43,D,94,Yes,4,Yes,Yes,9.11
+319,Zaina Loke,Programming in C,21,30,51,D,94,Yes,2,Yes,Yes,9.11
+319,Zaina Loke,Engineering Physics,23,57,80,B,79,Yes,5,No,Yes,9.11
+319,Zaina Loke,English Communication,20,51,71,B,87,Yes,5,No,Yes,9.11
+319,Zaina Loke,Basic Electronics,28,55,83,B,99,Yes,4,Yes,No,9.11
+320,Shamik Bhardwaj,Mathematics-I,22,27,49,D,97,Yes,4,Yes,No,9.29
+320,Shamik Bhardwaj,Programming in C,20,63,83,B,97,Yes,4,No,No,9.29
+320,Shamik Bhardwaj,Engineering Physics,18,68,86,A,97,Yes,4,Yes,Yes,9.29
+320,Shamik Bhardwaj,English Communication,16,61,77,B,92,Yes,1,No,Yes,9.29
+320,Shamik Bhardwaj,Basic Electronics,13,56,69,C,93,Yes,2,No,Yes,9.29
+321,Kaira Kaul,Mathematics-I,12,23,35,F,78,No,4,Yes,No,8.08
+321,Kaira Kaul,Programming in C,14,33,47,D,100,Yes,4,Yes,Yes,8.08
+321,Kaira Kaul,Engineering Physics,11,60,71,B,91,Yes,3,No,No,8.08
+321,Kaira Kaul,English Communication,16,23,39,F,87,No,2,No,Yes,8.08
+321,Kaira Kaul,Basic Electronics,27,24,51,D,78,Yes,3,Yes,Yes,8.08
+322,Arnav Dey,Mathematics-I,27,22,49,D,74,Yes,4,Yes,Yes,9.65
+322,Arnav Dey,Programming in C,19,27,46,D,82,Yes,4,Yes,No,9.65
+322,Arnav Dey,Engineering Physics,30,38,68,C,66,Yes,2,Yes,No,9.65
+322,Arnav Dey,English Communication,24,59,83,B,83,Yes,3,Yes,Yes,9.65
+322,Arnav Dey,Basic Electronics,26,39,65,C,84,Yes,2,No,No,9.65
+323,Shanaya Bhatia,Mathematics-I,25,69,94,A,92,Yes,4,No,Yes,9.35
+323,Shanaya Bhatia,Programming in C,28,43,71,B,94,Yes,2,Yes,No,9.35
+323,Shanaya Bhatia,Engineering Physics,10,29,39,F,80,No,2,No,Yes,9.35
+323,Shanaya Bhatia,English Communication,10,30,40,D,90,Yes,5,No,Yes,9.35
+323,Shanaya Bhatia,Basic Electronics,24,49,73,B,100,Yes,2,No,No,9.35
+324,Emir Chahal,Mathematics-I,21,44,65,C,87,Yes,5,Yes,No,6.86
+324,Emir Chahal,Programming in C,12,52,64,C,100,Yes,3,No,No,6.86
+324,Emir Chahal,Engineering Physics,30,52,82,B,68,Yes,5,Yes,No,6.86
+324,Emir Chahal,English Communication,27,48,75,B,85,Yes,1,Yes,No,6.86
+324,Emir Chahal,Basic Electronics,12,46,58,C,94,Yes,2,No,Yes,6.86
+325,Mahika Kumar,Mathematics-I,19,27,46,D,62,Yes,3,Yes,No,7.23
+325,Mahika Kumar,Programming in C,20,41,61,C,93,Yes,3,Yes,No,7.23
+325,Mahika Kumar,Engineering Physics,16,67,83,B,73,Yes,1,Yes,Yes,7.23
+325,Mahika Kumar,English Communication,27,49,76,B,82,Yes,2,Yes,Yes,7.23
+325,Mahika Kumar,Basic Electronics,25,35,60,C,75,Yes,4,No,Yes,7.23
+326,Jayan Raval,Mathematics-I,28,61,89,A,94,Yes,2,No,No,5.54
+326,Jayan Raval,Programming in C,21,23,44,D,77,Yes,3,Yes,Yes,5.54
+326,Jayan Raval,Engineering Physics,23,27,50,D,72,Yes,3,No,No,5.54
+326,Jayan Raval,English Communication,13,56,69,C,66,Yes,5,No,No,5.54
+326,Jayan Raval,Basic Electronics,28,58,86,A,96,Yes,5,Yes,No,5.54
+327,Chirag Venkataraman,Mathematics-I,11,61,72,B,66,Yes,5,Yes,Yes,6.85
+327,Chirag Venkataraman,Programming in C,13,57,70,B,93,Yes,2,No,No,6.85
+327,Chirag Venkataraman,Engineering Physics,15,35,50,D,97,Yes,4,Yes,No,6.85
+327,Chirag Venkataraman,English Communication,12,39,51,D,75,Yes,5,No,No,6.85
+327,Chirag Venkataraman,Basic Electronics,24,40,64,C,91,Yes,2,No,Yes,6.85
+328,Alia Tak,Mathematics-I,22,33,55,C,84,Yes,2,No,Yes,6.62
+328,Alia Tak,Programming in C,16,36,52,D,73,Yes,4,Yes,Yes,6.62
+328,Alia Tak,Engineering Physics,16,60,76,B,60,Yes,1,No,No,6.62
+328,Alia Tak,English Communication,18,45,63,C,85,Yes,3,No,No,6.62
+328,Alia Tak,Basic Electronics,27,26,53,D,97,Yes,3,Yes,No,6.62
+329,Diya Konda,Mathematics-I,15,54,69,C,92,Yes,2,No,Yes,6.95
+329,Diya Konda,Programming in C,13,38,51,D,96,Yes,4,Yes,Yes,6.95
+329,Diya Konda,Engineering Physics,28,53,81,B,75,Yes,2,No,No,6.95
+329,Diya Konda,English Communication,11,35,46,D,72,Yes,4,No,No,6.95
+329,Diya Konda,Basic Electronics,29,36,65,C,90,Yes,4,Yes,Yes,6.95
+330,Dhanuk Apte,Mathematics-I,17,30,47,D,84,Yes,4,Yes,Yes,9.46
+330,Dhanuk Apte,Programming in C,24,57,81,B,79,Yes,2,Yes,No,9.46
+330,Dhanuk Apte,Engineering Physics,26,65,91,A,63,Yes,5,Yes,No,9.46
+330,Dhanuk Apte,English Communication,30,35,65,C,60,Yes,3,No,No,9.46
+330,Dhanuk Apte,Basic Electronics,22,25,47,D,82,Yes,2,No,Yes,9.46
+331,Prisha Badami,Mathematics-I,22,59,81,B,87,Yes,4,Yes,No,7.16
+331,Prisha Badami,Programming in C,17,38,55,C,96,Yes,4,No,No,7.16
+331,Prisha Badami,Engineering Physics,30,20,50,D,84,Yes,2,Yes,Yes,7.16
+331,Prisha Badami,English Communication,24,38,62,C,65,Yes,3,No,No,7.16
+331,Prisha Badami,Basic Electronics,15,22,37,F,68,No,4,Yes,No,7.16
+332,Bhamini Brar,Mathematics-I,17,60,77,B,70,Yes,3,No,No,5.21
+332,Bhamini Brar,Programming in C,25,54,79,B,88,Yes,1,Yes,No,5.21
+332,Bhamini Brar,Engineering Physics,15,54,69,C,83,Yes,2,No,Yes,5.21
+332,Bhamini Brar,English Communication,24,49,73,B,98,Yes,2,Yes,Yes,5.21
+332,Bhamini Brar,Basic Electronics,26,42,68,C,81,Yes,4,No,No,5.21
+333,Samiha Raja,Mathematics-I,28,63,91,A,86,Yes,3,No,Yes,6.59
+333,Samiha Raja,Programming in C,29,52,81,B,100,Yes,2,No,Yes,6.59
+333,Samiha Raja,Engineering Physics,10,44,54,D,60,Yes,2,Yes,No,6.59
+333,Samiha Raja,English Communication,17,32,49,D,97,Yes,4,No,Yes,6.59
+333,Samiha Raja,Basic Electronics,23,20,43,D,64,Yes,3,Yes,No,6.59
+334,Armaan Sathe,Mathematics-I,10,38,48,D,68,Yes,1,No,No,5.09
+334,Armaan Sathe,Programming in C,30,49,79,B,84,Yes,4,Yes,No,5.09
+334,Armaan Sathe,Engineering Physics,12,38,50,D,68,Yes,4,No,No,5.09
+334,Armaan Sathe,English Communication,24,44,68,C,63,Yes,2,Yes,Yes,5.09
+334,Armaan Sathe,Basic Electronics,23,47,70,B,79,Yes,2,Yes,Yes,5.09
+335,Vedika Goswami,Mathematics-I,21,37,58,C,96,Yes,1,No,Yes,7.78
+335,Vedika Goswami,Programming in C,23,44,67,C,84,Yes,2,Yes,No,7.78
+335,Vedika Goswami,Engineering Physics,14,53,67,C,79,Yes,5,Yes,Yes,7.78
+335,Vedika Goswami,English Communication,18,50,68,C,88,Yes,5,No,Yes,7.78
+335,Vedika Goswami,Basic Electronics,29,59,88,A,60,Yes,1,No,Yes,7.78
+336,Damini Baral,Mathematics-I,18,23,41,D,96,Yes,5,No,No,5.33
+336,Damini Baral,Programming in C,30,55,85,A,74,Yes,3,Yes,No,5.33
+336,Damini Baral,Engineering Physics,12,20,32,F,82,No,5,Yes,No,5.33
+336,Damini Baral,English Communication,24,62,86,A,67,Yes,2,No,Yes,5.33
+336,Damini Baral,Basic Electronics,12,33,45,D,96,Yes,5,No,No,5.33
+337,Indranil Batta,Mathematics-I,14,60,74,B,90,Yes,5,Yes,No,8.32
+337,Indranil Batta,Programming in C,18,27,45,D,81,Yes,4,No,No,8.32
+337,Indranil Batta,Engineering Physics,23,62,85,A,90,Yes,1,Yes,No,8.32
+337,Indranil Batta,English Communication,18,48,66,C,95,Yes,2,Yes,Yes,8.32
+337,Indranil Batta,Basic Electronics,16,45,61,C,66,Yes,1,Yes,Yes,8.32
+338,Zaina Shere,Mathematics-I,12,38,50,D,73,Yes,4,No,No,7.35
+338,Zaina Shere,Programming in C,29,40,69,C,80,Yes,1,Yes,Yes,7.35
+338,Zaina Shere,Engineering Physics,27,21,48,D,76,Yes,5,Yes,Yes,7.35
+338,Zaina Shere,English Communication,10,30,40,D,65,Yes,3,Yes,Yes,7.35
+338,Zaina Shere,Basic Electronics,30,45,75,B,77,Yes,3,Yes,Yes,7.35
+339,Ranbir Bora,Mathematics-I,11,66,77,B,70,Yes,2,Yes,Yes,6.35
+339,Ranbir Bora,Programming in C,30,22,52,D,73,Yes,3,Yes,Yes,6.35
+339,Ranbir Bora,Engineering Physics,17,45,62,C,83,Yes,3,Yes,Yes,6.35
+339,Ranbir Bora,English Communication,23,43,66,C,97,Yes,2,Yes,No,6.35
+339,Ranbir Bora,Basic Electronics,30,24,54,D,66,Yes,1,No,Yes,6.35
+340,Armaan Sarkar,Mathematics-I,16,20,36,F,88,No,1,No,Yes,9.66
+340,Armaan Sarkar,Programming in C,27,29,56,C,71,Yes,3,No,No,9.66
+340,Armaan Sarkar,Engineering Physics,17,33,50,D,75,Yes,5,No,Yes,9.66
+340,Armaan Sarkar,English Communication,14,41,55,C,97,Yes,5,No,Yes,9.66
+340,Armaan Sarkar,Basic Electronics,19,42,61,C,80,Yes,1,No,No,9.66
+341,Alisha Suri,Mathematics-I,30,44,74,B,97,Yes,2,No,Yes,7.36
+341,Alisha Suri,Programming in C,18,22,40,D,69,Yes,5,No,No,7.36
+341,Alisha Suri,Engineering Physics,28,32,60,C,91,Yes,5,No,No,7.36
+341,Alisha Suri,English Communication,24,27,51,D,81,Yes,3,Yes,No,7.36
+341,Alisha Suri,Basic Electronics,19,63,82,B,92,Yes,3,Yes,Yes,7.36
+342,Divyansh Raju,Mathematics-I,24,68,92,A,81,Yes,3,No,Yes,5.65
+342,Divyansh Raju,Programming in C,13,64,77,B,63,Yes,1,Yes,Yes,5.65
+342,Divyansh Raju,Engineering Physics,20,69,89,A,60,Yes,1,Yes,Yes,5.65
+342,Divyansh Raju,English Communication,24,42,66,C,88,Yes,4,Yes,Yes,5.65
+342,Divyansh Raju,Basic Electronics,29,58,87,A,100,Yes,4,No,No,5.65
+343,Kimaya Dara,Mathematics-I,16,48,64,C,71,Yes,4,No,No,9.63
+343,Kimaya Dara,Programming in C,21,55,76,B,61,Yes,1,No,Yes,9.63
+343,Kimaya Dara,Engineering Physics,13,58,71,B,83,Yes,1,Yes,Yes,9.63
+343,Kimaya Dara,English Communication,11,63,74,B,86,Yes,4,Yes,Yes,9.63
+343,Kimaya Dara,Basic Electronics,11,33,44,D,95,Yes,2,Yes,No,9.63
+344,Kiaan Upadhyay,Mathematics-I,14,38,52,D,86,Yes,3,Yes,Yes,7.04
+344,Kiaan Upadhyay,Programming in C,25,48,73,B,69,Yes,3,No,Yes,7.04
+344,Kiaan Upadhyay,Engineering Physics,14,47,61,C,70,Yes,5,Yes,Yes,7.04
+344,Kiaan Upadhyay,English Communication,17,20,37,F,61,No,3,No,No,7.04
+344,Kiaan Upadhyay,Basic Electronics,16,51,67,C,100,Yes,2,Yes,Yes,7.04
+345,Riaan Dass,Mathematics-I,22,47,69,C,77,Yes,5,No,No,6.57
+345,Riaan Dass,Programming in C,12,30,42,D,78,Yes,3,Yes,Yes,6.57
+345,Riaan Dass,Engineering Physics,19,42,61,C,74,Yes,1,Yes,Yes,6.57
+345,Riaan Dass,English Communication,23,59,82,B,82,Yes,1,No,No,6.57
+345,Riaan Dass,Basic Electronics,26,54,80,B,71,Yes,1,Yes,Yes,6.57
+346,Dharmajan Johal,Mathematics-I,26,63,89,A,67,Yes,4,No,No,9.84
+346,Dharmajan Johal,Programming in C,19,62,81,B,100,Yes,2,Yes,Yes,9.84
+346,Dharmajan Johal,Engineering Physics,26,61,87,A,89,Yes,1,Yes,Yes,9.84
+346,Dharmajan Johal,English Communication,19,48,67,C,97,Yes,1,Yes,Yes,9.84
+346,Dharmajan Johal,Basic Electronics,20,22,42,D,70,Yes,5,No,No,9.84
+347,Sumer Chada,Mathematics-I,30,35,65,C,82,Yes,3,No,No,8.26
+347,Sumer Chada,Programming in C,29,26,55,C,90,Yes,1,No,Yes,8.26
+347,Sumer Chada,Engineering Physics,13,41,54,D,69,Yes,5,No,No,8.26
+347,Sumer Chada,English Communication,23,25,48,D,82,Yes,1,Yes,Yes,8.26
+347,Sumer Chada,Basic Electronics,22,49,71,B,85,Yes,1,No,Yes,8.26
+348,Elakshi Sagar,Mathematics-I,29,55,84,B,93,Yes,4,Yes,Yes,8.16
+348,Elakshi Sagar,Programming in C,15,63,78,B,83,Yes,4,No,Yes,8.16
+348,Elakshi Sagar,Engineering Physics,30,61,91,A,97,Yes,3,Yes,Yes,8.16
+348,Elakshi Sagar,English Communication,15,27,42,D,70,Yes,4,Yes,No,8.16
+348,Elakshi Sagar,Basic Electronics,19,20,39,F,79,No,2,Yes,No,8.16
+349,Lakshit Kibe,Mathematics-I,10,27,37,F,62,No,4,No,No,5.58
+349,Lakshit Kibe,Programming in C,11,36,47,D,69,Yes,4,Yes,No,5.58
+349,Lakshit Kibe,Engineering Physics,21,69,90,A,75,Yes,3,Yes,Yes,5.58
+349,Lakshit Kibe,English Communication,19,51,70,B,85,Yes,3,No,Yes,5.58
+349,Lakshit Kibe,Basic Electronics,20,31,51,D,93,Yes,3,No,No,5.58
+350,Aaryahi Dewan,Mathematics-I,12,60,72,B,90,Yes,3,No,Yes,6.28
+350,Aaryahi Dewan,Programming in C,15,63,78,B,91,Yes,4,No,No,6.28
+350,Aaryahi Dewan,Engineering Physics,11,43,54,D,81,Yes,3,Yes,No,6.28
+350,Aaryahi Dewan,English Communication,18,53,71,B,89,Yes,5,No,No,6.28
+350,Aaryahi Dewan,Basic Electronics,28,67,95,A,65,Yes,1,No,Yes,6.28
+351,Emir Handa,Mathematics-I,29,41,70,B,93,Yes,3,No,Yes,5.27
+351,Emir Handa,Programming in C,20,31,51,D,84,Yes,3,Yes,No,5.27
+351,Emir Handa,Engineering Physics,26,45,71,B,60,Yes,1,No,Yes,5.27
+351,Emir Handa,English Communication,14,65,79,B,65,Yes,1,No,No,5.27
+351,Emir Handa,Basic Electronics,23,41,64,C,68,Yes,2,Yes,Yes,5.27
+352,Kartik Date,Mathematics-I,25,41,66,C,92,Yes,5,No,Yes,6.07
+352,Kartik Date,Programming in C,13,60,73,B,67,Yes,3,Yes,No,6.07
+352,Kartik Date,Engineering Physics,24,44,68,C,73,Yes,3,No,No,6.07
+352,Kartik Date,English Communication,16,22,38,F,87,No,2,Yes,Yes,6.07
+352,Kartik Date,Basic Electronics,10,20,30,F,82,No,2,Yes,Yes,6.07
+353,Zaina Bose,Mathematics-I,23,22,45,D,79,Yes,1,Yes,No,5.96
+353,Zaina Bose,Programming in C,28,30,58,C,96,Yes,2,Yes,Yes,5.96
+353,Zaina Bose,Engineering Physics,24,33,57,C,64,Yes,2,No,No,5.96
+353,Zaina Bose,English Communication,27,68,95,A,60,Yes,2,No,Yes,5.96
+353,Zaina Bose,Basic Electronics,26,44,70,B,92,Yes,2,No,No,5.96
+354,Arnav Chakraborty,Mathematics-I,17,36,53,D,97,Yes,5,No,Yes,9.54
+354,Arnav Chakraborty,Programming in C,16,26,42,D,74,Yes,5,Yes,Yes,9.54
+354,Arnav Chakraborty,Engineering Physics,17,49,66,C,77,Yes,1,No,No,9.54
+354,Arnav Chakraborty,English Communication,17,35,52,D,85,Yes,5,No,No,9.54
+354,Arnav Chakraborty,Basic Electronics,19,42,61,C,96,Yes,4,No,No,9.54
+355,Azad Chad,Mathematics-I,15,43,58,C,83,Yes,2,No,No,7.63
+355,Azad Chad,Programming in C,11,48,59,C,74,Yes,5,Yes,No,7.63
+355,Azad Chad,Engineering Physics,10,22,32,F,69,No,5,Yes,Yes,7.63
+355,Azad Chad,English Communication,17,68,85,A,97,Yes,2,Yes,No,7.63
+355,Azad Chad,Basic Electronics,23,25,48,D,70,Yes,3,No,No,7.63
+356,Anahi Bora,Mathematics-I,15,30,45,D,71,Yes,5,Yes,Yes,8.4
+356,Anahi Bora,Programming in C,29,47,76,B,74,Yes,3,Yes,Yes,8.4
+356,Anahi Bora,Engineering Physics,27,58,85,A,99,Yes,1,Yes,Yes,8.4
+356,Anahi Bora,English Communication,22,34,56,C,90,Yes,3,Yes,No,8.4
+356,Anahi Bora,Basic Electronics,24,63,87,A,83,Yes,4,Yes,No,8.4
+357,Kartik Soman,Mathematics-I,27,38,65,C,73,Yes,3,Yes,No,5.55
+357,Kartik Soman,Programming in C,12,34,46,D,75,Yes,1,No,Yes,5.55
+357,Kartik Soman,Engineering Physics,11,24,35,F,70,No,2,Yes,Yes,5.55
+357,Kartik Soman,English Communication,27,26,53,D,67,Yes,2,No,No,5.55
+357,Kartik Soman,Basic Electronics,26,33,59,C,71,Yes,5,No,No,5.55
+358,Mahika Sahni,Mathematics-I,26,69,95,A,93,Yes,4,Yes,Yes,8.21
+358,Mahika Sahni,Programming in C,25,34,59,C,81,Yes,3,Yes,Yes,8.21
+358,Mahika Sahni,Engineering Physics,18,35,53,D,72,Yes,4,No,No,8.21
+358,Mahika Sahni,English Communication,20,59,79,B,67,Yes,1,No,Yes,8.21
+358,Mahika Sahni,Basic Electronics,12,20,32,F,83,No,1,No,No,8.21
+359,Parinaaz Chauhan,Mathematics-I,27,66,93,A,99,Yes,4,No,No,7.26
+359,Parinaaz Chauhan,Programming in C,18,47,65,C,76,Yes,1,Yes,No,7.26
+359,Parinaaz Chauhan,Engineering Physics,19,47,66,C,86,Yes,2,No,No,7.26
+359,Parinaaz Chauhan,English Communication,18,29,47,D,66,Yes,4,No,Yes,7.26
+359,Parinaaz Chauhan,Basic Electronics,26,51,77,B,98,Yes,4,No,Yes,7.26
+360,Shlok Kannan,Mathematics-I,26,38,64,C,67,Yes,4,Yes,No,6.45
+360,Shlok Kannan,Programming in C,30,64,94,A,94,Yes,5,Yes,Yes,6.45
+360,Shlok Kannan,Engineering Physics,22,46,68,C,70,Yes,4,Yes,Yes,6.45
+360,Shlok Kannan,English Communication,22,54,76,B,69,Yes,3,No,Yes,6.45
+360,Shlok Kannan,Basic Electronics,26,61,87,A,94,Yes,5,Yes,Yes,6.45
+361,Uthkarsh Khare,Mathematics-I,24,21,45,D,68,Yes,5,No,No,6.16
+361,Uthkarsh Khare,Programming in C,12,30,42,D,88,Yes,2,Yes,Yes,6.16
+361,Uthkarsh Khare,Engineering Physics,15,31,46,D,94,Yes,2,No,Yes,6.16
+361,Uthkarsh Khare,English Communication,26,25,51,D,67,Yes,1,No,No,6.16
+361,Uthkarsh Khare,Basic Electronics,13,69,82,B,89,Yes,1,Yes,Yes,6.16
+362,Krish Thaker,Mathematics-I,26,25,51,D,95,Yes,1,Yes,No,6.02
+362,Krish Thaker,Programming in C,19,62,81,B,96,Yes,2,No,No,6.02
+362,Krish Thaker,Engineering Physics,29,53,82,B,91,Yes,5,Yes,Yes,6.02
+362,Krish Thaker,English Communication,25,64,89,A,71,Yes,1,Yes,No,6.02
+362,Krish Thaker,Basic Electronics,13,33,46,D,77,Yes,5,Yes,No,6.02
+363,Damini Gokhale,Mathematics-I,18,41,59,C,69,Yes,5,Yes,No,6.81
+363,Damini Gokhale,Programming in C,12,70,82,B,95,Yes,2,No,No,6.81
+363,Damini Gokhale,Engineering Physics,25,33,58,C,69,Yes,4,Yes,Yes,6.81
+363,Damini Gokhale,English Communication,23,47,70,B,74,Yes,5,Yes,Yes,6.81
+363,Damini Gokhale,Basic Electronics,22,42,64,C,64,Yes,4,Yes,No,6.81
+364,Nayantara Subramaniam,Mathematics-I,23,58,81,B,66,Yes,3,Yes,Yes,6.02
+364,Nayantara Subramaniam,Programming in C,16,28,44,D,76,Yes,3,Yes,No,6.02
+364,Nayantara Subramaniam,Engineering Physics,16,25,41,D,66,Yes,5,Yes,No,6.02
+364,Nayantara Subramaniam,English Communication,21,45,66,C,99,Yes,3,Yes,No,6.02
+364,Nayantara Subramaniam,Basic Electronics,16,54,70,B,74,Yes,1,No,Yes,6.02
+365,Shaan Sarma,Mathematics-I,13,58,71,B,98,Yes,3,No,Yes,9.31
+365,Shaan Sarma,Programming in C,28,30,58,C,92,Yes,5,No,No,9.31
+365,Shaan Sarma,Engineering Physics,16,57,73,B,68,Yes,4,Yes,Yes,9.31
+365,Shaan Sarma,English Communication,14,28,42,D,64,Yes,3,No,Yes,9.31
+365,Shaan Sarma,Basic Electronics,21,34,55,C,63,Yes,5,No,No,9.31
+366,Urvi Venkatesh,Mathematics-I,23,58,81,B,100,Yes,2,Yes,Yes,8.57
+366,Urvi Venkatesh,Programming in C,30,67,97,A,97,Yes,2,No,No,8.57
+366,Urvi Venkatesh,Engineering Physics,28,65,93,A,66,Yes,2,No,Yes,8.57
+366,Urvi Venkatesh,English Communication,16,65,81,B,80,Yes,2,No,No,8.57
+366,Urvi Venkatesh,Basic Electronics,10,47,57,C,78,Yes,1,Yes,No,8.57
+367,Taimur Vohra,Mathematics-I,23,57,80,B,88,Yes,3,No,Yes,8.02
+367,Taimur Vohra,Programming in C,15,51,66,C,68,Yes,2,Yes,No,8.02
+367,Taimur Vohra,Engineering Physics,21,38,59,C,93,Yes,4,No,No,8.02
+367,Taimur Vohra,English Communication,27,41,68,C,67,Yes,3,Yes,Yes,8.02
+367,Taimur Vohra,Basic Electronics,14,41,55,C,93,Yes,4,No,Yes,8.02
+368,Eva Singh,Mathematics-I,25,57,82,B,70,Yes,5,Yes,No,8.47
+368,Eva Singh,Programming in C,18,35,53,D,65,Yes,2,Yes,Yes,8.47
+368,Eva Singh,Engineering Physics,23,58,81,B,65,Yes,5,Yes,Yes,8.47
+368,Eva Singh,English Communication,10,32,42,D,86,Yes,5,No,No,8.47
+368,Eva Singh,Basic Electronics,26,55,81,B,76,Yes,1,Yes,No,8.47
+369,Aaryahi Garg,Mathematics-I,12,40,52,D,95,Yes,1,No,No,5.97
+369,Aaryahi Garg,Programming in C,16,29,45,D,78,Yes,5,Yes,No,5.97
+369,Aaryahi Garg,Engineering Physics,27,56,83,B,62,Yes,3,Yes,No,5.97
+369,Aaryahi Garg,English Communication,22,53,75,B,75,Yes,4,Yes,No,5.97
+369,Aaryahi Garg,Basic Electronics,19,22,41,D,70,Yes,5,No,Yes,5.97
+370,Shalv Walia,Mathematics-I,13,42,55,C,98,Yes,1,No,No,6.0
+370,Shalv Walia,Programming in C,23,63,86,A,66,Yes,5,Yes,Yes,6.0
+370,Shalv Walia,Engineering Physics,24,62,86,A,84,Yes,2,No,No,6.0
+370,Shalv Walia,English Communication,17,34,51,D,60,Yes,1,Yes,No,6.0
+370,Shalv Walia,Basic Electronics,12,43,55,C,83,Yes,5,Yes,Yes,6.0
+371,Ojas Garde,Mathematics-I,16,21,37,F,88,No,5,Yes,No,7.82
+371,Ojas Garde,Programming in C,26,27,53,D,66,Yes,3,Yes,Yes,7.82
+371,Ojas Garde,Engineering Physics,16,46,62,C,60,Yes,3,No,Yes,7.82
+371,Ojas Garde,English Communication,13,39,52,D,94,Yes,5,Yes,Yes,7.82
+371,Ojas Garde,Basic Electronics,25,47,72,B,90,Yes,5,Yes,Yes,7.82
+372,Tiya Gole,Mathematics-I,21,42,63,C,80,Yes,4,Yes,Yes,6.79
+372,Tiya Gole,Programming in C,28,68,96,A,68,Yes,5,Yes,Yes,6.79
+372,Tiya Gole,Engineering Physics,13,26,39,F,84,No,1,No,No,6.79
+372,Tiya Gole,English Communication,10,20,30,F,95,No,1,Yes,No,6.79
+372,Tiya Gole,Basic Electronics,25,30,55,C,88,Yes,5,Yes,Yes,6.79
+373,Abram Lanka,Mathematics-I,22,51,73,B,75,Yes,4,No,No,8.09
+373,Abram Lanka,Programming in C,21,28,49,D,79,Yes,3,No,No,8.09
+373,Abram Lanka,Engineering Physics,10,25,35,F,80,No,5,No,No,8.09
+373,Abram Lanka,English Communication,23,56,79,B,92,Yes,2,Yes,Yes,8.09
+373,Abram Lanka,Basic Electronics,17,70,87,A,97,Yes,3,Yes,Yes,8.09
+374,Anaya Dhillon,Mathematics-I,14,46,60,C,67,Yes,3,No,Yes,7.83
+374,Anaya Dhillon,Programming in C,19,60,79,B,61,Yes,3,No,No,7.83
+374,Anaya Dhillon,Engineering Physics,27,62,89,A,97,Yes,1,No,Yes,7.83
+374,Anaya Dhillon,English Communication,13,47,60,C,75,Yes,2,Yes,No,7.83
+374,Anaya Dhillon,Basic Electronics,11,65,76,B,74,Yes,2,Yes,Yes,7.83
+375,Renee Saraf,Mathematics-I,28,37,65,C,92,Yes,1,No,Yes,9.09
+375,Renee Saraf,Programming in C,30,40,70,B,82,Yes,2,No,Yes,9.09
+375,Renee Saraf,Engineering Physics,28,56,84,B,87,Yes,1,No,No,9.09
+375,Renee Saraf,English Communication,25,64,89,A,80,Yes,1,No,No,9.09
+375,Renee Saraf,Basic Electronics,22,23,45,D,98,Yes,2,Yes,No,9.09
+376,Pari Chad,Mathematics-I,15,40,55,C,60,Yes,3,Yes,No,5.75
+376,Pari Chad,Programming in C,30,31,61,C,73,Yes,3,Yes,No,5.75
+376,Pari Chad,Engineering Physics,27,47,74,B,65,Yes,4,No,No,5.75
+376,Pari Chad,English Communication,15,67,82,B,71,Yes,3,No,No,5.75
+376,Pari Chad,Basic Electronics,18,48,66,C,93,Yes,5,No,Yes,5.75
+377,Nakul Dey,Mathematics-I,19,53,72,B,88,Yes,1,Yes,Yes,7.54
+377,Nakul Dey,Programming in C,17,45,62,C,66,Yes,3,No,No,7.54
+377,Nakul Dey,Engineering Physics,26,20,46,D,65,Yes,1,No,No,7.54
+377,Nakul Dey,English Communication,26,58,84,B,74,Yes,3,Yes,Yes,7.54
+377,Nakul Dey,Basic Electronics,15,61,76,B,88,Yes,5,No,No,7.54
+378,Samarth Korpal,Mathematics-I,28,55,83,B,66,Yes,2,Yes,No,8.43
+378,Samarth Korpal,Programming in C,14,64,78,B,77,Yes,5,Yes,No,8.43
+378,Samarth Korpal,Engineering Physics,20,49,69,C,62,Yes,4,Yes,No,8.43
+378,Samarth Korpal,English Communication,23,58,81,B,98,Yes,4,Yes,No,8.43
+378,Samarth Korpal,Basic Electronics,27,30,57,C,90,Yes,2,No,No,8.43
+379,Badal Raj,Mathematics-I,24,26,50,D,65,Yes,5,Yes,Yes,5.49
+379,Badal Raj,Programming in C,27,44,71,B,64,Yes,5,Yes,No,5.49
+379,Badal Raj,Engineering Physics,24,30,54,D,69,Yes,4,Yes,Yes,5.49
+379,Badal Raj,English Communication,14,27,41,D,88,Yes,5,Yes,No,5.49
+379,Badal Raj,Basic Electronics,12,47,59,C,85,Yes,2,No,Yes,5.49
+380,Manikya Raval,Mathematics-I,25,52,77,B,91,Yes,1,Yes,No,6.76
+380,Manikya Raval,Programming in C,14,65,79,B,99,Yes,5,Yes,No,6.76
+380,Manikya Raval,Engineering Physics,22,27,49,D,91,Yes,1,Yes,Yes,6.76
+380,Manikya Raval,English Communication,20,20,40,D,83,Yes,1,Yes,Yes,6.76
+380,Manikya Raval,Basic Electronics,15,52,67,C,61,Yes,1,Yes,Yes,6.76
+381,Ranbir Deol,Mathematics-I,22,69,91,A,85,Yes,1,No,No,8.97
+381,Ranbir Deol,Programming in C,12,25,37,F,94,No,5,No,No,8.97
+381,Ranbir Deol,Engineering Physics,29,20,49,D,98,Yes,5,No,Yes,8.97
+381,Ranbir Deol,English Communication,16,24,40,D,79,Yes,4,Yes,Yes,8.97
+381,Ranbir Deol,Basic Electronics,16,22,38,F,84,No,1,Yes,Yes,8.97
+382,Aaryahi Agrawal,Mathematics-I,18,54,72,B,93,Yes,1,Yes,Yes,6.0
+382,Aaryahi Agrawal,Programming in C,20,29,49,D,98,Yes,4,Yes,Yes,6.0
+382,Aaryahi Agrawal,Engineering Physics,13,56,69,C,99,Yes,2,Yes,No,6.0
+382,Aaryahi Agrawal,English Communication,20,65,85,A,77,Yes,5,Yes,Yes,6.0
+382,Aaryahi Agrawal,Basic Electronics,28,67,95,A,80,Yes,1,Yes,Yes,6.0
+383,Lakshay Chad,Mathematics-I,14,25,39,F,97,No,4,Yes,Yes,9.08
+383,Lakshay Chad,Programming in C,19,49,68,C,97,Yes,4,No,No,9.08
+383,Lakshay Chad,Engineering Physics,24,23,47,D,60,Yes,4,No,Yes,9.08
+383,Lakshay Chad,English Communication,13,63,76,B,91,Yes,4,No,Yes,9.08
+383,Lakshay Chad,Basic Electronics,19,51,70,B,67,Yes,3,No,Yes,9.08
+384,Shanaya Rau,Mathematics-I,24,61,85,A,87,Yes,1,Yes,No,8.33
+384,Shanaya Rau,Programming in C,12,20,32,F,66,No,2,No,Yes,8.33
+384,Shanaya Rau,Engineering Physics,12,56,68,C,88,Yes,4,No,No,8.33
+384,Shanaya Rau,English Communication,28,46,74,B,89,Yes,1,No,No,8.33
+384,Shanaya Rau,Basic Electronics,12,23,35,F,60,No,1,Yes,No,8.33
+385,Seher Bhandari,Mathematics-I,21,25,46,D,94,Yes,4,Yes,No,7.0
+385,Seher Bhandari,Programming in C,27,55,82,B,82,Yes,1,No,No,7.0
+385,Seher Bhandari,Engineering Physics,12,31,43,D,96,Yes,4,No,Yes,7.0
+385,Seher Bhandari,English Communication,22,57,79,B,91,Yes,5,No,Yes,7.0
+385,Seher Bhandari,Basic Electronics,12,25,37,F,100,No,3,Yes,Yes,7.0
+386,Divit Johal,Mathematics-I,14,43,57,C,75,Yes,5,No,No,7.4
+386,Divit Johal,Programming in C,13,65,78,B,88,Yes,2,No,Yes,7.4
+386,Divit Johal,Engineering Physics,27,37,64,C,86,Yes,4,No,Yes,7.4
+386,Divit Johal,English Communication,12,21,33,F,73,No,4,Yes,No,7.4
+386,Divit Johal,Basic Electronics,15,51,66,C,65,Yes,4,No,Yes,7.4
+387,Nishith Yohannan,Mathematics-I,26,41,67,C,61,Yes,3,Yes,No,5.52
+387,Nishith Yohannan,Programming in C,20,27,47,D,66,Yes,1,Yes,No,5.52
+387,Nishith Yohannan,Engineering Physics,17,44,61,C,75,Yes,5,No,No,5.52
+387,Nishith Yohannan,English Communication,12,55,67,C,62,Yes,2,No,No,5.52
+387,Nishith Yohannan,Basic Electronics,13,57,70,B,82,Yes,1,No,Yes,5.52
+388,Rania Dasgupta,Mathematics-I,29,60,89,A,93,Yes,3,No,Yes,9.88
+388,Rania Dasgupta,Programming in C,25,47,72,B,65,Yes,1,Yes,No,9.88
+388,Rania Dasgupta,Engineering Physics,14,53,67,C,77,Yes,1,Yes,Yes,9.88
+388,Rania Dasgupta,English Communication,22,46,68,C,79,Yes,1,No,Yes,9.88
+388,Rania Dasgupta,Basic Electronics,16,56,72,B,69,Yes,2,Yes,No,9.88
+389,Hunar Ratta,Mathematics-I,27,44,71,B,74,Yes,4,No,No,7.56
+389,Hunar Ratta,Programming in C,25,60,85,A,85,Yes,1,No,Yes,7.56
+389,Hunar Ratta,Engineering Physics,21,37,58,C,99,Yes,2,Yes,Yes,7.56
+389,Hunar Ratta,English Communication,29,54,83,B,80,Yes,2,Yes,Yes,7.56
+389,Hunar Ratta,Basic Electronics,25,36,61,C,64,Yes,1,No,Yes,7.56
+390,Aarush Jaggi,Mathematics-I,10,25,35,F,67,No,4,No,No,7.64
+390,Aarush Jaggi,Programming in C,15,63,78,B,98,Yes,1,Yes,No,7.64
+390,Aarush Jaggi,Engineering Physics,23,42,65,C,83,Yes,2,Yes,Yes,7.64
+390,Aarush Jaggi,English Communication,24,45,69,C,68,Yes,3,No,Yes,7.64
+390,Aarush Jaggi,Basic Electronics,21,25,46,D,95,Yes,4,Yes,No,7.64
+391,Sara Chhabra,Mathematics-I,10,35,45,D,79,Yes,4,No,No,5.14
+391,Sara Chhabra,Programming in C,30,21,51,D,78,Yes,1,No,Yes,5.14
+391,Sara Chhabra,Engineering Physics,24,66,90,A,60,Yes,3,No,Yes,5.14
+391,Sara Chhabra,English Communication,23,21,44,D,80,Yes,1,Yes,Yes,5.14
+391,Sara Chhabra,Basic Electronics,21,31,52,D,83,Yes,1,No,Yes,5.14
+392,Indrajit Kurian,Mathematics-I,18,40,58,C,98,Yes,1,Yes,Yes,6.85
+392,Indrajit Kurian,Programming in C,10,22,32,F,71,No,2,Yes,Yes,6.85
+392,Indrajit Kurian,Engineering Physics,25,25,50,D,78,Yes,1,Yes,Yes,6.85
+392,Indrajit Kurian,English Communication,15,64,79,B,100,Yes,2,Yes,Yes,6.85
+392,Indrajit Kurian,Basic Electronics,29,26,55,C,77,Yes,4,No,No,6.85
+393,Jiya Desai,Mathematics-I,15,37,52,D,86,Yes,4,No,No,6.46
+393,Jiya Desai,Programming in C,14,70,84,B,78,Yes,1,Yes,No,6.46
+393,Jiya Desai,Engineering Physics,22,30,52,D,95,Yes,4,No,No,6.46
+393,Jiya Desai,English Communication,11,61,72,B,65,Yes,1,No,No,6.46
+393,Jiya Desai,Basic Electronics,29,36,65,C,62,Yes,4,Yes,No,6.46
+394,Gokul Kanda,Mathematics-I,19,34,53,D,77,Yes,3,Yes,Yes,7.99
+394,Gokul Kanda,Programming in C,12,67,79,B,80,Yes,4,Yes,Yes,7.99
+394,Gokul Kanda,Engineering Physics,23,35,58,C,77,Yes,1,Yes,No,7.99
+394,Gokul Kanda,English Communication,25,26,51,D,60,Yes,5,Yes,No,7.99
+394,Gokul Kanda,Basic Electronics,19,27,46,D,69,Yes,1,No,Yes,7.99
+395,Pari Jha,Mathematics-I,28,63,91,A,60,Yes,1,Yes,Yes,6.99
+395,Pari Jha,Programming in C,10,61,71,B,78,Yes,2,Yes,No,6.99
+395,Pari Jha,Engineering Physics,11,22,33,F,60,No,4,No,Yes,6.99
+395,Pari Jha,English Communication,25,62,87,A,71,Yes,2,Yes,No,6.99
+395,Pari Jha,Basic Electronics,28,65,93,A,60,Yes,5,No,Yes,6.99
+396,Advik Sahni,Mathematics-I,12,20,32,F,81,No,4,Yes,No,8.71
+396,Advik Sahni,Programming in C,16,53,69,C,75,Yes,2,No,No,8.71
+396,Advik Sahni,Engineering Physics,12,57,69,C,99,Yes,1,No,Yes,8.71
+396,Advik Sahni,English Communication,18,45,63,C,99,Yes,5,Yes,No,8.71
+396,Advik Sahni,Basic Electronics,24,23,47,D,85,Yes,3,Yes,No,8.71
+397,Faiyaz Sanghvi,Mathematics-I,29,53,82,B,88,Yes,5,Yes,No,5.29
+397,Faiyaz Sanghvi,Programming in C,17,59,76,B,89,Yes,4,No,No,5.29
+397,Faiyaz Sanghvi,Engineering Physics,11,67,78,B,76,Yes,4,No,No,5.29
+397,Faiyaz Sanghvi,English Communication,28,41,69,C,60,Yes,1,Yes,Yes,5.29
+397,Faiyaz Sanghvi,Basic Electronics,21,24,45,D,63,Yes,3,No,Yes,5.29
+398,Hansh Krish,Mathematics-I,12,31,43,D,96,Yes,4,Yes,Yes,5.53
+398,Hansh Krish,Programming in C,27,63,90,A,74,Yes,2,Yes,Yes,5.53
+398,Hansh Krish,Engineering Physics,23,55,78,B,95,Yes,2,No,Yes,5.53
+398,Hansh Krish,English Communication,19,25,44,D,60,Yes,2,Yes,No,5.53
+398,Hansh Krish,Basic Electronics,25,62,87,A,70,Yes,2,Yes,Yes,5.53
+399,Vihaan Dugar,Mathematics-I,11,43,54,D,69,Yes,1,Yes,No,9.59
+399,Vihaan Dugar,Programming in C,23,26,49,D,95,Yes,3,Yes,Yes,9.59
+399,Vihaan Dugar,Engineering Physics,10,40,50,D,73,Yes,2,No,No,9.59
+399,Vihaan Dugar,English Communication,23,30,53,D,84,Yes,5,No,Yes,9.59
+399,Vihaan Dugar,Basic Electronics,18,57,75,B,74,Yes,4,Yes,No,9.59
+400,Anahi Gera,Mathematics-I,30,68,98,A,62,Yes,4,Yes,No,7.14
+400,Anahi Gera,Programming in C,25,61,86,A,79,Yes,1,No,Yes,7.14
+400,Anahi Gera,Engineering Physics,26,23,49,D,84,Yes,2,Yes,Yes,7.14
+400,Anahi Gera,English Communication,10,60,70,B,93,Yes,5,No,Yes,7.14
+400,Anahi Gera,Basic Electronics,15,21,36,F,75,No,4,Yes,No,7.14
+401,Nirvi Sha,Mathematics-I,18,32,50,D,90,Yes,5,Yes,Yes,5.66
+401,Nirvi Sha,Programming in C,28,70,98,A,91,Yes,1,No,No,5.66
+401,Nirvi Sha,Engineering Physics,18,48,66,C,89,Yes,3,No,Yes,5.66
+401,Nirvi Sha,English Communication,28,43,71,B,96,Yes,3,No,Yes,5.66
+401,Nirvi Sha,Basic Electronics,23,42,65,C,79,Yes,1,Yes,Yes,5.66
+402,Vritika Wadhwa,Mathematics-I,18,26,44,D,76,Yes,5,No,No,8.51
+402,Vritika Wadhwa,Programming in C,22,56,78,B,75,Yes,3,No,Yes,8.51
+402,Vritika Wadhwa,Engineering Physics,22,48,70,B,73,Yes,1,No,Yes,8.51
+402,Vritika Wadhwa,English Communication,11,60,71,B,64,Yes,2,Yes,Yes,8.51
+402,Vritika Wadhwa,Basic Electronics,24,28,52,D,72,Yes,2,Yes,No,8.51
+403,Ayesha Deshmukh,Mathematics-I,15,66,81,B,95,Yes,1,Yes,Yes,5.87
+403,Ayesha Deshmukh,Programming in C,20,68,88,A,62,Yes,2,No,No,5.87
+403,Ayesha Deshmukh,Engineering Physics,23,42,65,C,87,Yes,2,Yes,No,5.87
+403,Ayesha Deshmukh,English Communication,16,35,51,D,80,Yes,5,Yes,No,5.87
+403,Ayesha Deshmukh,Basic Electronics,24,47,71,B,71,Yes,5,Yes,No,5.87
+404,Yakshit Konda,Mathematics-I,14,53,67,C,92,Yes,5,Yes,Yes,7.87
+404,Yakshit Konda,Programming in C,12,24,36,F,94,No,4,Yes,No,7.87
+404,Yakshit Konda,Engineering Physics,18,38,56,C,87,Yes,2,Yes,Yes,7.87
+404,Yakshit Konda,English Communication,28,69,97,A,81,Yes,2,Yes,No,7.87
+404,Yakshit Konda,Basic Electronics,14,59,73,B,81,Yes,3,No,Yes,7.87
+405,Krish Varkey,Mathematics-I,10,38,48,D,82,Yes,5,Yes,Yes,7.57
+405,Krish Varkey,Programming in C,13,68,81,B,61,Yes,4,Yes,Yes,7.57
+405,Krish Varkey,Engineering Physics,18,46,64,C,68,Yes,1,No,No,7.57
+405,Krish Varkey,English Communication,22,37,59,C,87,Yes,5,Yes,Yes,7.57
+405,Krish Varkey,Basic Electronics,20,66,86,A,96,Yes,4,No,No,7.57
+406,Darshit Khalsa,Mathematics-I,16,49,65,C,98,Yes,1,Yes,No,5.99
+406,Darshit Khalsa,Programming in C,30,33,63,C,63,Yes,5,Yes,No,5.99
+406,Darshit Khalsa,Engineering Physics,26,51,77,B,67,Yes,1,Yes,Yes,5.99
+406,Darshit Khalsa,English Communication,17,44,61,C,81,Yes,2,No,No,5.99
+406,Darshit Khalsa,Basic Electronics,25,63,88,A,69,Yes,1,Yes,No,5.99
+407,Inaaya  Chaudhry,Mathematics-I,30,45,75,B,73,Yes,1,No,Yes,7.9
+407,Inaaya  Chaudhry,Programming in C,26,36,62,C,71,Yes,1,No,No,7.9
+407,Inaaya  Chaudhry,Engineering Physics,22,26,48,D,73,Yes,2,No,Yes,7.9
+407,Inaaya  Chaudhry,English Communication,10,38,48,D,93,Yes,4,Yes,No,7.9
+407,Inaaya  Chaudhry,Basic Electronics,15,56,71,B,94,Yes,4,Yes,Yes,7.9
+408,Ayesha Date,Mathematics-I,16,30,46,D,64,Yes,5,No,Yes,9.61
+408,Ayesha Date,Programming in C,17,35,52,D,88,Yes,3,No,No,9.61
+408,Ayesha Date,Engineering Physics,21,31,52,D,78,Yes,5,No,No,9.61
+408,Ayesha Date,English Communication,17,38,55,C,72,Yes,3,Yes,No,9.61
+408,Ayesha Date,Basic Electronics,24,55,79,B,92,Yes,1,No,No,9.61
+409,Diya Bala,Mathematics-I,14,45,59,C,98,Yes,5,No,Yes,8.89
+409,Diya Bala,Programming in C,25,60,85,A,70,Yes,3,Yes,Yes,8.89
+409,Diya Bala,Engineering Physics,30,37,67,C,88,Yes,4,No,No,8.89
+409,Diya Bala,English Communication,19,22,41,D,87,Yes,2,No,Yes,8.89
+409,Diya Bala,Basic Electronics,25,50,75,B,71,Yes,1,No,No,8.89
+410,Armaan Gulati,Mathematics-I,28,44,72,B,68,Yes,5,Yes,Yes,5.09
+410,Armaan Gulati,Programming in C,21,55,76,B,68,Yes,4,Yes,Yes,5.09
+410,Armaan Gulati,Engineering Physics,27,39,66,C,77,Yes,2,Yes,Yes,5.09
+410,Armaan Gulati,English Communication,17,68,85,A,84,Yes,3,No,No,5.09
+410,Armaan Gulati,Basic Electronics,14,46,60,C,94,Yes,3,No,Yes,5.09
+411,Amira Batra,Mathematics-I,15,30,45,D,84,Yes,2,No,Yes,8.6
+411,Amira Batra,Programming in C,21,54,75,B,60,Yes,3,No,No,8.6
+411,Amira Batra,Engineering Physics,12,50,62,C,75,Yes,2,No,Yes,8.6
+411,Amira Batra,English Communication,23,24,47,D,80,Yes,2,Yes,No,8.6
+411,Amira Batra,Basic Electronics,27,53,80,B,90,Yes,1,No,No,8.6
+412,Drishya Tripathi,Mathematics-I,28,39,67,C,99,Yes,5,No,Yes,8.78
+412,Drishya Tripathi,Programming in C,16,45,61,C,70,Yes,1,Yes,Yes,8.78
+412,Drishya Tripathi,Engineering Physics,28,32,60,C,69,Yes,2,Yes,No,8.78
+412,Drishya Tripathi,English Communication,16,26,42,D,93,Yes,5,No,No,8.78
+412,Drishya Tripathi,Basic Electronics,20,36,56,C,85,Yes,4,Yes,No,8.78
+413,Taran Bandi,Mathematics-I,15,30,45,D,75,Yes,1,No,Yes,6.35
+413,Taran Bandi,Programming in C,21,64,85,A,67,Yes,1,No,No,6.35
+413,Taran Bandi,Engineering Physics,29,58,87,A,92,Yes,5,Yes,Yes,6.35
+413,Taran Bandi,English Communication,16,55,71,B,75,Yes,1,Yes,Yes,6.35
+413,Taran Bandi,Basic Electronics,29,41,70,B,65,Yes,1,Yes,No,6.35
+414,Vritika Majumdar,Mathematics-I,23,31,54,D,89,Yes,5,Yes,No,8.89
+414,Vritika Majumdar,Programming in C,18,69,87,A,91,Yes,3,Yes,Yes,8.89
+414,Vritika Majumdar,Engineering Physics,17,29,46,D,85,Yes,2,Yes,No,8.89
+414,Vritika Majumdar,English Communication,26,20,46,D,83,Yes,5,No,No,8.89
+414,Vritika Majumdar,Basic Electronics,24,41,65,C,89,Yes,5,Yes,No,8.89
+415,Jayant Bora,Mathematics-I,17,30,47,D,91,Yes,4,Yes,Yes,6.0
+415,Jayant Bora,Programming in C,16,53,69,C,80,Yes,1,Yes,No,6.0
+415,Jayant Bora,Engineering Physics,19,43,62,C,82,Yes,5,No,Yes,6.0
+415,Jayant Bora,English Communication,19,42,61,C,91,Yes,4,Yes,No,6.0
+415,Jayant Bora,Basic Electronics,26,25,51,D,90,Yes,4,Yes,No,6.0
+416,Ishita Sundaram,Mathematics-I,22,63,85,A,66,Yes,1,No,Yes,8.99
+416,Ishita Sundaram,Programming in C,15,58,73,B,91,Yes,3,No,Yes,8.99
+416,Ishita Sundaram,Engineering Physics,20,53,73,B,69,Yes,2,Yes,No,8.99
+416,Ishita Sundaram,English Communication,17,36,53,D,62,Yes,2,No,Yes,8.99
+416,Ishita Sundaram,Basic Electronics,20,56,76,B,77,Yes,4,Yes,No,8.99
+417,Hazel Butala,Mathematics-I,29,26,55,C,79,Yes,3,Yes,No,9.69
+417,Hazel Butala,Programming in C,30,42,72,B,84,Yes,4,No,Yes,9.69
+417,Hazel Butala,Engineering Physics,30,61,91,A,86,Yes,2,No,No,9.69
+417,Hazel Butala,English Communication,27,49,76,B,91,Yes,4,Yes,Yes,9.69
+417,Hazel Butala,Basic Electronics,14,49,63,C,90,Yes,3,Yes,No,9.69
+418,Jayant Ravel,Mathematics-I,23,35,58,C,96,Yes,5,No,Yes,6.89
+418,Jayant Ravel,Programming in C,24,33,57,C,65,Yes,3,No,No,6.89
+418,Jayant Ravel,Engineering Physics,25,50,75,B,93,Yes,2,Yes,Yes,6.89
+418,Jayant Ravel,English Communication,23,58,81,B,62,Yes,5,No,Yes,6.89
+418,Jayant Ravel,Basic Electronics,27,28,55,C,78,Yes,2,No,No,6.89
+419,Anya Brar,Mathematics-I,27,39,66,C,68,Yes,1,Yes,No,8.99
+419,Anya Brar,Programming in C,26,35,61,C,64,Yes,3,Yes,No,8.99
+419,Anya Brar,Engineering Physics,14,20,34,F,68,No,4,No,Yes,8.99
+419,Anya Brar,English Communication,10,33,43,D,79,Yes,4,Yes,No,8.99
+419,Anya Brar,Basic Electronics,10,51,61,C,87,Yes,4,No,Yes,8.99
+420,Zain Rattan,Mathematics-I,22,42,64,C,70,Yes,1,Yes,Yes,7.53
+420,Zain Rattan,Programming in C,11,39,50,D,95,Yes,2,Yes,No,7.53
+420,Zain Rattan,Engineering Physics,12,51,63,C,71,Yes,2,Yes,Yes,7.53
+420,Zain Rattan,English Communication,29,36,65,C,61,Yes,2,Yes,No,7.53
+420,Zain Rattan,Basic Electronics,17,54,71,B,83,Yes,4,Yes,No,7.53
+421,Vardaniya Sandal,Mathematics-I,14,52,66,C,62,Yes,4,No,Yes,5.17
+421,Vardaniya Sandal,Programming in C,25,56,81,B,76,Yes,2,Yes,Yes,5.17
+421,Vardaniya Sandal,Engineering Physics,14,48,62,C,97,Yes,1,Yes,Yes,5.17
+421,Vardaniya Sandal,English Communication,21,65,86,A,74,Yes,2,No,No,5.17
+421,Vardaniya Sandal,Basic Electronics,15,67,82,B,68,Yes,2,No,Yes,5.17
+422,Damini Andra,Mathematics-I,12,43,55,C,75,Yes,4,No,No,6.15
+422,Damini Andra,Programming in C,14,57,71,B,64,Yes,1,Yes,No,6.15
+422,Damini Andra,Engineering Physics,16,37,53,D,72,Yes,5,Yes,No,6.15
+422,Damini Andra,English Communication,15,36,51,D,83,Yes,3,Yes,Yes,6.15
+422,Damini Andra,Basic Electronics,29,60,89,A,77,Yes,1,Yes,No,6.15
+423,Stuvan Shroff,Mathematics-I,20,43,63,C,100,Yes,3,No,No,5.74
+423,Stuvan Shroff,Programming in C,25,64,89,A,97,Yes,4,No,Yes,5.74
+423,Stuvan Shroff,Engineering Physics,28,65,93,A,74,Yes,2,No,No,5.74
+423,Stuvan Shroff,English Communication,22,28,50,D,82,Yes,3,No,Yes,5.74
+423,Stuvan Shroff,Basic Electronics,23,40,63,C,70,Yes,1,No,No,5.74
+424,Manjari Bumb,Mathematics-I,27,54,81,B,82,Yes,1,No,No,7.81
+424,Manjari Bumb,Programming in C,29,33,62,C,79,Yes,5,Yes,No,7.81
+424,Manjari Bumb,Engineering Physics,25,37,62,C,65,Yes,5,Yes,No,7.81
+424,Manjari Bumb,English Communication,25,30,55,C,79,Yes,3,No,Yes,7.81
+424,Manjari Bumb,Basic Electronics,10,67,77,B,67,Yes,1,Yes,Yes,7.81
+425,Raunak Virk,Mathematics-I,20,45,65,C,84,Yes,3,No,No,5.12
+425,Raunak Virk,Programming in C,18,37,55,C,87,Yes,1,No,No,5.12
+425,Raunak Virk,Engineering Physics,29,25,54,D,92,Yes,1,No,No,5.12
+425,Raunak Virk,English Communication,25,26,51,D,77,Yes,1,Yes,No,5.12
+425,Raunak Virk,Basic Electronics,16,45,61,C,81,Yes,4,Yes,Yes,5.12
+426,Tiya Iyer,Mathematics-I,16,22,38,F,72,No,5,No,No,5.3
+426,Tiya Iyer,Programming in C,11,46,57,C,65,Yes,3,No,Yes,5.3
+426,Tiya Iyer,Engineering Physics,22,68,90,A,60,Yes,2,No,Yes,5.3
+426,Tiya Iyer,English Communication,15,52,67,C,97,Yes,2,Yes,Yes,5.3
+426,Tiya Iyer,Basic Electronics,29,54,83,B,94,Yes,1,No,No,5.3
+427,Nitya Chaudhuri,Mathematics-I,21,52,73,B,92,Yes,5,No,No,8.9
+427,Nitya Chaudhuri,Programming in C,10,58,68,C,99,Yes,3,Yes,Yes,8.9
+427,Nitya Chaudhuri,Engineering Physics,17,42,59,C,78,Yes,5,Yes,Yes,8.9
+427,Nitya Chaudhuri,English Communication,15,33,48,D,78,Yes,2,Yes,No,8.9
+427,Nitya Chaudhuri,Basic Electronics,27,36,63,C,89,Yes,5,No,Yes,8.9
+428,Vedika Kalita,Mathematics-I,19,57,76,B,62,Yes,1,No,No,8.2
+428,Vedika Kalita,Programming in C,26,31,57,C,76,Yes,5,Yes,Yes,8.2
+428,Vedika Kalita,Engineering Physics,12,43,55,C,82,Yes,1,No,Yes,8.2
+428,Vedika Kalita,English Communication,22,55,77,B,78,Yes,5,No,Yes,8.2
+428,Vedika Kalita,Basic Electronics,30,44,74,B,82,Yes,1,No,No,8.2
+429,Suhana Datta,Mathematics-I,24,44,68,C,60,Yes,4,No,Yes,8.79
+429,Suhana Datta,Programming in C,29,31,60,C,87,Yes,2,No,No,8.79
+429,Suhana Datta,Engineering Physics,21,34,55,C,76,Yes,5,No,Yes,8.79
+429,Suhana Datta,English Communication,18,49,67,C,60,Yes,4,No,No,8.79
+429,Suhana Datta,Basic Electronics,21,44,65,C,78,Yes,1,Yes,Yes,8.79
+430,Kiara Goel,Mathematics-I,18,47,65,C,87,Yes,2,No,Yes,5.97
+430,Kiara Goel,Programming in C,29,28,57,C,87,Yes,4,Yes,No,5.97
+430,Kiara Goel,Engineering Physics,27,40,67,C,97,Yes,1,No,No,5.97
+430,Kiara Goel,English Communication,28,38,66,C,85,Yes,5,No,No,5.97
+430,Kiara Goel,Basic Electronics,17,67,84,B,87,Yes,3,No,No,5.97
+431,Indrajit Yohannan,Mathematics-I,23,26,49,D,92,Yes,1,No,No,5.05
+431,Indrajit Yohannan,Programming in C,23,27,50,D,73,Yes,4,No,No,5.05
+431,Indrajit Yohannan,Engineering Physics,21,42,63,C,60,Yes,1,Yes,No,5.05
+431,Indrajit Yohannan,English Communication,23,41,64,C,90,Yes,2,No,Yes,5.05
+431,Indrajit Yohannan,Basic Electronics,12,37,49,D,81,Yes,2,Yes,No,5.05
+432,Nishith Shah,Mathematics-I,18,29,47,D,92,Yes,2,Yes,No,7.41
+432,Nishith Shah,Programming in C,29,36,65,C,94,Yes,2,No,No,7.41
+432,Nishith Shah,Engineering Physics,26,23,49,D,70,Yes,1,Yes,No,7.41
+432,Nishith Shah,English Communication,10,50,60,C,95,Yes,3,Yes,No,7.41
+432,Nishith Shah,Basic Electronics,24,38,62,C,95,Yes,5,Yes,No,7.41
+433,Seher Deshmukh,Mathematics-I,16,68,84,B,91,Yes,1,Yes,Yes,9.17
+433,Seher Deshmukh,Programming in C,28,69,97,A,100,Yes,1,No,No,9.17
+433,Seher Deshmukh,Engineering Physics,21,58,79,B,65,Yes,3,Yes,No,9.17
+433,Seher Deshmukh,English Communication,12,43,55,C,79,Yes,4,No,No,9.17
+433,Seher Deshmukh,Basic Electronics,21,41,62,C,78,Yes,3,No,Yes,9.17
+434,Reyansh Wable,Mathematics-I,20,52,72,B,78,Yes,4,No,Yes,9.19
+434,Reyansh Wable,Programming in C,12,31,43,D,89,Yes,5,Yes,No,9.19
+434,Reyansh Wable,Engineering Physics,13,21,34,F,81,No,3,No,Yes,9.19
+434,Reyansh Wable,English Communication,10,56,66,C,98,Yes,3,No,No,9.19
+434,Reyansh Wable,Basic Electronics,20,30,50,D,62,Yes,3,Yes,No,9.19
+435,Romil Baria,Mathematics-I,25,23,48,D,100,Yes,4,Yes,No,5.63
+435,Romil Baria,Programming in C,14,31,45,D,88,Yes,3,No,No,5.63
+435,Romil Baria,Engineering Physics,25,52,77,B,95,Yes,3,No,No,5.63
+435,Romil Baria,English Communication,12,45,57,C,99,Yes,3,No,No,5.63
+435,Romil Baria,Basic Electronics,29,58,87,A,96,Yes,2,No,Yes,5.63
+436,Gokul Date,Mathematics-I,18,57,75,B,74,Yes,5,No,No,9.33
+436,Gokul Date,Programming in C,11,52,63,C,77,Yes,2,Yes,Yes,9.33
+436,Gokul Date,Engineering Physics,20,33,53,D,91,Yes,1,Yes,Yes,9.33
+436,Gokul Date,English Communication,15,24,39,F,84,No,2,No,No,9.33
+436,Gokul Date,Basic Electronics,24,32,56,C,92,Yes,5,No,No,9.33
+437,Oorja Rege,Mathematics-I,20,20,40,D,82,Yes,2,No,No,9.67
+437,Oorja Rege,Programming in C,16,43,59,C,76,Yes,1,No,Yes,9.67
+437,Oorja Rege,Engineering Physics,29,34,63,C,88,Yes,2,No,No,9.67
+437,Oorja Rege,English Communication,23,57,80,B,66,Yes,1,Yes,No,9.67
+437,Oorja Rege,Basic Electronics,24,35,59,C,71,Yes,5,No,No,9.67
+438,Nirvaan Madan,Mathematics-I,27,67,94,A,94,Yes,2,No,Yes,8.94
+438,Nirvaan Madan,Programming in C,16,45,61,C,89,Yes,4,Yes,Yes,8.94
+438,Nirvaan Madan,Engineering Physics,23,53,76,B,85,Yes,2,Yes,No,8.94
+438,Nirvaan Madan,English Communication,27,34,61,C,70,Yes,2,No,No,8.94
+438,Nirvaan Madan,Basic Electronics,19,27,46,D,86,Yes,4,Yes,No,8.94
+439,Samaira Kumar,Mathematics-I,28,66,94,A,63,Yes,1,Yes,No,8.91
+439,Samaira Kumar,Programming in C,28,43,71,B,88,Yes,1,Yes,Yes,8.91
+439,Samaira Kumar,Engineering Physics,25,61,86,A,95,Yes,5,Yes,Yes,8.91
+439,Samaira Kumar,English Communication,26,70,96,A,73,Yes,4,No,Yes,8.91
+439,Samaira Kumar,Basic Electronics,13,55,68,C,93,Yes,2,No,Yes,8.91
+440,Ayesha Bandi,Mathematics-I,26,54,80,B,61,Yes,1,Yes,Yes,7.05
+440,Ayesha Bandi,Programming in C,28,53,81,B,88,Yes,2,No,Yes,7.05
+440,Ayesha Bandi,Engineering Physics,23,35,58,C,69,Yes,1,No,No,7.05
+440,Ayesha Bandi,English Communication,12,40,52,D,82,Yes,1,Yes,No,7.05
+440,Ayesha Bandi,Basic Electronics,19,69,88,A,85,Yes,5,No,No,7.05
+441,Oorja Goda,Mathematics-I,22,32,54,D,95,Yes,3,Yes,Yes,9.09
+441,Oorja Goda,Programming in C,30,49,79,B,68,Yes,1,No,No,9.09
+441,Oorja Goda,Engineering Physics,11,47,58,C,99,Yes,3,No,No,9.09
+441,Oorja Goda,English Communication,18,35,53,D,76,Yes,4,No,Yes,9.09
+441,Oorja Goda,Basic Electronics,11,43,54,D,92,Yes,3,Yes,Yes,9.09
+442,Prisha Tata,Mathematics-I,22,44,66,C,90,Yes,3,Yes,No,8.52
+442,Prisha Tata,Programming in C,17,42,59,C,84,Yes,1,No,Yes,8.52
+442,Prisha Tata,Engineering Physics,30,69,99,A,83,Yes,4,Yes,Yes,8.52
+442,Prisha Tata,English Communication,29,24,53,D,70,Yes,3,Yes,Yes,8.52
+442,Prisha Tata,Basic Electronics,27,49,76,B,71,Yes,1,No,Yes,8.52
+443,Zeeshan Garde,Mathematics-I,18,23,41,D,91,Yes,5,No,No,9.11
+443,Zeeshan Garde,Programming in C,21,57,78,B,77,Yes,2,No,Yes,9.11
+443,Zeeshan Garde,Engineering Physics,25,43,68,C,80,Yes,1,No,Yes,9.11
+443,Zeeshan Garde,English Communication,15,56,71,B,80,Yes,5,Yes,No,9.11
+443,Zeeshan Garde,Basic Electronics,20,68,88,A,75,Yes,4,No,No,9.11
+444,Shalv Sant,Mathematics-I,23,41,64,C,83,Yes,1,No,Yes,9.62
+444,Shalv Sant,Programming in C,29,50,79,B,92,Yes,3,Yes,Yes,9.62
+444,Shalv Sant,Engineering Physics,12,47,59,C,62,Yes,2,No,Yes,9.62
+444,Shalv Sant,English Communication,27,38,65,C,82,Yes,2,Yes,Yes,9.62
+444,Shalv Sant,Basic Electronics,19,36,55,C,99,Yes,4,Yes,No,9.62
+445,Damini Sabharwal,Mathematics-I,16,66,82,B,67,Yes,5,Yes,Yes,9.84
+445,Damini Sabharwal,Programming in C,10,35,45,D,89,Yes,2,No,Yes,9.84
+445,Damini Sabharwal,Engineering Physics,25,43,68,C,94,Yes,4,Yes,No,9.84
+445,Damini Sabharwal,English Communication,25,37,62,C,70,Yes,4,Yes,Yes,9.84
+445,Damini Sabharwal,Basic Electronics,10,34,44,D,89,Yes,5,No,Yes,9.84
+446,Sumer Bava,Mathematics-I,24,64,88,A,91,Yes,1,Yes,Yes,7.61
+446,Sumer Bava,Programming in C,29,68,97,A,89,Yes,1,Yes,Yes,7.61
+446,Sumer Bava,Engineering Physics,20,21,41,D,74,Yes,2,Yes,No,7.61
+446,Sumer Bava,English Communication,16,30,46,D,99,Yes,4,Yes,No,7.61
+446,Sumer Bava,Basic Electronics,13,55,68,C,98,Yes,1,Yes,No,7.61
+447,Dishani Ganguly,Mathematics-I,22,68,90,A,60,Yes,2,No,Yes,7.66
+447,Dishani Ganguly,Programming in C,24,39,63,C,93,Yes,5,Yes,No,7.66
+447,Dishani Ganguly,Engineering Physics,12,66,78,B,60,Yes,4,Yes,Yes,7.66
+447,Dishani Ganguly,English Communication,16,66,82,B,89,Yes,1,Yes,Yes,7.66
+447,Dishani Ganguly,Basic Electronics,30,56,86,A,68,Yes,5,No,No,7.66
+448,Umang Suri,Mathematics-I,13,23,36,F,96,No,2,Yes,No,9.98
+448,Umang Suri,Programming in C,19,28,47,D,76,Yes,3,No,Yes,9.98
+448,Umang Suri,Engineering Physics,23,40,63,C,62,Yes,5,No,Yes,9.98
+448,Umang Suri,English Communication,21,21,42,D,96,Yes,1,No,No,9.98
+448,Umang Suri,Basic Electronics,26,69,95,A,77,Yes,4,No,No,9.98
+449,Indranil Varughese,Mathematics-I,10,39,49,D,87,Yes,3,Yes,No,9.07
+449,Indranil Varughese,Programming in C,26,58,84,B,88,Yes,5,No,Yes,9.07
+449,Indranil Varughese,Engineering Physics,26,63,89,A,100,Yes,2,Yes,Yes,9.07
+449,Indranil Varughese,English Communication,12,28,40,D,61,Yes,4,No,Yes,9.07
+449,Indranil Varughese,Basic Electronics,27,48,75,B,86,Yes,1,No,No,9.07
+450,Hansh Gaba,Mathematics-I,26,42,68,C,94,Yes,3,No,Yes,7.48
+450,Hansh Gaba,Programming in C,28,27,55,C,70,Yes,4,Yes,No,7.48
+450,Hansh Gaba,Engineering Physics,23,35,58,C,86,Yes,1,Yes,Yes,7.48
+450,Hansh Gaba,English Communication,11,35,46,D,100,Yes,3,No,No,7.48
+450,Hansh Gaba,Basic Electronics,10,46,56,C,80,Yes,1,Yes,Yes,7.48
+451,Yuvraj  Samra,Mathematics-I,14,48,62,C,70,Yes,4,Yes,No,9.36
+451,Yuvraj  Samra,Programming in C,19,58,77,B,60,Yes,2,No,Yes,9.36
+451,Yuvraj  Samra,Engineering Physics,21,25,46,D,73,Yes,2,No,Yes,9.36
+451,Yuvraj  Samra,English Communication,18,23,41,D,64,Yes,4,No,No,9.36
+451,Yuvraj  Samra,Basic Electronics,27,52,79,B,78,Yes,5,No,No,9.36
+452,Tara Shanker,Mathematics-I,19,50,69,C,84,Yes,5,No,Yes,8.42
+452,Tara Shanker,Programming in C,29,31,60,C,90,Yes,3,Yes,Yes,8.42
+452,Tara Shanker,Engineering Physics,21,27,48,D,71,Yes,5,No,No,8.42
+452,Tara Shanker,English Communication,26,45,71,B,84,Yes,4,Yes,Yes,8.42
+452,Tara Shanker,Basic Electronics,17,55,72,B,75,Yes,5,Yes,No,8.42
+453,Navya Loyal,Mathematics-I,27,69,96,A,67,Yes,5,Yes,Yes,8.12
+453,Navya Loyal,Programming in C,18,68,86,A,86,Yes,4,No,No,8.12
+453,Navya Loyal,Engineering Physics,23,31,54,D,81,Yes,5,No,No,8.12
+453,Navya Loyal,English Communication,29,27,56,C,88,Yes,5,Yes,Yes,8.12
+453,Navya Loyal,Basic Electronics,23,56,79,B,60,Yes,1,Yes,Yes,8.12
+454,Dishani Sundaram,Mathematics-I,30,60,90,A,75,Yes,3,Yes,No,7.07
+454,Dishani Sundaram,Programming in C,22,63,85,A,66,Yes,5,Yes,No,7.07
+454,Dishani Sundaram,Engineering Physics,18,69,87,A,97,Yes,1,Yes,Yes,7.07
+454,Dishani Sundaram,English Communication,23,54,77,B,90,Yes,1,Yes,Yes,7.07
+454,Dishani Sundaram,Basic Electronics,15,62,77,B,71,Yes,2,No,Yes,7.07
+455,Manjari Ramesh,Mathematics-I,26,64,90,A,94,Yes,4,No,Yes,5.76
+455,Manjari Ramesh,Programming in C,23,64,87,A,100,Yes,3,No,No,5.76
+455,Manjari Ramesh,Engineering Physics,19,43,62,C,71,Yes,4,No,No,5.76
+455,Manjari Ramesh,English Communication,15,61,76,B,84,Yes,4,No,Yes,5.76
+455,Manjari Ramesh,Basic Electronics,16,46,62,C,100,Yes,1,Yes,Yes,5.76
+456,Nishith Vyas,Mathematics-I,12,41,53,D,70,Yes,2,No,Yes,6.03
+456,Nishith Vyas,Programming in C,23,60,83,B,88,Yes,3,Yes,No,6.03
+456,Nishith Vyas,Engineering Physics,25,63,88,A,87,Yes,3,Yes,Yes,6.03
+456,Nishith Vyas,English Communication,23,58,81,B,77,Yes,3,No,No,6.03
+456,Nishith Vyas,Basic Electronics,26,55,81,B,84,Yes,1,No,Yes,6.03
+457,Dishani Vaidya,Mathematics-I,15,42,57,C,87,Yes,3,No,Yes,7.47
+457,Dishani Vaidya,Programming in C,21,41,62,C,61,Yes,2,Yes,No,7.47
+457,Dishani Vaidya,Engineering Physics,28,41,69,C,76,Yes,2,Yes,Yes,7.47
+457,Dishani Vaidya,English Communication,11,59,70,B,60,Yes,2,Yes,Yes,7.47
+457,Dishani Vaidya,Basic Electronics,12,61,73,B,99,Yes,5,Yes,Yes,7.47
+458,Raghav Dewan,Mathematics-I,21,30,51,D,94,Yes,3,No,No,5.37
+458,Raghav Dewan,Programming in C,25,41,66,C,96,Yes,4,Yes,No,5.37
+458,Raghav Dewan,Engineering Physics,29,48,77,B,95,Yes,2,Yes,Yes,5.37
+458,Raghav Dewan,English Communication,22,32,54,D,97,Yes,5,No,No,5.37
+458,Raghav Dewan,Basic Electronics,15,44,59,C,70,Yes,3,Yes,Yes,5.37
+459,Adah Date,Mathematics-I,16,34,50,D,74,Yes,3,Yes,Yes,7.03
+459,Adah Date,Programming in C,15,46,61,C,69,Yes,3,Yes,No,7.03
+459,Adah Date,Engineering Physics,23,63,86,A,92,Yes,1,No,No,7.03
+459,Adah Date,English Communication,15,26,41,D,60,Yes,2,No,Yes,7.03
+459,Adah Date,Basic Electronics,12,40,52,D,74,Yes,2,Yes,Yes,7.03
+460,Emir Bir,Mathematics-I,27,44,71,B,63,Yes,5,Yes,No,7.92
+460,Emir Bir,Programming in C,15,54,69,C,88,Yes,1,No,Yes,7.92
+460,Emir Bir,Engineering Physics,22,67,89,A,75,Yes,5,No,Yes,7.92
+460,Emir Bir,English Communication,29,64,93,A,92,Yes,2,No,No,7.92
+460,Emir Bir,Basic Electronics,11,31,42,D,92,Yes,4,Yes,No,7.92
+461,Ehsaan Issac,Mathematics-I,16,47,63,C,90,Yes,3,No,No,6.86
+461,Ehsaan Issac,Programming in C,15,39,54,D,80,Yes,5,Yes,No,6.86
+461,Ehsaan Issac,Engineering Physics,19,45,64,C,72,Yes,1,Yes,Yes,6.86
+461,Ehsaan Issac,English Communication,18,28,46,D,60,Yes,3,No,Yes,6.86
+461,Ehsaan Issac,Basic Electronics,12,61,73,B,83,Yes,5,Yes,No,6.86
+462,Piya Ben,Mathematics-I,24,64,88,A,61,Yes,2,No,No,5.2
+462,Piya Ben,Programming in C,10,65,75,B,71,Yes,5,Yes,Yes,5.2
+462,Piya Ben,Engineering Physics,30,51,81,B,71,Yes,5,Yes,No,5.2
+462,Piya Ben,English Communication,27,60,87,A,74,Yes,2,Yes,No,5.2
+462,Piya Ben,Basic Electronics,21,26,47,D,98,Yes,3,No,Yes,5.2
+463,Vedika Sankar,Mathematics-I,14,24,38,F,100,No,5,Yes,Yes,6.88
+463,Vedika Sankar,Programming in C,13,32,45,D,77,Yes,5,Yes,Yes,6.88
+463,Vedika Sankar,Engineering Physics,20,62,82,B,89,Yes,3,No,Yes,6.88
+463,Vedika Sankar,English Communication,22,42,64,C,72,Yes,1,No,Yes,6.88
+463,Vedika Sankar,Basic Electronics,26,44,70,B,87,Yes,4,Yes,Yes,6.88
+464,Kanav Konda,Mathematics-I,10,20,30,F,98,No,4,No,Yes,6.28
+464,Kanav Konda,Programming in C,28,40,68,C,78,Yes,4,No,No,6.28
+464,Kanav Konda,Engineering Physics,29,34,63,C,83,Yes,5,Yes,No,6.28
+464,Kanav Konda,English Communication,22,43,65,C,70,Yes,5,No,Yes,6.28
+464,Kanav Konda,Basic Electronics,20,56,76,B,89,Yes,3,Yes,No,6.28
+465,Ishaan Kulkarni,Mathematics-I,19,44,63,C,61,Yes,2,No,Yes,9.06
+465,Ishaan Kulkarni,Programming in C,18,67,85,A,99,Yes,4,Yes,No,9.06
+465,Ishaan Kulkarni,Engineering Physics,11,38,49,D,68,Yes,3,Yes,No,9.06
+465,Ishaan Kulkarni,English Communication,22,50,72,B,95,Yes,5,Yes,Yes,9.06
+465,Ishaan Kulkarni,Basic Electronics,30,36,66,C,78,Yes,1,Yes,Yes,9.06
+466,Nirvi Sahni,Mathematics-I,20,20,40,D,64,Yes,4,No,No,9.47
+466,Nirvi Sahni,Programming in C,30,21,51,D,97,Yes,5,No,No,9.47
+466,Nirvi Sahni,Engineering Physics,12,40,52,D,83,Yes,4,No,Yes,9.47
+466,Nirvi Sahni,English Communication,18,69,87,A,77,Yes,3,Yes,Yes,9.47
+466,Nirvi Sahni,Basic Electronics,14,42,56,C,98,Yes,2,Yes,Yes,9.47
+467,Ira Mallick,Mathematics-I,26,68,94,A,94,Yes,2,No,Yes,6.26
+467,Ira Mallick,Programming in C,14,39,53,D,99,Yes,3,No,No,6.26
+467,Ira Mallick,Engineering Physics,11,59,70,B,96,Yes,4,Yes,Yes,6.26
+467,Ira Mallick,English Communication,14,69,83,B,65,Yes,2,Yes,Yes,6.26
+467,Ira Mallick,Basic Electronics,12,60,72,B,86,Yes,3,Yes,Yes,6.26
+468,Ishaan Khanna,Mathematics-I,13,24,37,F,61,No,4,No,Yes,6.83
+468,Ishaan Khanna,Programming in C,30,24,54,D,78,Yes,1,Yes,Yes,6.83
+468,Ishaan Khanna,Engineering Physics,13,36,49,D,72,Yes,5,No,No,6.83
+468,Ishaan Khanna,English Communication,24,37,61,C,98,Yes,1,No,Yes,6.83
+468,Ishaan Khanna,Basic Electronics,21,44,65,C,83,Yes,3,Yes,Yes,6.83
+469,Ayesha Gour,Mathematics-I,13,27,40,D,73,Yes,2,Yes,No,5.42
+469,Ayesha Gour,Programming in C,11,38,49,D,95,Yes,5,No,Yes,5.42
+469,Ayesha Gour,Engineering Physics,12,48,60,C,72,Yes,1,Yes,Yes,5.42
+469,Ayesha Gour,English Communication,11,27,38,F,80,No,1,No,Yes,5.42
+469,Ayesha Gour,Basic Electronics,25,70,95,A,67,Yes,1,Yes,Yes,5.42
+470,Anya Majumdar,Mathematics-I,30,41,71,B,88,Yes,3,No,No,6.42
+470,Anya Majumdar,Programming in C,19,22,41,D,61,Yes,2,Yes,Yes,6.42
+470,Anya Majumdar,Engineering Physics,11,48,59,C,64,Yes,3,Yes,No,6.42
+470,Anya Majumdar,English Communication,13,64,77,B,94,Yes,2,No,No,6.42
+470,Anya Majumdar,Basic Electronics,20,63,83,B,65,Yes,1,No,Yes,6.42
+471,Gokul Aggarwal,Mathematics-I,11,55,66,C,71,Yes,4,No,Yes,9.71
+471,Gokul Aggarwal,Programming in C,20,59,79,B,81,Yes,2,No,Yes,9.71
+471,Gokul Aggarwal,Engineering Physics,15,46,61,C,86,Yes,4,Yes,No,9.71
+471,Gokul Aggarwal,English Communication,12,68,80,B,82,Yes,3,No,No,9.71
+471,Gokul Aggarwal,Basic Electronics,21,69,90,A,80,Yes,3,Yes,No,9.71
+472,Navya Dixit,Mathematics-I,28,52,80,B,95,Yes,5,No,No,8.81
+472,Navya Dixit,Programming in C,13,50,63,C,66,Yes,4,No,Yes,8.81
+472,Navya Dixit,Engineering Physics,25,33,58,C,81,Yes,3,Yes,No,8.81
+472,Navya Dixit,English Communication,17,21,38,F,84,No,3,No,Yes,8.81
+472,Navya Dixit,Basic Electronics,14,65,79,B,78,Yes,1,No,No,8.81
+473,Lavanya Jaggi,Mathematics-I,23,65,88,A,73,Yes,3,No,No,6.02
+473,Lavanya Jaggi,Programming in C,26,49,75,B,84,Yes,2,Yes,Yes,6.02
+473,Lavanya Jaggi,Engineering Physics,28,47,75,B,81,Yes,4,Yes,No,6.02
+473,Lavanya Jaggi,English Communication,23,43,66,C,87,Yes,3,No,No,6.02
+473,Lavanya Jaggi,Basic Electronics,18,34,52,D,67,Yes,1,Yes,Yes,6.02
+474,Tarini Kuruvilla,Mathematics-I,30,31,61,C,75,Yes,1,No,No,5.24
+474,Tarini Kuruvilla,Programming in C,20,36,56,C,91,Yes,2,No,Yes,5.24
+474,Tarini Kuruvilla,Engineering Physics,12,54,66,C,60,Yes,3,No,Yes,5.24
+474,Tarini Kuruvilla,English Communication,10,36,46,D,92,Yes,5,No,No,5.24
+474,Tarini Kuruvilla,Basic Electronics,17,35,52,D,71,Yes,3,Yes,No,5.24
+475,Baiju Dass,Mathematics-I,24,63,87,A,62,Yes,5,No,No,5.21
+475,Baiju Dass,Programming in C,19,38,57,C,61,Yes,4,No,Yes,5.21
+475,Baiju Dass,Engineering Physics,26,25,51,D,84,Yes,5,No,Yes,5.21
+475,Baiju Dass,English Communication,26,29,55,C,88,Yes,1,No,No,5.21
+475,Baiju Dass,Basic Electronics,16,30,46,D,77,Yes,4,Yes,No,5.21
+476,Saira Kadakia,Mathematics-I,28,58,86,A,91,Yes,1,No,Yes,6.32
+476,Saira Kadakia,Programming in C,14,59,73,B,65,Yes,5,No,Yes,6.32
+476,Saira Kadakia,Engineering Physics,11,62,73,B,88,Yes,4,No,No,6.32
+476,Saira Kadakia,English Communication,15,33,48,D,100,Yes,4,Yes,Yes,6.32
+476,Saira Kadakia,Basic Electronics,16,20,36,F,77,No,5,Yes,Yes,6.32
+477,Nitara Keer,Mathematics-I,28,31,59,C,65,Yes,4,Yes,Yes,9.21
+477,Nitara Keer,Programming in C,30,25,55,C,67,Yes,1,No,Yes,9.21
+477,Nitara Keer,Engineering Physics,13,24,37,F,94,No,3,Yes,Yes,9.21
+477,Nitara Keer,English Communication,22,34,56,C,96,Yes,5,Yes,No,9.21
+477,Nitara Keer,Basic Electronics,23,49,72,B,97,Yes,2,Yes,No,9.21
+478,Piya Barman,Mathematics-I,10,24,34,F,86,No,4,Yes,No,9.12
+478,Piya Barman,Programming in C,13,33,46,D,77,Yes,3,Yes,No,9.12
+478,Piya Barman,Engineering Physics,28,38,66,C,78,Yes,1,Yes,No,9.12
+478,Piya Barman,English Communication,10,58,68,C,67,Yes,1,Yes,No,9.12
+478,Piya Barman,Basic Electronics,20,44,64,C,87,Yes,1,No,Yes,9.12
+479,Trisha Bahl,Mathematics-I,26,61,87,A,85,Yes,5,Yes,Yes,7.99
+479,Trisha Bahl,Programming in C,15,68,83,B,71,Yes,2,Yes,Yes,7.99
+479,Trisha Bahl,Engineering Physics,23,66,89,A,81,Yes,1,No,Yes,7.99
+479,Trisha Bahl,English Communication,16,53,69,C,90,Yes,1,No,No,7.99
+479,Trisha Bahl,Basic Electronics,28,50,78,B,78,Yes,1,No,Yes,7.99
+480,Zara Baria,Mathematics-I,26,54,80,B,81,Yes,1,Yes,Yes,7.9
+480,Zara Baria,Programming in C,29,60,89,A,65,Yes,3,No,Yes,7.9
+480,Zara Baria,Engineering Physics,26,65,91,A,93,Yes,5,No,No,7.9
+480,Zara Baria,English Communication,21,40,61,C,65,Yes,2,No,Yes,7.9
+480,Zara Baria,Basic Electronics,25,25,50,D,64,Yes,2,Yes,Yes,7.9
+481,Taimur Sekhon,Mathematics-I,17,27,44,D,77,Yes,1,Yes,No,8.75
+481,Taimur Sekhon,Programming in C,26,63,89,A,88,Yes,5,No,Yes,8.75
+481,Taimur Sekhon,Engineering Physics,23,68,91,A,74,Yes,2,No,Yes,8.75
+481,Taimur Sekhon,English Communication,16,64,80,B,96,Yes,1,Yes,No,8.75
+481,Taimur Sekhon,Basic Electronics,15,68,83,B,97,Yes,1,Yes,No,8.75
+482,Pranay Handa,Mathematics-I,25,22,47,D,60,Yes,2,No,Yes,5.3
+482,Pranay Handa,Programming in C,24,46,70,B,70,Yes,5,No,No,5.3
+482,Pranay Handa,Engineering Physics,30,37,67,C,93,Yes,3,Yes,Yes,5.3
+482,Pranay Handa,English Communication,25,22,47,D,75,Yes,5,No,Yes,5.3
+482,Pranay Handa,Basic Electronics,11,22,33,F,94,No,1,Yes,Yes,5.3
+483,Anahi Andra,Mathematics-I,15,22,37,F,62,No,4,No,Yes,7.64
+483,Anahi Andra,Programming in C,14,67,81,B,70,Yes,2,Yes,No,7.64
+483,Anahi Andra,Engineering Physics,24,35,59,C,97,Yes,1,No,No,7.64
+483,Anahi Andra,English Communication,23,44,67,C,75,Yes,1,No,Yes,7.64
+483,Anahi Andra,Basic Electronics,21,21,42,D,86,Yes,4,No,Yes,7.64
+484,Anahita Sarin,Mathematics-I,26,51,77,B,84,Yes,1,Yes,Yes,8.02
+484,Anahita Sarin,Programming in C,10,66,76,B,77,Yes,2,No,No,8.02
+484,Anahita Sarin,Engineering Physics,12,32,44,D,66,Yes,2,No,No,8.02
+484,Anahita Sarin,English Communication,14,34,48,D,100,Yes,1,Yes,No,8.02
+484,Anahita Sarin,Basic Electronics,11,36,47,D,68,Yes,5,Yes,No,8.02
+485,Shlok Deep,Mathematics-I,16,68,84,B,76,Yes,1,Yes,Yes,5.78
+485,Shlok Deep,Programming in C,18,51,69,C,65,Yes,2,No,Yes,5.78
+485,Shlok Deep,Engineering Physics,28,32,60,C,89,Yes,4,Yes,Yes,5.78
+485,Shlok Deep,English Communication,29,23,52,D,67,Yes,1,No,Yes,5.78
+485,Shlok Deep,Basic Electronics,21,41,62,C,77,Yes,3,No,Yes,5.78
+486,Raunak Shetty,Mathematics-I,23,21,44,D,85,Yes,5,No,Yes,7.44
+486,Raunak Shetty,Programming in C,10,55,65,C,82,Yes,1,Yes,No,7.44
+486,Raunak Shetty,Engineering Physics,15,46,61,C,73,Yes,4,Yes,Yes,7.44
+486,Raunak Shetty,English Communication,20,44,64,C,75,Yes,4,Yes,No,7.44
+486,Raunak Shetty,Basic Electronics,29,43,72,B,68,Yes,3,No,No,7.44
+487,Gatik Kant,Mathematics-I,29,37,66,C,70,Yes,2,No,No,5.47
+487,Gatik Kant,Programming in C,23,57,80,B,91,Yes,1,No,No,5.47
+487,Gatik Kant,Engineering Physics,22,44,66,C,81,Yes,2,Yes,Yes,5.47
+487,Gatik Kant,English Communication,12,51,63,C,100,Yes,3,Yes,Yes,5.47
+487,Gatik Kant,Basic Electronics,30,59,89,A,78,Yes,5,No,Yes,5.47
+488,Indranil Babu,Mathematics-I,11,32,43,D,68,Yes,5,Yes,No,5.43
+488,Indranil Babu,Programming in C,28,60,88,A,93,Yes,1,No,No,5.43
+488,Indranil Babu,Engineering Physics,15,62,77,B,79,Yes,1,Yes,No,5.43
+488,Indranil Babu,English Communication,18,43,61,C,67,Yes,4,Yes,Yes,5.43
+488,Indranil Babu,Basic Electronics,30,45,75,B,60,Yes,2,Yes,Yes,5.43
+489,Renee Doctor,Mathematics-I,10,66,76,B,66,Yes,5,Yes,Yes,8.03
+489,Renee Doctor,Programming in C,17,41,58,C,77,Yes,3,No,No,8.03
+489,Renee Doctor,Engineering Physics,21,58,79,B,65,Yes,3,Yes,Yes,8.03
+489,Renee Doctor,English Communication,14,66,80,B,62,Yes,4,No,Yes,8.03
+489,Renee Doctor,Basic Electronics,24,33,57,C,74,Yes,2,Yes,Yes,8.03
+490,Neelofar Dey,Mathematics-I,15,56,71,B,67,Yes,5,No,Yes,8.47
+490,Neelofar Dey,Programming in C,21,40,61,C,63,Yes,5,Yes,Yes,8.47
+490,Neelofar Dey,Engineering Physics,22,58,80,B,68,Yes,4,Yes,No,8.47
+490,Neelofar Dey,English Communication,23,42,65,C,100,Yes,3,No,Yes,8.47
+490,Neelofar Dey,Basic Electronics,27,43,70,B,74,Yes,1,No,No,8.47
+491,Purab Zacharia,Mathematics-I,22,69,91,A,68,Yes,1,No,No,7.28
+491,Purab Zacharia,Programming in C,18,59,77,B,89,Yes,3,Yes,No,7.28
+491,Purab Zacharia,Engineering Physics,20,33,53,D,65,Yes,1,Yes,No,7.28
+491,Purab Zacharia,English Communication,10,44,54,D,83,Yes,2,No,No,7.28
+491,Purab Zacharia,Basic Electronics,12,68,80,B,75,Yes,3,No,Yes,7.28
+492,Bhavin Bhat,Mathematics-I,17,60,77,B,82,Yes,4,Yes,No,9.38
+492,Bhavin Bhat,Programming in C,23,57,80,B,74,Yes,2,No,No,9.38
+492,Bhavin Bhat,Engineering Physics,18,63,81,B,70,Yes,3,Yes,Yes,9.38
+492,Bhavin Bhat,English Communication,14,48,62,C,61,Yes,4,Yes,No,9.38
+492,Bhavin Bhat,Basic Electronics,22,39,61,C,76,Yes,4,Yes,Yes,9.38
+493,Uthkarsh Venkatesh,Mathematics-I,26,47,73,B,74,Yes,5,Yes,Yes,5.74
+493,Uthkarsh Venkatesh,Programming in C,21,36,57,C,74,Yes,5,Yes,No,5.74
+493,Uthkarsh Venkatesh,Engineering Physics,26,47,73,B,72,Yes,2,Yes,Yes,5.74
+493,Uthkarsh Venkatesh,English Communication,30,47,77,B,60,Yes,4,Yes,Yes,5.74
+493,Uthkarsh Venkatesh,Basic Electronics,19,44,63,C,100,Yes,3,Yes,Yes,5.74
+494,Vardaniya Keer,Mathematics-I,27,42,69,C,89,Yes,3,No,No,8.29
+494,Vardaniya Keer,Programming in C,17,52,69,C,99,Yes,4,No,No,8.29
+494,Vardaniya Keer,Engineering Physics,30,50,80,B,92,Yes,3,No,No,8.29
+494,Vardaniya Keer,English Communication,24,40,64,C,85,Yes,1,Yes,No,8.29
+494,Vardaniya Keer,Basic Electronics,13,48,61,C,92,Yes,3,Yes,Yes,8.29
+495,Taimur Sarkar,Mathematics-I,16,33,49,D,82,Yes,5,No,Yes,7.64
+495,Taimur Sarkar,Programming in C,16,25,41,D,70,Yes,3,No,No,7.64
+495,Taimur Sarkar,Engineering Physics,24,32,56,C,65,Yes,3,Yes,Yes,7.64
+495,Taimur Sarkar,English Communication,17,36,53,D,67,Yes,1,No,No,7.64
+495,Taimur Sarkar,Basic Electronics,29,42,71,B,72,Yes,2,No,Yes,7.64
+496,Pari Khatri,Mathematics-I,27,54,81,B,100,Yes,3,Yes,Yes,6.32
+496,Pari Khatri,Programming in C,19,46,65,C,95,Yes,3,Yes,Yes,6.32
+496,Pari Khatri,Engineering Physics,10,70,80,B,77,Yes,2,Yes,Yes,6.32
+496,Pari Khatri,English Communication,11,41,52,D,67,Yes,2,Yes,No,6.32
+496,Pari Khatri,Basic Electronics,29,70,99,A,66,Yes,2,Yes,Yes,6.32
+497,Navya Behl,Mathematics-I,19,38,57,C,83,Yes,3,No,Yes,9.14
+497,Navya Behl,Programming in C,29,34,63,C,68,Yes,3,No,Yes,9.14
+497,Navya Behl,Engineering Physics,29,30,59,C,85,Yes,2,No,No,9.14
+497,Navya Behl,English Communication,10,23,33,F,75,No,1,Yes,Yes,9.14
+497,Navya Behl,Basic Electronics,26,52,78,B,64,Yes,2,Yes,No,9.14
+498,Seher Sunder,Mathematics-I,11,70,81,B,73,Yes,4,No,No,8.73
+498,Seher Sunder,Programming in C,11,69,80,B,81,Yes,3,Yes,Yes,8.73
+498,Seher Sunder,Engineering Physics,19,25,44,D,71,Yes,1,Yes,No,8.73
+498,Seher Sunder,English Communication,17,54,71,B,79,Yes,3,No,No,8.73
+498,Seher Sunder,Basic Electronics,13,31,44,D,60,Yes,2,No,Yes,8.73
+499,Nehmat Baral,Mathematics-I,10,48,58,C,60,Yes,4,Yes,No,9.45
+499,Nehmat Baral,Programming in C,23,50,73,B,70,Yes,5,No,No,9.45
+499,Nehmat Baral,Engineering Physics,20,28,48,D,61,Yes,2,No,Yes,9.45
+499,Nehmat Baral,English Communication,22,29,51,D,63,Yes,3,No,No,9.45
+499,Nehmat Baral,Basic Electronics,27,67,94,A,98,Yes,5,Yes,Yes,9.45
+500,Kashvi Sundaram,Mathematics-I,15,49,64,C,80,Yes,3,No,Yes,9.06
+500,Kashvi Sundaram,Programming in C,15,68,83,B,98,Yes,5,Yes,Yes,9.06
+500,Kashvi Sundaram,Engineering Physics,15,25,40,D,69,Yes,2,No,Yes,9.06
+500,Kashvi Sundaram,English Communication,27,22,49,D,96,Yes,2,Yes,Yes,9.06
+500,Kashvi Sundaram,Basic Electronics,22,35,57,C,88,Yes,2,Yes,Yes,9.06

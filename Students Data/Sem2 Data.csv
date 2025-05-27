@@ -1,0 +1,2501 @@
+student_id,name,subject,internal_marks,external_marks,total_score,grade,attendance_percentage,passed,subject_interest_level,needs_support_in_subject,peer_help_provided,semester_gpa
+1,Riya Srinivasan,Mathematics-II,28,29,57,C,97,Yes,4,Yes,No,8.59
+1,Riya Srinivasan,Data Structures,30,23,53,D,68,Yes,2,Yes,Yes,8.59
+1,Riya Srinivasan,Digital Logic Design,20,52,72,B,86,Yes,4,No,No,8.59
+1,Riya Srinivasan,Environmental Studies,22,52,74,B,74,Yes,2,No,Yes,8.59
+1,Riya Srinivasan,Professional Communication,12,50,62,C,99,Yes,1,No,No,8.59
+2,Myra Boase,Mathematics-II,19,47,66,C,65,Yes,4,No,Yes,5.52
+2,Myra Boase,Data Structures,14,67,81,B,93,Yes,3,Yes,Yes,5.52
+2,Myra Boase,Digital Logic Design,14,55,69,C,93,Yes,1,Yes,No,5.52
+2,Myra Boase,Environmental Studies,14,65,79,B,71,Yes,4,No,No,5.52
+2,Myra Boase,Professional Communication,24,50,74,B,70,Yes,5,Yes,Yes,5.52
+3,Aaryahi Dalal,Mathematics-II,23,21,44,D,60,Yes,5,Yes,No,7.3
+3,Aaryahi Dalal,Data Structures,21,34,55,C,93,Yes,5,Yes,No,7.3
+3,Aaryahi Dalal,Digital Logic Design,14,26,40,D,77,Yes,2,Yes,Yes,7.3
+3,Aaryahi Dalal,Environmental Studies,15,69,84,B,88,Yes,5,No,Yes,7.3
+3,Aaryahi Dalal,Professional Communication,25,66,91,A,75,Yes,2,No,No,7.3
+4,Kashvi Handa,Mathematics-II,24,51,75,B,89,Yes,3,Yes,No,5.92
+4,Kashvi Handa,Data Structures,29,22,51,D,99,Yes,1,No,No,5.92
+4,Kashvi Handa,Digital Logic Design,28,40,68,C,74,Yes,5,No,Yes,5.92
+4,Kashvi Handa,Environmental Studies,25,28,53,D,76,Yes,3,No,Yes,5.92
+4,Kashvi Handa,Professional Communication,20,55,75,B,64,Yes,3,Yes,No,5.92
+5,Yashvi Garg,Mathematics-II,16,54,70,B,64,Yes,4,No,Yes,6.48
+5,Yashvi Garg,Data Structures,23,35,58,C,71,Yes,4,No,No,6.48
+5,Yashvi Garg,Digital Logic Design,27,68,95,A,84,Yes,1,No,Yes,6.48
+5,Yashvi Garg,Environmental Studies,27,22,49,D,70,Yes,4,Yes,No,6.48
+5,Yashvi Garg,Professional Communication,28,37,65,C,76,Yes,2,No,Yes,6.48
+6,Shalv Johal,Mathematics-II,16,31,47,D,72,Yes,4,Yes,No,8.72
+6,Shalv Johal,Data Structures,17,65,82,B,84,Yes,4,Yes,No,8.72
+6,Shalv Johal,Digital Logic Design,21,33,54,D,62,Yes,4,No,Yes,8.72
+6,Shalv Johal,Environmental Studies,18,43,61,C,68,Yes,4,No,No,8.72
+6,Shalv Johal,Professional Communication,20,34,54,D,72,Yes,2,No,Yes,8.72
+7,Vritika De,Mathematics-II,29,21,50,D,95,Yes,1,Yes,No,6.51
+7,Vritika De,Data Structures,21,48,69,C,91,Yes,5,Yes,No,6.51
+7,Vritika De,Digital Logic Design,30,21,51,D,83,Yes,1,No,No,6.51
+7,Vritika De,Environmental Studies,17,34,51,D,62,Yes,4,No,Yes,6.51
+7,Vritika De,Professional Communication,14,52,66,C,60,Yes,4,Yes,No,6.51
+8,Lagan Chokshi,Mathematics-II,21,33,54,D,93,Yes,2,No,No,7.19
+8,Lagan Chokshi,Data Structures,15,63,78,B,60,Yes,2,No,No,7.19
+8,Lagan Chokshi,Digital Logic Design,25,63,88,A,88,Yes,2,No,Yes,7.19
+8,Lagan Chokshi,Environmental Studies,16,61,77,B,70,Yes,5,Yes,Yes,7.19
+8,Lagan Chokshi,Professional Communication,19,28,47,D,95,Yes,3,No,Yes,7.19
+9,Manjari Tank,Mathematics-II,15,69,84,B,67,Yes,4,No,No,7.03
+9,Manjari Tank,Data Structures,26,56,82,B,77,Yes,5,No,Yes,7.03
+9,Manjari Tank,Digital Logic Design,25,31,56,C,75,Yes,3,Yes,Yes,7.03
+9,Manjari Tank,Environmental Studies,26,51,77,B,81,Yes,4,No,No,7.03
+9,Manjari Tank,Professional Communication,11,31,42,D,92,Yes,5,No,Yes,7.03
+10,Adira Suresh,Mathematics-II,27,51,78,B,68,Yes,4,No,Yes,5.7
+10,Adira Suresh,Data Structures,23,66,89,A,89,Yes,5,Yes,No,5.7
+10,Adira Suresh,Digital Logic Design,28,41,69,C,74,Yes,1,No,Yes,5.7
+10,Adira Suresh,Environmental Studies,26,36,62,C,88,Yes,4,No,No,5.7
+10,Adira Suresh,Professional Communication,19,29,48,D,100,Yes,1,No,No,5.7
+11,Nishith Saran,Mathematics-II,10,38,48,D,72,Yes,4,No,Yes,6.53
+11,Nishith Saran,Data Structures,21,48,69,C,70,Yes,3,No,Yes,6.53
+11,Nishith Saran,Digital Logic Design,16,44,60,C,88,Yes,5,No,No,6.53
+11,Nishith Saran,Environmental Studies,21,35,56,C,76,Yes,2,No,No,6.53
+11,Nishith Saran,Professional Communication,30,26,56,C,78,Yes,3,Yes,No,6.53
+12,Madhup Sharma,Mathematics-II,18,40,58,C,85,Yes,2,No,Yes,7.6
+12,Madhup Sharma,Data Structures,27,23,50,D,83,Yes,2,Yes,Yes,7.6
+12,Madhup Sharma,Digital Logic Design,27,37,64,C,63,Yes,4,Yes,Yes,7.6
+12,Madhup Sharma,Environmental Studies,23,46,69,C,71,Yes,3,Yes,Yes,7.6
+12,Madhup Sharma,Professional Communication,28,44,72,B,96,Yes,2,No,No,7.6
+13,Nayantara Bhagat,Mathematics-II,20,53,73,B,97,Yes,3,Yes,No,9.78
+13,Nayantara Bhagat,Data Structures,27,36,63,C,83,Yes,4,Yes,No,9.78
+13,Nayantara Bhagat,Digital Logic Design,23,32,55,C,95,Yes,3,No,No,9.78
+13,Nayantara Bhagat,Environmental Studies,16,50,66,C,71,Yes,5,Yes,No,9.78
+13,Nayantara Bhagat,Professional Communication,17,42,59,C,69,Yes,5,No,Yes,9.78
+14,Lakshay Sami,Mathematics-II,25,46,71,B,80,Yes,3,Yes,Yes,6.67
+14,Lakshay Sami,Data Structures,21,67,88,A,92,Yes,2,Yes,Yes,6.67
+14,Lakshay Sami,Digital Logic Design,30,30,60,C,71,Yes,1,No,Yes,6.67
+14,Lakshay Sami,Environmental Studies,20,45,65,C,87,Yes,3,No,No,6.67
+14,Lakshay Sami,Professional Communication,13,49,62,C,76,Yes,4,Yes,Yes,6.67
+15,Ivana Saran,Mathematics-II,29,64,93,A,77,Yes,5,Yes,No,6.45
+15,Ivana Saran,Data Structures,25,64,89,A,97,Yes,3,No,Yes,6.45
+15,Ivana Saran,Digital Logic Design,24,41,65,C,72,Yes,5,No,No,6.45
+15,Ivana Saran,Environmental Studies,10,40,50,D,72,Yes,2,No,Yes,6.45
+15,Ivana Saran,Professional Communication,24,22,46,D,70,Yes,1,Yes,No,6.45
+16,Dishani Sidhu,Mathematics-II,26,44,70,B,64,Yes,3,No,No,8.03
+16,Dishani Sidhu,Data Structures,13,44,57,C,79,Yes,2,Yes,Yes,8.03
+16,Dishani Sidhu,Digital Logic Design,28,47,75,B,98,Yes,2,Yes,Yes,8.03
+16,Dishani Sidhu,Environmental Studies,29,33,62,C,84,Yes,3,No,Yes,8.03
+16,Dishani Sidhu,Professional Communication,16,35,51,D,92,Yes,2,Yes,Yes,8.03
+17,Alia Saha,Mathematics-II,10,66,76,B,74,Yes,1,Yes,Yes,5.31
+17,Alia Saha,Data Structures,30,26,56,C,97,Yes,5,Yes,Yes,5.31
+17,Alia Saha,Digital Logic Design,15,41,56,C,90,Yes,1,Yes,No,5.31
+17,Alia Saha,Environmental Studies,19,36,55,C,99,Yes,3,Yes,No,5.31
+17,Alia Saha,Professional Communication,22,25,47,D,96,Yes,3,No,No,5.31
+18,Yasmin Boase,Mathematics-II,21,60,81,B,98,Yes,1,Yes,Yes,6.32
+18,Yasmin Boase,Data Structures,16,55,71,B,79,Yes,4,Yes,No,6.32
+18,Yasmin Boase,Digital Logic Design,26,32,58,C,77,Yes,5,Yes,No,6.32
+18,Yasmin Boase,Environmental Studies,24,52,76,B,97,Yes,2,Yes,Yes,6.32
+18,Yasmin Boase,Professional Communication,18,28,46,D,88,Yes,4,No,Yes,6.32
+19,Akarsh Mandal,Mathematics-II,19,64,83,B,79,Yes,5,Yes,No,9.21
+19,Akarsh Mandal,Data Structures,18,52,70,B,83,Yes,5,No,No,9.21
+19,Akarsh Mandal,Digital Logic Design,19,30,49,D,97,Yes,3,Yes,No,9.21
+19,Akarsh Mandal,Environmental Studies,19,66,85,A,87,Yes,5,Yes,Yes,9.21
+19,Akarsh Mandal,Professional Communication,27,70,97,A,88,Yes,2,No,No,9.21
+20,Zaina Srinivas,Mathematics-II,19,36,55,C,73,Yes,5,Yes,Yes,5.13
+20,Zaina Srinivas,Data Structures,26,56,82,B,87,Yes,5,No,No,5.13
+20,Zaina Srinivas,Digital Logic Design,24,45,69,C,100,Yes,2,Yes,Yes,5.13
+20,Zaina Srinivas,Environmental Studies,23,26,49,D,62,Yes,1,Yes,Yes,5.13
+20,Zaina Srinivas,Professional Communication,27,50,77,B,87,Yes,1,No,Yes,5.13
+21,Vihaan Balan,Mathematics-II,17,45,62,C,94,Yes,2,Yes,No,7.52
+21,Vihaan Balan,Data Structures,27,64,91,A,68,Yes,2,No,No,7.52
+21,Vihaan Balan,Digital Logic Design,24,53,77,B,68,Yes,5,Yes,No,7.52
+21,Vihaan Balan,Environmental Studies,13,44,57,C,96,Yes,1,No,No,7.52
+21,Vihaan Balan,Professional Communication,25,39,64,C,64,Yes,1,Yes,No,7.52
+22,Manjari Brahmbhatt,Mathematics-II,10,44,54,D,89,Yes,2,No,No,6.36
+22,Manjari Brahmbhatt,Data Structures,19,66,85,A,74,Yes,5,No,No,6.36
+22,Manjari Brahmbhatt,Digital Logic Design,25,54,79,B,72,Yes,4,No,Yes,6.36
+22,Manjari Brahmbhatt,Environmental Studies,30,35,65,C,62,Yes,5,Yes,Yes,6.36
+22,Manjari Brahmbhatt,Professional Communication,14,29,43,D,72,Yes,2,Yes,Yes,6.36
+23,Adira Bawa,Mathematics-II,10,39,49,D,97,Yes,1,Yes,Yes,9.24
+23,Adira Bawa,Data Structures,24,33,57,C,100,Yes,4,No,Yes,9.24
+23,Adira Bawa,Digital Logic Design,15,40,55,C,87,Yes,5,Yes,Yes,9.24
+23,Adira Bawa,Environmental Studies,18,57,75,B,66,Yes,4,No,No,9.24
+23,Adira Bawa,Professional Communication,17,57,74,B,80,Yes,4,No,No,9.24
+24,Dhanuk Amble,Mathematics-II,14,68,82,B,81,Yes,5,Yes,Yes,6.75
+24,Dhanuk Amble,Data Structures,19,58,77,B,96,Yes,3,Yes,No,6.75
+24,Dhanuk Amble,Digital Logic Design,23,22,45,D,91,Yes,5,No,No,6.75
+24,Dhanuk Amble,Environmental Studies,24,40,64,C,98,Yes,4,No,Yes,6.75
+24,Dhanuk Amble,Professional Communication,11,32,43,D,72,Yes,4,No,No,6.75
+25,Tiya Dhar,Mathematics-II,18,65,83,B,78,Yes,2,No,No,6.58
+25,Tiya Dhar,Data Structures,15,62,77,B,76,Yes,3,No,Yes,6.58
+25,Tiya Dhar,Digital Logic Design,11,25,36,F,91,No,1,Yes,No,6.58
+25,Tiya Dhar,Environmental Studies,29,56,85,A,91,Yes,5,No,Yes,6.58
+25,Tiya Dhar,Professional Communication,19,62,81,B,71,Yes,1,Yes,No,6.58
+26,Emir Kapadia,Mathematics-II,19,38,57,C,69,Yes,5,No,Yes,8.12
+26,Emir Kapadia,Data Structures,12,29,41,D,89,Yes,2,No,No,8.12
+26,Emir Kapadia,Digital Logic Design,25,31,56,C,72,Yes,5,Yes,Yes,8.12
+26,Emir Kapadia,Environmental Studies,11,61,72,B,85,Yes,3,No,No,8.12
+26,Emir Kapadia,Professional Communication,15,24,39,F,64,No,2,No,Yes,8.12
+27,Jhanvi Garg,Mathematics-II,27,44,71,B,66,Yes,1,Yes,No,6.98
+27,Jhanvi Garg,Data Structures,20,62,82,B,67,Yes,2,No,No,6.98
+27,Jhanvi Garg,Digital Logic Design,25,64,89,A,94,Yes,2,No,No,6.98
+27,Jhanvi Garg,Environmental Studies,27,26,53,D,63,Yes,2,No,Yes,6.98
+27,Jhanvi Garg,Professional Communication,12,61,73,B,81,Yes,5,Yes,No,6.98
+28,Aayush Das,Mathematics-II,16,32,48,D,87,Yes,1,No,Yes,6.41
+28,Aayush Das,Data Structures,21,58,79,B,92,Yes,4,No,No,6.41
+28,Aayush Das,Digital Logic Design,16,61,77,B,91,Yes,4,No,No,6.41
+28,Aayush Das,Environmental Studies,26,62,88,A,74,Yes,5,No,No,6.41
+28,Aayush Das,Professional Communication,29,68,97,A,89,Yes,5,Yes,Yes,6.41
+29,Aarav Dave,Mathematics-II,25,59,84,B,80,Yes,1,Yes,Yes,9.5
+29,Aarav Dave,Data Structures,23,21,44,D,80,Yes,2,No,Yes,9.5
+29,Aarav Dave,Digital Logic Design,21,64,85,A,92,Yes,2,No,No,9.5
+29,Aarav Dave,Environmental Studies,20,68,88,A,71,Yes,3,Yes,Yes,9.5
+29,Aarav Dave,Professional Communication,28,68,96,A,92,Yes,1,No,No,9.5
+30,Inaaya  Sule,Mathematics-II,17,53,70,B,84,Yes,2,Yes,Yes,5.33
+30,Inaaya  Sule,Data Structures,27,27,54,D,99,Yes,3,Yes,No,5.33
+30,Inaaya  Sule,Digital Logic Design,29,26,55,C,60,Yes,4,Yes,Yes,5.33
+30,Inaaya  Sule,Environmental Studies,25,65,90,A,97,Yes,2,No,No,5.33
+30,Inaaya  Sule,Professional Communication,12,23,35,F,84,No,1,Yes,No,5.33
+31,Aarush Rao,Mathematics-II,22,50,72,B,79,Yes,1,No,No,6.18
+31,Aarush Rao,Data Structures,24,61,85,A,86,Yes,1,Yes,No,6.18
+31,Aarush Rao,Digital Logic Design,23,68,91,A,61,Yes,5,Yes,No,6.18
+31,Aarush Rao,Environmental Studies,30,42,72,B,61,Yes,4,No,No,6.18
+31,Aarush Rao,Professional Communication,25,68,93,A,72,Yes,1,No,No,6.18
+32,Umang Soman,Mathematics-II,12,22,34,F,84,No,1,Yes,Yes,5.59
+32,Umang Soman,Data Structures,18,58,76,B,83,Yes,2,No,Yes,5.59
+32,Umang Soman,Digital Logic Design,12,24,36,F,71,No,2,Yes,Yes,5.59
+32,Umang Soman,Environmental Studies,28,41,69,C,64,Yes,4,No,No,5.59
+32,Umang Soman,Professional Communication,10,34,44,D,66,Yes,1,No,Yes,5.59
+33,Renee Brahmbhatt,Mathematics-II,14,40,54,D,94,Yes,2,No,No,8.66
+33,Renee Brahmbhatt,Data Structures,15,62,77,B,84,Yes,4,No,No,8.66
+33,Renee Brahmbhatt,Digital Logic Design,28,32,60,C,83,Yes,5,Yes,Yes,8.66
+33,Renee Brahmbhatt,Environmental Studies,20,24,44,D,78,Yes,2,No,Yes,8.66
+33,Renee Brahmbhatt,Professional Communication,23,37,60,C,99,Yes,2,Yes,No,8.66
+34,Emir Kala,Mathematics-II,24,29,53,D,71,Yes,5,No,No,5.64
+34,Emir Kala,Data Structures,26,23,49,D,64,Yes,5,Yes,Yes,5.64
+34,Emir Kala,Digital Logic Design,16,26,42,D,88,Yes,4,Yes,No,5.64
+34,Emir Kala,Environmental Studies,13,45,58,C,65,Yes,2,Yes,No,5.64
+34,Emir Kala,Professional Communication,14,27,41,D,78,Yes,5,No,No,5.64
+35,Dhanuk Desai,Mathematics-II,25,49,74,B,74,Yes,5,No,No,7.26
+35,Dhanuk Desai,Data Structures,17,48,65,C,85,Yes,5,Yes,No,7.26
+35,Dhanuk Desai,Digital Logic Design,12,29,41,D,89,Yes,4,No,Yes,7.26
+35,Dhanuk Desai,Environmental Studies,14,68,82,B,87,Yes,5,No,Yes,7.26
+35,Dhanuk Desai,Professional Communication,28,46,74,B,79,Yes,2,No,No,7.26
+36,Anahita Khanna,Mathematics-II,20,42,62,C,71,Yes,1,No,No,7.3
+36,Anahita Khanna,Data Structures,25,60,85,A,63,Yes,4,Yes,No,7.3
+36,Anahita Khanna,Digital Logic Design,21,66,87,A,63,Yes,2,No,Yes,7.3
+36,Anahita Khanna,Environmental Studies,25,66,91,A,87,Yes,4,Yes,No,7.3
+36,Anahita Khanna,Professional Communication,10,34,44,D,95,Yes,4,Yes,Yes,7.3
+37,Shamik Konda,Mathematics-II,25,39,64,C,98,Yes,2,No,No,5.3
+37,Shamik Konda,Data Structures,17,42,59,C,80,Yes,4,Yes,Yes,5.3
+37,Shamik Konda,Digital Logic Design,14,24,38,F,97,No,3,No,No,5.3
+37,Shamik Konda,Environmental Studies,14,70,84,B,79,Yes,4,No,No,5.3
+37,Shamik Konda,Professional Communication,29,59,88,A,63,Yes,4,Yes,No,5.3
+38,Alisha Mannan,Mathematics-II,12,28,40,D,86,Yes,2,Yes,No,5.07
+38,Alisha Mannan,Data Structures,28,70,98,A,70,Yes,5,Yes,No,5.07
+38,Alisha Mannan,Digital Logic Design,14,24,38,F,67,No,2,Yes,Yes,5.07
+38,Alisha Mannan,Environmental Studies,21,59,80,B,99,Yes,4,Yes,Yes,5.07
+38,Alisha Mannan,Professional Communication,29,36,65,C,69,Yes,3,Yes,Yes,5.07
+39,Zeeshan Mangat,Mathematics-II,19,46,65,C,88,Yes,2,Yes,Yes,8.06
+39,Zeeshan Mangat,Data Structures,29,48,77,B,80,Yes,1,No,No,8.06
+39,Zeeshan Mangat,Digital Logic Design,20,27,47,D,71,Yes,1,Yes,Yes,8.06
+39,Zeeshan Mangat,Environmental Studies,18,48,66,C,76,Yes,5,No,No,8.06
+39,Zeeshan Mangat,Professional Communication,29,61,90,A,62,Yes,4,Yes,Yes,8.06
+40,Aaina Lad,Mathematics-II,28,20,48,D,76,Yes,3,No,Yes,8.27
+40,Aaina Lad,Data Structures,10,53,63,C,98,Yes,4,No,Yes,8.27
+40,Aaina Lad,Digital Logic Design,11,61,72,B,84,Yes,1,Yes,Yes,8.27
+40,Aaina Lad,Environmental Studies,19,53,72,B,93,Yes,4,Yes,Yes,8.27
+40,Aaina Lad,Professional Communication,16,38,54,D,100,Yes,2,Yes,Yes,8.27
+41,Kanav Goel,Mathematics-II,22,29,51,D,74,Yes,4,No,Yes,9.1
+41,Kanav Goel,Data Structures,30,66,96,A,90,Yes,5,No,Yes,9.1
+41,Kanav Goel,Digital Logic Design,17,33,50,D,88,Yes,5,No,No,9.1
+41,Kanav Goel,Environmental Studies,18,67,85,A,85,Yes,1,Yes,Yes,9.1
+41,Kanav Goel,Professional Communication,13,26,39,F,100,No,4,Yes,Yes,9.1
+42,Himmat Johal,Mathematics-II,22,65,87,A,61,Yes,3,Yes,No,9.22
+42,Himmat Johal,Data Structures,21,43,64,C,96,Yes,4,No,Yes,9.22
+42,Himmat Johal,Digital Logic Design,13,27,40,D,87,Yes,4,No,Yes,9.22
+42,Himmat Johal,Environmental Studies,30,29,59,C,64,Yes,3,No,No,9.22
+42,Himmat Johal,Professional Communication,24,56,80,B,74,Yes,2,Yes,No,9.22
+43,Saksham Gade,Mathematics-II,14,58,72,B,75,Yes,2,No,Yes,7.24
+43,Saksham Gade,Data Structures,22,21,43,D,66,Yes,1,No,No,7.24
+43,Saksham Gade,Digital Logic Design,17,63,80,B,91,Yes,1,Yes,Yes,7.24
+43,Saksham Gade,Environmental Studies,24,35,59,C,73,Yes,5,No,Yes,7.24
+43,Saksham Gade,Professional Communication,12,28,40,D,76,Yes,3,No,No,7.24
+44,Nitara Contractor,Mathematics-II,25,42,67,C,60,Yes,2,Yes,No,7.27
+44,Nitara Contractor,Data Structures,20,23,43,D,83,Yes,4,Yes,Yes,7.27
+44,Nitara Contractor,Digital Logic Design,19,69,88,A,66,Yes,3,Yes,No,7.27
+44,Nitara Contractor,Environmental Studies,15,42,57,C,97,Yes,1,Yes,No,7.27
+44,Nitara Contractor,Professional Communication,18,54,72,B,77,Yes,3,No,Yes,7.27
+45,Arhaan Bhasin,Mathematics-II,28,27,55,C,89,Yes,3,No,No,6.47
+45,Arhaan Bhasin,Data Structures,16,30,46,D,60,Yes,1,Yes,No,6.47
+45,Arhaan Bhasin,Digital Logic Design,26,64,90,A,89,Yes,4,Yes,Yes,6.47
+45,Arhaan Bhasin,Environmental Studies,28,66,94,A,80,Yes,5,No,No,6.47
+45,Arhaan Bhasin,Professional Communication,30,69,99,A,81,Yes,3,No,Yes,6.47
+46,Riaan Reddy,Mathematics-II,28,30,58,C,84,Yes,4,No,Yes,7.35
+46,Riaan Reddy,Data Structures,12,46,58,C,75,Yes,1,No,No,7.35
+46,Riaan Reddy,Digital Logic Design,12,22,34,F,69,No,3,Yes,No,7.35
+46,Riaan Reddy,Environmental Studies,15,63,78,B,68,Yes,2,No,Yes,7.35
+46,Riaan Reddy,Professional Communication,29,58,87,A,71,Yes,2,Yes,Yes,7.35
+47,Lakshay Khalsa,Mathematics-II,22,20,42,D,84,Yes,5,Yes,No,7.09
+47,Lakshay Khalsa,Data Structures,21,63,84,B,86,Yes,1,Yes,Yes,7.09
+47,Lakshay Khalsa,Digital Logic Design,27,45,72,B,83,Yes,2,No,No,7.09
+47,Lakshay Khalsa,Environmental Studies,30,45,75,B,78,Yes,4,Yes,No,7.09
+47,Lakshay Khalsa,Professional Communication,25,66,91,A,97,Yes,2,No,No,7.09
+48,Baiju Bath,Mathematics-II,23,63,86,A,78,Yes,4,No,Yes,7.37
+48,Baiju Bath,Data Structures,15,50,65,C,88,Yes,4,Yes,Yes,7.37
+48,Baiju Bath,Digital Logic Design,18,45,63,C,68,Yes,4,Yes,Yes,7.37
+48,Baiju Bath,Environmental Studies,10,51,61,C,70,Yes,5,Yes,Yes,7.37
+48,Baiju Bath,Professional Communication,10,70,80,B,60,Yes,1,Yes,No,7.37
+49,Anay Dani,Mathematics-II,26,56,82,B,62,Yes,5,No,Yes,8.54
+49,Anay Dani,Data Structures,24,47,71,B,86,Yes,2,Yes,Yes,8.54
+49,Anay Dani,Digital Logic Design,24,46,70,B,76,Yes,4,Yes,No,8.54
+49,Anay Dani,Environmental Studies,30,27,57,C,74,Yes,5,Yes,No,8.54
+49,Anay Dani,Professional Communication,22,40,62,C,70,Yes,5,No,Yes,8.54
+50,Yasmin Vyas,Mathematics-II,16,36,52,D,94,Yes,4,Yes,Yes,9.69
+50,Yasmin Vyas,Data Structures,25,22,47,D,81,Yes,5,Yes,Yes,9.69
+50,Yasmin Vyas,Digital Logic Design,29,64,93,A,81,Yes,4,No,No,9.69
+50,Yasmin Vyas,Environmental Studies,24,65,89,A,60,Yes,1,Yes,Yes,9.69
+50,Yasmin Vyas,Professional Communication,24,20,44,D,67,Yes,2,No,Yes,9.69
+51,Hridaan Tandon,Mathematics-II,17,52,69,C,68,Yes,4,No,No,7.28
+51,Hridaan Tandon,Data Structures,10,30,40,D,71,Yes,1,No,Yes,7.28
+51,Hridaan Tandon,Digital Logic Design,30,48,78,B,69,Yes,1,Yes,No,7.28
+51,Hridaan Tandon,Environmental Studies,10,45,55,C,77,Yes,1,No,Yes,7.28
+51,Hridaan Tandon,Professional Communication,14,31,45,D,90,Yes,3,Yes,Yes,7.28
+52,Samar Shere,Mathematics-II,11,38,49,D,86,Yes,2,Yes,No,6.98
+52,Samar Shere,Data Structures,29,49,78,B,86,Yes,1,No,No,6.98
+52,Samar Shere,Digital Logic Design,29,51,80,B,71,Yes,4,Yes,No,6.98
+52,Samar Shere,Environmental Studies,13,42,55,C,79,Yes,2,Yes,Yes,6.98
+52,Samar Shere,Professional Communication,23,31,54,D,66,Yes,4,Yes,Yes,6.98
+53,Dishani Mander,Mathematics-II,14,63,77,B,79,Yes,5,Yes,No,5.17
+53,Dishani Mander,Data Structures,15,68,83,B,65,Yes,3,No,Yes,5.17
+53,Dishani Mander,Digital Logic Design,12,43,55,C,71,Yes,1,No,Yes,5.17
+53,Dishani Mander,Environmental Studies,20,40,60,C,64,Yes,1,Yes,Yes,5.17
+53,Dishani Mander,Professional Communication,12,29,41,D,69,Yes,4,No,No,5.17
+54,Shanaya Chhabra,Mathematics-II,16,24,40,D,62,Yes,3,No,Yes,8.8
+54,Shanaya Chhabra,Data Structures,17,37,54,D,89,Yes,3,Yes,Yes,8.8
+54,Shanaya Chhabra,Digital Logic Design,10,37,47,D,84,Yes,5,Yes,Yes,8.8
+54,Shanaya Chhabra,Environmental Studies,23,65,88,A,68,Yes,3,No,Yes,8.8
+54,Shanaya Chhabra,Professional Communication,23,42,65,C,83,Yes,5,No,Yes,8.8
+55,Purab Choudhury,Mathematics-II,20,34,54,D,88,Yes,1,No,Yes,9.12
+55,Purab Choudhury,Data Structures,14,54,68,C,99,Yes,3,Yes,Yes,9.12
+55,Purab Choudhury,Digital Logic Design,11,67,78,B,65,Yes,1,No,No,9.12
+55,Purab Choudhury,Environmental Studies,17,50,67,C,61,Yes,5,No,No,9.12
+55,Purab Choudhury,Professional Communication,14,27,41,D,69,Yes,2,No,Yes,9.12
+56,Damini Amble,Mathematics-II,10,66,76,B,81,Yes,2,Yes,Yes,9.12
+56,Damini Amble,Data Structures,16,60,76,B,60,Yes,3,Yes,Yes,9.12
+56,Damini Amble,Digital Logic Design,23,41,64,C,64,Yes,5,No,Yes,9.12
+56,Damini Amble,Environmental Studies,21,47,68,C,65,Yes,4,Yes,Yes,9.12
+56,Damini Amble,Professional Communication,30,65,95,A,75,Yes,4,No,Yes,9.12
+57,Kiara Malhotra,Mathematics-II,17,70,87,A,97,Yes,4,Yes,No,8.34
+57,Kiara Malhotra,Data Structures,14,43,57,C,97,Yes,4,No,Yes,8.34
+57,Kiara Malhotra,Digital Logic Design,17,38,55,C,69,Yes,5,Yes,Yes,8.34
+57,Kiara Malhotra,Environmental Studies,14,26,40,D,83,Yes,1,No,Yes,8.34
+57,Kiara Malhotra,Professional Communication,16,20,36,F,100,No,3,No,No,8.34
+58,Indranil Gade,Mathematics-II,29,50,79,B,82,Yes,2,Yes,No,8.25
+58,Indranil Gade,Data Structures,29,42,71,B,63,Yes,5,Yes,Yes,8.25
+58,Indranil Gade,Digital Logic Design,28,22,50,D,72,Yes,5,No,No,8.25
+58,Indranil Gade,Environmental Studies,13,42,55,C,69,Yes,1,No,Yes,8.25
+58,Indranil Gade,Professional Communication,28,59,87,A,99,Yes,2,Yes,No,8.25
+59,Siya Das,Mathematics-II,21,50,71,B,86,Yes,2,No,Yes,8.71
+59,Siya Das,Data Structures,17,47,64,C,65,Yes,5,No,No,8.71
+59,Siya Das,Digital Logic Design,29,34,63,C,79,Yes,3,No,No,8.71
+59,Siya Das,Environmental Studies,20,36,56,C,79,Yes,1,Yes,Yes,8.71
+59,Siya Das,Professional Communication,18,62,80,B,85,Yes,1,No,Yes,8.71
+60,Jayesh Ganesan,Mathematics-II,10,46,56,C,93,Yes,1,No,Yes,9.35
+60,Jayesh Ganesan,Data Structures,13,29,42,D,99,Yes,4,Yes,No,9.35
+60,Jayesh Ganesan,Digital Logic Design,16,22,38,F,91,No,2,No,No,9.35
+60,Jayesh Ganesan,Environmental Studies,27,57,84,B,74,Yes,3,Yes,Yes,9.35
+60,Jayesh Ganesan,Professional Communication,14,60,74,B,78,Yes,5,Yes,Yes,9.35
+61,Sahil Char,Mathematics-II,18,34,52,D,90,Yes,2,No,Yes,5.9
+61,Sahil Char,Data Structures,24,52,76,B,80,Yes,3,No,No,5.9
+61,Sahil Char,Digital Logic Design,19,34,53,D,81,Yes,5,Yes,Yes,5.9
+61,Sahil Char,Environmental Studies,10,30,40,D,76,Yes,3,No,No,5.9
+61,Sahil Char,Professional Communication,30,28,58,C,88,Yes,4,Yes,No,5.9
+62,Hansh Chandran,Mathematics-II,25,38,63,C,67,Yes,5,No,No,6.07
+62,Hansh Chandran,Data Structures,18,56,74,B,99,Yes,5,No,No,6.07
+62,Hansh Chandran,Digital Logic Design,18,66,84,B,92,Yes,3,Yes,No,6.07
+62,Hansh Chandran,Environmental Studies,12,30,42,D,82,Yes,1,Yes,Yes,6.07
+62,Hansh Chandran,Professional Communication,10,49,59,C,66,Yes,5,Yes,No,6.07
+63,Akarsh Reddy,Mathematics-II,11,51,62,C,74,Yes,5,No,Yes,6.99
+63,Akarsh Reddy,Data Structures,13,63,76,B,70,Yes,2,Yes,No,6.99
+63,Akarsh Reddy,Digital Logic Design,22,47,69,C,73,Yes,1,No,Yes,6.99
+63,Akarsh Reddy,Environmental Studies,30,24,54,D,81,Yes,4,Yes,No,6.99
+63,Akarsh Reddy,Professional Communication,11,64,75,B,66,Yes,3,Yes,No,6.99
+64,Kismat Bir,Mathematics-II,30,28,58,C,88,Yes,3,No,No,7.32
+64,Kismat Bir,Data Structures,27,63,90,A,72,Yes,4,No,No,7.32
+64,Kismat Bir,Digital Logic Design,27,56,83,B,97,Yes,4,Yes,Yes,7.32
+64,Kismat Bir,Environmental Studies,16,36,52,D,91,Yes,4,No,No,7.32
+64,Kismat Bir,Professional Communication,30,24,54,D,98,Yes,4,Yes,No,7.32
+65,Jayan Kapur,Mathematics-II,23,48,71,B,74,Yes,3,Yes,Yes,5.77
+65,Jayan Kapur,Data Structures,27,39,66,C,89,Yes,5,No,No,5.77
+65,Jayan Kapur,Digital Logic Design,12,22,34,F,92,No,5,Yes,Yes,5.77
+65,Jayan Kapur,Environmental Studies,11,57,68,C,92,Yes,3,No,No,5.77
+65,Jayan Kapur,Professional Communication,26,39,65,C,60,Yes,1,No,Yes,5.77
+66,Madhav Saran,Mathematics-II,13,38,51,D,83,Yes,1,No,No,9.63
+66,Madhav Saran,Data Structures,20,39,59,C,88,Yes,4,No,No,9.63
+66,Madhav Saran,Digital Logic Design,25,24,49,D,87,Yes,2,Yes,Yes,9.63
+66,Madhav Saran,Environmental Studies,15,67,82,B,75,Yes,3,No,Yes,9.63
+66,Madhav Saran,Professional Communication,18,23,41,D,87,Yes,4,Yes,No,9.63
+67,Renee Jaggi,Mathematics-II,19,22,41,D,74,Yes,5,No,No,6.9
+67,Renee Jaggi,Data Structures,21,37,58,C,99,Yes,2,Yes,No,6.9
+67,Renee Jaggi,Digital Logic Design,11,20,31,F,77,No,5,Yes,Yes,6.9
+67,Renee Jaggi,Environmental Studies,19,31,50,D,96,Yes,2,No,No,6.9
+67,Renee Jaggi,Professional Communication,24,62,86,A,88,Yes,3,Yes,Yes,6.9
+68,Aarna Doshi,Mathematics-II,24,52,76,B,74,Yes,5,No,Yes,9.14
+68,Aarna Doshi,Data Structures,26,45,71,B,79,Yes,2,No,Yes,9.14
+68,Aarna Doshi,Digital Logic Design,12,30,42,D,64,Yes,5,No,No,9.14
+68,Aarna Doshi,Environmental Studies,10,46,56,C,86,Yes,3,Yes,No,9.14
+68,Aarna Doshi,Professional Communication,19,43,62,C,95,Yes,1,Yes,No,9.14
+69,Saksham Virk,Mathematics-II,29,39,68,C,79,Yes,2,Yes,Yes,8.53
+69,Saksham Virk,Data Structures,26,40,66,C,95,Yes,4,No,Yes,8.53
+69,Saksham Virk,Digital Logic Design,13,24,37,F,99,No,3,Yes,Yes,8.53
+69,Saksham Virk,Environmental Studies,24,35,59,C,83,Yes,4,Yes,Yes,8.53
+69,Saksham Virk,Professional Communication,21,58,79,B,75,Yes,5,Yes,No,8.53
+70,Arhaan Doctor,Mathematics-II,14,66,80,B,91,Yes,3,No,No,9.19
+70,Arhaan Doctor,Data Structures,30,64,94,A,82,Yes,3,No,Yes,9.19
+70,Arhaan Doctor,Digital Logic Design,23,63,86,A,78,Yes,4,No,No,9.19
+70,Arhaan Doctor,Environmental Studies,12,46,58,C,99,Yes,3,Yes,No,9.19
+70,Arhaan Doctor,Professional Communication,28,68,96,A,96,Yes,5,No,Yes,9.19
+71,Hridaan Chandra,Mathematics-II,21,42,63,C,84,Yes,3,Yes,No,6.72
+71,Hridaan Chandra,Data Structures,28,53,81,B,91,Yes,2,Yes,No,6.72
+71,Hridaan Chandra,Digital Logic Design,12,47,59,C,92,Yes,1,Yes,No,6.72
+71,Hridaan Chandra,Environmental Studies,30,70,100,A,63,Yes,2,No,No,6.72
+71,Hridaan Chandra,Professional Communication,11,56,67,C,72,Yes,1,No,No,6.72
+72,Kabir Krishnan,Mathematics-II,24,39,63,C,97,Yes,2,No,No,6.53
+72,Kabir Krishnan,Data Structures,19,61,80,B,88,Yes,3,Yes,Yes,6.53
+72,Kabir Krishnan,Digital Logic Design,28,61,89,A,74,Yes,3,Yes,Yes,6.53
+72,Kabir Krishnan,Environmental Studies,11,40,51,D,65,Yes,2,Yes,Yes,6.53
+72,Kabir Krishnan,Professional Communication,17,65,82,B,89,Yes,1,Yes,Yes,6.53
+73,Zoya Cheema,Mathematics-II,19,38,57,C,60,Yes,2,Yes,Yes,5.73
+73,Zoya Cheema,Data Structures,22,64,86,A,62,Yes,1,No,No,5.73
+73,Zoya Cheema,Digital Logic Design,18,32,50,D,90,Yes,5,Yes,No,5.73
+73,Zoya Cheema,Environmental Studies,16,66,82,B,75,Yes,1,No,No,5.73
+73,Zoya Cheema,Professional Communication,28,31,59,C,95,Yes,3,Yes,No,5.73
+74,Mehul Kakar,Mathematics-II,18,29,47,D,73,Yes,5,Yes,No,9.2
+74,Mehul Kakar,Data Structures,29,65,94,A,77,Yes,5,Yes,No,9.2
+74,Mehul Kakar,Digital Logic Design,12,66,78,B,88,Yes,1,Yes,Yes,9.2
+74,Mehul Kakar,Environmental Studies,26,37,63,C,79,Yes,5,No,No,9.2
+74,Mehul Kakar,Professional Communication,11,64,75,B,73,Yes,4,Yes,No,9.2
+75,Krish Anand,Mathematics-II,30,42,72,B,87,Yes,4,Yes,No,6.68
+75,Krish Anand,Data Structures,23,69,92,A,88,Yes,1,No,Yes,6.68
+75,Krish Anand,Digital Logic Design,27,58,85,A,81,Yes,3,No,No,6.68
+75,Krish Anand,Environmental Studies,21,38,59,C,73,Yes,5,No,No,6.68
+75,Krish Anand,Professional Communication,20,67,87,A,74,Yes,1,No,Yes,6.68
+76,Farhan Chopra,Mathematics-II,15,70,85,A,95,Yes,3,No,No,9.28
+76,Farhan Chopra,Data Structures,20,48,68,C,62,Yes,2,Yes,Yes,9.28
+76,Farhan Chopra,Digital Logic Design,15,45,60,C,66,Yes,4,Yes,No,9.28
+76,Farhan Chopra,Environmental Studies,12,64,76,B,74,Yes,4,No,Yes,9.28
+76,Farhan Chopra,Professional Communication,26,46,72,B,87,Yes,1,No,Yes,9.28
+77,Chirag Sarraf,Mathematics-II,30,23,53,D,99,Yes,1,Yes,Yes,8.67
+77,Chirag Sarraf,Data Structures,11,24,35,F,68,No,1,No,No,8.67
+77,Chirag Sarraf,Digital Logic Design,17,68,85,A,99,Yes,4,No,No,8.67
+77,Chirag Sarraf,Environmental Studies,11,29,40,D,99,Yes,3,No,No,8.67
+77,Chirag Sarraf,Professional Communication,22,52,74,B,64,Yes,2,Yes,Yes,8.67
+78,Anay Magar,Mathematics-II,13,66,79,B,73,Yes,2,Yes,No,6.23
+78,Anay Magar,Data Structures,24,44,68,C,88,Yes,5,No,No,6.23
+78,Anay Magar,Digital Logic Design,22,52,74,B,74,Yes,5,Yes,Yes,6.23
+78,Anay Magar,Environmental Studies,17,60,77,B,65,Yes,2,Yes,Yes,6.23
+78,Anay Magar,Professional Communication,29,58,87,A,82,Yes,4,No,No,6.23
+79,Miraan Hari,Mathematics-II,30,30,60,C,76,Yes,3,Yes,No,8.5
+79,Miraan Hari,Data Structures,28,47,75,B,88,Yes,3,Yes,Yes,8.5
+79,Miraan Hari,Digital Logic Design,20,68,88,A,76,Yes,2,Yes,Yes,8.5
+79,Miraan Hari,Environmental Studies,11,65,76,B,86,Yes,1,Yes,No,8.5
+79,Miraan Hari,Professional Communication,19,33,52,D,93,Yes,2,Yes,No,8.5
+80,Vihaan Mahal,Mathematics-II,16,40,56,C,62,Yes,2,No,No,9.57
+80,Vihaan Mahal,Data Structures,15,70,85,A,80,Yes,1,Yes,No,9.57
+80,Vihaan Mahal,Digital Logic Design,25,61,86,A,97,Yes,4,No,Yes,9.57
+80,Vihaan Mahal,Environmental Studies,18,37,55,C,87,Yes,5,Yes,Yes,9.57
+80,Vihaan Mahal,Professional Communication,26,36,62,C,95,Yes,4,Yes,Yes,9.57
+81,Yashvi Dasgupta,Mathematics-II,14,22,36,F,68,No,1,Yes,Yes,7.29
+81,Yashvi Dasgupta,Data Structures,10,38,48,D,66,Yes,5,Yes,Yes,7.29
+81,Yashvi Dasgupta,Digital Logic Design,20,46,66,C,94,Yes,2,Yes,No,7.29
+81,Yashvi Dasgupta,Environmental Studies,21,40,61,C,87,Yes,4,Yes,Yes,7.29
+81,Yashvi Dasgupta,Professional Communication,26,28,54,D,96,Yes,2,No,No,7.29
+82,Anaya Batta,Mathematics-II,21,62,83,B,82,Yes,5,No,No,5.39
+82,Anaya Batta,Data Structures,14,29,43,D,89,Yes,2,Yes,No,5.39
+82,Anaya Batta,Digital Logic Design,30,34,64,C,66,Yes,2,No,Yes,5.39
+82,Anaya Batta,Environmental Studies,26,27,53,D,94,Yes,1,No,No,5.39
+82,Anaya Batta,Professional Communication,17,61,78,B,100,Yes,4,No,No,5.39
+83,Ehsaan Thakur,Mathematics-II,16,54,70,B,81,Yes,4,Yes,No,6.96
+83,Ehsaan Thakur,Data Structures,14,33,47,D,100,Yes,2,No,No,6.96
+83,Ehsaan Thakur,Digital Logic Design,22,28,50,D,68,Yes,3,Yes,Yes,6.96
+83,Ehsaan Thakur,Environmental Studies,11,47,58,C,69,Yes,3,No,No,6.96
+83,Ehsaan Thakur,Professional Communication,29,53,82,B,91,Yes,5,Yes,No,6.96
+84,Kanav Kurian,Mathematics-II,11,62,73,B,62,Yes,4,No,No,5.7
+84,Kanav Kurian,Data Structures,24,66,90,A,100,Yes,1,No,No,5.7
+84,Kanav Kurian,Digital Logic Design,30,28,58,C,89,Yes,1,Yes,No,5.7
+84,Kanav Kurian,Environmental Studies,29,31,60,C,65,Yes,2,No,Yes,5.7
+84,Kanav Kurian,Professional Communication,16,66,82,B,60,Yes,3,No,No,5.7
+85,Aarush Sharma,Mathematics-II,30,42,72,B,98,Yes,3,Yes,No,5.61
+85,Aarush Sharma,Data Structures,26,57,83,B,84,Yes,1,Yes,No,5.61
+85,Aarush Sharma,Digital Logic Design,25,68,93,A,100,Yes,3,No,No,5.61
+85,Aarush Sharma,Environmental Studies,25,20,45,D,77,Yes,3,No,No,5.61
+85,Aarush Sharma,Professional Communication,22,55,77,B,66,Yes,3,Yes,Yes,5.61
+86,Pranay Barad,Mathematics-II,24,62,86,A,67,Yes,1,Yes,Yes,8.16
+86,Pranay Barad,Data Structures,30,25,55,C,96,Yes,4,No,Yes,8.16
+86,Pranay Barad,Digital Logic Design,21,63,84,B,96,Yes,5,No,No,8.16
+86,Pranay Barad,Environmental Studies,22,58,80,B,98,Yes,3,Yes,Yes,8.16
+86,Pranay Barad,Professional Communication,12,39,51,D,80,Yes,2,Yes,No,8.16
+87,Divyansh Kadakia,Mathematics-II,14,70,84,B,72,Yes,5,No,Yes,9.49
+87,Divyansh Kadakia,Data Structures,26,31,57,C,81,Yes,1,No,Yes,9.49
+87,Divyansh Kadakia,Digital Logic Design,13,28,41,D,84,Yes,4,Yes,Yes,9.49
+87,Divyansh Kadakia,Environmental Studies,30,53,83,B,98,Yes,3,No,Yes,9.49
+87,Divyansh Kadakia,Professional Communication,12,40,52,D,76,Yes,3,No,Yes,9.49
+88,Lakshay Chandran,Mathematics-II,16,50,66,C,91,Yes,2,No,Yes,7.11
+88,Lakshay Chandran,Data Structures,10,25,35,F,87,No,1,Yes,Yes,7.11
+88,Lakshay Chandran,Digital Logic Design,12,70,82,B,87,Yes,2,Yes,No,7.11
+88,Lakshay Chandran,Environmental Studies,15,56,71,B,60,Yes,4,No,No,7.11
+88,Lakshay Chandran,Professional Communication,20,33,53,D,93,Yes,3,Yes,Yes,7.11
+89,Anahi Dayal,Mathematics-II,18,27,45,D,69,Yes,1,Yes,Yes,5.95
+89,Anahi Dayal,Data Structures,13,33,46,D,67,Yes,1,No,No,5.95
+89,Anahi Dayal,Digital Logic Design,10,49,59,C,60,Yes,2,No,Yes,5.95
+89,Anahi Dayal,Environmental Studies,16,57,73,B,84,Yes,4,No,No,5.95
+89,Anahi Dayal,Professional Communication,23,68,91,A,62,Yes,3,No,Yes,5.95
+90,Yashvi Sidhu,Mathematics-II,16,57,73,B,86,Yes,5,No,Yes,9.67
+90,Yashvi Sidhu,Data Structures,20,21,41,D,70,Yes,2,No,Yes,9.67
+90,Yashvi Sidhu,Digital Logic Design,22,51,73,B,62,Yes,5,No,Yes,9.67
+90,Yashvi Sidhu,Environmental Studies,17,38,55,C,96,Yes,2,Yes,Yes,9.67
+90,Yashvi Sidhu,Professional Communication,13,36,49,D,90,Yes,4,No,Yes,9.67
+91,Saanvi Thakur,Mathematics-II,13,40,53,D,67,Yes,4,No,No,9.93
+91,Saanvi Thakur,Data Structures,21,27,48,D,87,Yes,3,No,No,9.93
+91,Saanvi Thakur,Digital Logic Design,22,30,52,D,88,Yes,5,Yes,No,9.93
+91,Saanvi Thakur,Environmental Studies,21,24,45,D,100,Yes,2,Yes,No,9.93
+91,Saanvi Thakur,Professional Communication,23,63,86,A,100,Yes,2,No,No,9.93
+92,Mohanlal Swaminathan,Mathematics-II,13,41,54,D,61,Yes,1,Yes,No,7.43
+92,Mohanlal Swaminathan,Data Structures,10,59,69,C,83,Yes,3,No,No,7.43
+92,Mohanlal Swaminathan,Digital Logic Design,24,59,83,B,77,Yes,4,No,No,7.43
+92,Mohanlal Swaminathan,Environmental Studies,16,20,36,F,72,No,2,Yes,Yes,7.43
+92,Mohanlal Swaminathan,Professional Communication,15,63,78,B,62,Yes,3,No,No,7.43
+93,Vivaan Soman,Mathematics-II,27,29,56,C,89,Yes,4,Yes,No,9.71
+93,Vivaan Soman,Data Structures,14,29,43,D,79,Yes,3,No,Yes,9.71
+93,Vivaan Soman,Digital Logic Design,15,32,47,D,97,Yes,5,Yes,Yes,9.71
+93,Vivaan Soman,Environmental Studies,15,25,40,D,68,Yes,3,Yes,No,9.71
+93,Vivaan Soman,Professional Communication,17,28,45,D,91,Yes,4,No,Yes,9.71
+94,Shanaya Sinha,Mathematics-II,12,53,65,C,87,Yes,4,No,Yes,8.69
+94,Shanaya Sinha,Data Structures,19,28,47,D,96,Yes,5,No,Yes,8.69
+94,Shanaya Sinha,Digital Logic Design,14,46,60,C,93,Yes,1,No,No,8.69
+94,Shanaya Sinha,Environmental Studies,20,45,65,C,85,Yes,1,No,Yes,8.69
+94,Shanaya Sinha,Professional Communication,20,53,73,B,96,Yes,4,No,No,8.69
+95,Pari Wadhwa,Mathematics-II,13,57,70,B,81,Yes,2,Yes,Yes,7.65
+95,Pari Wadhwa,Data Structures,20,70,90,A,71,Yes,5,No,Yes,7.65
+95,Pari Wadhwa,Digital Logic Design,25,41,66,C,84,Yes,4,No,Yes,7.65
+95,Pari Wadhwa,Environmental Studies,29,47,76,B,66,Yes,4,No,No,7.65
+95,Pari Wadhwa,Professional Communication,21,69,90,A,72,Yes,4,Yes,Yes,7.65
+96,Prisha Lata,Mathematics-II,25,59,84,B,82,Yes,2,No,No,9.59
+96,Prisha Lata,Data Structures,19,40,59,C,69,Yes,3,No,Yes,9.59
+96,Prisha Lata,Digital Logic Design,21,28,49,D,65,Yes,4,No,Yes,9.59
+96,Prisha Lata,Environmental Studies,30,54,84,B,66,Yes,3,Yes,No,9.59
+96,Prisha Lata,Professional Communication,30,29,59,C,89,Yes,1,No,Yes,9.59
+97,Akarsh Subramaniam,Mathematics-II,12,64,76,B,64,Yes,1,No,No,6.26
+97,Akarsh Subramaniam,Data Structures,16,24,40,D,86,Yes,4,Yes,No,6.26
+97,Akarsh Subramaniam,Digital Logic Design,29,22,51,D,88,Yes,2,Yes,No,6.26
+97,Akarsh Subramaniam,Environmental Studies,15,64,79,B,91,Yes,2,Yes,Yes,6.26
+97,Akarsh Subramaniam,Professional Communication,27,62,89,A,74,Yes,5,No,Yes,6.26
+98,Biju Maharaj,Mathematics-II,23,54,77,B,62,Yes,4,Yes,Yes,9.94
+98,Biju Maharaj,Data Structures,22,31,53,D,99,Yes,2,Yes,No,9.94
+98,Biju Maharaj,Digital Logic Design,30,61,91,A,87,Yes,1,Yes,Yes,9.94
+98,Biju Maharaj,Environmental Studies,12,55,67,C,64,Yes,1,Yes,Yes,9.94
+98,Biju Maharaj,Professional Communication,14,62,76,B,64,Yes,3,Yes,No,9.94
+99,Siya Varma,Mathematics-II,16,37,53,D,64,Yes,2,No,No,6.3
+99,Siya Varma,Data Structures,25,47,72,B,95,Yes,4,Yes,No,6.3
+99,Siya Varma,Digital Logic Design,14,33,47,D,61,Yes,5,No,Yes,6.3
+99,Siya Varma,Environmental Studies,20,45,65,C,93,Yes,1,Yes,Yes,6.3
+99,Siya Varma,Professional Communication,12,32,44,D,97,Yes,2,No,No,6.3
+100,Vritika Viswanathan,Mathematics-II,28,60,88,A,70,Yes,1,No,No,5.69
+100,Vritika Viswanathan,Data Structures,27,68,95,A,88,Yes,4,Yes,Yes,5.69
+100,Vritika Viswanathan,Digital Logic Design,13,42,55,C,79,Yes,5,No,Yes,5.69
+100,Vritika Viswanathan,Environmental Studies,24,70,94,A,80,Yes,3,No,No,5.69
+100,Vritika Viswanathan,Professional Communication,22,34,56,C,80,Yes,2,Yes,Yes,5.69
+101,Anya Sethi,Mathematics-II,20,57,77,B,94,Yes,1,No,No,9.35
+101,Anya Sethi,Data Structures,26,25,51,D,100,Yes,3,No,No,9.35
+101,Anya Sethi,Digital Logic Design,15,54,69,C,72,Yes,5,No,No,9.35
+101,Anya Sethi,Environmental Studies,10,58,68,C,92,Yes,2,No,Yes,9.35
+101,Anya Sethi,Professional Communication,14,43,57,C,75,Yes,3,Yes,Yes,9.35
+102,Romil Kaur,Mathematics-II,22,69,91,A,68,Yes,5,No,Yes,7.69
+102,Romil Kaur,Data Structures,26,35,61,C,64,Yes,4,Yes,Yes,7.69
+102,Romil Kaur,Digital Logic Design,24,41,65,C,73,Yes,4,No,Yes,7.69
+102,Romil Kaur,Environmental Studies,14,47,61,C,86,Yes,1,Yes,Yes,7.69
+102,Romil Kaur,Professional Communication,23,37,60,C,70,Yes,2,Yes,No,7.69
+103,Zaina Chandra,Mathematics-II,12,33,45,D,74,Yes,5,No,Yes,9.21
+103,Zaina Chandra,Data Structures,11,48,59,C,78,Yes,1,Yes,Yes,9.21
+103,Zaina Chandra,Digital Logic Design,21,40,61,C,95,Yes,3,Yes,Yes,9.21
+103,Zaina Chandra,Environmental Studies,11,53,64,C,60,Yes,1,Yes,Yes,9.21
+103,Zaina Chandra,Professional Communication,13,68,81,B,95,Yes,2,No,Yes,9.21
+104,Tanya Khalsa,Mathematics-II,29,28,57,C,85,Yes,5,Yes,No,8.77
+104,Tanya Khalsa,Data Structures,20,34,54,D,83,Yes,3,Yes,No,8.77
+104,Tanya Khalsa,Digital Logic Design,14,56,70,B,92,Yes,2,No,Yes,8.77
+104,Tanya Khalsa,Environmental Studies,13,49,62,C,74,Yes,3,No,Yes,8.77
+104,Tanya Khalsa,Professional Communication,25,29,54,D,71,Yes,5,Yes,Yes,8.77
+105,Rania Dugar,Mathematics-II,10,37,47,D,64,Yes,3,No,Yes,9.59
+105,Rania Dugar,Data Structures,13,48,61,C,77,Yes,2,Yes,No,9.59
+105,Rania Dugar,Digital Logic Design,26,68,94,A,82,Yes,2,No,Yes,9.59
+105,Rania Dugar,Environmental Studies,21,24,45,D,62,Yes,2,No,No,9.59
+105,Rania Dugar,Professional Communication,28,62,90,A,72,Yes,4,No,Yes,9.59
+106,Nayantara Anne,Mathematics-II,11,45,56,C,79,Yes,2,No,No,9.21
+106,Nayantara Anne,Data Structures,15,70,85,A,74,Yes,4,No,Yes,9.21
+106,Nayantara Anne,Digital Logic Design,30,55,85,A,82,Yes,2,No,Yes,9.21
+106,Nayantara Anne,Environmental Studies,25,45,70,B,66,Yes,2,Yes,Yes,9.21
+106,Nayantara Anne,Professional Communication,18,62,80,B,65,Yes,4,Yes,Yes,9.21
+107,Saira Vaidya,Mathematics-II,26,55,81,B,81,Yes,3,Yes,No,6.23
+107,Saira Vaidya,Data Structures,15,31,46,D,90,Yes,2,No,No,6.23
+107,Saira Vaidya,Digital Logic Design,17,22,39,F,99,No,1,Yes,Yes,6.23
+107,Saira Vaidya,Environmental Studies,16,29,45,D,93,Yes,1,Yes,No,6.23
+107,Saira Vaidya,Professional Communication,16,59,75,B,90,Yes,3,Yes,No,6.23
+108,Adira Kapur,Mathematics-II,26,29,55,C,64,Yes,1,Yes,Yes,7.56
+108,Adira Kapur,Data Structures,29,70,99,A,76,Yes,2,Yes,Yes,7.56
+108,Adira Kapur,Digital Logic Design,18,52,70,B,61,Yes,1,No,No,7.56
+108,Adira Kapur,Environmental Studies,17,48,65,C,71,Yes,1,No,No,7.56
+108,Adira Kapur,Professional Communication,24,21,45,D,66,Yes,4,No,Yes,7.56
+109,Sumer Tak,Mathematics-II,20,69,89,A,71,Yes,1,Yes,Yes,8.24
+109,Sumer Tak,Data Structures,11,53,64,C,74,Yes,5,Yes,Yes,8.24
+109,Sumer Tak,Digital Logic Design,14,62,76,B,60,Yes,2,No,No,8.24
+109,Sumer Tak,Environmental Studies,15,47,62,C,67,Yes,1,No,Yes,8.24
+109,Sumer Tak,Professional Communication,11,20,31,F,99,No,4,Yes,Yes,8.24
+110,Kabir Dutt,Mathematics-II,17,59,76,B,80,Yes,2,Yes,No,9.61
+110,Kabir Dutt,Data Structures,21,56,77,B,62,Yes,1,Yes,Yes,9.61
+110,Kabir Dutt,Digital Logic Design,30,58,88,A,99,Yes,2,Yes,No,9.61
+110,Kabir Dutt,Environmental Studies,12,65,77,B,92,Yes,2,Yes,No,9.61
+110,Kabir Dutt,Professional Communication,15,43,58,C,79,Yes,4,No,No,9.61
+111,Eshani Gala,Mathematics-II,21,22,43,D,84,Yes,5,No,No,9.06
+111,Eshani Gala,Data Structures,10,58,68,C,74,Yes,3,Yes,No,9.06
+111,Eshani Gala,Digital Logic Design,24,60,84,B,90,Yes,5,Yes,Yes,9.06
+111,Eshani Gala,Environmental Studies,10,26,36,F,68,No,2,No,Yes,9.06
+111,Eshani Gala,Professional Communication,15,38,53,D,60,Yes,3,No,Yes,9.06
+112,Miraan Tailor,Mathematics-II,13,57,70,B,85,Yes,4,Yes,No,5.04
+112,Miraan Tailor,Data Structures,17,34,51,D,67,Yes,3,No,Yes,5.04
+112,Miraan Tailor,Digital Logic Design,13,33,46,D,88,Yes,1,Yes,Yes,5.04
+112,Miraan Tailor,Environmental Studies,11,64,75,B,71,Yes,5,No,Yes,5.04
+112,Miraan Tailor,Professional Communication,20,23,43,D,92,Yes,2,No,No,5.04
+113,Aayush Sridhar,Mathematics-II,20,51,71,B,68,Yes,5,Yes,Yes,9.16
+113,Aayush Sridhar,Data Structures,28,55,83,B,79,Yes,5,Yes,No,9.16
+113,Aayush Sridhar,Digital Logic Design,14,23,37,F,89,No,5,No,Yes,9.16
+113,Aayush Sridhar,Environmental Studies,17,29,46,D,63,Yes,1,Yes,No,9.16
+113,Aayush Sridhar,Professional Communication,29,39,68,C,78,Yes,2,Yes,No,9.16
+114,Keya Kade,Mathematics-II,21,57,78,B,68,Yes,1,No,No,9.83
+114,Keya Kade,Data Structures,16,66,82,B,100,Yes,3,No,No,9.83
+114,Keya Kade,Digital Logic Design,20,46,66,C,64,Yes,2,No,Yes,9.83
+114,Keya Kade,Environmental Studies,17,44,61,C,89,Yes,3,Yes,No,9.83
+114,Keya Kade,Professional Communication,16,39,55,C,82,Yes,4,No,No,9.83
+115,Bhavin Buch,Mathematics-II,16,55,71,B,70,Yes,4,No,No,6.46
+115,Bhavin Buch,Data Structures,14,27,41,D,68,Yes,5,Yes,No,6.46
+115,Bhavin Buch,Digital Logic Design,15,70,85,A,70,Yes,2,Yes,No,6.46
+115,Bhavin Buch,Environmental Studies,19,41,60,C,63,Yes,4,No,Yes,6.46
+115,Bhavin Buch,Professional Communication,24,59,83,B,93,Yes,4,No,Yes,6.46
+116,Samarth Chad,Mathematics-II,17,26,43,D,98,Yes,3,No,No,9.04
+116,Samarth Chad,Data Structures,24,23,47,D,90,Yes,5,No,No,9.04
+116,Samarth Chad,Digital Logic Design,16,34,50,D,85,Yes,5,Yes,Yes,9.04
+116,Samarth Chad,Environmental Studies,14,28,42,D,86,Yes,4,Yes,No,9.04
+116,Samarth Chad,Professional Communication,16,26,42,D,62,Yes,5,No,No,9.04
+117,Adira Agarwal,Mathematics-II,18,38,56,C,64,Yes,3,Yes,Yes,5.69
+117,Adira Agarwal,Data Structures,25,62,87,A,83,Yes,5,No,No,5.69
+117,Adira Agarwal,Digital Logic Design,12,47,59,C,60,Yes,2,Yes,No,5.69
+117,Adira Agarwal,Environmental Studies,27,68,95,A,80,Yes,4,Yes,No,5.69
+117,Adira Agarwal,Professional Communication,10,60,70,B,60,Yes,2,Yes,No,5.69
+118,Raunak Warrior,Mathematics-II,17,21,38,F,64,No,5,Yes,Yes,8.19
+118,Raunak Warrior,Data Structures,17,61,78,B,93,Yes,5,Yes,Yes,8.19
+118,Raunak Warrior,Digital Logic Design,18,61,79,B,99,Yes,1,No,No,8.19
+118,Raunak Warrior,Environmental Studies,21,40,61,C,99,Yes,3,No,No,8.19
+118,Raunak Warrior,Professional Communication,23,35,58,C,65,Yes,4,No,No,8.19
+119,Pranay Koshy,Mathematics-II,26,61,87,A,69,Yes,4,Yes,Yes,5.48
+119,Pranay Koshy,Data Structures,26,52,78,B,66,Yes,5,No,Yes,5.48
+119,Pranay Koshy,Digital Logic Design,11,30,41,D,71,Yes,4,No,Yes,5.48
+119,Pranay Koshy,Environmental Studies,30,51,81,B,76,Yes,3,No,No,5.48
+119,Pranay Koshy,Professional Communication,14,67,81,B,66,Yes,2,Yes,No,5.48
+120,Piya Mammen,Mathematics-II,17,31,48,D,100,Yes,3,Yes,Yes,7.35
+120,Piya Mammen,Data Structures,12,38,50,D,95,Yes,5,Yes,Yes,7.35
+120,Piya Mammen,Digital Logic Design,19,20,39,F,95,No,3,No,Yes,7.35
+120,Piya Mammen,Environmental Studies,23,37,60,C,63,Yes,1,Yes,No,7.35
+120,Piya Mammen,Professional Communication,24,65,89,A,60,Yes,1,No,Yes,7.35
+121,Zoya Tara,Mathematics-II,13,24,37,F,82,No,4,No,No,8.67
+121,Zoya Tara,Data Structures,12,57,69,C,78,Yes,3,Yes,Yes,8.67
+121,Zoya Tara,Digital Logic Design,13,29,42,D,92,Yes,2,No,Yes,8.67
+121,Zoya Tara,Environmental Studies,22,27,49,D,70,Yes,2,Yes,No,8.67
+121,Zoya Tara,Professional Communication,15,42,57,C,72,Yes,4,Yes,No,8.67
+122,Tejas Subramanian,Mathematics-II,25,29,54,D,69,Yes,1,Yes,Yes,6.31
+122,Tejas Subramanian,Data Structures,18,49,67,C,76,Yes,5,No,Yes,6.31
+122,Tejas Subramanian,Digital Logic Design,24,43,67,C,72,Yes,2,No,No,6.31
+122,Tejas Subramanian,Environmental Studies,13,40,53,D,76,Yes,4,No,Yes,6.31
+122,Tejas Subramanian,Professional Communication,18,41,59,C,96,Yes,5,Yes,Yes,6.31
+123,Seher Contractor,Mathematics-II,11,68,79,B,65,Yes,5,Yes,No,7.26
+123,Seher Contractor,Data Structures,19,62,81,B,98,Yes,1,No,Yes,7.26
+123,Seher Contractor,Digital Logic Design,12,70,82,B,96,Yes,3,Yes,No,7.26
+123,Seher Contractor,Environmental Studies,28,54,82,B,100,Yes,3,No,Yes,7.26
+123,Seher Contractor,Professional Communication,25,51,76,B,78,Yes,2,Yes,No,7.26
+124,Navya Goel,Mathematics-II,27,31,58,C,67,Yes,5,Yes,No,8.41
+124,Navya Goel,Data Structures,15,47,62,C,87,Yes,4,Yes,Yes,8.41
+124,Navya Goel,Digital Logic Design,24,36,60,C,100,Yes,3,Yes,No,8.41
+124,Navya Goel,Environmental Studies,28,20,48,D,61,Yes,2,Yes,No,8.41
+124,Navya Goel,Professional Communication,25,62,87,A,95,Yes,2,Yes,Yes,8.41
+125,Devansh Golla,Mathematics-II,12,47,59,C,76,Yes,2,No,No,5.17
+125,Devansh Golla,Data Structures,16,44,60,C,88,Yes,5,No,No,5.17
+125,Devansh Golla,Digital Logic Design,28,37,65,C,77,Yes,4,Yes,No,5.17
+125,Devansh Golla,Environmental Studies,17,35,52,D,90,Yes,4,No,No,5.17
+125,Devansh Golla,Professional Communication,27,66,93,A,67,Yes,3,No,No,5.17
+126,Khushi Vaidya,Mathematics-II,11,33,44,D,99,Yes,1,Yes,Yes,6.13
+126,Khushi Vaidya,Data Structures,10,39,49,D,88,Yes,2,No,Yes,6.13
+126,Khushi Vaidya,Digital Logic Design,13,57,70,B,79,Yes,1,No,No,6.13
+126,Khushi Vaidya,Environmental Studies,10,67,77,B,94,Yes,4,No,Yes,6.13
+126,Khushi Vaidya,Professional Communication,14,64,78,B,76,Yes,2,No,Yes,6.13
+127,Keya Balakrishnan,Mathematics-II,27,40,67,C,86,Yes,2,No,Yes,8.48
+127,Keya Balakrishnan,Data Structures,26,68,94,A,62,Yes,3,No,Yes,8.48
+127,Keya Balakrishnan,Digital Logic Design,18,67,85,A,67,Yes,2,Yes,No,8.48
+127,Keya Balakrishnan,Environmental Studies,11,42,53,D,68,Yes,4,Yes,No,8.48
+127,Keya Balakrishnan,Professional Communication,16,52,68,C,74,Yes,4,Yes,Yes,8.48
+128,Oorja Rout,Mathematics-II,19,42,61,C,97,Yes,3,No,Yes,7.16
+128,Oorja Rout,Data Structures,17,55,72,B,99,Yes,5,Yes,No,7.16
+128,Oorja Rout,Digital Logic Design,20,21,41,D,60,Yes,2,No,No,7.16
+128,Oorja Rout,Environmental Studies,27,63,90,A,88,Yes,1,No,No,7.16
+128,Oorja Rout,Professional Communication,29,46,75,B,61,Yes,2,Yes,Yes,7.16
+129,Aarav Gade,Mathematics-II,28,31,59,C,69,Yes,5,No,No,8.28
+129,Aarav Gade,Data Structures,16,58,74,B,77,Yes,3,Yes,Yes,8.28
+129,Aarav Gade,Digital Logic Design,11,21,32,F,67,No,1,Yes,No,8.28
+129,Aarav Gade,Environmental Studies,13,27,40,D,85,Yes,5,No,No,8.28
+129,Aarav Gade,Professional Communication,25,20,45,D,77,Yes,2,No,No,8.28
+130,Dhruv Mangat,Mathematics-II,30,33,63,C,97,Yes,2,No,Yes,9.93
+130,Dhruv Mangat,Data Structures,28,54,82,B,85,Yes,3,No,Yes,9.93
+130,Dhruv Mangat,Digital Logic Design,21,55,76,B,67,Yes,5,Yes,Yes,9.93
+130,Dhruv Mangat,Environmental Studies,29,37,66,C,92,Yes,3,Yes,No,9.93
+130,Dhruv Mangat,Professional Communication,28,65,93,A,65,Yes,5,No,Yes,9.93
+131,Chirag Gola,Mathematics-II,19,43,62,C,86,Yes,1,No,Yes,7.94
+131,Chirag Gola,Data Structures,12,61,73,B,65,Yes,1,No,Yes,7.94
+131,Chirag Gola,Digital Logic Design,25,26,51,D,74,Yes,2,No,No,7.94
+131,Chirag Gola,Environmental Studies,24,61,85,A,77,Yes,3,No,No,7.94
+131,Chirag Gola,Professional Communication,10,39,49,D,71,Yes,2,No,Yes,7.94
+132,Samar Kari,Mathematics-II,11,58,69,C,80,Yes,2,Yes,No,7.54
+132,Samar Kari,Data Structures,14,49,63,C,77,Yes,5,No,No,7.54
+132,Samar Kari,Digital Logic Design,11,49,60,C,62,Yes,4,No,Yes,7.54
+132,Samar Kari,Environmental Studies,21,28,49,D,63,Yes,5,Yes,Yes,7.54
+132,Samar Kari,Professional Communication,11,45,56,C,82,Yes,5,Yes,Yes,7.54
+133,Anahi Aggarwal,Mathematics-II,24,48,72,B,82,Yes,4,Yes,No,5.66
+133,Anahi Aggarwal,Data Structures,10,28,38,F,93,No,1,Yes,Yes,5.66
+133,Anahi Aggarwal,Digital Logic Design,14,22,36,F,88,No,3,No,Yes,5.66
+133,Anahi Aggarwal,Environmental Studies,22,20,42,D,77,Yes,4,Yes,No,5.66
+133,Anahi Aggarwal,Professional Communication,23,34,57,C,78,Yes,4,Yes,No,5.66
+134,Tejas Tak,Mathematics-II,11,43,54,D,88,Yes,5,No,No,8.59
+134,Tejas Tak,Data Structures,26,60,86,A,86,Yes,4,No,No,8.59
+134,Tejas Tak,Digital Logic Design,18,44,62,C,72,Yes,4,Yes,No,8.59
+134,Tejas Tak,Environmental Studies,26,32,58,C,89,Yes,4,No,No,8.59
+134,Tejas Tak,Professional Communication,19,44,63,C,73,Yes,2,Yes,No,8.59
+135,Kismat Din,Mathematics-II,10,22,32,F,69,No,1,No,No,5.48
+135,Kismat Din,Data Structures,25,27,52,D,62,Yes,1,Yes,No,5.48
+135,Kismat Din,Digital Logic Design,21,44,65,C,65,Yes,1,No,Yes,5.48
+135,Kismat Din,Environmental Studies,23,48,71,B,83,Yes,1,Yes,No,5.48
+135,Kismat Din,Professional Communication,15,51,66,C,88,Yes,3,No,No,5.48
+136,Kimaya Comar,Mathematics-II,17,69,86,A,96,Yes,4,Yes,Yes,6.65
+136,Kimaya Comar,Data Structures,24,44,68,C,87,Yes,4,No,Yes,6.65
+136,Kimaya Comar,Digital Logic Design,23,55,78,B,68,Yes,3,Yes,Yes,6.65
+136,Kimaya Comar,Environmental Studies,23,31,54,D,65,Yes,3,No,Yes,6.65
+136,Kimaya Comar,Professional Communication,15,51,66,C,100,Yes,2,Yes,Yes,6.65
+137,Zara Chakrabarti,Mathematics-II,25,55,80,B,76,Yes,4,No,Yes,7.01
+137,Zara Chakrabarti,Data Structures,24,31,55,C,77,Yes,4,Yes,No,7.01
+137,Zara Chakrabarti,Digital Logic Design,11,27,38,F,92,No,3,No,Yes,7.01
+137,Zara Chakrabarti,Environmental Studies,22,35,57,C,89,Yes,1,Yes,No,7.01
+137,Zara Chakrabarti,Professional Communication,21,21,42,D,97,Yes,4,No,No,7.01
+138,Samiha Batra,Mathematics-II,19,65,84,B,67,Yes,5,Yes,No,5.74
+138,Samiha Batra,Data Structures,21,51,72,B,73,Yes,1,Yes,Yes,5.74
+138,Samiha Batra,Digital Logic Design,21,42,63,C,90,Yes,1,No,No,5.74
+138,Samiha Batra,Environmental Studies,21,59,80,B,68,Yes,4,Yes,Yes,5.74
+138,Samiha Batra,Professional Communication,12,45,57,C,92,Yes,2,Yes,No,5.74
+139,Chirag Shankar,Mathematics-II,14,22,36,F,96,No,1,No,Yes,6.84
+139,Chirag Shankar,Data Structures,27,47,74,B,75,Yes,2,Yes,Yes,6.84
+139,Chirag Shankar,Digital Logic Design,11,22,33,F,75,No,5,No,Yes,6.84
+139,Chirag Shankar,Environmental Studies,29,46,75,B,61,Yes,4,Yes,Yes,6.84
+139,Chirag Shankar,Professional Communication,17,52,69,C,71,Yes,1,Yes,No,6.84
+140,Kanav Mall,Mathematics-II,30,28,58,C,71,Yes,4,No,Yes,8.15
+140,Kanav Mall,Data Structures,21,51,72,B,98,Yes,2,Yes,No,8.15
+140,Kanav Mall,Digital Logic Design,27,23,50,D,94,Yes,2,No,No,8.15
+140,Kanav Mall,Environmental Studies,22,59,81,B,86,Yes,5,Yes,No,8.15
+140,Kanav Mall,Professional Communication,26,46,72,B,89,Yes,5,No,No,8.15
+141,Ishita Sant,Mathematics-II,14,26,40,D,100,Yes,5,No,Yes,7.59
+141,Ishita Sant,Data Structures,16,30,46,D,84,Yes,3,No,No,7.59
+141,Ishita Sant,Digital Logic Design,17,33,50,D,74,Yes,3,Yes,Yes,7.59
+141,Ishita Sant,Environmental Studies,15,34,49,D,97,Yes,3,No,No,7.59
+141,Ishita Sant,Professional Communication,22,37,59,C,84,Yes,2,Yes,Yes,7.59
+142,Aarav Dutta,Mathematics-II,14,41,55,C,97,Yes,3,No,No,8.79
+142,Aarav Dutta,Data Structures,11,37,48,D,70,Yes,5,No,Yes,8.79
+142,Aarav Dutta,Digital Logic Design,21,50,71,B,63,Yes,3,Yes,Yes,8.79
+142,Aarav Dutta,Environmental Studies,27,51,78,B,77,Yes,4,No,No,8.79
+142,Aarav Dutta,Professional Communication,21,52,73,B,97,Yes,5,Yes,Yes,8.79
+143,Lagan Bhatt,Mathematics-II,13,44,57,C,71,Yes,1,No,No,9.38
+143,Lagan Bhatt,Data Structures,24,42,66,C,73,Yes,2,No,No,9.38
+143,Lagan Bhatt,Digital Logic Design,21,53,74,B,89,Yes,4,Yes,Yes,9.38
+143,Lagan Bhatt,Environmental Studies,22,34,56,C,87,Yes,4,Yes,No,9.38
+143,Lagan Bhatt,Professional Communication,25,48,73,B,92,Yes,1,Yes,Yes,9.38
+144,Lakshit Bajaj,Mathematics-II,18,33,51,D,84,Yes,4,Yes,Yes,5.68
+144,Lakshit Bajaj,Data Structures,29,32,61,C,65,Yes,5,No,Yes,5.68
+144,Lakshit Bajaj,Digital Logic Design,24,38,62,C,68,Yes,3,Yes,No,5.68
+144,Lakshit Bajaj,Environmental Studies,17,27,44,D,84,Yes,2,Yes,No,5.68
+144,Lakshit Bajaj,Professional Communication,27,52,79,B,86,Yes,1,Yes,Yes,5.68
+145,Nirvi Kohli,Mathematics-II,11,43,54,D,80,Yes,3,Yes,No,9.51
+145,Nirvi Kohli,Data Structures,20,33,53,D,79,Yes,3,No,No,9.51
+145,Nirvi Kohli,Digital Logic Design,26,31,57,C,90,Yes,5,Yes,No,9.51
+145,Nirvi Kohli,Environmental Studies,23,50,73,B,78,Yes,2,Yes,Yes,9.51
+145,Nirvi Kohli,Professional Communication,17,70,87,A,98,Yes,4,No,Yes,9.51
+146,Devansh Chauhan,Mathematics-II,19,47,66,C,63,Yes,2,No,Yes,9.02
+146,Devansh Chauhan,Data Structures,20,68,88,A,67,Yes,1,No,No,9.02
+146,Devansh Chauhan,Digital Logic Design,23,54,77,B,88,Yes,5,Yes,Yes,9.02
+146,Devansh Chauhan,Environmental Studies,20,35,55,C,79,Yes,5,No,No,9.02
+146,Devansh Chauhan,Professional Communication,30,29,59,C,92,Yes,4,Yes,No,9.02
+147,Manikya Gandhi,Mathematics-II,21,61,82,B,71,Yes,3,Yes,Yes,7.24
+147,Manikya Gandhi,Data Structures,18,25,43,D,80,Yes,2,No,Yes,7.24
+147,Manikya Gandhi,Digital Logic Design,10,50,60,C,93,Yes,5,Yes,No,7.24
+147,Manikya Gandhi,Environmental Studies,10,42,52,D,89,Yes,4,Yes,Yes,7.24
+147,Manikya Gandhi,Professional Communication,29,61,90,A,85,Yes,4,No,No,7.24
+148,Azad Balasubramanian,Mathematics-II,11,35,46,D,100,Yes,3,Yes,No,9.55
+148,Azad Balasubramanian,Data Structures,21,25,46,D,85,Yes,4,No,Yes,9.55
+148,Azad Balasubramanian,Digital Logic Design,25,63,88,A,81,Yes,2,No,Yes,9.55
+148,Azad Balasubramanian,Environmental Studies,28,48,76,B,84,Yes,4,Yes,Yes,9.55
+148,Azad Balasubramanian,Professional Communication,18,34,52,D,100,Yes,1,No,No,9.55
+149,Ritvik Chadha,Mathematics-II,17,64,81,B,69,Yes,2,No,No,8.14
+149,Ritvik Chadha,Data Structures,11,29,40,D,71,Yes,4,No,No,8.14
+149,Ritvik Chadha,Digital Logic Design,12,44,56,C,85,Yes,5,No,Yes,8.14
+149,Ritvik Chadha,Environmental Studies,28,45,73,B,91,Yes,2,Yes,No,8.14
+149,Ritvik Chadha,Professional Communication,20,70,90,A,65,Yes,2,No,No,8.14
+150,Seher Badami,Mathematics-II,29,68,97,A,100,Yes,5,No,No,8.84
+150,Seher Badami,Data Structures,20,49,69,C,100,Yes,3,No,No,8.84
+150,Seher Badami,Digital Logic Design,13,49,62,C,79,Yes,5,No,No,8.84
+150,Seher Badami,Environmental Studies,22,27,49,D,65,Yes,2,No,No,8.84
+150,Seher Badami,Professional Communication,26,60,86,A,94,Yes,3,Yes,No,8.84
+151,Saanvi Kant,Mathematics-II,15,46,61,C,73,Yes,4,No,Yes,7.57
+151,Saanvi Kant,Data Structures,24,50,74,B,63,Yes,5,Yes,Yes,7.57
+151,Saanvi Kant,Digital Logic Design,14,30,44,D,97,Yes,1,No,Yes,7.57
+151,Saanvi Kant,Environmental Studies,17,27,44,D,76,Yes,5,Yes,No,7.57
+151,Saanvi Kant,Professional Communication,30,66,96,A,68,Yes,4,No,No,7.57
+152,Ayesha Gera,Mathematics-II,24,61,85,A,84,Yes,4,Yes,Yes,5.43
+152,Ayesha Gera,Data Structures,16,57,73,B,80,Yes,1,Yes,Yes,5.43
+152,Ayesha Gera,Digital Logic Design,25,35,60,C,69,Yes,1,No,Yes,5.43
+152,Ayesha Gera,Environmental Studies,17,21,38,F,100,No,5,Yes,Yes,5.43
+152,Ayesha Gera,Professional Communication,26,69,95,A,62,Yes,3,Yes,Yes,5.43
+153,Khushi Dora,Mathematics-II,13,56,69,C,67,Yes,5,Yes,No,7.75
+153,Khushi Dora,Data Structures,29,36,65,C,100,Yes,3,Yes,Yes,7.75
+153,Khushi Dora,Digital Logic Design,21,59,80,B,96,Yes,3,Yes,No,7.75
+153,Khushi Dora,Environmental Studies,20,44,64,C,62,Yes,3,No,Yes,7.75
+153,Khushi Dora,Professional Communication,21,67,88,A,84,Yes,2,Yes,Yes,7.75
+154,Piya Char,Mathematics-II,18,32,50,D,92,Yes,4,No,Yes,7.68
+154,Piya Char,Data Structures,21,28,49,D,73,Yes,4,No,No,7.68
+154,Piya Char,Digital Logic Design,13,68,81,B,81,Yes,3,Yes,Yes,7.68
+154,Piya Char,Environmental Studies,27,54,81,B,99,Yes,4,Yes,No,7.68
+154,Piya Char,Professional Communication,17,67,84,B,87,Yes,4,No,Yes,7.68
+155,Kanav Soman,Mathematics-II,28,20,48,D,89,Yes,2,Yes,Yes,5.06
+155,Kanav Soman,Data Structures,10,43,53,D,66,Yes,1,Yes,No,5.06
+155,Kanav Soman,Digital Logic Design,14,53,67,C,68,Yes,3,No,No,5.06
+155,Kanav Soman,Environmental Studies,28,41,69,C,84,Yes,5,Yes,Yes,5.06
+155,Kanav Soman,Professional Communication,23,25,48,D,77,Yes,2,No,No,5.06
+156,Vanya Venkataraman,Mathematics-II,11,57,68,C,99,Yes,3,Yes,Yes,7.89
+156,Vanya Venkataraman,Data Structures,14,24,38,F,81,No,5,Yes,Yes,7.89
+156,Vanya Venkataraman,Digital Logic Design,22,65,87,A,83,Yes,3,No,No,7.89
+156,Vanya Venkataraman,Environmental Studies,26,53,79,B,99,Yes,5,Yes,Yes,7.89
+156,Vanya Venkataraman,Professional Communication,24,51,75,B,99,Yes,3,No,No,7.89
+157,Hrishita Kari,Mathematics-II,15,60,75,B,89,Yes,1,Yes,No,7.42
+157,Hrishita Kari,Data Structures,25,68,93,A,99,Yes,5,Yes,No,7.42
+157,Hrishita Kari,Digital Logic Design,29,61,90,A,72,Yes,4,Yes,No,7.42
+157,Hrishita Kari,Environmental Studies,24,50,74,B,98,Yes,3,No,Yes,7.42
+157,Hrishita Kari,Professional Communication,15,21,36,F,98,No,3,No,No,7.42
+158,Shlok Manda,Mathematics-II,28,33,61,C,84,Yes,1,No,Yes,6.31
+158,Shlok Manda,Data Structures,11,55,66,C,76,Yes,5,Yes,Yes,6.31
+158,Shlok Manda,Digital Logic Design,11,47,58,C,68,Yes,4,No,No,6.31
+158,Shlok Manda,Environmental Studies,27,24,51,D,92,Yes,5,Yes,No,6.31
+158,Shlok Manda,Professional Communication,14,31,45,D,65,Yes,4,Yes,Yes,6.31
+159,Adah Barad,Mathematics-II,23,22,45,D,64,Yes,5,Yes,Yes,9.96
+159,Adah Barad,Data Structures,19,51,70,B,100,Yes,5,Yes,Yes,9.96
+159,Adah Barad,Digital Logic Design,20,29,49,D,62,Yes,2,No,Yes,9.96
+159,Adah Barad,Environmental Studies,16,45,61,C,73,Yes,3,No,No,9.96
+159,Adah Barad,Professional Communication,10,26,36,F,67,No,5,Yes,Yes,9.96
+160,Rati Saha,Mathematics-II,11,53,64,C,81,Yes,5,Yes,No,6.01
+160,Rati Saha,Data Structures,30,24,54,D,87,Yes,3,No,No,6.01
+160,Rati Saha,Digital Logic Design,28,21,49,D,65,Yes,1,Yes,Yes,6.01
+160,Rati Saha,Environmental Studies,14,57,71,B,79,Yes,4,Yes,No,6.01
+160,Rati Saha,Professional Communication,19,54,73,B,68,Yes,2,Yes,No,6.01
+161,Manikya Wali,Mathematics-II,11,25,36,F,81,No,5,No,No,7.8
+161,Manikya Wali,Data Structures,21,36,57,C,63,Yes,2,No,Yes,7.8
+161,Manikya Wali,Digital Logic Design,22,25,47,D,82,Yes,4,No,No,7.8
+161,Manikya Wali,Environmental Studies,30,62,92,A,72,Yes,1,Yes,No,7.8
+161,Manikya Wali,Professional Communication,14,62,76,B,94,Yes,5,No,Yes,7.8
+162,Vritika Krishna,Mathematics-II,16,43,59,C,97,Yes,4,Yes,Yes,5.76
+162,Vritika Krishna,Data Structures,12,46,58,C,97,Yes,5,Yes,No,5.76
+162,Vritika Krishna,Digital Logic Design,16,66,82,B,67,Yes,1,Yes,Yes,5.76
+162,Vritika Krishna,Environmental Studies,11,67,78,B,79,Yes,5,Yes,No,5.76
+162,Vritika Krishna,Professional Communication,19,42,61,C,95,Yes,3,No,Yes,5.76
+163,Umang Handa,Mathematics-II,15,69,84,B,95,Yes,3,No,No,6.3
+163,Umang Handa,Data Structures,21,56,77,B,78,Yes,2,No,No,6.3
+163,Umang Handa,Digital Logic Design,13,23,36,F,96,No,5,Yes,Yes,6.3
+163,Umang Handa,Environmental Studies,29,58,87,A,86,Yes,3,No,No,6.3
+163,Umang Handa,Professional Communication,17,64,81,B,69,Yes,1,No,No,6.3
+164,Darshit Raj,Mathematics-II,27,59,86,A,84,Yes,2,Yes,No,5.38
+164,Darshit Raj,Data Structures,22,52,74,B,75,Yes,2,No,No,5.38
+164,Darshit Raj,Digital Logic Design,12,58,70,B,68,Yes,1,No,Yes,5.38
+164,Darshit Raj,Environmental Studies,28,32,60,C,100,Yes,3,Yes,No,5.38
+164,Darshit Raj,Professional Communication,29,47,76,B,62,Yes,4,No,No,5.38
+165,Seher Vaidya,Mathematics-II,17,51,68,C,86,Yes,5,Yes,No,9.58
+165,Seher Vaidya,Data Structures,21,21,42,D,60,Yes,1,Yes,Yes,9.58
+165,Seher Vaidya,Digital Logic Design,27,48,75,B,75,Yes,1,Yes,No,9.58
+165,Seher Vaidya,Environmental Studies,14,60,74,B,98,Yes,5,No,No,9.58
+165,Seher Vaidya,Professional Communication,17,64,81,B,100,Yes,3,Yes,Yes,9.58
+166,Shanaya Hari,Mathematics-II,12,70,82,B,96,Yes,5,Yes,Yes,7.98
+166,Shanaya Hari,Data Structures,19,57,76,B,95,Yes,1,No,Yes,7.98
+166,Shanaya Hari,Digital Logic Design,11,31,42,D,68,Yes,1,Yes,Yes,7.98
+166,Shanaya Hari,Environmental Studies,22,45,67,C,81,Yes,3,Yes,No,7.98
+166,Shanaya Hari,Professional Communication,21,45,66,C,100,Yes,4,No,No,7.98
+167,Taran Bhargava,Mathematics-II,27,39,66,C,96,Yes,3,Yes,No,7.27
+167,Taran Bhargava,Data Structures,14,38,52,D,87,Yes,3,Yes,No,7.27
+167,Taran Bhargava,Digital Logic Design,15,53,68,C,74,Yes,3,No,Yes,7.27
+167,Taran Bhargava,Environmental Studies,18,39,57,C,73,Yes,3,No,No,7.27
+167,Taran Bhargava,Professional Communication,12,37,49,D,88,Yes,3,Yes,No,7.27
+168,Fateh Rajan,Mathematics-II,20,31,51,D,86,Yes,2,Yes,No,7.32
+168,Fateh Rajan,Data Structures,12,65,77,B,92,Yes,3,Yes,No,7.32
+168,Fateh Rajan,Digital Logic Design,21,30,51,D,71,Yes,1,Yes,Yes,7.32
+168,Fateh Rajan,Environmental Studies,26,27,53,D,87,Yes,1,No,Yes,7.32
+168,Fateh Rajan,Professional Communication,10,59,69,C,95,Yes,3,Yes,Yes,7.32
+169,Oorja Dixit,Mathematics-II,15,21,36,F,69,No,5,No,Yes,7.27
+169,Oorja Dixit,Data Structures,19,33,52,D,71,Yes,3,Yes,No,7.27
+169,Oorja Dixit,Digital Logic Design,11,37,48,D,88,Yes,3,Yes,Yes,7.27
+169,Oorja Dixit,Environmental Studies,12,40,52,D,85,Yes,2,No,No,7.27
+169,Oorja Dixit,Professional Communication,20,59,79,B,72,Yes,4,No,Yes,7.27
+170,Oorja Dhillon,Mathematics-II,17,61,78,B,84,Yes,4,Yes,Yes,5.56
+170,Oorja Dhillon,Data Structures,10,52,62,C,77,Yes,4,No,Yes,5.56
+170,Oorja Dhillon,Digital Logic Design,15,51,66,C,63,Yes,1,No,Yes,5.56
+170,Oorja Dhillon,Environmental Studies,24,20,44,D,75,Yes,4,No,No,5.56
+170,Oorja Dhillon,Professional Communication,28,31,59,C,79,Yes,2,Yes,Yes,5.56
+171,Divij Bhatti,Mathematics-II,11,56,67,C,93,Yes,4,No,Yes,7.91
+171,Divij Bhatti,Data Structures,29,51,80,B,91,Yes,4,Yes,No,7.91
+171,Divij Bhatti,Digital Logic Design,29,46,75,B,65,Yes,5,No,Yes,7.91
+171,Divij Bhatti,Environmental Studies,12,63,75,B,70,Yes,4,Yes,Yes,7.91
+171,Divij Bhatti,Professional Communication,22,25,47,D,80,Yes,5,Yes,Yes,7.91
+172,Aarna Kanda,Mathematics-II,19,49,68,C,88,Yes,4,Yes,No,7.81
+172,Aarna Kanda,Data Structures,24,32,56,C,81,Yes,4,Yes,No,7.81
+172,Aarna Kanda,Digital Logic Design,19,33,52,D,86,Yes,4,No,No,7.81
+172,Aarna Kanda,Environmental Studies,19,30,49,D,63,Yes,4,Yes,Yes,7.81
+172,Aarna Kanda,Professional Communication,14,36,50,D,75,Yes,1,No,Yes,7.81
+173,Dhanuk Rau,Mathematics-II,18,21,39,F,99,No,5,Yes,No,7.27
+173,Dhanuk Rau,Data Structures,24,28,52,D,62,Yes,3,Yes,Yes,7.27
+173,Dhanuk Rau,Digital Logic Design,15,26,41,D,91,Yes,1,Yes,No,7.27
+173,Dhanuk Rau,Environmental Studies,17,44,61,C,80,Yes,2,Yes,Yes,7.27
+173,Dhanuk Rau,Professional Communication,21,37,58,C,65,Yes,4,Yes,No,7.27
+174,Stuvan Din,Mathematics-II,25,60,85,A,60,Yes,3,Yes,Yes,9.35
+174,Stuvan Din,Data Structures,15,33,48,D,90,Yes,5,Yes,Yes,9.35
+174,Stuvan Din,Digital Logic Design,12,42,54,D,65,Yes,1,No,No,9.35
+174,Stuvan Din,Environmental Studies,19,32,51,D,96,Yes,3,No,No,9.35
+174,Stuvan Din,Professional Communication,29,27,56,C,75,Yes,4,Yes,Yes,9.35
+175,Riaan Dhingra,Mathematics-II,21,29,50,D,67,Yes,2,Yes,No,8.01
+175,Riaan Dhingra,Data Structures,11,63,74,B,80,Yes,5,No,Yes,8.01
+175,Riaan Dhingra,Digital Logic Design,29,57,86,A,66,Yes,3,No,Yes,8.01
+175,Riaan Dhingra,Environmental Studies,14,34,48,D,62,Yes,2,Yes,Yes,8.01
+175,Riaan Dhingra,Professional Communication,27,66,93,A,98,Yes,3,No,Yes,8.01
+176,Saksham Bhatnagar,Mathematics-II,27,49,76,B,95,Yes,1,No,No,8.96
+176,Saksham Bhatnagar,Data Structures,30,37,67,C,84,Yes,3,No,Yes,8.96
+176,Saksham Bhatnagar,Digital Logic Design,10,34,44,D,90,Yes,3,No,No,8.96
+176,Saksham Bhatnagar,Environmental Studies,12,22,34,F,82,No,4,Yes,Yes,8.96
+176,Saksham Bhatnagar,Professional Communication,11,26,37,F,68,No,3,Yes,Yes,8.96
+177,Diya Sathe,Mathematics-II,30,56,86,A,85,Yes,1,No,No,9.4
+177,Diya Sathe,Data Structures,24,50,74,B,97,Yes,4,No,Yes,9.4
+177,Diya Sathe,Digital Logic Design,13,67,80,B,63,Yes,3,No,No,9.4
+177,Diya Sathe,Environmental Studies,18,47,65,C,61,Yes,3,Yes,No,9.4
+177,Diya Sathe,Professional Communication,14,41,55,C,90,Yes,2,No,Yes,9.4
+178,Neelofar Gour,Mathematics-II,14,68,82,B,71,Yes,2,No,No,5.38
+178,Neelofar Gour,Data Structures,28,69,97,A,90,Yes,5,No,Yes,5.38
+178,Neelofar Gour,Digital Logic Design,29,48,77,B,86,Yes,5,No,Yes,5.38
+178,Neelofar Gour,Environmental Studies,10,36,46,D,90,Yes,1,Yes,No,5.38
+178,Neelofar Gour,Professional Communication,30,26,56,C,60,Yes,3,Yes,No,5.38
+179,Priyansh Shere,Mathematics-II,12,36,48,D,94,Yes,1,No,No,7.42
+179,Priyansh Shere,Data Structures,25,63,88,A,92,Yes,5,Yes,No,7.42
+179,Priyansh Shere,Digital Logic Design,21,56,77,B,90,Yes,3,Yes,Yes,7.42
+179,Priyansh Shere,Environmental Studies,26,20,46,D,68,Yes,5,No,No,7.42
+179,Priyansh Shere,Professional Communication,30,40,70,B,97,Yes,3,No,No,7.42
+180,Mohanlal Gupta,Mathematics-II,16,61,77,B,91,Yes,3,Yes,Yes,5.63
+180,Mohanlal Gupta,Data Structures,16,29,45,D,90,Yes,2,No,No,5.63
+180,Mohanlal Gupta,Digital Logic Design,16,60,76,B,94,Yes,2,No,No,5.63
+180,Mohanlal Gupta,Environmental Studies,12,41,53,D,95,Yes,2,No,Yes,5.63
+180,Mohanlal Gupta,Professional Communication,12,59,71,B,68,Yes,5,No,No,5.63
+181,Ela Dhingra,Mathematics-II,23,21,44,D,71,Yes,1,Yes,No,5.82
+181,Ela Dhingra,Data Structures,15,59,74,B,83,Yes,1,No,No,5.82
+181,Ela Dhingra,Digital Logic Design,17,51,68,C,87,Yes,2,Yes,Yes,5.82
+181,Ela Dhingra,Environmental Studies,13,70,83,B,89,Yes,4,Yes,Yes,5.82
+181,Ela Dhingra,Professional Communication,29,22,51,D,60,Yes,4,Yes,Yes,5.82
+182,Shalv Soni,Mathematics-II,24,66,90,A,96,Yes,3,Yes,Yes,7.68
+182,Shalv Soni,Data Structures,20,62,82,B,74,Yes,1,No,Yes,7.68
+182,Shalv Soni,Digital Logic Design,14,70,84,B,60,Yes,3,Yes,No,7.68
+182,Shalv Soni,Environmental Studies,14,59,73,B,97,Yes,2,No,No,7.68
+182,Shalv Soni,Professional Communication,25,66,91,A,67,Yes,1,Yes,No,7.68
+183,Umang Ramakrishnan,Mathematics-II,29,24,53,D,75,Yes,5,No,No,7.91
+183,Umang Ramakrishnan,Data Structures,16,70,86,A,64,Yes,2,Yes,Yes,7.91
+183,Umang Ramakrishnan,Digital Logic Design,14,30,44,D,64,Yes,5,Yes,No,7.91
+183,Umang Ramakrishnan,Environmental Studies,20,23,43,D,92,Yes,4,Yes,No,7.91
+183,Umang Ramakrishnan,Professional Communication,14,57,71,B,75,Yes,5,No,No,7.91
+184,Arhaan Bedi,Mathematics-II,24,68,92,A,67,Yes,5,No,Yes,5.7
+184,Arhaan Bedi,Data Structures,15,30,45,D,97,Yes,2,No,No,5.7
+184,Arhaan Bedi,Digital Logic Design,29,35,64,C,62,Yes,3,No,No,5.7
+184,Arhaan Bedi,Environmental Studies,29,62,91,A,79,Yes,1,No,Yes,5.7
+184,Arhaan Bedi,Professional Communication,15,31,46,D,69,Yes,4,Yes,No,5.7
+185,Mohanlal Dugar,Mathematics-II,25,36,61,C,90,Yes,4,No,No,8.7
+185,Mohanlal Dugar,Data Structures,20,61,81,B,72,Yes,5,Yes,No,8.7
+185,Mohanlal Dugar,Digital Logic Design,11,62,73,B,61,Yes,5,Yes,Yes,8.7
+185,Mohanlal Dugar,Environmental Studies,18,61,79,B,78,Yes,2,No,No,8.7
+185,Mohanlal Dugar,Professional Communication,30,50,80,B,83,Yes,2,Yes,Yes,8.7
+186,Pihu Chanda,Mathematics-II,12,65,77,B,77,Yes,3,Yes,No,5.11
+186,Pihu Chanda,Data Structures,25,33,58,C,62,Yes,2,Yes,No,5.11
+186,Pihu Chanda,Digital Logic Design,13,34,47,D,94,Yes,2,No,Yes,5.11
+186,Pihu Chanda,Environmental Studies,10,39,49,D,90,Yes,5,Yes,Yes,5.11
+186,Pihu Chanda,Professional Communication,19,31,50,D,67,Yes,5,Yes,No,5.11
+187,Pari Sarkar,Mathematics-II,26,60,86,A,74,Yes,2,Yes,Yes,5.19
+187,Pari Sarkar,Data Structures,30,33,63,C,89,Yes,2,Yes,No,5.19
+187,Pari Sarkar,Digital Logic Design,28,28,56,C,62,Yes,3,No,No,5.19
+187,Pari Sarkar,Environmental Studies,27,24,51,D,80,Yes,4,Yes,Yes,5.19
+187,Pari Sarkar,Professional Communication,19,39,58,C,95,Yes,1,Yes,No,5.19
+188,Rania Tak,Mathematics-II,15,49,64,C,60,Yes,3,Yes,Yes,8.57
+188,Rania Tak,Data Structures,24,58,82,B,63,Yes,4,No,No,8.57
+188,Rania Tak,Digital Logic Design,28,28,56,C,72,Yes,4,Yes,No,8.57
+188,Rania Tak,Environmental Studies,12,30,42,D,80,Yes,4,No,No,8.57
+188,Rania Tak,Professional Communication,28,69,97,A,77,Yes,3,Yes,No,8.57
+189,Ishita Barman,Mathematics-II,21,34,55,C,90,Yes,4,Yes,No,9.76
+189,Ishita Barman,Data Structures,18,48,66,C,98,Yes,5,No,Yes,9.76
+189,Ishita Barman,Digital Logic Design,25,50,75,B,87,Yes,4,No,No,9.76
+189,Ishita Barman,Environmental Studies,29,60,89,A,70,Yes,1,No,Yes,9.76
+189,Ishita Barman,Professional Communication,18,20,38,F,93,No,3,Yes,Yes,9.76
+190,Advika Hari,Mathematics-II,18,22,40,D,100,Yes,4,Yes,No,7.4
+190,Advika Hari,Data Structures,29,35,64,C,63,Yes,2,No,No,7.4
+190,Advika Hari,Digital Logic Design,16,50,66,C,75,Yes,4,Yes,No,7.4
+190,Advika Hari,Environmental Studies,18,70,88,A,95,Yes,1,No,No,7.4
+190,Advika Hari,Professional Communication,29,59,88,A,99,Yes,2,No,Yes,7.4
+191,Adira Doshi,Mathematics-II,25,55,80,B,96,Yes,5,No,Yes,8.05
+191,Adira Doshi,Data Structures,18,22,40,D,97,Yes,4,Yes,Yes,8.05
+191,Adira Doshi,Digital Logic Design,22,47,69,C,79,Yes,1,Yes,Yes,8.05
+191,Adira Doshi,Environmental Studies,15,20,35,F,63,No,4,No,Yes,8.05
+191,Adira Doshi,Professional Communication,21,32,53,D,99,Yes,3,Yes,Yes,8.05
+192,Ritvik Toor,Mathematics-II,26,23,49,D,77,Yes,4,Yes,No,7.48
+192,Ritvik Toor,Data Structures,13,46,59,C,85,Yes,2,No,No,7.48
+192,Ritvik Toor,Digital Logic Design,27,21,48,D,85,Yes,5,Yes,Yes,7.48
+192,Ritvik Toor,Environmental Studies,20,65,85,A,95,Yes,3,Yes,No,7.48
+192,Ritvik Toor,Professional Communication,16,37,53,D,95,Yes,3,No,Yes,7.48
+193,Mannat Sandhu,Mathematics-II,14,40,54,D,83,Yes,4,Yes,No,8.77
+193,Mannat Sandhu,Data Structures,24,68,92,A,66,Yes,3,No,Yes,8.77
+193,Mannat Sandhu,Digital Logic Design,24,56,80,B,95,Yes,3,No,Yes,8.77
+193,Mannat Sandhu,Environmental Studies,30,20,50,D,82,Yes,5,No,No,8.77
+193,Mannat Sandhu,Professional Communication,12,43,55,C,99,Yes,5,No,No,8.77
+194,Dhanush Rama,Mathematics-II,14,34,48,D,91,Yes,5,No,No,7.0
+194,Dhanush Rama,Data Structures,16,26,42,D,93,Yes,1,No,Yes,7.0
+194,Dhanush Rama,Digital Logic Design,17,25,42,D,94,Yes,5,No,No,7.0
+194,Dhanush Rama,Environmental Studies,10,59,69,C,99,Yes,4,Yes,No,7.0
+194,Dhanush Rama,Professional Communication,22,67,89,A,90,Yes,3,Yes,No,7.0
+195,Shalv Iyengar,Mathematics-II,24,31,55,C,69,Yes,1,Yes,Yes,9.17
+195,Shalv Iyengar,Data Structures,22,24,46,D,71,Yes,1,Yes,Yes,9.17
+195,Shalv Iyengar,Digital Logic Design,16,22,38,F,89,No,4,No,Yes,9.17
+195,Shalv Iyengar,Environmental Studies,23,57,80,B,76,Yes,4,Yes,Yes,9.17
+195,Shalv Iyengar,Professional Communication,30,54,84,B,86,Yes,3,No,Yes,9.17
+196,Indranil Bava,Mathematics-II,30,20,50,D,96,Yes,5,No,Yes,5.42
+196,Indranil Bava,Data Structures,29,37,66,C,94,Yes,5,No,Yes,5.42
+196,Indranil Bava,Digital Logic Design,15,27,42,D,88,Yes,1,No,No,5.42
+196,Indranil Bava,Environmental Studies,14,44,58,C,90,Yes,5,No,Yes,5.42
+196,Indranil Bava,Professional Communication,14,35,49,D,64,Yes,5,Yes,Yes,5.42
+197,Rania Chaudhuri,Mathematics-II,22,52,74,B,77,Yes,2,No,No,10.0
+197,Rania Chaudhuri,Data Structures,22,68,90,A,87,Yes,5,Yes,No,10.0
+197,Rania Chaudhuri,Digital Logic Design,28,29,57,C,97,Yes,2,No,Yes,10.0
+197,Rania Chaudhuri,Environmental Studies,21,41,62,C,90,Yes,2,Yes,No,10.0
+197,Rania Chaudhuri,Professional Communication,10,51,61,C,69,Yes,5,No,Yes,10.0
+198,Madhav Chatterjee,Mathematics-II,29,40,69,C,82,Yes,2,No,No,7.47
+198,Madhav Chatterjee,Data Structures,29,62,91,A,64,Yes,2,Yes,No,7.47
+198,Madhav Chatterjee,Digital Logic Design,30,47,77,B,74,Yes,4,Yes,No,7.47
+198,Madhav Chatterjee,Environmental Studies,13,53,66,C,60,Yes,1,No,Yes,7.47
+198,Madhav Chatterjee,Professional Communication,14,42,56,C,95,Yes,2,Yes,No,7.47
+199,Badal Mangal,Mathematics-II,26,25,51,D,72,Yes,1,No,Yes,9.16
+199,Badal Mangal,Data Structures,27,58,85,A,86,Yes,1,Yes,Yes,9.16
+199,Badal Mangal,Digital Logic Design,23,63,86,A,87,Yes,4,No,No,9.16
+199,Badal Mangal,Environmental Studies,20,45,65,C,87,Yes,5,Yes,No,9.16
+199,Badal Mangal,Professional Communication,15,34,49,D,93,Yes,1,Yes,Yes,9.16
+200,Inaaya  Butala,Mathematics-II,17,41,58,C,89,Yes,5,No,No,5.61
+200,Inaaya  Butala,Data Structures,28,20,48,D,89,Yes,2,Yes,Yes,5.61
+200,Inaaya  Butala,Digital Logic Design,24,67,91,A,70,Yes,3,Yes,No,5.61
+200,Inaaya  Butala,Environmental Studies,30,67,97,A,80,Yes,5,No,No,5.61
+200,Inaaya  Butala,Professional Communication,17,69,86,A,76,Yes,3,Yes,Yes,5.61
+201,Tanya Dey,Mathematics-II,16,39,55,C,100,Yes,3,No,Yes,5.46
+201,Tanya Dey,Data Structures,19,27,46,D,89,Yes,4,Yes,No,5.46
+201,Tanya Dey,Digital Logic Design,12,66,78,B,84,Yes,1,No,No,5.46
+201,Tanya Dey,Environmental Studies,27,58,85,A,83,Yes,4,Yes,Yes,5.46
+201,Tanya Dey,Professional Communication,11,49,60,C,61,Yes,4,No,Yes,5.46
+202,Nirvaan Kumar,Mathematics-II,26,67,93,A,96,Yes,5,Yes,No,5.82
+202,Nirvaan Kumar,Data Structures,27,64,91,A,99,Yes,4,No,Yes,5.82
+202,Nirvaan Kumar,Digital Logic Design,10,66,76,B,87,Yes,4,No,Yes,5.82
+202,Nirvaan Kumar,Environmental Studies,19,62,81,B,82,Yes,4,No,Yes,5.82
+202,Nirvaan Kumar,Professional Communication,19,67,86,A,93,Yes,1,Yes,Yes,5.82
+203,Yuvraj  Sawhney,Mathematics-II,12,23,35,F,74,No,2,Yes,No,6.55
+203,Yuvraj  Sawhney,Data Structures,20,66,86,A,86,Yes,3,Yes,No,6.55
+203,Yuvraj  Sawhney,Digital Logic Design,30,64,94,A,65,Yes,1,Yes,Yes,6.55
+203,Yuvraj  Sawhney,Environmental Studies,30,63,93,A,83,Yes,4,No,No,6.55
+203,Yuvraj  Sawhney,Professional Communication,17,67,84,B,81,Yes,2,No,Yes,6.55
+204,Vritika Varghese,Mathematics-II,19,30,49,D,95,Yes,4,Yes,No,7.35
+204,Vritika Varghese,Data Structures,23,43,66,C,60,Yes,2,No,No,7.35
+204,Vritika Varghese,Digital Logic Design,15,63,78,B,67,Yes,4,Yes,Yes,7.35
+204,Vritika Varghese,Environmental Studies,22,28,50,D,88,Yes,3,No,Yes,7.35
+204,Vritika Varghese,Professional Communication,28,53,81,B,100,Yes,3,Yes,Yes,7.35
+205,Jayant Anand,Mathematics-II,26,67,93,A,93,Yes,4,No,No,7.93
+205,Jayant Anand,Data Structures,20,38,58,C,75,Yes,4,No,Yes,7.93
+205,Jayant Anand,Digital Logic Design,20,50,70,B,89,Yes,2,Yes,Yes,7.93
+205,Jayant Anand,Environmental Studies,14,34,48,D,93,Yes,3,Yes,Yes,7.93
+205,Jayant Anand,Professional Communication,28,64,92,A,69,Yes,1,Yes,Yes,7.93
+206,Nakul Chacko,Mathematics-II,20,64,84,B,76,Yes,3,Yes,Yes,5.09
+206,Nakul Chacko,Data Structures,30,51,81,B,60,Yes,2,No,Yes,5.09
+206,Nakul Chacko,Digital Logic Design,13,69,82,B,100,Yes,3,Yes,Yes,5.09
+206,Nakul Chacko,Environmental Studies,12,24,36,F,95,No,2,Yes,No,5.09
+206,Nakul Chacko,Professional Communication,21,60,81,B,97,Yes,1,Yes,No,5.09
+207,Zara Shankar,Mathematics-II,26,27,53,D,88,Yes,4,Yes,No,7.75
+207,Zara Shankar,Data Structures,22,28,50,D,88,Yes,5,No,Yes,7.75
+207,Zara Shankar,Digital Logic Design,11,26,37,F,64,No,1,No,No,7.75
+207,Zara Shankar,Environmental Studies,22,37,59,C,89,Yes,2,No,Yes,7.75
+207,Zara Shankar,Professional Communication,30,43,73,B,72,Yes,4,No,No,7.75
+208,Kavya Atwal,Mathematics-II,23,30,53,D,71,Yes,4,No,No,6.96
+208,Kavya Atwal,Data Structures,12,35,47,D,73,Yes,2,No,Yes,6.96
+208,Kavya Atwal,Digital Logic Design,16,50,66,C,61,Yes,5,Yes,Yes,6.96
+208,Kavya Atwal,Environmental Studies,23,37,60,C,66,Yes,2,No,Yes,6.96
+208,Kavya Atwal,Professional Communication,14,43,57,C,85,Yes,2,No,Yes,6.96
+209,Jayan Mani,Mathematics-II,21,66,87,A,64,Yes,5,No,No,8.07
+209,Jayan Mani,Data Structures,10,33,43,D,64,Yes,2,No,No,8.07
+209,Jayan Mani,Digital Logic Design,16,33,49,D,62,Yes,2,Yes,Yes,8.07
+209,Jayan Mani,Environmental Studies,27,68,95,A,70,Yes,5,Yes,No,8.07
+209,Jayan Mani,Professional Communication,13,32,45,D,62,Yes,2,Yes,Yes,8.07
+210,Jiya Sarraf,Mathematics-II,13,63,76,B,77,Yes,2,Yes,Yes,5.79
+210,Jiya Sarraf,Data Structures,27,65,92,A,87,Yes,3,No,Yes,5.79
+210,Jiya Sarraf,Digital Logic Design,29,33,62,C,94,Yes,2,No,Yes,5.79
+210,Jiya Sarraf,Environmental Studies,29,33,62,C,60,Yes,1,Yes,No,5.79
+210,Jiya Sarraf,Professional Communication,13,38,51,D,79,Yes,2,No,Yes,5.79
+211,Kanav Talwar,Mathematics-II,19,21,40,D,66,Yes,1,Yes,No,5.93
+211,Kanav Talwar,Data Structures,29,32,61,C,84,Yes,1,No,Yes,5.93
+211,Kanav Talwar,Digital Logic Design,26,66,92,A,75,Yes,2,No,Yes,5.93
+211,Kanav Talwar,Environmental Studies,23,26,49,D,83,Yes,1,Yes,No,5.93
+211,Kanav Talwar,Professional Communication,28,51,79,B,85,Yes,3,Yes,Yes,5.93
+212,Urvi Gole,Mathematics-II,19,65,84,B,67,Yes,3,Yes,No,7.75
+212,Urvi Gole,Data Structures,15,29,44,D,91,Yes,4,Yes,No,7.75
+212,Urvi Gole,Digital Logic Design,12,22,34,F,86,No,5,Yes,Yes,7.75
+212,Urvi Gole,Environmental Studies,10,67,77,B,65,Yes,4,No,Yes,7.75
+212,Urvi Gole,Professional Communication,15,44,59,C,81,Yes,1,No,No,7.75
+213,Pranay Arya,Mathematics-II,19,33,52,D,81,Yes,2,No,Yes,7.51
+213,Pranay Arya,Data Structures,17,23,40,D,81,Yes,2,No,No,7.51
+213,Pranay Arya,Digital Logic Design,21,60,81,B,64,Yes,1,Yes,Yes,7.51
+213,Pranay Arya,Environmental Studies,12,54,66,C,85,Yes,2,Yes,No,7.51
+213,Pranay Arya,Professional Communication,12,56,68,C,62,Yes,2,Yes,Yes,7.51
+214,Lavanya Saxena,Mathematics-II,25,34,59,C,88,Yes,5,No,Yes,7.18
+214,Lavanya Saxena,Data Structures,15,53,68,C,61,Yes,2,No,No,7.18
+214,Lavanya Saxena,Digital Logic Design,24,38,62,C,96,Yes,2,Yes,No,7.18
+214,Lavanya Saxena,Environmental Studies,28,62,90,A,90,Yes,2,Yes,Yes,7.18
+214,Lavanya Saxena,Professional Communication,12,66,78,B,95,Yes,4,Yes,Yes,7.18
+215,Abram Doshi,Mathematics-II,28,67,95,A,66,Yes,2,No,No,6.65
+215,Abram Doshi,Data Structures,17,44,61,C,91,Yes,1,No,Yes,6.65
+215,Abram Doshi,Digital Logic Design,26,32,58,C,95,Yes,1,No,No,6.65
+215,Abram Doshi,Environmental Studies,24,58,82,B,87,Yes,4,Yes,Yes,6.65
+215,Abram Doshi,Professional Communication,17,50,67,C,83,Yes,4,No,No,6.65
+216,Anay Gole,Mathematics-II,16,45,61,C,75,Yes,3,No,No,5.46
+216,Anay Gole,Data Structures,11,34,45,D,65,Yes,3,No,No,5.46
+216,Anay Gole,Digital Logic Design,21,56,77,B,84,Yes,2,Yes,No,5.46
+216,Anay Gole,Environmental Studies,18,65,83,B,62,Yes,3,Yes,No,5.46
+216,Anay Gole,Professional Communication,18,32,50,D,80,Yes,4,Yes,No,5.46
+217,Jayant Toor,Mathematics-II,27,42,69,C,64,Yes,3,Yes,No,9.0
+217,Jayant Toor,Data Structures,15,20,35,F,92,No,5,Yes,Yes,9.0
+217,Jayant Toor,Digital Logic Design,18,64,82,B,99,Yes,2,Yes,No,9.0
+217,Jayant Toor,Environmental Studies,21,59,80,B,75,Yes,1,Yes,Yes,9.0
+217,Jayant Toor,Professional Communication,15,25,40,D,100,Yes,4,Yes,Yes,9.0
+218,Veer Sem,Mathematics-II,27,43,70,B,86,Yes,4,No,No,5.63
+218,Veer Sem,Data Structures,28,24,52,D,63,Yes,1,No,Yes,5.63
+218,Veer Sem,Digital Logic Design,12,48,60,C,90,Yes,4,No,No,5.63
+218,Veer Sem,Environmental Studies,13,61,74,B,89,Yes,4,Yes,Yes,5.63
+218,Veer Sem,Professional Communication,13,39,52,D,73,Yes,1,Yes,No,5.63
+219,Adira Ben,Mathematics-II,11,32,43,D,68,Yes,5,No,No,5.53
+219,Adira Ben,Data Structures,16,56,72,B,100,Yes,4,Yes,Yes,5.53
+219,Adira Ben,Digital Logic Design,11,68,79,B,84,Yes,5,Yes,Yes,5.53
+219,Adira Ben,Environmental Studies,26,56,82,B,69,Yes,3,No,Yes,5.53
+219,Adira Ben,Professional Communication,25,22,47,D,90,Yes,4,Yes,No,5.53
+220,Vidur Tandon,Mathematics-II,14,26,40,D,65,Yes,5,No,Yes,8.73
+220,Vidur Tandon,Data Structures,22,27,49,D,66,Yes,3,No,Yes,8.73
+220,Vidur Tandon,Digital Logic Design,25,26,51,D,80,Yes,1,No,No,8.73
+220,Vidur Tandon,Environmental Studies,16,59,75,B,75,Yes,1,No,Yes,8.73
+220,Vidur Tandon,Professional Communication,17,38,55,C,63,Yes,3,No,No,8.73
+221,Lakshay Keer,Mathematics-II,21,29,50,D,65,Yes,3,Yes,No,7.4
+221,Lakshay Keer,Data Structures,22,62,84,B,83,Yes,5,Yes,Yes,7.4
+221,Lakshay Keer,Digital Logic Design,17,60,77,B,98,Yes,3,Yes,No,7.4
+221,Lakshay Keer,Environmental Studies,22,61,83,B,80,Yes,1,Yes,No,7.4
+221,Lakshay Keer,Professional Communication,16,34,50,D,61,Yes,5,No,No,7.4
+222,Pranay Khanna,Mathematics-II,23,32,55,C,71,Yes,1,No,Yes,9.83
+222,Pranay Khanna,Data Structures,15,22,37,F,65,No,5,No,Yes,9.83
+222,Pranay Khanna,Digital Logic Design,16,51,67,C,96,Yes,4,Yes,Yes,9.83
+222,Pranay Khanna,Environmental Studies,27,58,85,A,94,Yes,1,Yes,No,9.83
+222,Pranay Khanna,Professional Communication,19,33,52,D,65,Yes,5,Yes,Yes,9.83
+223,Dhanuk Bhandari,Mathematics-II,28,63,91,A,67,Yes,5,No,Yes,5.53
+223,Dhanuk Bhandari,Data Structures,12,22,34,F,77,No,1,Yes,Yes,5.53
+223,Dhanuk Bhandari,Digital Logic Design,24,27,51,D,90,Yes,4,Yes,No,5.53
+223,Dhanuk Bhandari,Environmental Studies,25,70,95,A,95,Yes,2,No,Yes,5.53
+223,Dhanuk Bhandari,Professional Communication,24,48,72,B,66,Yes,1,No,No,5.53
+224,Anya Buch,Mathematics-II,21,58,79,B,66,Yes,2,No,Yes,7.44
+224,Anya Buch,Data Structures,17,21,38,F,88,No,4,No,Yes,7.44
+224,Anya Buch,Digital Logic Design,30,37,67,C,73,Yes,1,Yes,Yes,7.44
+224,Anya Buch,Environmental Studies,27,36,63,C,79,Yes,4,No,No,7.44
+224,Anya Buch,Professional Communication,24,32,56,C,90,Yes,3,Yes,No,7.44
+225,Myra Manne,Mathematics-II,26,48,74,B,63,Yes,1,No,No,7.55
+225,Myra Manne,Data Structures,10,57,67,C,91,Yes,5,No,Yes,7.55
+225,Myra Manne,Digital Logic Design,19,20,39,F,63,No,1,No,No,7.55
+225,Myra Manne,Environmental Studies,14,69,83,B,67,Yes,3,Yes,Yes,7.55
+225,Myra Manne,Professional Communication,20,53,73,B,82,Yes,3,No,No,7.55
+226,Prerak Ramanathan,Mathematics-II,26,49,75,B,66,Yes,4,Yes,No,6.88
+226,Prerak Ramanathan,Data Structures,29,28,57,C,75,Yes,4,Yes,No,6.88
+226,Prerak Ramanathan,Digital Logic Design,19,29,48,D,75,Yes,2,Yes,Yes,6.88
+226,Prerak Ramanathan,Environmental Studies,30,36,66,C,86,Yes,3,Yes,No,6.88
+226,Prerak Ramanathan,Professional Communication,16,54,70,B,69,Yes,1,Yes,Yes,6.88
+227,Shayak Dhingra,Mathematics-II,18,36,54,D,67,Yes,5,Yes,No,8.54
+227,Shayak Dhingra,Data Structures,18,50,68,C,91,Yes,2,Yes,No,8.54
+227,Shayak Dhingra,Digital Logic Design,25,56,81,B,85,Yes,2,No,Yes,8.54
+227,Shayak Dhingra,Environmental Studies,28,64,92,A,77,Yes,2,No,No,8.54
+227,Shayak Dhingra,Professional Communication,20,40,60,C,79,Yes,3,Yes,No,8.54
+228,Kismat Wali,Mathematics-II,20,47,67,C,63,Yes,1,No,Yes,7.69
+228,Kismat Wali,Data Structures,15,70,85,A,78,Yes,1,Yes,Yes,7.69
+228,Kismat Wali,Digital Logic Design,28,59,87,A,67,Yes,4,Yes,Yes,7.69
+228,Kismat Wali,Environmental Studies,21,24,45,D,89,Yes,3,Yes,Yes,7.69
+228,Kismat Wali,Professional Communication,24,65,89,A,77,Yes,2,Yes,No,7.69
+229,Nayantara Dara,Mathematics-II,17,44,61,C,91,Yes,5,No,Yes,6.61
+229,Nayantara Dara,Data Structures,22,45,67,C,83,Yes,3,Yes,Yes,6.61
+229,Nayantara Dara,Digital Logic Design,25,52,77,B,94,Yes,3,No,Yes,6.61
+229,Nayantara Dara,Environmental Studies,11,56,67,C,73,Yes,2,No,Yes,6.61
+229,Nayantara Dara,Professional Communication,28,25,53,D,82,Yes,1,No,Yes,6.61
+230,Tushar Tella,Mathematics-II,21,51,72,B,90,Yes,1,Yes,No,8.36
+230,Tushar Tella,Data Structures,11,70,81,B,98,Yes,4,No,No,8.36
+230,Tushar Tella,Digital Logic Design,21,50,71,B,81,Yes,5,Yes,No,8.36
+230,Tushar Tella,Environmental Studies,13,53,66,C,98,Yes,4,No,No,8.36
+230,Tushar Tella,Professional Communication,27,30,57,C,89,Yes,4,Yes,No,8.36
+231,Shray Karan,Mathematics-II,13,68,81,B,85,Yes,1,Yes,Yes,8.59
+231,Shray Karan,Data Structures,25,70,95,A,95,Yes,2,No,No,8.59
+231,Shray Karan,Digital Logic Design,14,30,44,D,97,Yes,1,Yes,Yes,8.59
+231,Shray Karan,Environmental Studies,13,61,74,B,92,Yes,3,Yes,Yes,8.59
+231,Shray Karan,Professional Communication,13,59,72,B,72,Yes,4,No,Yes,8.59
+232,Anaya Kulkarni,Mathematics-II,12,30,42,D,84,Yes,2,No,Yes,8.87
+232,Anaya Kulkarni,Data Structures,17,49,66,C,69,Yes,5,No,Yes,8.87
+232,Anaya Kulkarni,Digital Logic Design,24,27,51,D,87,Yes,5,No,Yes,8.87
+232,Anaya Kulkarni,Environmental Studies,17,62,79,B,75,Yes,2,Yes,Yes,8.87
+232,Anaya Kulkarni,Professional Communication,27,33,60,C,62,Yes,4,No,Yes,8.87
+233,Abram Sundaram,Mathematics-II,14,63,77,B,80,Yes,3,Yes,Yes,5.67
+233,Abram Sundaram,Data Structures,16,22,38,F,100,No,4,No,No,5.67
+233,Abram Sundaram,Digital Logic Design,16,61,77,B,100,Yes,1,No,No,5.67
+233,Abram Sundaram,Environmental Studies,11,59,70,B,97,Yes,3,Yes,No,5.67
+233,Abram Sundaram,Professional Communication,29,28,57,C,100,Yes,2,No,No,5.67
+234,Dhruv Iyengar,Mathematics-II,25,45,70,B,82,Yes,4,No,Yes,6.66
+234,Dhruv Iyengar,Data Structures,22,67,89,A,63,Yes,2,No,Yes,6.66
+234,Dhruv Iyengar,Digital Logic Design,19,36,55,C,85,Yes,2,No,Yes,6.66
+234,Dhruv Iyengar,Environmental Studies,11,69,80,B,65,Yes,3,No,No,6.66
+234,Dhruv Iyengar,Professional Communication,10,40,50,D,82,Yes,5,Yes,Yes,6.66
+235,Neysa Dara,Mathematics-II,30,29,59,C,92,Yes,1,Yes,No,5.05
+235,Neysa Dara,Data Structures,22,24,46,D,86,Yes,2,No,Yes,5.05
+235,Neysa Dara,Digital Logic Design,26,40,66,C,98,Yes,2,Yes,Yes,5.05
+235,Neysa Dara,Environmental Studies,19,49,68,C,93,Yes,2,No,Yes,5.05
+235,Neysa Dara,Professional Communication,14,42,56,C,70,Yes,4,Yes,No,5.05
+236,Ishita Randhawa,Mathematics-II,18,50,68,C,74,Yes,4,Yes,Yes,8.87
+236,Ishita Randhawa,Data Structures,10,24,34,F,83,No,5,Yes,Yes,8.87
+236,Ishita Randhawa,Digital Logic Design,21,68,89,A,78,Yes,3,No,No,8.87
+236,Ishita Randhawa,Environmental Studies,16,24,40,D,76,Yes,1,Yes,No,8.87
+236,Ishita Randhawa,Professional Communication,16,29,45,D,89,Yes,3,Yes,Yes,8.87
+237,Zara Sampath,Mathematics-II,24,59,83,B,78,Yes,5,No,No,7.31
+237,Zara Sampath,Data Structures,23,60,83,B,99,Yes,1,Yes,Yes,7.31
+237,Zara Sampath,Digital Logic Design,25,49,74,B,77,Yes,1,No,No,7.31
+237,Zara Sampath,Environmental Studies,30,68,98,A,94,Yes,5,Yes,No,7.31
+237,Zara Sampath,Professional Communication,26,43,69,C,71,Yes,2,Yes,Yes,7.31
+238,Saira Wali,Mathematics-II,21,35,56,C,61,Yes,3,Yes,Yes,8.11
+238,Saira Wali,Data Structures,15,59,74,B,91,Yes,5,No,No,8.11
+238,Saira Wali,Digital Logic Design,21,38,59,C,92,Yes,1,No,No,8.11
+238,Saira Wali,Environmental Studies,30,45,75,B,93,Yes,2,Yes,No,8.11
+238,Saira Wali,Professional Communication,25,55,80,B,90,Yes,4,No,No,8.11
+239,Piya Agarwal,Mathematics-II,19,69,88,A,81,Yes,2,No,No,7.72
+239,Piya Agarwal,Data Structures,16,33,49,D,74,Yes,3,No,Yes,7.72
+239,Piya Agarwal,Digital Logic Design,28,45,73,B,80,Yes,4,No,Yes,7.72
+239,Piya Agarwal,Environmental Studies,22,67,89,A,60,Yes,5,No,No,7.72
+239,Piya Agarwal,Professional Communication,27,35,62,C,77,Yes,5,No,No,7.72
+240,Jiya Sem,Mathematics-II,23,63,86,A,95,Yes,2,Yes,Yes,7.21
+240,Jiya Sem,Data Structures,10,58,68,C,70,Yes,1,Yes,Yes,7.21
+240,Jiya Sem,Digital Logic Design,30,70,100,A,82,Yes,3,Yes,Yes,7.21
+240,Jiya Sem,Environmental Studies,13,28,41,D,65,Yes,5,Yes,No,7.21
+240,Jiya Sem,Professional Communication,30,27,57,C,92,Yes,1,No,Yes,7.21
+241,Kabir Trivedi,Mathematics-II,28,55,83,B,88,Yes,1,Yes,No,8.32
+241,Kabir Trivedi,Data Structures,21,53,74,B,83,Yes,2,No,No,8.32
+241,Kabir Trivedi,Digital Logic Design,11,31,42,D,72,Yes,1,No,Yes,8.32
+241,Kabir Trivedi,Environmental Studies,27,42,69,C,67,Yes,1,Yes,Yes,8.32
+241,Kabir Trivedi,Professional Communication,23,42,65,C,74,Yes,4,Yes,Yes,8.32
+242,Saanvi Ravi,Mathematics-II,30,59,89,A,80,Yes,5,No,Yes,6.8
+242,Saanvi Ravi,Data Structures,29,45,74,B,72,Yes,2,Yes,Yes,6.8
+242,Saanvi Ravi,Digital Logic Design,22,66,88,A,62,Yes,4,No,Yes,6.8
+242,Saanvi Ravi,Environmental Studies,29,37,66,C,82,Yes,3,No,No,6.8
+242,Saanvi Ravi,Professional Communication,19,28,47,D,68,Yes,4,No,No,6.8
+243,Madhup Anand,Mathematics-II,27,37,64,C,61,Yes,1,Yes,Yes,9.64
+243,Madhup Anand,Data Structures,15,57,72,B,69,Yes,5,Yes,No,9.64
+243,Madhup Anand,Digital Logic Design,25,49,74,B,78,Yes,1,No,Yes,9.64
+243,Madhup Anand,Environmental Studies,24,57,81,B,87,Yes,5,Yes,No,9.64
+243,Madhup Anand,Professional Communication,18,70,88,A,83,Yes,3,No,Yes,9.64
+244,Farhan Chaudhari,Mathematics-II,27,32,59,C,70,Yes,1,No,No,8.7
+244,Farhan Chaudhari,Data Structures,11,55,66,C,79,Yes,2,Yes,No,8.7
+244,Farhan Chaudhari,Digital Logic Design,11,32,43,D,82,Yes,2,Yes,Yes,8.7
+244,Farhan Chaudhari,Environmental Studies,18,26,44,D,61,Yes,4,No,No,8.7
+244,Farhan Chaudhari,Professional Communication,22,36,58,C,85,Yes,5,Yes,No,8.7
+245,Aarna Khurana,Mathematics-II,11,64,75,B,90,Yes,4,Yes,Yes,6.01
+245,Aarna Khurana,Data Structures,26,28,54,D,100,Yes,2,Yes,Yes,6.01
+245,Aarna Khurana,Digital Logic Design,22,31,53,D,83,Yes,3,Yes,Yes,6.01
+245,Aarna Khurana,Environmental Studies,20,41,61,C,98,Yes,3,Yes,Yes,6.01
+245,Aarna Khurana,Professional Communication,28,46,74,B,80,Yes,5,Yes,Yes,6.01
+246,Zaina Vohra,Mathematics-II,14,57,71,B,65,Yes,4,No,Yes,8.15
+246,Zaina Vohra,Data Structures,23,49,72,B,91,Yes,1,No,No,8.15
+246,Zaina Vohra,Digital Logic Design,21,63,84,B,81,Yes,4,Yes,No,8.15
+246,Zaina Vohra,Environmental Studies,10,60,70,B,83,Yes,3,Yes,Yes,8.15
+246,Zaina Vohra,Professional Communication,28,58,86,A,72,Yes,5,Yes,Yes,8.15
+247,Urvi Dash,Mathematics-II,26,65,91,A,68,Yes,4,Yes,Yes,9.9
+247,Urvi Dash,Data Structures,17,22,39,F,83,No,4,No,Yes,9.9
+247,Urvi Dash,Digital Logic Design,30,35,65,C,97,Yes,5,Yes,No,9.9
+247,Urvi Dash,Environmental Studies,28,26,54,D,81,Yes,4,Yes,No,9.9
+247,Urvi Dash,Professional Communication,18,20,38,F,64,No,3,No,Yes,9.9
+248,Vardaniya Kamdar,Mathematics-II,12,63,75,B,66,Yes,2,Yes,Yes,6.99
+248,Vardaniya Kamdar,Data Structures,11,38,49,D,67,Yes,3,No,Yes,6.99
+248,Vardaniya Kamdar,Digital Logic Design,26,47,73,B,93,Yes,3,No,Yes,6.99
+248,Vardaniya Kamdar,Environmental Studies,30,46,76,B,78,Yes,5,No,No,6.99
+248,Vardaniya Kamdar,Professional Communication,13,45,58,C,94,Yes,1,No,No,6.99
+249,Himmat Sabharwal,Mathematics-II,10,40,50,D,77,Yes,5,Yes,No,9.17
+249,Himmat Sabharwal,Data Structures,29,51,80,B,85,Yes,4,No,No,9.17
+249,Himmat Sabharwal,Digital Logic Design,22,67,89,A,97,Yes,1,No,No,9.17
+249,Himmat Sabharwal,Environmental Studies,23,66,89,A,87,Yes,3,Yes,Yes,9.17
+249,Himmat Sabharwal,Professional Communication,20,66,86,A,69,Yes,5,No,No,9.17
+250,Sana Kala,Mathematics-II,28,25,53,D,87,Yes,3,No,Yes,5.87
+250,Sana Kala,Data Structures,28,28,56,C,91,Yes,1,No,No,5.87
+250,Sana Kala,Digital Logic Design,11,57,68,C,61,Yes,5,No,Yes,5.87
+250,Sana Kala,Environmental Studies,19,50,69,C,93,Yes,4,No,Yes,5.87
+250,Sana Kala,Professional Communication,15,62,77,B,100,Yes,5,Yes,Yes,5.87
+251,Yakshit Grover,Mathematics-II,28,55,83,B,61,Yes,2,Yes,No,6.96
+251,Yakshit Grover,Data Structures,12,70,82,B,97,Yes,2,No,No,6.96
+251,Yakshit Grover,Digital Logic Design,14,41,55,C,61,Yes,2,No,No,6.96
+251,Yakshit Grover,Environmental Studies,12,69,81,B,90,Yes,4,No,Yes,6.96
+251,Yakshit Grover,Professional Communication,12,40,52,D,75,Yes,3,No,No,6.96
+252,Sana Goda,Mathematics-II,15,57,72,B,88,Yes,4,Yes,Yes,9.2
+252,Sana Goda,Data Structures,27,62,89,A,71,Yes,4,Yes,Yes,9.2
+252,Sana Goda,Digital Logic Design,13,34,47,D,98,Yes,4,No,Yes,9.2
+252,Sana Goda,Environmental Studies,18,60,78,B,63,Yes,4,Yes,No,9.2
+252,Sana Goda,Professional Communication,30,55,85,A,92,Yes,4,No,No,9.2
+253,Tushar Mangal,Mathematics-II,13,44,57,C,73,Yes,3,No,No,5.08
+253,Tushar Mangal,Data Structures,25,29,54,D,90,Yes,4,Yes,Yes,5.08
+253,Tushar Mangal,Digital Logic Design,21,24,45,D,77,Yes,3,Yes,Yes,5.08
+253,Tushar Mangal,Environmental Studies,21,52,73,B,93,Yes,5,Yes,Yes,5.08
+253,Tushar Mangal,Professional Communication,23,44,67,C,63,Yes,3,Yes,No,5.08
+254,Nakul Chandra,Mathematics-II,30,36,66,C,81,Yes,3,Yes,Yes,7.61
+254,Nakul Chandra,Data Structures,22,45,67,C,67,Yes,5,Yes,No,7.61
+254,Nakul Chandra,Digital Logic Design,24,68,92,A,92,Yes,4,Yes,No,7.61
+254,Nakul Chandra,Environmental Studies,28,28,56,C,96,Yes,4,No,Yes,7.61
+254,Nakul Chandra,Professional Communication,16,23,39,F,72,No,5,Yes,No,7.61
+255,Mannat Wali,Mathematics-II,12,69,81,B,64,Yes,4,Yes,No,7.88
+255,Mannat Wali,Data Structures,18,69,87,A,82,Yes,2,No,Yes,7.88
+255,Mannat Wali,Digital Logic Design,29,65,94,A,76,Yes,2,No,Yes,7.88
+255,Mannat Wali,Environmental Studies,12,66,78,B,79,Yes,2,No,Yes,7.88
+255,Mannat Wali,Professional Communication,20,67,87,A,77,Yes,2,No,No,7.88
+256,Oorja Bhatnagar,Mathematics-II,13,66,79,B,100,Yes,2,Yes,Yes,8.72
+256,Oorja Bhatnagar,Data Structures,15,44,59,C,73,Yes,3,No,Yes,8.72
+256,Oorja Bhatnagar,Digital Logic Design,10,38,48,D,73,Yes,1,No,Yes,8.72
+256,Oorja Bhatnagar,Environmental Studies,19,54,73,B,90,Yes,5,Yes,No,8.72
+256,Oorja Bhatnagar,Professional Communication,12,66,78,B,99,Yes,2,Yes,No,8.72
+257,Anahi Bhakta,Mathematics-II,13,34,47,D,65,Yes,2,Yes,No,7.57
+257,Anahi Bhakta,Data Structures,28,58,86,A,76,Yes,5,Yes,Yes,7.57
+257,Anahi Bhakta,Digital Logic Design,14,55,69,C,70,Yes,2,No,Yes,7.57
+257,Anahi Bhakta,Environmental Studies,27,46,73,B,65,Yes,4,Yes,Yes,7.57
+257,Anahi Bhakta,Professional Communication,11,40,51,D,61,Yes,3,Yes,No,7.57
+258,Hazel Sinha,Mathematics-II,15,56,71,B,89,Yes,2,No,No,6.91
+258,Hazel Sinha,Data Structures,18,30,48,D,66,Yes,2,No,No,6.91
+258,Hazel Sinha,Digital Logic Design,20,26,46,D,76,Yes,1,No,Yes,6.91
+258,Hazel Sinha,Environmental Studies,30,55,85,A,68,Yes,1,No,No,6.91
+258,Hazel Sinha,Professional Communication,16,59,75,B,99,Yes,2,No,Yes,6.91
+259,Lavanya Bakshi,Mathematics-II,26,40,66,C,77,Yes,1,Yes,Yes,5.67
+259,Lavanya Bakshi,Data Structures,12,62,74,B,100,Yes,2,No,Yes,5.67
+259,Lavanya Bakshi,Digital Logic Design,12,26,38,F,75,No,3,No,No,5.67
+259,Lavanya Bakshi,Environmental Studies,13,33,46,D,93,Yes,1,Yes,No,5.67
+259,Lavanya Bakshi,Professional Communication,14,68,82,B,92,Yes,1,Yes,Yes,5.67
+260,Aarush Tailor,Mathematics-II,20,57,77,B,73,Yes,1,No,No,8.74
+260,Aarush Tailor,Data Structures,27,63,90,A,99,Yes,2,No,No,8.74
+260,Aarush Tailor,Digital Logic Design,28,46,74,B,68,Yes,1,No,Yes,8.74
+260,Aarush Tailor,Environmental Studies,11,24,35,F,78,No,5,Yes,Yes,8.74
+260,Aarush Tailor,Professional Communication,25,23,48,D,87,Yes,2,Yes,No,8.74
+261,Kavya Raj,Mathematics-II,30,47,77,B,88,Yes,4,Yes,No,6.91
+261,Kavya Raj,Data Structures,12,41,53,D,72,Yes,5,No,Yes,6.91
+261,Kavya Raj,Digital Logic Design,18,51,69,C,73,Yes,1,No,Yes,6.91
+261,Kavya Raj,Environmental Studies,19,61,80,B,92,Yes,5,No,Yes,6.91
+261,Kavya Raj,Professional Communication,26,22,48,D,62,Yes,3,Yes,Yes,6.91
+262,Kanav Rajagopalan,Mathematics-II,14,63,77,B,100,Yes,2,No,Yes,9.28
+262,Kanav Rajagopalan,Data Structures,21,62,83,B,73,Yes,3,No,Yes,9.28
+262,Kanav Rajagopalan,Digital Logic Design,22,64,86,A,86,Yes,5,No,Yes,9.28
+262,Kanav Rajagopalan,Environmental Studies,17,57,74,B,73,Yes,1,No,No,9.28
+262,Kanav Rajagopalan,Professional Communication,13,28,41,D,79,Yes,1,Yes,No,9.28
+263,Anvi Chana,Mathematics-II,10,66,76,B,66,Yes,1,No,No,8.18
+263,Anvi Chana,Data Structures,16,33,49,D,79,Yes,4,Yes,No,8.18
+263,Anvi Chana,Digital Logic Design,25,35,60,C,72,Yes,4,Yes,No,8.18
+263,Anvi Chana,Environmental Studies,17,24,41,D,70,Yes,4,No,No,8.18
+263,Anvi Chana,Professional Communication,12,51,63,C,76,Yes,4,No,Yes,8.18
+264,Dhanush Tella,Mathematics-II,19,67,86,A,80,Yes,3,Yes,Yes,9.14
+264,Dhanush Tella,Data Structures,22,58,80,B,62,Yes,5,No,No,9.14
+264,Dhanush Tella,Digital Logic Design,13,44,57,C,92,Yes,4,No,Yes,9.14
+264,Dhanush Tella,Environmental Studies,26,62,88,A,73,Yes,5,Yes,Yes,9.14
+264,Dhanush Tella,Professional Communication,25,51,76,B,83,Yes,1,No,No,9.14
+265,Aayush Jain,Mathematics-II,12,33,45,D,86,Yes,3,Yes,Yes,7.63
+265,Aayush Jain,Data Structures,29,37,66,C,92,Yes,1,Yes,Yes,7.63
+265,Aayush Jain,Digital Logic Design,22,57,79,B,79,Yes,3,Yes,No,7.63
+265,Aayush Jain,Environmental Studies,13,66,79,B,84,Yes,2,Yes,Yes,7.63
+265,Aayush Jain,Professional Communication,14,25,39,F,67,No,3,Yes,No,7.63
+266,Yashvi Bala,Mathematics-II,26,26,52,D,76,Yes,2,Yes,Yes,7.4
+266,Yashvi Bala,Data Structures,21,54,75,B,72,Yes,3,No,No,7.4
+266,Yashvi Bala,Digital Logic Design,14,43,57,C,83,Yes,3,Yes,Yes,7.4
+266,Yashvi Bala,Environmental Studies,22,29,51,D,67,Yes,5,Yes,Yes,7.4
+266,Yashvi Bala,Professional Communication,13,54,67,C,66,Yes,2,No,Yes,7.4
+267,Ritvik Deep,Mathematics-II,19,27,46,D,100,Yes,5,No,Yes,6.18
+267,Ritvik Deep,Data Structures,15,48,63,C,98,Yes,1,No,No,6.18
+267,Ritvik Deep,Digital Logic Design,15,36,51,D,94,Yes,5,Yes,Yes,6.18
+267,Ritvik Deep,Environmental Studies,22,36,58,C,69,Yes,1,No,No,6.18
+267,Ritvik Deep,Professional Communication,26,67,93,A,61,Yes,1,No,No,6.18
+268,Zeeshan Karpe,Mathematics-II,19,24,43,D,94,Yes,2,No,Yes,7.69
+268,Zeeshan Karpe,Data Structures,14,63,77,B,95,Yes,5,No,No,7.69
+268,Zeeshan Karpe,Digital Logic Design,21,20,41,D,67,Yes,3,Yes,Yes,7.69
+268,Zeeshan Karpe,Environmental Studies,18,47,65,C,62,Yes,3,No,Yes,7.69
+268,Zeeshan Karpe,Professional Communication,19,70,89,A,79,Yes,4,Yes,Yes,7.69
+269,Prisha Warrior,Mathematics-II,28,28,56,C,60,Yes,2,Yes,Yes,7.31
+269,Prisha Warrior,Data Structures,14,31,45,D,60,Yes,2,No,No,7.31
+269,Prisha Warrior,Digital Logic Design,15,50,65,C,75,Yes,3,Yes,No,7.31
+269,Prisha Warrior,Environmental Studies,15,59,74,B,72,Yes,3,No,No,7.31
+269,Prisha Warrior,Professional Communication,27,64,91,A,86,Yes,1,No,Yes,7.31
+270,Renee Gulati,Mathematics-II,11,41,52,D,95,Yes,4,No,No,8.12
+270,Renee Gulati,Data Structures,26,31,57,C,65,Yes,2,Yes,No,8.12
+270,Renee Gulati,Digital Logic Design,20,40,60,C,88,Yes,5,No,No,8.12
+270,Renee Gulati,Environmental Studies,23,43,66,C,82,Yes,4,Yes,No,8.12
+270,Renee Gulati,Professional Communication,29,60,89,A,68,Yes,4,Yes,No,8.12
+271,Advik Borah,Mathematics-II,29,47,76,B,71,Yes,3,Yes,Yes,8.3
+271,Advik Borah,Data Structures,29,70,99,A,96,Yes,1,No,No,8.3
+271,Advik Borah,Digital Logic Design,12,61,73,B,64,Yes,1,No,No,8.3
+271,Advik Borah,Environmental Studies,16,30,46,D,94,Yes,3,Yes,No,8.3
+271,Advik Borah,Professional Communication,26,62,88,A,66,Yes,5,No,No,8.3
+272,Adah Dara,Mathematics-II,14,46,60,C,91,Yes,4,Yes,No,7.35
+272,Adah Dara,Data Structures,26,36,62,C,97,Yes,1,No,Yes,7.35
+272,Adah Dara,Digital Logic Design,29,52,81,B,88,Yes,4,Yes,No,7.35
+272,Adah Dara,Environmental Studies,15,53,68,C,93,Yes,2,No,No,7.35
+272,Adah Dara,Professional Communication,24,66,90,A,90,Yes,4,Yes,No,7.35
+273,Suhana Wable,Mathematics-II,23,25,48,D,83,Yes,4,Yes,Yes,9.25
+273,Suhana Wable,Data Structures,13,62,75,B,62,Yes,2,Yes,No,9.25
+273,Suhana Wable,Digital Logic Design,20,45,65,C,76,Yes,4,No,Yes,9.25
+273,Suhana Wable,Environmental Studies,23,39,62,C,73,Yes,3,No,No,9.25
+273,Suhana Wable,Professional Communication,30,49,79,B,60,Yes,1,Yes,No,9.25
+274,Damini Handa,Mathematics-II,22,58,80,B,62,Yes,3,No,Yes,8.43
+274,Damini Handa,Data Structures,11,48,59,C,87,Yes,4,No,Yes,8.43
+274,Damini Handa,Digital Logic Design,19,51,70,B,92,Yes,3,No,No,8.43
+274,Damini Handa,Environmental Studies,27,22,49,D,79,Yes,1,No,No,8.43
+274,Damini Handa,Professional Communication,27,53,80,B,98,Yes,5,Yes,No,8.43
+275,Yuvaan Kadakia,Mathematics-II,26,45,71,B,87,Yes,4,Yes,No,9.22
+275,Yuvaan Kadakia,Data Structures,19,39,58,C,64,Yes,4,No,No,9.22
+275,Yuvaan Kadakia,Digital Logic Design,15,62,77,B,60,Yes,5,No,Yes,9.22
+275,Yuvaan Kadakia,Environmental Studies,11,28,39,F,89,No,1,No,No,9.22
+275,Yuvaan Kadakia,Professional Communication,13,27,40,D,85,Yes,4,No,No,9.22
+276,Nishith Tripathi,Mathematics-II,26,53,79,B,96,Yes,1,Yes,Yes,5.02
+276,Nishith Tripathi,Data Structures,21,30,51,D,100,Yes,4,No,No,5.02
+276,Nishith Tripathi,Digital Logic Design,18,42,60,C,72,Yes,4,No,Yes,5.02
+276,Nishith Tripathi,Environmental Studies,14,49,63,C,93,Yes,2,No,No,5.02
+276,Nishith Tripathi,Professional Communication,23,47,70,B,84,Yes,4,No,No,5.02
+277,Azad Ranganathan,Mathematics-II,16,60,76,B,95,Yes,2,No,No,7.8
+277,Azad Ranganathan,Data Structures,15,37,52,D,99,Yes,4,Yes,No,7.8
+277,Azad Ranganathan,Digital Logic Design,18,58,76,B,85,Yes,3,No,Yes,7.8
+277,Azad Ranganathan,Environmental Studies,26,69,95,A,70,Yes,5,Yes,Yes,7.8
+277,Azad Ranganathan,Professional Communication,26,44,70,B,87,Yes,2,Yes,No,7.8
+278,Vardaniya Sani,Mathematics-II,11,29,40,D,72,Yes,2,Yes,Yes,7.42
+278,Vardaniya Sani,Data Structures,19,45,64,C,90,Yes,1,No,No,7.42
+278,Vardaniya Sani,Digital Logic Design,22,59,81,B,85,Yes,4,No,Yes,7.42
+278,Vardaniya Sani,Environmental Studies,16,62,78,B,88,Yes,4,No,Yes,7.42
+278,Vardaniya Sani,Professional Communication,26,44,70,B,71,Yes,1,No,No,7.42
+279,Miraya Jayaraman,Mathematics-II,19,43,62,C,95,Yes,1,No,Yes,6.56
+279,Miraya Jayaraman,Data Structures,15,38,53,D,91,Yes,4,No,Yes,6.56
+279,Miraya Jayaraman,Digital Logic Design,14,55,69,C,96,Yes,3,Yes,No,6.56
+279,Miraya Jayaraman,Environmental Studies,17,25,42,D,86,Yes,1,No,Yes,6.56
+279,Miraya Jayaraman,Professional Communication,18,64,82,B,94,Yes,1,No,Yes,6.56
+280,Yakshit Ganesh,Mathematics-II,28,65,93,A,81,Yes,3,No,Yes,6.69
+280,Yakshit Ganesh,Data Structures,17,57,74,B,84,Yes,3,Yes,No,6.69
+280,Yakshit Ganesh,Digital Logic Design,24,47,71,B,83,Yes,1,No,Yes,6.69
+280,Yakshit Ganesh,Environmental Studies,25,20,45,D,74,Yes,2,No,Yes,6.69
+280,Yakshit Ganesh,Professional Communication,24,53,77,B,81,Yes,2,No,Yes,6.69
+281,Nehmat Dyal,Mathematics-II,30,62,92,A,99,Yes,1,Yes,No,8.91
+281,Nehmat Dyal,Data Structures,21,33,54,D,91,Yes,4,No,No,8.91
+281,Nehmat Dyal,Digital Logic Design,26,40,66,C,99,Yes,1,Yes,Yes,8.91
+281,Nehmat Dyal,Environmental Studies,28,56,84,B,96,Yes,2,No,No,8.91
+281,Nehmat Dyal,Professional Communication,20,28,48,D,93,Yes,4,No,Yes,8.91
+282,Vivaan Dua,Mathematics-II,13,29,42,D,92,Yes,4,Yes,No,9.77
+282,Vivaan Dua,Data Structures,22,44,66,C,81,Yes,4,Yes,Yes,9.77
+282,Vivaan Dua,Digital Logic Design,20,63,83,B,78,Yes,5,Yes,Yes,9.77
+282,Vivaan Dua,Environmental Studies,28,38,66,C,100,Yes,1,Yes,Yes,9.77
+282,Vivaan Dua,Professional Communication,30,24,54,D,64,Yes,4,No,No,9.77
+283,Armaan Deo,Mathematics-II,30,53,83,B,93,Yes,2,Yes,Yes,7.35
+283,Armaan Deo,Data Structures,26,39,65,C,71,Yes,4,Yes,No,7.35
+283,Armaan Deo,Digital Logic Design,20,69,89,A,75,Yes,5,Yes,No,7.35
+283,Armaan Deo,Environmental Studies,22,49,71,B,68,Yes,4,Yes,Yes,7.35
+283,Armaan Deo,Professional Communication,14,53,67,C,93,Yes,5,Yes,No,7.35
+284,Ishita Ramachandran,Mathematics-II,25,59,84,B,87,Yes,4,Yes,No,8.56
+284,Ishita Ramachandran,Data Structures,27,67,94,A,80,Yes,4,Yes,No,8.56
+284,Ishita Ramachandran,Digital Logic Design,19,35,54,D,91,Yes,5,Yes,No,8.56
+284,Ishita Ramachandran,Environmental Studies,20,36,56,C,91,Yes,2,No,Yes,8.56
+284,Ishita Ramachandran,Professional Communication,26,49,75,B,94,Yes,1,No,Yes,8.56
+285,Mehul Chauhan,Mathematics-II,16,46,62,C,75,Yes,5,No,No,7.06
+285,Mehul Chauhan,Data Structures,30,60,90,A,94,Yes,1,No,Yes,7.06
+285,Mehul Chauhan,Digital Logic Design,24,65,89,A,71,Yes,3,Yes,No,7.06
+285,Mehul Chauhan,Environmental Studies,27,24,51,D,86,Yes,1,No,Yes,7.06
+285,Mehul Chauhan,Professional Communication,13,66,79,B,65,Yes,4,Yes,No,7.06
+286,Abram Vyas,Mathematics-II,21,39,60,C,90,Yes,5,Yes,No,5.8
+286,Abram Vyas,Data Structures,20,44,64,C,69,Yes,5,Yes,Yes,5.8
+286,Abram Vyas,Digital Logic Design,26,27,53,D,87,Yes,2,Yes,Yes,5.8
+286,Abram Vyas,Environmental Studies,27,65,92,A,82,Yes,1,Yes,No,5.8
+286,Abram Vyas,Professional Communication,10,64,74,B,69,Yes,3,Yes,No,5.8
+287,Seher Sabharwal,Mathematics-II,10,32,42,D,97,Yes,4,Yes,Yes,9.08
+287,Seher Sabharwal,Data Structures,20,59,79,B,99,Yes,3,Yes,No,9.08
+287,Seher Sabharwal,Digital Logic Design,15,22,37,F,76,No,3,No,No,9.08
+287,Seher Sabharwal,Environmental Studies,16,26,42,D,86,Yes,4,No,No,9.08
+287,Seher Sabharwal,Professional Communication,19,58,77,B,71,Yes,3,No,Yes,9.08
+288,Jayan Choudhry,Mathematics-II,19,69,88,A,67,Yes,1,Yes,No,9.76
+288,Jayan Choudhry,Data Structures,22,39,61,C,68,Yes,2,No,Yes,9.76
+288,Jayan Choudhry,Digital Logic Design,18,53,71,B,74,Yes,3,No,Yes,9.76
+288,Jayan Choudhry,Environmental Studies,12,65,77,B,78,Yes,2,No,No,9.76
+288,Jayan Choudhry,Professional Communication,19,54,73,B,90,Yes,1,Yes,No,9.76
+289,Dhanuk Sankar,Mathematics-II,15,59,74,B,87,Yes,2,No,No,8.28
+289,Dhanuk Sankar,Data Structures,15,26,41,D,66,Yes,3,Yes,No,8.28
+289,Dhanuk Sankar,Digital Logic Design,23,57,80,B,83,Yes,2,No,Yes,8.28
+289,Dhanuk Sankar,Environmental Studies,15,70,85,A,62,Yes,5,No,No,8.28
+289,Dhanuk Sankar,Professional Communication,10,23,33,F,85,No,4,Yes,Yes,8.28
+290,Keya Dubey,Mathematics-II,24,27,51,D,64,Yes,2,Yes,Yes,8.27
+290,Keya Dubey,Data Structures,11,23,34,F,62,No,1,No,Yes,8.27
+290,Keya Dubey,Digital Logic Design,23,67,90,A,84,Yes,3,No,No,8.27
+290,Keya Dubey,Environmental Studies,27,65,92,A,85,Yes,5,Yes,No,8.27
+290,Keya Dubey,Professional Communication,26,48,74,B,65,Yes,2,No,Yes,8.27
+291,Farhan Bakshi,Mathematics-II,15,70,85,A,72,Yes,3,Yes,No,9.7
+291,Farhan Bakshi,Data Structures,16,23,39,F,86,No,5,Yes,No,9.7
+291,Farhan Bakshi,Digital Logic Design,23,66,89,A,71,Yes,3,No,Yes,9.7
+291,Farhan Bakshi,Environmental Studies,28,36,64,C,69,Yes,3,Yes,Yes,9.7
+291,Farhan Bakshi,Professional Communication,23,28,51,D,96,Yes,2,Yes,No,9.7
+292,Yuvraj  Bhandari,Mathematics-II,12,61,73,B,95,Yes,4,No,Yes,7.71
+292,Yuvraj  Bhandari,Data Structures,24,53,77,B,71,Yes,5,No,Yes,7.71
+292,Yuvraj  Bhandari,Digital Logic Design,16,53,69,C,74,Yes,4,No,No,7.71
+292,Yuvraj  Bhandari,Environmental Studies,11,48,59,C,85,Yes,3,No,Yes,7.71
+292,Yuvraj  Bhandari,Professional Communication,22,68,90,A,69,Yes,4,Yes,Yes,7.71
+293,Shray Ghosh,Mathematics-II,10,60,70,B,61,Yes,3,Yes,No,5.15
+293,Shray Ghosh,Data Structures,20,32,52,D,73,Yes,4,No,Yes,5.15
+293,Shray Ghosh,Digital Logic Design,27,35,62,C,69,Yes,3,No,Yes,5.15
+293,Shray Ghosh,Environmental Studies,20,39,59,C,83,Yes,1,Yes,Yes,5.15
+293,Shray Ghosh,Professional Communication,18,21,39,F,86,No,2,Yes,Yes,5.15
+294,Amira Chakraborty,Mathematics-II,23,23,46,D,98,Yes,3,Yes,Yes,8.25
+294,Amira Chakraborty,Data Structures,24,21,45,D,64,Yes,3,Yes,Yes,8.25
+294,Amira Chakraborty,Digital Logic Design,25,48,73,B,67,Yes,2,Yes,No,8.25
+294,Amira Chakraborty,Environmental Studies,21,21,42,D,77,Yes,4,Yes,No,8.25
+294,Amira Chakraborty,Professional Communication,30,45,75,B,99,Yes,5,No,Yes,8.25
+295,Advika Loke,Mathematics-II,27,31,58,C,95,Yes,2,No,Yes,9.94
+295,Advika Loke,Data Structures,29,38,67,C,64,Yes,5,No,Yes,9.94
+295,Advika Loke,Digital Logic Design,11,49,60,C,62,Yes,1,Yes,Yes,9.94
+295,Advika Loke,Environmental Studies,27,39,66,C,73,Yes,2,Yes,No,9.94
+295,Advika Loke,Professional Communication,21,68,89,A,77,Yes,1,No,Yes,9.94
+296,Shalv Varty,Mathematics-II,16,40,56,C,95,Yes,5,Yes,No,6.4
+296,Shalv Varty,Data Structures,18,48,66,C,62,Yes,1,No,No,6.4
+296,Shalv Varty,Digital Logic Design,19,68,87,A,94,Yes,1,Yes,Yes,6.4
+296,Shalv Varty,Environmental Studies,11,65,76,B,85,Yes,1,No,Yes,6.4
+296,Shalv Varty,Professional Communication,25,39,64,C,60,Yes,4,Yes,No,6.4
+297,Farhan Varty,Mathematics-II,27,34,61,C,87,Yes,1,No,No,5.51
+297,Farhan Varty,Data Structures,26,66,92,A,72,Yes,3,No,Yes,5.51
+297,Farhan Varty,Digital Logic Design,22,66,88,A,60,Yes,4,Yes,Yes,5.51
+297,Farhan Varty,Environmental Studies,30,57,87,A,89,Yes,2,Yes,Yes,5.51
+297,Farhan Varty,Professional Communication,26,20,46,D,94,Yes,3,Yes,No,5.51
+298,Piya D’Alia,Mathematics-II,30,21,51,D,98,Yes,5,Yes,No,7.62
+298,Piya D’Alia,Data Structures,25,55,80,B,63,Yes,3,Yes,No,7.62
+298,Piya D’Alia,Digital Logic Design,21,57,78,B,88,Yes,4,Yes,Yes,7.62
+298,Piya D’Alia,Environmental Studies,26,50,76,B,77,Yes,2,Yes,Yes,7.62
+298,Piya D’Alia,Professional Communication,30,52,82,B,92,Yes,5,Yes,No,7.62
+299,Divyansh Atwal,Mathematics-II,27,67,94,A,87,Yes,1,No,No,7.83
+299,Divyansh Atwal,Data Structures,14,39,53,D,88,Yes,1,Yes,Yes,7.83
+299,Divyansh Atwal,Digital Logic Design,15,52,67,C,74,Yes,2,No,No,7.83
+299,Divyansh Atwal,Environmental Studies,19,54,73,B,74,Yes,2,No,Yes,7.83
+299,Divyansh Atwal,Professional Communication,10,45,55,C,70,Yes,3,No,No,7.83
+300,Anahita Gandhi,Mathematics-II,26,26,52,D,86,Yes,5,Yes,Yes,5.53
+300,Anahita Gandhi,Data Structures,10,28,38,F,64,No,3,No,Yes,5.53
+300,Anahita Gandhi,Digital Logic Design,25,65,90,A,65,Yes,1,No,No,5.53
+300,Anahita Gandhi,Environmental Studies,27,53,80,B,77,Yes,3,No,Yes,5.53
+300,Anahita Gandhi,Professional Communication,15,33,48,D,72,Yes,5,No,No,5.53
+301,Oorja Divan,Mathematics-II,22,53,75,B,68,Yes,5,Yes,Yes,6.06
+301,Oorja Divan,Data Structures,13,40,53,D,70,Yes,5,Yes,Yes,6.06
+301,Oorja Divan,Digital Logic Design,19,39,58,C,95,Yes,2,No,Yes,6.06
+301,Oorja Divan,Environmental Studies,10,45,55,C,62,Yes,1,Yes,Yes,6.06
+301,Oorja Divan,Professional Communication,29,35,64,C,84,Yes,3,No,No,6.06
+302,Hansh Dhaliwal,Mathematics-II,10,52,62,C,75,Yes,4,Yes,Yes,8.13
+302,Hansh Dhaliwal,Data Structures,11,45,56,C,62,Yes,5,Yes,Yes,8.13
+302,Hansh Dhaliwal,Digital Logic Design,24,67,91,A,67,Yes,4,No,Yes,8.13
+302,Hansh Dhaliwal,Environmental Studies,25,64,89,A,83,Yes,4,Yes,Yes,8.13
+302,Hansh Dhaliwal,Professional Communication,29,36,65,C,92,Yes,5,Yes,Yes,8.13
+303,Advik Rastogi,Mathematics-II,24,47,71,B,66,Yes,5,Yes,Yes,7.04
+303,Advik Rastogi,Data Structures,11,25,36,F,69,No,5,Yes,Yes,7.04
+303,Advik Rastogi,Digital Logic Design,13,63,76,B,72,Yes,4,No,No,7.04
+303,Advik Rastogi,Environmental Studies,13,61,74,B,83,Yes,4,No,No,7.04
+303,Advik Rastogi,Professional Communication,26,62,88,A,79,Yes,4,Yes,Yes,7.04
+304,Anahi Goel,Mathematics-II,29,41,70,B,98,Yes,3,Yes,No,5.07
+304,Anahi Goel,Data Structures,25,30,55,C,74,Yes,4,Yes,No,5.07
+304,Anahi Goel,Digital Logic Design,14,57,71,B,68,Yes,4,Yes,No,5.07
+304,Anahi Goel,Environmental Studies,18,69,87,A,74,Yes,2,No,Yes,5.07
+304,Anahi Goel,Professional Communication,20,66,86,A,75,Yes,2,No,No,5.07
+305,Sahil Sundaram,Mathematics-II,17,53,70,B,67,Yes,3,No,Yes,6.0
+305,Sahil Sundaram,Data Structures,15,67,82,B,93,Yes,4,No,Yes,6.0
+305,Sahil Sundaram,Digital Logic Design,24,69,93,A,78,Yes,3,No,No,6.0
+305,Sahil Sundaram,Environmental Studies,30,34,64,C,76,Yes,5,No,Yes,6.0
+305,Sahil Sundaram,Professional Communication,15,51,66,C,95,Yes,3,No,No,6.0
+306,Emir Kapoor,Mathematics-II,14,57,71,B,66,Yes,5,No,Yes,8.01
+306,Emir Kapoor,Data Structures,26,40,66,C,90,Yes,1,No,Yes,8.01
+306,Emir Kapoor,Digital Logic Design,22,51,73,B,81,Yes,4,Yes,Yes,8.01
+306,Emir Kapoor,Environmental Studies,20,24,44,D,74,Yes,3,No,No,8.01
+306,Emir Kapoor,Professional Communication,28,49,77,B,94,Yes,3,Yes,No,8.01
+307,Samarth Yogi,Mathematics-II,21,56,77,B,65,Yes,3,Yes,No,8.56
+307,Samarth Yogi,Data Structures,20,44,64,C,70,Yes,4,Yes,Yes,8.56
+307,Samarth Yogi,Digital Logic Design,21,46,67,C,67,Yes,1,No,Yes,8.56
+307,Samarth Yogi,Environmental Studies,23,64,87,A,60,Yes,4,No,No,8.56
+307,Samarth Yogi,Professional Communication,26,52,78,B,67,Yes,4,No,Yes,8.56
+308,Anya Verma,Mathematics-II,11,66,77,B,71,Yes,1,No,No,9.05
+308,Anya Verma,Data Structures,16,55,71,B,62,Yes,3,Yes,Yes,9.05
+308,Anya Verma,Digital Logic Design,15,36,51,D,77,Yes,5,Yes,Yes,9.05
+308,Anya Verma,Environmental Studies,20,30,50,D,69,Yes,2,No,No,9.05
+308,Anya Verma,Professional Communication,24,56,80,B,99,Yes,1,No,Yes,9.05
+309,Oorja Tata,Mathematics-II,13,26,39,F,70,No,4,Yes,Yes,9.91
+309,Oorja Tata,Data Structures,22,58,80,B,88,Yes,4,Yes,Yes,9.91
+309,Oorja Tata,Digital Logic Design,29,55,84,B,87,Yes,1,Yes,No,9.91
+309,Oorja Tata,Environmental Studies,12,43,55,C,60,Yes,1,No,Yes,9.91
+309,Oorja Tata,Professional Communication,21,35,56,C,93,Yes,4,Yes,No,9.91
+310,Raghav Tripathi,Mathematics-II,12,66,78,B,61,Yes,1,Yes,Yes,8.79
+310,Raghav Tripathi,Data Structures,21,30,51,D,83,Yes,3,Yes,Yes,8.79
+310,Raghav Tripathi,Digital Logic Design,18,46,64,C,89,Yes,5,Yes,No,8.79
+310,Raghav Tripathi,Environmental Studies,19,67,86,A,63,Yes,1,Yes,No,8.79
+310,Raghav Tripathi,Professional Communication,21,22,43,D,92,Yes,1,No,No,8.79
+311,Dhruv Din,Mathematics-II,17,29,46,D,98,Yes,4,Yes,Yes,5.28
+311,Dhruv Din,Data Structures,17,66,83,B,93,Yes,4,Yes,Yes,5.28
+311,Dhruv Din,Digital Logic Design,11,29,40,D,75,Yes,1,Yes,Yes,5.28
+311,Dhruv Din,Environmental Studies,25,63,88,A,63,Yes,2,No,No,5.28
+311,Dhruv Din,Professional Communication,19,40,59,C,90,Yes,5,No,No,5.28
+312,Nitara Wason,Mathematics-II,30,35,65,C,88,Yes,4,Yes,Yes,7.57
+312,Nitara Wason,Data Structures,14,58,72,B,85,Yes,3,No,Yes,7.57
+312,Nitara Wason,Digital Logic Design,21,39,60,C,81,Yes,3,No,Yes,7.57
+312,Nitara Wason,Environmental Studies,18,49,67,C,94,Yes,3,No,Yes,7.57
+312,Nitara Wason,Professional Communication,13,33,46,D,82,Yes,4,Yes,No,7.57
+313,Zoya Chakraborty,Mathematics-II,29,46,75,B,84,Yes,2,Yes,No,6.3
+313,Zoya Chakraborty,Data Structures,10,23,33,F,73,No,1,No,Yes,6.3
+313,Zoya Chakraborty,Digital Logic Design,16,34,50,D,80,Yes,5,No,Yes,6.3
+313,Zoya Chakraborty,Environmental Studies,24,44,68,C,90,Yes,2,Yes,No,6.3
+313,Zoya Chakraborty,Professional Communication,23,46,69,C,66,Yes,5,No,No,6.3
+314,Sahil Grover,Mathematics-II,16,47,63,C,90,Yes,3,Yes,No,8.61
+314,Sahil Grover,Data Structures,29,59,88,A,70,Yes,5,Yes,Yes,8.61
+314,Sahil Grover,Digital Logic Design,24,52,76,B,67,Yes,1,No,No,8.61
+314,Sahil Grover,Environmental Studies,20,52,72,B,88,Yes,4,No,Yes,8.61
+314,Sahil Grover,Professional Communication,24,20,44,D,61,Yes,2,Yes,No,8.61
+315,Jayan Borah,Mathematics-II,30,24,54,D,91,Yes,4,No,No,6.3
+315,Jayan Borah,Data Structures,28,24,52,D,71,Yes,5,Yes,No,6.3
+315,Jayan Borah,Digital Logic Design,27,36,63,C,71,Yes,3,No,No,6.3
+315,Jayan Borah,Environmental Studies,27,52,79,B,95,Yes,5,Yes,No,6.3
+315,Jayan Borah,Professional Communication,14,40,54,D,95,Yes,4,No,No,6.3
+316,Ivan Koshy,Mathematics-II,15,53,68,C,97,Yes,5,No,No,9.49
+316,Ivan Koshy,Data Structures,11,50,61,C,64,Yes,1,No,No,9.49
+316,Ivan Koshy,Digital Logic Design,22,36,58,C,73,Yes,3,No,Yes,9.49
+316,Ivan Koshy,Environmental Studies,14,63,77,B,62,Yes,5,No,No,9.49
+316,Ivan Koshy,Professional Communication,30,56,86,A,97,Yes,5,Yes,Yes,9.49
+317,Eshani Vyas,Mathematics-II,17,67,84,B,99,Yes,3,No,Yes,8.17
+317,Eshani Vyas,Data Structures,12,57,69,C,78,Yes,1,No,No,8.17
+317,Eshani Vyas,Digital Logic Design,29,62,91,A,60,Yes,1,Yes,Yes,8.17
+317,Eshani Vyas,Environmental Studies,27,66,93,A,60,Yes,2,Yes,Yes,8.17
+317,Eshani Vyas,Professional Communication,11,61,72,B,80,Yes,4,Yes,No,8.17
+318,Drishya Butala,Mathematics-II,25,41,66,C,68,Yes,5,Yes,No,6.11
+318,Drishya Butala,Data Structures,26,39,65,C,98,Yes,2,No,No,6.11
+318,Drishya Butala,Digital Logic Design,16,60,76,B,70,Yes,1,No,No,6.11
+318,Drishya Butala,Environmental Studies,15,46,61,C,97,Yes,4,Yes,No,6.11
+318,Drishya Butala,Professional Communication,28,60,88,A,78,Yes,1,Yes,No,6.11
+319,Zaina Loke,Mathematics-II,23,31,54,D,84,Yes,4,Yes,Yes,9.01
+319,Zaina Loke,Data Structures,16,29,45,D,71,Yes,4,Yes,Yes,9.01
+319,Zaina Loke,Digital Logic Design,26,43,69,C,77,Yes,5,Yes,Yes,9.01
+319,Zaina Loke,Environmental Studies,15,47,62,C,87,Yes,3,Yes,Yes,9.01
+319,Zaina Loke,Professional Communication,27,67,94,A,96,Yes,5,No,No,9.01
+320,Shamik Bhardwaj,Mathematics-II,13,26,39,F,93,No,1,No,No,8.04
+320,Shamik Bhardwaj,Data Structures,24,36,60,C,89,Yes,5,Yes,No,8.04
+320,Shamik Bhardwaj,Digital Logic Design,30,49,79,B,97,Yes,3,No,No,8.04
+320,Shamik Bhardwaj,Environmental Studies,21,35,56,C,73,Yes,3,Yes,No,8.04
+320,Shamik Bhardwaj,Professional Communication,20,27,47,D,68,Yes,5,Yes,No,8.04
+321,Kaira Kaul,Mathematics-II,28,22,50,D,68,Yes,5,No,No,9.25
+321,Kaira Kaul,Data Structures,17,46,63,C,72,Yes,5,No,No,9.25
+321,Kaira Kaul,Digital Logic Design,18,42,60,C,94,Yes,5,Yes,No,9.25
+321,Kaira Kaul,Environmental Studies,15,61,76,B,88,Yes,4,No,Yes,9.25
+321,Kaira Kaul,Professional Communication,12,52,64,C,84,Yes,4,No,Yes,9.25
+322,Arnav Dey,Mathematics-II,14,30,44,D,65,Yes,2,No,No,9.22
+322,Arnav Dey,Data Structures,19,26,45,D,60,Yes,1,No,Yes,9.22
+322,Arnav Dey,Digital Logic Design,11,31,42,D,62,Yes,2,No,Yes,9.22
+322,Arnav Dey,Environmental Studies,13,65,78,B,88,Yes,5,No,Yes,9.22
+322,Arnav Dey,Professional Communication,15,20,35,F,64,No,5,No,Yes,9.22
+323,Shanaya Bhatia,Mathematics-II,10,62,72,B,88,Yes,2,No,No,5.66
+323,Shanaya Bhatia,Data Structures,23,46,69,C,68,Yes,5,Yes,No,5.66
+323,Shanaya Bhatia,Digital Logic Design,24,63,87,A,88,Yes,3,No,Yes,5.66
+323,Shanaya Bhatia,Environmental Studies,27,49,76,B,67,Yes,3,Yes,No,5.66
+323,Shanaya Bhatia,Professional Communication,30,37,67,C,82,Yes,5,Yes,Yes,5.66
+324,Emir Chahal,Mathematics-II,16,66,82,B,74,Yes,2,No,No,8.35
+324,Emir Chahal,Data Structures,18,49,67,C,69,Yes,2,No,Yes,8.35
+324,Emir Chahal,Digital Logic Design,10,44,54,D,88,Yes,4,No,Yes,8.35
+324,Emir Chahal,Environmental Studies,25,51,76,B,90,Yes,4,Yes,No,8.35
+324,Emir Chahal,Professional Communication,19,60,79,B,68,Yes,5,Yes,Yes,8.35
+325,Mahika Kumar,Mathematics-II,29,39,68,C,71,Yes,5,No,Yes,7.06
+325,Mahika Kumar,Data Structures,13,54,67,C,91,Yes,5,No,No,7.06
+325,Mahika Kumar,Digital Logic Design,20,55,75,B,87,Yes,3,No,No,7.06
+325,Mahika Kumar,Environmental Studies,22,39,61,C,93,Yes,3,Yes,No,7.06
+325,Mahika Kumar,Professional Communication,27,53,80,B,96,Yes,2,Yes,No,7.06
+326,Jayan Raval,Mathematics-II,18,55,73,B,69,Yes,4,Yes,Yes,6.07
+326,Jayan Raval,Data Structures,26,59,85,A,63,Yes,2,Yes,No,6.07
+326,Jayan Raval,Digital Logic Design,16,24,40,D,61,Yes,2,No,No,6.07
+326,Jayan Raval,Environmental Studies,16,51,67,C,64,Yes,1,No,Yes,6.07
+326,Jayan Raval,Professional Communication,11,43,54,D,81,Yes,3,Yes,Yes,6.07
+327,Chirag Venkataraman,Mathematics-II,13,36,49,D,91,Yes,3,Yes,No,9.51
+327,Chirag Venkataraman,Data Structures,18,43,61,C,60,Yes,1,Yes,No,9.51
+327,Chirag Venkataraman,Digital Logic Design,14,39,53,D,94,Yes,4,No,Yes,9.51
+327,Chirag Venkataraman,Environmental Studies,20,52,72,B,94,Yes,1,Yes,No,9.51
+327,Chirag Venkataraman,Professional Communication,26,65,91,A,67,Yes,4,Yes,Yes,9.51
+328,Alia Tak,Mathematics-II,13,57,70,B,100,Yes,4,Yes,Yes,6.58
+328,Alia Tak,Data Structures,19,54,73,B,99,Yes,5,No,No,6.58
+328,Alia Tak,Digital Logic Design,17,58,75,B,74,Yes,4,No,No,6.58
+328,Alia Tak,Environmental Studies,14,30,44,D,97,Yes,3,Yes,No,6.58
+328,Alia Tak,Professional Communication,23,55,78,B,67,Yes,2,Yes,No,6.58
+329,Diya Konda,Mathematics-II,18,52,70,B,77,Yes,3,No,Yes,6.07
+329,Diya Konda,Data Structures,10,68,78,B,63,Yes,3,Yes,Yes,6.07
+329,Diya Konda,Digital Logic Design,25,52,77,B,80,Yes,4,Yes,No,6.07
+329,Diya Konda,Environmental Studies,18,52,70,B,69,Yes,1,No,Yes,6.07
+329,Diya Konda,Professional Communication,22,37,59,C,83,Yes,2,Yes,No,6.07
+330,Dhanuk Apte,Mathematics-II,13,69,82,B,87,Yes,2,No,No,9.92
+330,Dhanuk Apte,Data Structures,23,69,92,A,79,Yes,2,No,No,9.92
+330,Dhanuk Apte,Digital Logic Design,13,61,74,B,79,Yes,4,Yes,No,9.92
+330,Dhanuk Apte,Environmental Studies,15,38,53,D,62,Yes,3,No,No,9.92
+330,Dhanuk Apte,Professional Communication,17,54,71,B,72,Yes,5,No,Yes,9.92
+331,Prisha Badami,Mathematics-II,29,70,99,A,85,Yes,2,No,No,8.5
+331,Prisha Badami,Data Structures,12,61,73,B,70,Yes,4,No,No,8.5
+331,Prisha Badami,Digital Logic Design,14,67,81,B,89,Yes,5,No,Yes,8.5
+331,Prisha Badami,Environmental Studies,18,53,71,B,92,Yes,3,Yes,Yes,8.5
+331,Prisha Badami,Professional Communication,26,45,71,B,64,Yes,1,Yes,No,8.5
+332,Bhamini Brar,Mathematics-II,30,62,92,A,82,Yes,4,No,Yes,7.09
+332,Bhamini Brar,Data Structures,18,54,72,B,98,Yes,3,Yes,No,7.09
+332,Bhamini Brar,Digital Logic Design,23,67,90,A,80,Yes,5,Yes,Yes,7.09
+332,Bhamini Brar,Environmental Studies,17,32,49,D,77,Yes,3,No,Yes,7.09
+332,Bhamini Brar,Professional Communication,17,43,60,C,95,Yes,3,Yes,Yes,7.09
+333,Samiha Raja,Mathematics-II,21,61,82,B,60,Yes,1,Yes,No,8.84
+333,Samiha Raja,Data Structures,11,68,79,B,60,Yes,1,Yes,Yes,8.84
+333,Samiha Raja,Digital Logic Design,17,31,48,D,96,Yes,1,No,No,8.84
+333,Samiha Raja,Environmental Studies,25,30,55,C,98,Yes,5,No,Yes,8.84
+333,Samiha Raja,Professional Communication,28,70,98,A,83,Yes,2,No,No,8.84
+334,Armaan Sathe,Mathematics-II,30,33,63,C,100,Yes,3,No,Yes,6.54
+334,Armaan Sathe,Data Structures,28,64,92,A,83,Yes,5,No,No,6.54
+334,Armaan Sathe,Digital Logic Design,30,36,66,C,99,Yes,5,No,No,6.54
+334,Armaan Sathe,Environmental Studies,12,43,55,C,78,Yes,2,No,Yes,6.54
+334,Armaan Sathe,Professional Communication,24,51,75,B,72,Yes,3,No,No,6.54
+335,Vedika Goswami,Mathematics-II,27,42,69,C,73,Yes,3,No,Yes,8.08
+335,Vedika Goswami,Data Structures,22,45,67,C,67,Yes,4,Yes,No,8.08
+335,Vedika Goswami,Digital Logic Design,22,59,81,B,94,Yes,4,Yes,No,8.08
+335,Vedika Goswami,Environmental Studies,23,25,48,D,91,Yes,3,Yes,Yes,8.08
+335,Vedika Goswami,Professional Communication,21,26,47,D,78,Yes,3,No,No,8.08
+336,Damini Baral,Mathematics-II,24,20,44,D,68,Yes,4,No,No,7.86
+336,Damini Baral,Data Structures,28,48,76,B,80,Yes,3,No,No,7.86
+336,Damini Baral,Digital Logic Design,26,65,91,A,69,Yes,1,Yes,No,7.86
+336,Damini Baral,Environmental Studies,20,62,82,B,61,Yes,4,No,Yes,7.86
+336,Damini Baral,Professional Communication,27,62,89,A,100,Yes,2,No,Yes,7.86
+337,Indranil Batta,Mathematics-II,11,63,74,B,85,Yes,5,No,Yes,8.61
+337,Indranil Batta,Data Structures,22,26,48,D,93,Yes,1,Yes,No,8.61
+337,Indranil Batta,Digital Logic Design,18,22,40,D,84,Yes,5,No,No,8.61
+337,Indranil Batta,Environmental Studies,13,51,64,C,100,Yes,3,No,Yes,8.61
+337,Indranil Batta,Professional Communication,13,70,83,B,95,Yes,5,No,Yes,8.61
+338,Zaina Shere,Mathematics-II,14,49,63,C,82,Yes,3,No,No,6.91
+338,Zaina Shere,Data Structures,28,31,59,C,93,Yes,1,Yes,No,6.91
+338,Zaina Shere,Digital Logic Design,30,29,59,C,92,Yes,4,No,No,6.91
+338,Zaina Shere,Environmental Studies,27,70,97,A,84,Yes,1,Yes,No,6.91
+338,Zaina Shere,Professional Communication,26,58,84,B,69,Yes,3,No,No,6.91
+339,Ranbir Bora,Mathematics-II,27,34,61,C,90,Yes,3,No,No,6.32
+339,Ranbir Bora,Data Structures,18,60,78,B,83,Yes,3,No,Yes,6.32
+339,Ranbir Bora,Digital Logic Design,25,42,67,C,93,Yes,5,No,Yes,6.32
+339,Ranbir Bora,Environmental Studies,10,35,45,D,77,Yes,2,No,Yes,6.32
+339,Ranbir Bora,Professional Communication,27,68,95,A,75,Yes,4,Yes,Yes,6.32
+340,Armaan Sarkar,Mathematics-II,26,70,96,A,91,Yes,3,No,No,7.32
+340,Armaan Sarkar,Data Structures,16,67,83,B,82,Yes,3,Yes,No,7.32
+340,Armaan Sarkar,Digital Logic Design,29,48,77,B,73,Yes,5,No,Yes,7.32
+340,Armaan Sarkar,Environmental Studies,29,46,75,B,86,Yes,4,Yes,No,7.32
+340,Armaan Sarkar,Professional Communication,11,52,63,C,75,Yes,1,No,Yes,7.32
+341,Alisha Suri,Mathematics-II,23,31,54,D,72,Yes,4,Yes,No,5.41
+341,Alisha Suri,Data Structures,11,30,41,D,99,Yes,5,No,No,5.41
+341,Alisha Suri,Digital Logic Design,28,37,65,C,61,Yes,1,Yes,No,5.41
+341,Alisha Suri,Environmental Studies,13,37,50,D,89,Yes,4,No,No,5.41
+341,Alisha Suri,Professional Communication,23,48,71,B,84,Yes,5,Yes,No,5.41
+342,Divyansh Raju,Mathematics-II,14,49,63,C,92,Yes,1,No,Yes,9.99
+342,Divyansh Raju,Data Structures,15,57,72,B,94,Yes,5,Yes,No,9.99
+342,Divyansh Raju,Digital Logic Design,25,24,49,D,96,Yes,2,No,Yes,9.99
+342,Divyansh Raju,Environmental Studies,20,57,77,B,99,Yes,5,No,Yes,9.99
+342,Divyansh Raju,Professional Communication,16,48,64,C,61,Yes,5,Yes,Yes,9.99
+343,Kimaya Dara,Mathematics-II,10,60,70,B,99,Yes,2,Yes,Yes,7.95
+343,Kimaya Dara,Data Structures,21,26,47,D,65,Yes,1,No,Yes,7.95
+343,Kimaya Dara,Digital Logic Design,29,55,84,B,81,Yes,1,Yes,Yes,7.95
+343,Kimaya Dara,Environmental Studies,22,68,90,A,73,Yes,4,Yes,No,7.95
+343,Kimaya Dara,Professional Communication,21,20,41,D,83,Yes,1,No,No,7.95
+344,Kiaan Upadhyay,Mathematics-II,28,54,82,B,89,Yes,1,Yes,No,8.2
+344,Kiaan Upadhyay,Data Structures,18,33,51,D,80,Yes,1,No,Yes,8.2
+344,Kiaan Upadhyay,Digital Logic Design,25,45,70,B,63,Yes,1,No,Yes,8.2
+344,Kiaan Upadhyay,Environmental Studies,15,23,38,F,76,No,5,Yes,No,8.2
+344,Kiaan Upadhyay,Professional Communication,24,69,93,A,83,Yes,1,No,Yes,8.2
+345,Riaan Dass,Mathematics-II,25,46,71,B,90,Yes,4,Yes,Yes,8.79
+345,Riaan Dass,Data Structures,14,44,58,C,76,Yes,3,Yes,No,8.79
+345,Riaan Dass,Digital Logic Design,29,22,51,D,92,Yes,3,Yes,Yes,8.79
+345,Riaan Dass,Environmental Studies,21,46,67,C,75,Yes,4,Yes,Yes,8.79
+345,Riaan Dass,Professional Communication,15,68,83,B,94,Yes,5,Yes,No,8.79
+346,Dharmajan Johal,Mathematics-II,13,21,34,F,93,No,5,No,Yes,5.79
+346,Dharmajan Johal,Data Structures,30,29,59,C,67,Yes,5,Yes,No,5.79
+346,Dharmajan Johal,Digital Logic Design,30,37,67,C,76,Yes,3,No,Yes,5.79
+346,Dharmajan Johal,Environmental Studies,21,42,63,C,98,Yes,2,No,No,5.79
+346,Dharmajan Johal,Professional Communication,25,28,53,D,100,Yes,2,No,No,5.79
+347,Sumer Chada,Mathematics-II,22,60,82,B,92,Yes,5,Yes,No,6.71
+347,Sumer Chada,Data Structures,30,34,64,C,96,Yes,4,No,No,6.71
+347,Sumer Chada,Digital Logic Design,14,33,47,D,63,Yes,2,No,Yes,6.71
+347,Sumer Chada,Environmental Studies,20,39,59,C,81,Yes,5,No,No,6.71
+347,Sumer Chada,Professional Communication,14,48,62,C,93,Yes,1,No,No,6.71
+348,Elakshi Sagar,Mathematics-II,13,50,63,C,90,Yes,4,Yes,No,9.15
+348,Elakshi Sagar,Data Structures,17,38,55,C,75,Yes,4,No,No,9.15
+348,Elakshi Sagar,Digital Logic Design,12,56,68,C,88,Yes,1,No,No,9.15
+348,Elakshi Sagar,Environmental Studies,15,61,76,B,73,Yes,1,No,Yes,9.15
+348,Elakshi Sagar,Professional Communication,29,35,64,C,78,Yes,4,No,No,9.15
+349,Lakshit Kibe,Mathematics-II,15,45,60,C,95,Yes,4,No,Yes,5.96
+349,Lakshit Kibe,Data Structures,30,35,65,C,96,Yes,2,Yes,No,5.96
+349,Lakshit Kibe,Digital Logic Design,26,20,46,D,90,Yes,1,No,Yes,5.96
+349,Lakshit Kibe,Environmental Studies,30,28,58,C,84,Yes,2,Yes,No,5.96
+349,Lakshit Kibe,Professional Communication,23,60,83,B,65,Yes,1,No,Yes,5.96
+350,Aaryahi Dewan,Mathematics-II,20,21,41,D,61,Yes,2,Yes,No,6.3
+350,Aaryahi Dewan,Data Structures,23,33,56,C,91,Yes,1,No,Yes,6.3
+350,Aaryahi Dewan,Digital Logic Design,28,51,79,B,62,Yes,5,No,No,6.3
+350,Aaryahi Dewan,Environmental Studies,28,23,51,D,60,Yes,3,Yes,No,6.3
+350,Aaryahi Dewan,Professional Communication,18,39,57,C,60,Yes,1,No,No,6.3
+351,Emir Handa,Mathematics-II,28,63,91,A,86,Yes,1,Yes,Yes,8.79
+351,Emir Handa,Data Structures,12,65,77,B,82,Yes,4,No,No,8.79
+351,Emir Handa,Digital Logic Design,15,32,47,D,65,Yes,3,Yes,No,8.79
+351,Emir Handa,Environmental Studies,14,58,72,B,60,Yes,1,No,No,8.79
+351,Emir Handa,Professional Communication,29,36,65,C,80,Yes,5,No,Yes,8.79
+352,Kartik Date,Mathematics-II,28,29,57,C,88,Yes,1,Yes,No,8.52
+352,Kartik Date,Data Structures,10,42,52,D,96,Yes,3,No,Yes,8.52
+352,Kartik Date,Digital Logic Design,22,34,56,C,64,Yes,3,No,No,8.52
+352,Kartik Date,Environmental Studies,25,23,48,D,70,Yes,5,Yes,Yes,8.52
+352,Kartik Date,Professional Communication,15,31,46,D,88,Yes,4,Yes,Yes,8.52
+353,Zaina Bose,Mathematics-II,21,56,77,B,73,Yes,4,Yes,Yes,6.02
+353,Zaina Bose,Data Structures,16,21,37,F,67,No,1,Yes,Yes,6.02
+353,Zaina Bose,Digital Logic Design,13,39,52,D,76,Yes,4,No,Yes,6.02
+353,Zaina Bose,Environmental Studies,25,57,82,B,82,Yes,5,No,No,6.02
+353,Zaina Bose,Professional Communication,28,21,49,D,95,Yes,5,No,No,6.02
+354,Arnav Chakraborty,Mathematics-II,11,68,79,B,91,Yes,5,No,No,7.33
+354,Arnav Chakraborty,Data Structures,19,31,50,D,75,Yes,4,No,Yes,7.33
+354,Arnav Chakraborty,Digital Logic Design,11,27,38,F,62,No,5,No,No,7.33
+354,Arnav Chakraborty,Environmental Studies,20,39,59,C,97,Yes,5,No,Yes,7.33
+354,Arnav Chakraborty,Professional Communication,30,49,79,B,87,Yes,3,No,No,7.33
+355,Azad Chad,Mathematics-II,17,58,75,B,97,Yes,3,No,Yes,7.02
+355,Azad Chad,Data Structures,21,58,79,B,90,Yes,3,No,No,7.02
+355,Azad Chad,Digital Logic Design,17,20,37,F,83,No,5,No,No,7.02
+355,Azad Chad,Environmental Studies,12,42,54,D,79,Yes,5,No,No,7.02
+355,Azad Chad,Professional Communication,26,64,90,A,86,Yes,2,No,Yes,7.02
+356,Anahi Bora,Mathematics-II,21,68,89,A,73,Yes,4,No,Yes,9.8
+356,Anahi Bora,Data Structures,13,69,82,B,67,Yes,3,Yes,Yes,9.8
+356,Anahi Bora,Digital Logic Design,27,53,80,B,79,Yes,3,No,Yes,9.8
+356,Anahi Bora,Environmental Studies,14,70,84,B,81,Yes,3,Yes,Yes,9.8
+356,Anahi Bora,Professional Communication,18,67,85,A,95,Yes,1,Yes,Yes,9.8
+357,Kartik Soman,Mathematics-II,30,30,60,C,67,Yes,4,No,No,9.87
+357,Kartik Soman,Data Structures,28,70,98,A,93,Yes,3,Yes,No,9.87
+357,Kartik Soman,Digital Logic Design,27,60,87,A,64,Yes,3,Yes,Yes,9.87
+357,Kartik Soman,Environmental Studies,26,66,92,A,66,Yes,5,No,No,9.87
+357,Kartik Soman,Professional Communication,26,54,80,B,90,Yes,4,Yes,No,9.87
+358,Mahika Sahni,Mathematics-II,21,57,78,B,75,Yes,1,Yes,Yes,7.71
+358,Mahika Sahni,Data Structures,11,48,59,C,87,Yes,4,Yes,Yes,7.71
+358,Mahika Sahni,Digital Logic Design,24,20,44,D,78,Yes,3,Yes,No,7.71
+358,Mahika Sahni,Environmental Studies,27,30,57,C,60,Yes,3,Yes,No,7.71
+358,Mahika Sahni,Professional Communication,11,70,81,B,85,Yes,1,No,No,7.71
+359,Parinaaz Chauhan,Mathematics-II,11,42,53,D,60,Yes,2,Yes,Yes,7.54
+359,Parinaaz Chauhan,Data Structures,13,39,52,D,70,Yes,4,Yes,No,7.54
+359,Parinaaz Chauhan,Digital Logic Design,26,29,55,C,80,Yes,5,No,Yes,7.54
+359,Parinaaz Chauhan,Environmental Studies,17,20,37,F,73,No,3,Yes,No,7.54
+359,Parinaaz Chauhan,Professional Communication,29,38,67,C,83,Yes,1,No,Yes,7.54
+360,Shlok Kannan,Mathematics-II,22,50,72,B,61,Yes,1,No,Yes,7.19
+360,Shlok Kannan,Data Structures,17,49,66,C,96,Yes,2,Yes,Yes,7.19
+360,Shlok Kannan,Digital Logic Design,23,28,51,D,89,Yes,3,Yes,Yes,7.19
+360,Shlok Kannan,Environmental Studies,11,70,81,B,81,Yes,5,Yes,Yes,7.19
+360,Shlok Kannan,Professional Communication,10,23,33,F,72,No,5,No,No,7.19
+361,Uthkarsh Khare,Mathematics-II,28,61,89,A,89,Yes,1,Yes,Yes,5.41
+361,Uthkarsh Khare,Data Structures,26,67,93,A,90,Yes,5,Yes,No,5.41
+361,Uthkarsh Khare,Digital Logic Design,12,56,68,C,92,Yes,2,No,No,5.41
+361,Uthkarsh Khare,Environmental Studies,11,24,35,F,78,No,5,No,Yes,5.41
+361,Uthkarsh Khare,Professional Communication,28,48,76,B,75,Yes,2,Yes,Yes,5.41
+362,Krish Thaker,Mathematics-II,13,67,80,B,72,Yes,5,No,Yes,8.46
+362,Krish Thaker,Data Structures,13,51,64,C,85,Yes,1,No,No,8.46
+362,Krish Thaker,Digital Logic Design,29,25,54,D,99,Yes,5,Yes,Yes,8.46
+362,Krish Thaker,Environmental Studies,28,70,98,A,86,Yes,5,No,No,8.46
+362,Krish Thaker,Professional Communication,21,25,46,D,60,Yes,4,Yes,No,8.46
+363,Damini Gokhale,Mathematics-II,28,27,55,C,98,Yes,3,No,No,5.93
+363,Damini Gokhale,Data Structures,30,33,63,C,61,Yes,3,Yes,Yes,5.93
+363,Damini Gokhale,Digital Logic Design,17,28,45,D,66,Yes,2,Yes,Yes,5.93
+363,Damini Gokhale,Environmental Studies,21,66,87,A,83,Yes,3,No,No,5.93
+363,Damini Gokhale,Professional Communication,24,54,78,B,75,Yes,4,Yes,Yes,5.93
+364,Nayantara Subramaniam,Mathematics-II,26,25,51,D,63,Yes,5,No,No,6.25
+364,Nayantara Subramaniam,Data Structures,13,20,33,F,65,No,4,Yes,No,6.25
+364,Nayantara Subramaniam,Digital Logic Design,10,64,74,B,98,Yes,3,Yes,Yes,6.25
+364,Nayantara Subramaniam,Environmental Studies,17,31,48,D,79,Yes,4,No,Yes,6.25
+364,Nayantara Subramaniam,Professional Communication,17,54,71,B,94,Yes,5,Yes,No,6.25
+365,Shaan Sarma,Mathematics-II,10,48,58,C,60,Yes,1,No,Yes,8.86
+365,Shaan Sarma,Data Structures,22,58,80,B,94,Yes,3,Yes,No,8.86
+365,Shaan Sarma,Digital Logic Design,19,55,74,B,91,Yes,2,Yes,No,8.86
+365,Shaan Sarma,Environmental Studies,18,52,70,B,85,Yes,2,Yes,No,8.86
+365,Shaan Sarma,Professional Communication,11,26,37,F,66,No,5,Yes,No,8.86
+366,Urvi Venkatesh,Mathematics-II,12,54,66,C,73,Yes,2,No,No,8.89
+366,Urvi Venkatesh,Data Structures,27,36,63,C,77,Yes,5,Yes,No,8.89
+366,Urvi Venkatesh,Digital Logic Design,22,20,42,D,74,Yes,1,Yes,No,8.89
+366,Urvi Venkatesh,Environmental Studies,10,60,70,B,67,Yes,3,Yes,Yes,8.89
+366,Urvi Venkatesh,Professional Communication,28,53,81,B,95,Yes,5,Yes,No,8.89
+367,Taimur Vohra,Mathematics-II,22,35,57,C,88,Yes,2,Yes,No,7.49
+367,Taimur Vohra,Data Structures,15,68,83,B,81,Yes,4,Yes,Yes,7.49
+367,Taimur Vohra,Digital Logic Design,16,54,70,B,68,Yes,3,No,No,7.49
+367,Taimur Vohra,Environmental Studies,11,46,57,C,94,Yes,5,No,Yes,7.49
+367,Taimur Vohra,Professional Communication,15,48,63,C,95,Yes,4,No,No,7.49
+368,Eva Singh,Mathematics-II,29,59,88,A,74,Yes,1,Yes,No,7.08
+368,Eva Singh,Data Structures,23,40,63,C,98,Yes,4,Yes,No,7.08
+368,Eva Singh,Digital Logic Design,23,41,64,C,85,Yes,5,No,No,7.08
+368,Eva Singh,Environmental Studies,30,22,52,D,88,Yes,3,No,No,7.08
+368,Eva Singh,Professional Communication,30,58,88,A,77,Yes,2,No,No,7.08
+369,Aaryahi Garg,Mathematics-II,25,62,87,A,70,Yes,4,No,No,5.22
+369,Aaryahi Garg,Data Structures,26,48,74,B,79,Yes,1,No,No,5.22
+369,Aaryahi Garg,Digital Logic Design,11,27,38,F,86,No,5,No,No,5.22
+369,Aaryahi Garg,Environmental Studies,17,25,42,D,86,Yes,2,Yes,No,5.22
+369,Aaryahi Garg,Professional Communication,23,26,49,D,73,Yes,4,No,No,5.22
+370,Shalv Walia,Mathematics-II,27,45,72,B,92,Yes,2,No,No,9.34
+370,Shalv Walia,Data Structures,22,24,46,D,84,Yes,5,Yes,No,9.34
+370,Shalv Walia,Digital Logic Design,19,30,49,D,84,Yes,5,No,Yes,9.34
+370,Shalv Walia,Environmental Studies,15,46,61,C,80,Yes,5,Yes,Yes,9.34
+370,Shalv Walia,Professional Communication,19,30,49,D,100,Yes,2,No,Yes,9.34
+371,Ojas Garde,Mathematics-II,20,57,77,B,78,Yes,2,No,No,5.47
+371,Ojas Garde,Data Structures,12,29,41,D,99,Yes,1,No,Yes,5.47
+371,Ojas Garde,Digital Logic Design,28,64,92,A,95,Yes,5,No,No,5.47
+371,Ojas Garde,Environmental Studies,18,20,38,F,69,No,1,No,Yes,5.47
+371,Ojas Garde,Professional Communication,26,49,75,B,78,Yes,1,No,No,5.47
+372,Tiya Gole,Mathematics-II,19,70,89,A,70,Yes,2,Yes,Yes,6.17
+372,Tiya Gole,Data Structures,17,21,38,F,62,No,1,No,No,6.17
+372,Tiya Gole,Digital Logic Design,30,30,60,C,69,Yes,2,No,Yes,6.17
+372,Tiya Gole,Environmental Studies,27,62,89,A,82,Yes,4,Yes,No,6.17
+372,Tiya Gole,Professional Communication,22,65,87,A,69,Yes,2,Yes,Yes,6.17
+373,Abram Lanka,Mathematics-II,11,58,69,C,100,Yes,4,Yes,No,8.85
+373,Abram Lanka,Data Structures,15,62,77,B,64,Yes,4,Yes,Yes,8.85
+373,Abram Lanka,Digital Logic Design,10,26,36,F,79,No,4,No,Yes,8.85
+373,Abram Lanka,Environmental Studies,15,23,38,F,100,No,2,No,Yes,8.85
+373,Abram Lanka,Professional Communication,10,20,30,F,86,No,4,No,Yes,8.85
+374,Anaya Dhillon,Mathematics-II,16,53,69,C,91,Yes,3,No,No,6.82
+374,Anaya Dhillon,Data Structures,27,60,87,A,61,Yes,1,No,No,6.82
+374,Anaya Dhillon,Digital Logic Design,18,21,39,F,80,No,4,Yes,Yes,6.82
+374,Anaya Dhillon,Environmental Studies,23,24,47,D,85,Yes,4,No,Yes,6.82
+374,Anaya Dhillon,Professional Communication,20,52,72,B,84,Yes,3,Yes,No,6.82
+375,Renee Saraf,Mathematics-II,24,38,62,C,77,Yes,2,Yes,No,9.58
+375,Renee Saraf,Data Structures,12,53,65,C,70,Yes,2,No,Yes,9.58
+375,Renee Saraf,Digital Logic Design,21,69,90,A,84,Yes,1,No,Yes,9.58
+375,Renee Saraf,Environmental Studies,23,47,70,B,70,Yes,4,Yes,Yes,9.58
+375,Renee Saraf,Professional Communication,18,34,52,D,74,Yes,5,No,Yes,9.58
+376,Pari Chad,Mathematics-II,10,47,57,C,65,Yes,5,Yes,No,7.45
+376,Pari Chad,Data Structures,23,26,49,D,96,Yes,2,Yes,No,7.45
+376,Pari Chad,Digital Logic Design,20,52,72,B,93,Yes,1,No,Yes,7.45
+376,Pari Chad,Environmental Studies,20,60,80,B,73,Yes,4,No,No,7.45
+376,Pari Chad,Professional Communication,19,42,61,C,81,Yes,1,No,Yes,7.45
+377,Nakul Dey,Mathematics-II,27,58,85,A,70,Yes,1,No,No,9.69
+377,Nakul Dey,Data Structures,28,35,63,C,85,Yes,3,Yes,Yes,9.69
+377,Nakul Dey,Digital Logic Design,19,59,78,B,66,Yes,5,No,No,9.69
+377,Nakul Dey,Environmental Studies,26,47,73,B,69,Yes,5,Yes,Yes,9.69
+377,Nakul Dey,Professional Communication,18,36,54,D,62,Yes,1,No,Yes,9.69
+378,Samarth Korpal,Mathematics-II,12,69,81,B,71,Yes,5,No,Yes,8.14
+378,Samarth Korpal,Data Structures,29,42,71,B,66,Yes,2,Yes,Yes,8.14
+378,Samarth Korpal,Digital Logic Design,10,63,73,B,64,Yes,1,No,No,8.14
+378,Samarth Korpal,Environmental Studies,12,35,47,D,68,Yes,3,Yes,Yes,8.14
+378,Samarth Korpal,Professional Communication,24,45,69,C,60,Yes,3,No,No,8.14
+379,Badal Raj,Mathematics-II,21,65,86,A,63,Yes,5,Yes,Yes,6.19
+379,Badal Raj,Data Structures,18,40,58,C,80,Yes,4,Yes,No,6.19
+379,Badal Raj,Digital Logic Design,17,29,46,D,72,Yes,4,Yes,Yes,6.19
+379,Badal Raj,Environmental Studies,13,68,81,B,97,Yes,1,Yes,Yes,6.19
+379,Badal Raj,Professional Communication,10,67,77,B,70,Yes,3,No,No,6.19
+380,Manikya Raval,Mathematics-II,28,49,77,B,61,Yes,3,Yes,Yes,7.4
+380,Manikya Raval,Data Structures,25,64,89,A,95,Yes,2,Yes,Yes,7.4
+380,Manikya Raval,Digital Logic Design,20,42,62,C,67,Yes,3,Yes,Yes,7.4
+380,Manikya Raval,Environmental Studies,28,55,83,B,99,Yes,3,Yes,Yes,7.4
+380,Manikya Raval,Professional Communication,19,28,47,D,79,Yes,5,Yes,No,7.4
+381,Ranbir Deol,Mathematics-II,13,48,61,C,78,Yes,2,Yes,Yes,9.62
+381,Ranbir Deol,Data Structures,13,68,81,B,78,Yes,4,No,No,9.62
+381,Ranbir Deol,Digital Logic Design,24,64,88,A,90,Yes,4,No,No,9.62
+381,Ranbir Deol,Environmental Studies,13,31,44,D,78,Yes,1,No,No,9.62
+381,Ranbir Deol,Professional Communication,11,39,50,D,76,Yes,3,Yes,Yes,9.62
+382,Aaryahi Agrawal,Mathematics-II,15,45,60,C,85,Yes,5,Yes,No,8.18
+382,Aaryahi Agrawal,Data Structures,28,70,98,A,99,Yes,2,No,Yes,8.18
+382,Aaryahi Agrawal,Digital Logic Design,21,26,47,D,64,Yes,5,Yes,Yes,8.18
+382,Aaryahi Agrawal,Environmental Studies,21,70,91,A,74,Yes,2,No,Yes,8.18
+382,Aaryahi Agrawal,Professional Communication,30,67,97,A,96,Yes,4,Yes,No,8.18
+383,Lakshay Chad,Mathematics-II,26,56,82,B,89,Yes,5,No,Yes,9.07
+383,Lakshay Chad,Data Structures,24,32,56,C,74,Yes,2,Yes,No,9.07
+383,Lakshay Chad,Digital Logic Design,24,51,75,B,87,Yes,2,Yes,Yes,9.07
+383,Lakshay Chad,Environmental Studies,17,32,49,D,60,Yes,4,No,Yes,9.07
+383,Lakshay Chad,Professional Communication,16,52,68,C,88,Yes,5,Yes,Yes,9.07
+384,Shanaya Rau,Mathematics-II,23,36,59,C,80,Yes,5,Yes,No,9.22
+384,Shanaya Rau,Data Structures,20,52,72,B,98,Yes,1,Yes,No,9.22
+384,Shanaya Rau,Digital Logic Design,29,69,98,A,75,Yes,3,Yes,Yes,9.22
+384,Shanaya Rau,Environmental Studies,21,21,42,D,77,Yes,3,No,Yes,9.22
+384,Shanaya Rau,Professional Communication,29,42,71,B,78,Yes,1,No,No,9.22
+385,Seher Bhandari,Mathematics-II,26,35,61,C,93,Yes,3,Yes,Yes,5.42
+385,Seher Bhandari,Data Structures,11,68,79,B,68,Yes,3,No,Yes,5.42
+385,Seher Bhandari,Digital Logic Design,22,46,68,C,91,Yes,1,Yes,Yes,5.42
+385,Seher Bhandari,Environmental Studies,22,58,80,B,94,Yes,3,No,No,5.42
+385,Seher Bhandari,Professional Communication,19,43,62,C,67,Yes,3,Yes,No,5.42
+386,Divit Johal,Mathematics-II,24,41,65,C,63,Yes,4,Yes,No,8.91
+386,Divit Johal,Data Structures,14,20,34,F,80,No,3,No,No,8.91
+386,Divit Johal,Digital Logic Design,28,38,66,C,86,Yes,5,No,No,8.91
+386,Divit Johal,Environmental Studies,29,35,64,C,83,Yes,4,Yes,Yes,8.91
+386,Divit Johal,Professional Communication,28,60,88,A,78,Yes,5,No,Yes,8.91
+387,Nishith Yohannan,Mathematics-II,23,64,87,A,88,Yes,1,Yes,No,8.24
+387,Nishith Yohannan,Data Structures,19,24,43,D,77,Yes,2,Yes,No,8.24
+387,Nishith Yohannan,Digital Logic Design,29,62,91,A,69,Yes,5,Yes,Yes,8.24
+387,Nishith Yohannan,Environmental Studies,15,35,50,D,82,Yes,2,Yes,Yes,8.24
+387,Nishith Yohannan,Professional Communication,17,59,76,B,76,Yes,4,No,No,8.24
+388,Rania Dasgupta,Mathematics-II,20,49,69,C,84,Yes,1,Yes,No,7.77
+388,Rania Dasgupta,Data Structures,18,44,62,C,95,Yes,1,No,No,7.77
+388,Rania Dasgupta,Digital Logic Design,30,69,99,A,65,Yes,2,No,Yes,7.77
+388,Rania Dasgupta,Environmental Studies,27,27,54,D,81,Yes,1,Yes,Yes,7.77
+388,Rania Dasgupta,Professional Communication,17,48,65,C,72,Yes,5,No,No,7.77
+389,Hunar Ratta,Mathematics-II,19,24,43,D,73,Yes,4,Yes,No,8.7
+389,Hunar Ratta,Data Structures,10,70,80,B,93,Yes,4,No,No,8.7
+389,Hunar Ratta,Digital Logic Design,24,57,81,B,71,Yes,3,Yes,Yes,8.7
+389,Hunar Ratta,Environmental Studies,22,69,91,A,69,Yes,1,No,No,8.7
+389,Hunar Ratta,Professional Communication,24,51,75,B,92,Yes,1,No,No,8.7
+390,Aarush Jaggi,Mathematics-II,11,30,41,D,99,Yes,2,No,Yes,5.83
+390,Aarush Jaggi,Data Structures,10,48,58,C,92,Yes,2,No,No,5.83
+390,Aarush Jaggi,Digital Logic Design,20,62,82,B,83,Yes,4,No,Yes,5.83
+390,Aarush Jaggi,Environmental Studies,23,34,57,C,82,Yes,2,Yes,No,5.83
+390,Aarush Jaggi,Professional Communication,11,41,52,D,83,Yes,5,Yes,No,5.83
+391,Sara Chhabra,Mathematics-II,30,54,84,B,65,Yes,5,Yes,Yes,5.62
+391,Sara Chhabra,Data Structures,28,60,88,A,99,Yes,1,No,No,5.62
+391,Sara Chhabra,Digital Logic Design,21,46,67,C,79,Yes,5,No,Yes,5.62
+391,Sara Chhabra,Environmental Studies,21,64,85,A,91,Yes,5,No,Yes,5.62
+391,Sara Chhabra,Professional Communication,10,58,68,C,94,Yes,2,Yes,No,5.62
+392,Indrajit Kurian,Mathematics-II,30,59,89,A,92,Yes,5,Yes,Yes,8.65
+392,Indrajit Kurian,Data Structures,27,25,52,D,73,Yes,3,Yes,Yes,8.65
+392,Indrajit Kurian,Digital Logic Design,24,42,66,C,68,Yes,2,Yes,Yes,8.65
+392,Indrajit Kurian,Environmental Studies,21,38,59,C,98,Yes,3,No,Yes,8.65
+392,Indrajit Kurian,Professional Communication,28,49,77,B,83,Yes,1,No,No,8.65
+393,Jiya Desai,Mathematics-II,28,23,51,D,78,Yes,1,No,No,8.98
+393,Jiya Desai,Data Structures,30,48,78,B,60,Yes,1,Yes,No,8.98
+393,Jiya Desai,Digital Logic Design,20,22,42,D,61,Yes,1,No,No,8.98
+393,Jiya Desai,Environmental Studies,14,57,71,B,71,Yes,5,Yes,Yes,8.98
+393,Jiya Desai,Professional Communication,26,26,52,D,92,Yes,4,Yes,No,8.98
+394,Gokul Kanda,Mathematics-II,27,49,76,B,93,Yes,2,Yes,Yes,7.89
+394,Gokul Kanda,Data Structures,30,37,67,C,79,Yes,3,No,Yes,7.89
+394,Gokul Kanda,Digital Logic Design,24,30,54,D,93,Yes,2,No,Yes,7.89
+394,Gokul Kanda,Environmental Studies,23,60,83,B,62,Yes,2,No,No,7.89
+394,Gokul Kanda,Professional Communication,28,23,51,D,79,Yes,2,Yes,Yes,7.89
+395,Pari Jha,Mathematics-II,28,63,91,A,99,Yes,2,Yes,Yes,9.19
+395,Pari Jha,Data Structures,23,56,79,B,62,Yes,4,No,Yes,9.19
+395,Pari Jha,Digital Logic Design,27,65,92,A,100,Yes,2,Yes,Yes,9.19
+395,Pari Jha,Environmental Studies,27,66,93,A,81,Yes,3,Yes,Yes,9.19
+395,Pari Jha,Professional Communication,13,32,45,D,64,Yes,1,No,No,9.19
+396,Advik Sahni,Mathematics-II,22,29,51,D,68,Yes,4,No,Yes,8.89
+396,Advik Sahni,Data Structures,13,53,66,C,83,Yes,1,Yes,No,8.89
+396,Advik Sahni,Digital Logic Design,23,25,48,D,67,Yes,4,No,Yes,8.89
+396,Advik Sahni,Environmental Studies,15,38,53,D,68,Yes,3,Yes,Yes,8.89
+396,Advik Sahni,Professional Communication,10,53,63,C,96,Yes,1,Yes,Yes,8.89
+397,Faiyaz Sanghvi,Mathematics-II,29,57,86,A,96,Yes,2,No,Yes,8.35
+397,Faiyaz Sanghvi,Data Structures,25,26,51,D,86,Yes,2,Yes,Yes,8.35
+397,Faiyaz Sanghvi,Digital Logic Design,25,44,69,C,74,Yes,5,No,No,8.35
+397,Faiyaz Sanghvi,Environmental Studies,21,45,66,C,89,Yes,5,No,Yes,8.35
+397,Faiyaz Sanghvi,Professional Communication,27,63,90,A,77,Yes,5,Yes,Yes,8.35
+398,Hansh Krish,Mathematics-II,10,54,64,C,92,Yes,2,No,Yes,7.67
+398,Hansh Krish,Data Structures,22,58,80,B,77,Yes,3,Yes,No,7.67
+398,Hansh Krish,Digital Logic Design,14,54,68,C,81,Yes,1,Yes,No,7.67
+398,Hansh Krish,Environmental Studies,28,32,60,C,87,Yes,2,No,No,7.67
+398,Hansh Krish,Professional Communication,28,20,48,D,85,Yes,2,Yes,No,7.67
+399,Vihaan Dugar,Mathematics-II,14,55,69,C,78,Yes,2,Yes,Yes,6.84
+399,Vihaan Dugar,Data Structures,15,52,67,C,75,Yes,2,Yes,No,6.84
+399,Vihaan Dugar,Digital Logic Design,28,67,95,A,93,Yes,1,No,No,6.84
+399,Vihaan Dugar,Environmental Studies,25,60,85,A,93,Yes,3,Yes,Yes,6.84
+399,Vihaan Dugar,Professional Communication,23,21,44,D,84,Yes,4,No,No,6.84
+400,Anahi Gera,Mathematics-II,20,64,84,B,60,Yes,2,Yes,Yes,8.18
+400,Anahi Gera,Data Structures,17,51,68,C,85,Yes,1,Yes,Yes,8.18
+400,Anahi Gera,Digital Logic Design,30,44,74,B,70,Yes,5,Yes,Yes,8.18
+400,Anahi Gera,Environmental Studies,26,24,50,D,67,Yes,1,No,No,8.18
+400,Anahi Gera,Professional Communication,27,26,53,D,68,Yes,1,Yes,No,8.18
+401,Nirvi Sha,Mathematics-II,21,29,50,D,67,Yes,3,No,No,8.02
+401,Nirvi Sha,Data Structures,20,26,46,D,85,Yes,5,Yes,No,8.02
+401,Nirvi Sha,Digital Logic Design,20,63,83,B,85,Yes,5,No,No,8.02
+401,Nirvi Sha,Environmental Studies,11,67,78,B,92,Yes,1,No,No,8.02
+401,Nirvi Sha,Professional Communication,29,35,64,C,99,Yes,2,No,No,8.02
+402,Vritika Wadhwa,Mathematics-II,28,56,84,B,91,Yes,2,No,Yes,6.14
+402,Vritika Wadhwa,Data Structures,13,25,38,F,88,No,1,No,Yes,6.14
+402,Vritika Wadhwa,Digital Logic Design,14,41,55,C,96,Yes,2,No,Yes,6.14
+402,Vritika Wadhwa,Environmental Studies,24,26,50,D,73,Yes,2,Yes,Yes,6.14
+402,Vritika Wadhwa,Professional Communication,20,39,59,C,74,Yes,2,No,No,6.14
+403,Ayesha Deshmukh,Mathematics-II,24,36,60,C,97,Yes,4,Yes,No,6.94
+403,Ayesha Deshmukh,Data Structures,20,33,53,D,82,Yes,4,No,No,6.94
+403,Ayesha Deshmukh,Digital Logic Design,20,34,54,D,64,Yes,3,No,Yes,6.94
+403,Ayesha Deshmukh,Environmental Studies,15,34,49,D,96,Yes,1,No,Yes,6.94
+403,Ayesha Deshmukh,Professional Communication,26,31,57,C,95,Yes,2,Yes,Yes,6.94
+404,Yakshit Konda,Mathematics-II,23,40,63,C,73,Yes,2,No,Yes,9.75
+404,Yakshit Konda,Data Structures,30,36,66,C,69,Yes,4,No,No,9.75
+404,Yakshit Konda,Digital Logic Design,23,26,49,D,66,Yes,1,Yes,Yes,9.75
+404,Yakshit Konda,Environmental Studies,24,23,47,D,64,Yes,5,Yes,Yes,9.75
+404,Yakshit Konda,Professional Communication,21,40,61,C,71,Yes,1,No,No,9.75
+405,Krish Varkey,Mathematics-II,20,27,47,D,74,Yes,3,No,No,6.37
+405,Krish Varkey,Data Structures,16,32,48,D,78,Yes,3,No,No,6.37
+405,Krish Varkey,Digital Logic Design,27,65,92,A,71,Yes,4,Yes,Yes,6.37
+405,Krish Varkey,Environmental Studies,21,66,87,A,93,Yes,1,No,Yes,6.37
+405,Krish Varkey,Professional Communication,18,44,62,C,97,Yes,2,Yes,Yes,6.37
+406,Darshit Khalsa,Mathematics-II,24,70,94,A,87,Yes,5,No,No,9.65
+406,Darshit Khalsa,Data Structures,11,70,81,B,66,Yes,3,Yes,No,9.65
+406,Darshit Khalsa,Digital Logic Design,18,38,56,C,74,Yes,1,Yes,Yes,9.65
+406,Darshit Khalsa,Environmental Studies,21,58,79,B,86,Yes,5,Yes,No,9.65
+406,Darshit Khalsa,Professional Communication,12,60,72,B,86,Yes,5,No,No,9.65
+407,Inaaya  Chaudhry,Mathematics-II,30,61,91,A,88,Yes,5,Yes,Yes,6.49
+407,Inaaya  Chaudhry,Data Structures,24,63,87,A,67,Yes,3,Yes,Yes,6.49
+407,Inaaya  Chaudhry,Digital Logic Design,25,30,55,C,90,Yes,1,Yes,Yes,6.49
+407,Inaaya  Chaudhry,Environmental Studies,25,39,64,C,61,Yes,5,No,Yes,6.49
+407,Inaaya  Chaudhry,Professional Communication,22,21,43,D,70,Yes,1,No,No,6.49
+408,Ayesha Date,Mathematics-II,15,57,72,B,88,Yes,1,Yes,Yes,5.51
+408,Ayesha Date,Data Structures,20,62,82,B,99,Yes,4,Yes,No,5.51
+408,Ayesha Date,Digital Logic Design,13,65,78,B,88,Yes,5,Yes,No,5.51
+408,Ayesha Date,Environmental Studies,10,68,78,B,84,Yes,3,Yes,No,5.51
+408,Ayesha Date,Professional Communication,25,55,80,B,66,Yes,4,Yes,No,5.51
+409,Diya Bala,Mathematics-II,29,41,70,B,89,Yes,5,Yes,Yes,5.45
+409,Diya Bala,Data Structures,20,34,54,D,90,Yes,4,Yes,Yes,5.45
+409,Diya Bala,Digital Logic Design,23,46,69,C,73,Yes,4,No,No,5.45
+409,Diya Bala,Environmental Studies,23,47,70,B,78,Yes,5,No,Yes,5.45
+409,Diya Bala,Professional Communication,20,34,54,D,77,Yes,5,Yes,Yes,5.45
+410,Armaan Gulati,Mathematics-II,14,43,57,C,65,Yes,5,No,No,7.07
+410,Armaan Gulati,Data Structures,15,43,58,C,72,Yes,2,No,Yes,7.07
+410,Armaan Gulati,Digital Logic Design,23,64,87,A,77,Yes,3,No,Yes,7.07
+410,Armaan Gulati,Environmental Studies,29,40,69,C,93,Yes,3,Yes,No,7.07
+410,Armaan Gulati,Professional Communication,19,21,40,D,62,Yes,3,Yes,Yes,7.07
+411,Amira Batra,Mathematics-II,30,64,94,A,64,Yes,5,No,No,6.24
+411,Amira Batra,Data Structures,12,55,67,C,80,Yes,2,Yes,No,6.24
+411,Amira Batra,Digital Logic Design,14,60,74,B,74,Yes,3,Yes,No,6.24
+411,Amira Batra,Environmental Studies,29,69,98,A,69,Yes,5,Yes,Yes,6.24
+411,Amira Batra,Professional Communication,24,22,46,D,92,Yes,3,No,Yes,6.24
+412,Drishya Tripathi,Mathematics-II,25,44,69,C,85,Yes,5,No,Yes,6.28
+412,Drishya Tripathi,Data Structures,29,42,71,B,91,Yes,5,Yes,Yes,6.28
+412,Drishya Tripathi,Digital Logic Design,19,39,58,C,70,Yes,5,Yes,Yes,6.28
+412,Drishya Tripathi,Environmental Studies,17,56,73,B,99,Yes,4,No,No,6.28
+412,Drishya Tripathi,Professional Communication,24,44,68,C,97,Yes,5,Yes,No,6.28
+413,Taran Bandi,Mathematics-II,19,22,41,D,95,Yes,4,Yes,Yes,5.79
+413,Taran Bandi,Data Structures,17,40,57,C,70,Yes,1,Yes,No,5.79
+413,Taran Bandi,Digital Logic Design,25,29,54,D,66,Yes,5,No,No,5.79
+413,Taran Bandi,Environmental Studies,22,36,58,C,77,Yes,5,Yes,Yes,5.79
+413,Taran Bandi,Professional Communication,15,54,69,C,69,Yes,5,Yes,Yes,5.79
+414,Vritika Majumdar,Mathematics-II,20,38,58,C,84,Yes,1,No,Yes,9.8
+414,Vritika Majumdar,Data Structures,25,31,56,C,83,Yes,3,No,Yes,9.8
+414,Vritika Majumdar,Digital Logic Design,10,46,56,C,75,Yes,3,No,No,9.8
+414,Vritika Majumdar,Environmental Studies,18,67,85,A,73,Yes,2,Yes,No,9.8
+414,Vritika Majumdar,Professional Communication,13,49,62,C,98,Yes,2,Yes,No,9.8
+415,Jayant Bora,Mathematics-II,12,48,60,C,100,Yes,2,No,No,9.84
+415,Jayant Bora,Data Structures,14,63,77,B,82,Yes,4,No,Yes,9.84
+415,Jayant Bora,Digital Logic Design,25,61,86,A,78,Yes,1,Yes,No,9.84
+415,Jayant Bora,Environmental Studies,17,30,47,D,83,Yes,1,No,Yes,9.84
+415,Jayant Bora,Professional Communication,28,44,72,B,99,Yes,4,No,Yes,9.84
+416,Ishita Sundaram,Mathematics-II,15,45,60,C,89,Yes,3,No,Yes,6.0
+416,Ishita Sundaram,Data Structures,20,55,75,B,92,Yes,1,Yes,No,6.0
+416,Ishita Sundaram,Digital Logic Design,29,30,59,C,76,Yes,2,No,Yes,6.0
+416,Ishita Sundaram,Environmental Studies,14,22,36,F,62,No,5,Yes,Yes,6.0
+416,Ishita Sundaram,Professional Communication,11,32,43,D,92,Yes,5,Yes,No,6.0
+417,Hazel Butala,Mathematics-II,29,44,73,B,68,Yes,3,No,Yes,7.92
+417,Hazel Butala,Data Structures,27,60,87,A,90,Yes,4,No,Yes,7.92
+417,Hazel Butala,Digital Logic Design,17,63,80,B,66,Yes,2,No,No,7.92
+417,Hazel Butala,Environmental Studies,18,39,57,C,75,Yes,4,No,No,7.92
+417,Hazel Butala,Professional Communication,30,34,64,C,71,Yes,3,No,No,7.92
+418,Jayant Ravel,Mathematics-II,15,37,52,D,77,Yes,5,No,No,8.54
+418,Jayant Ravel,Data Structures,10,68,78,B,76,Yes,4,No,Yes,8.54
+418,Jayant Ravel,Digital Logic Design,24,55,79,B,64,Yes,3,No,No,8.54
+418,Jayant Ravel,Environmental Studies,25,32,57,C,70,Yes,2,Yes,No,8.54
+418,Jayant Ravel,Professional Communication,26,57,83,B,100,Yes,3,No,No,8.54
+419,Anya Brar,Mathematics-II,26,44,70,B,97,Yes,5,No,No,9.9
+419,Anya Brar,Data Structures,20,59,79,B,89,Yes,1,Yes,Yes,9.9
+419,Anya Brar,Digital Logic Design,21,26,47,D,74,Yes,4,No,No,9.9
+419,Anya Brar,Environmental Studies,10,35,45,D,80,Yes,5,No,Yes,9.9
+419,Anya Brar,Professional Communication,26,64,90,A,80,Yes,3,No,Yes,9.9
+420,Zain Rattan,Mathematics-II,15,64,79,B,65,Yes,4,No,Yes,6.05
+420,Zain Rattan,Data Structures,15,55,70,B,61,Yes,4,Yes,No,6.05
+420,Zain Rattan,Digital Logic Design,25,31,56,C,98,Yes,5,No,Yes,6.05
+420,Zain Rattan,Environmental Studies,19,30,49,D,81,Yes,2,Yes,No,6.05
+420,Zain Rattan,Professional Communication,28,44,72,B,63,Yes,1,Yes,Yes,6.05
+421,Vardaniya Sandal,Mathematics-II,21,36,57,C,64,Yes,5,Yes,Yes,9.09
+421,Vardaniya Sandal,Data Structures,23,59,82,B,77,Yes,5,Yes,No,9.09
+421,Vardaniya Sandal,Digital Logic Design,26,60,86,A,74,Yes,3,No,Yes,9.09
+421,Vardaniya Sandal,Environmental Studies,25,53,78,B,98,Yes,1,No,Yes,9.09
+421,Vardaniya Sandal,Professional Communication,27,41,68,C,70,Yes,2,Yes,No,9.09
+422,Damini Andra,Mathematics-II,22,24,46,D,92,Yes,3,No,Yes,7.36
+422,Damini Andra,Data Structures,10,45,55,C,68,Yes,2,Yes,No,7.36
+422,Damini Andra,Digital Logic Design,15,60,75,B,80,Yes,5,No,No,7.36
+422,Damini Andra,Environmental Studies,29,51,80,B,99,Yes,5,No,Yes,7.36
+422,Damini Andra,Professional Communication,21,46,67,C,96,Yes,5,Yes,Yes,7.36
+423,Stuvan Shroff,Mathematics-II,30,45,75,B,72,Yes,2,Yes,Yes,5.75
+423,Stuvan Shroff,Data Structures,12,38,50,D,69,Yes,1,Yes,No,5.75
+423,Stuvan Shroff,Digital Logic Design,29,60,89,A,93,Yes,2,Yes,Yes,5.75
+423,Stuvan Shroff,Environmental Studies,11,69,80,B,95,Yes,3,No,No,5.75
+423,Stuvan Shroff,Professional Communication,14,32,46,D,90,Yes,3,No,No,5.75
+424,Manjari Bumb,Mathematics-II,20,33,53,D,94,Yes,5,No,No,9.14
+424,Manjari Bumb,Data Structures,10,62,72,B,95,Yes,4,No,Yes,9.14
+424,Manjari Bumb,Digital Logic Design,29,56,85,A,75,Yes,2,No,Yes,9.14
+424,Manjari Bumb,Environmental Studies,29,27,56,C,96,Yes,1,No,No,9.14
+424,Manjari Bumb,Professional Communication,15,29,44,D,97,Yes,5,No,No,9.14
+425,Raunak Virk,Mathematics-II,27,65,92,A,70,Yes,3,No,No,8.31
+425,Raunak Virk,Data Structures,26,44,70,B,60,Yes,1,Yes,No,8.31
+425,Raunak Virk,Digital Logic Design,23,41,64,C,75,Yes,5,No,No,8.31
+425,Raunak Virk,Environmental Studies,12,39,51,D,63,Yes,5,No,No,8.31
+425,Raunak Virk,Professional Communication,22,54,76,B,100,Yes,4,Yes,Yes,8.31
+426,Tiya Iyer,Mathematics-II,21,33,54,D,72,Yes,3,Yes,No,6.2
+426,Tiya Iyer,Data Structures,23,28,51,D,90,Yes,5,Yes,Yes,6.2
+426,Tiya Iyer,Digital Logic Design,30,29,59,C,80,Yes,2,No,No,6.2
+426,Tiya Iyer,Environmental Studies,10,70,80,B,90,Yes,3,Yes,No,6.2
+426,Tiya Iyer,Professional Communication,28,55,83,B,83,Yes,4,Yes,No,6.2
+427,Nitya Chaudhuri,Mathematics-II,30,68,98,A,76,Yes,4,No,No,9.65
+427,Nitya Chaudhuri,Data Structures,17,52,69,C,89,Yes,4,No,No,9.65
+427,Nitya Chaudhuri,Digital Logic Design,16,50,66,C,64,Yes,1,Yes,No,9.65
+427,Nitya Chaudhuri,Environmental Studies,24,24,48,D,73,Yes,2,No,No,9.65
+427,Nitya Chaudhuri,Professional Communication,30,32,62,C,79,Yes,2,No,No,9.65
+428,Vedika Kalita,Mathematics-II,22,45,67,C,77,Yes,5,Yes,Yes,6.77
+428,Vedika Kalita,Data Structures,24,46,70,B,83,Yes,3,No,No,6.77
+428,Vedika Kalita,Digital Logic Design,30,36,66,C,68,Yes,4,Yes,No,6.77
+428,Vedika Kalita,Environmental Studies,13,27,40,D,75,Yes,2,Yes,No,6.77
+428,Vedika Kalita,Professional Communication,25,67,92,A,70,Yes,4,Yes,No,6.77
+429,Suhana Datta,Mathematics-II,21,36,57,C,93,Yes,2,No,No,6.35
+429,Suhana Datta,Data Structures,15,60,75,B,69,Yes,1,No,No,6.35
+429,Suhana Datta,Digital Logic Design,29,22,51,D,86,Yes,4,Yes,Yes,6.35
+429,Suhana Datta,Environmental Studies,27,48,75,B,81,Yes,3,Yes,Yes,6.35
+429,Suhana Datta,Professional Communication,30,66,96,A,71,Yes,1,No,Yes,6.35
+430,Kiara Goel,Mathematics-II,30,55,85,A,73,Yes,2,No,No,9.13
+430,Kiara Goel,Data Structures,13,31,44,D,64,Yes,1,No,Yes,9.13
+430,Kiara Goel,Digital Logic Design,24,27,51,D,89,Yes,1,Yes,Yes,9.13
+430,Kiara Goel,Environmental Studies,10,68,78,B,83,Yes,1,No,No,9.13
+430,Kiara Goel,Professional Communication,29,56,85,A,69,Yes,1,No,Yes,9.13
+431,Indrajit Yohannan,Mathematics-II,11,47,58,C,84,Yes,3,Yes,No,5.32
+431,Indrajit Yohannan,Data Structures,18,23,41,D,66,Yes,5,No,No,5.32
+431,Indrajit Yohannan,Digital Logic Design,21,55,76,B,74,Yes,5,Yes,Yes,5.32
+431,Indrajit Yohannan,Environmental Studies,11,36,47,D,96,Yes,4,No,No,5.32
+431,Indrajit Yohannan,Professional Communication,25,47,72,B,75,Yes,3,No,Yes,5.32
+432,Nishith Shah,Mathematics-II,22,61,83,B,100,Yes,1,No,Yes,8.65
+432,Nishith Shah,Data Structures,18,21,39,F,70,No,4,No,Yes,8.65
+432,Nishith Shah,Digital Logic Design,26,39,65,C,73,Yes,4,No,Yes,8.65
+432,Nishith Shah,Environmental Studies,12,45,57,C,64,Yes,1,No,Yes,8.65
+432,Nishith Shah,Professional Communication,10,49,59,C,81,Yes,5,No,No,8.65
+433,Seher Deshmukh,Mathematics-II,15,33,48,D,69,Yes,5,Yes,Yes,5.37
+433,Seher Deshmukh,Data Structures,13,48,61,C,78,Yes,3,Yes,No,5.37
+433,Seher Deshmukh,Digital Logic Design,20,27,47,D,78,Yes,1,No,No,5.37
+433,Seher Deshmukh,Environmental Studies,27,20,47,D,100,Yes,3,No,Yes,5.37
+433,Seher Deshmukh,Professional Communication,11,64,75,B,98,Yes,1,No,Yes,5.37
+434,Reyansh Wable,Mathematics-II,19,44,63,C,96,Yes,4,Yes,Yes,9.91
+434,Reyansh Wable,Data Structures,17,50,67,C,81,Yes,4,Yes,No,9.91
+434,Reyansh Wable,Digital Logic Design,29,62,91,A,97,Yes,2,No,No,9.91
+434,Reyansh Wable,Environmental Studies,16,25,41,D,92,Yes,3,Yes,No,9.91
+434,Reyansh Wable,Professional Communication,27,33,60,C,85,Yes,3,Yes,Yes,9.91
+435,Romil Baria,Mathematics-II,26,45,71,B,88,Yes,4,No,Yes,8.03
+435,Romil Baria,Data Structures,28,59,87,A,83,Yes,4,No,No,8.03
+435,Romil Baria,Digital Logic Design,26,55,81,B,66,Yes,2,No,No,8.03
+435,Romil Baria,Environmental Studies,20,30,50,D,71,Yes,3,Yes,Yes,8.03
+435,Romil Baria,Professional Communication,20,59,79,B,92,Yes,2,Yes,Yes,8.03
+436,Gokul Date,Mathematics-II,26,52,78,B,90,Yes,3,Yes,No,8.48
+436,Gokul Date,Data Structures,16,23,39,F,60,No,3,Yes,Yes,8.48
+436,Gokul Date,Digital Logic Design,17,21,38,F,88,No,4,Yes,Yes,8.48
+436,Gokul Date,Environmental Studies,13,61,74,B,82,Yes,4,No,Yes,8.48
+436,Gokul Date,Professional Communication,22,52,74,B,76,Yes,2,No,No,8.48
+437,Oorja Rege,Mathematics-II,23,65,88,A,69,Yes,1,No,No,9.74
+437,Oorja Rege,Data Structures,20,27,47,D,79,Yes,4,Yes,No,9.74
+437,Oorja Rege,Digital Logic Design,10,30,40,D,89,Yes,1,Yes,Yes,9.74
+437,Oorja Rege,Environmental Studies,20,22,42,D,79,Yes,2,No,No,9.74
+437,Oorja Rege,Professional Communication,25,70,95,A,80,Yes,4,Yes,Yes,9.74
+438,Nirvaan Madan,Mathematics-II,10,65,75,B,68,Yes,5,Yes,Yes,7.25
+438,Nirvaan Madan,Data Structures,25,42,67,C,80,Yes,3,Yes,No,7.25
+438,Nirvaan Madan,Digital Logic Design,27,67,94,A,73,Yes,5,Yes,No,7.25
+438,Nirvaan Madan,Environmental Studies,14,59,73,B,64,Yes,3,No,No,7.25
+438,Nirvaan Madan,Professional Communication,24,20,44,D,62,Yes,3,No,No,7.25
+439,Samaira Kumar,Mathematics-II,19,23,42,D,71,Yes,3,Yes,No,9.39
+439,Samaira Kumar,Data Structures,20,63,83,B,71,Yes,2,No,Yes,9.39
+439,Samaira Kumar,Digital Logic Design,13,52,65,C,85,Yes,1,No,Yes,9.39
+439,Samaira Kumar,Environmental Studies,13,23,36,F,76,No,4,Yes,No,9.39
+439,Samaira Kumar,Professional Communication,14,46,60,C,83,Yes,4,Yes,Yes,9.39
+440,Ayesha Bandi,Mathematics-II,21,35,56,C,67,Yes,2,No,No,5.31
+440,Ayesha Bandi,Data Structures,13,53,66,C,79,Yes,1,No,No,5.31
+440,Ayesha Bandi,Digital Logic Design,18,53,71,B,98,Yes,1,Yes,Yes,5.31
+440,Ayesha Bandi,Environmental Studies,11,27,38,F,94,No,5,No,Yes,5.31
+440,Ayesha Bandi,Professional Communication,29,53,82,B,86,Yes,5,Yes,No,5.31
+441,Oorja Goda,Mathematics-II,23,66,89,A,69,Yes,2,Yes,Yes,5.17
+441,Oorja Goda,Data Structures,27,44,71,B,95,Yes,3,Yes,No,5.17
+441,Oorja Goda,Digital Logic Design,16,40,56,C,76,Yes,1,No,Yes,5.17
+441,Oorja Goda,Environmental Studies,30,47,77,B,85,Yes,1,Yes,No,5.17
+441,Oorja Goda,Professional Communication,24,67,91,A,68,Yes,5,No,No,5.17
+442,Prisha Tata,Mathematics-II,26,44,70,B,61,Yes,5,Yes,No,8.14
+442,Prisha Tata,Data Structures,18,70,88,A,96,Yes,2,No,No,8.14
+442,Prisha Tata,Digital Logic Design,12,23,35,F,79,No,3,No,Yes,8.14
+442,Prisha Tata,Environmental Studies,29,40,69,C,65,Yes,3,Yes,No,8.14
+442,Prisha Tata,Professional Communication,12,64,76,B,89,Yes,5,Yes,No,8.14
+443,Zeeshan Garde,Mathematics-II,29,49,78,B,72,Yes,1,Yes,Yes,5.1
+443,Zeeshan Garde,Data Structures,20,47,67,C,60,Yes,5,No,Yes,5.1
+443,Zeeshan Garde,Digital Logic Design,26,67,93,A,78,Yes,3,No,No,5.1
+443,Zeeshan Garde,Environmental Studies,19,45,64,C,83,Yes,5,No,No,5.1
+443,Zeeshan Garde,Professional Communication,16,37,53,D,91,Yes,3,Yes,No,5.1
+444,Shalv Sant,Mathematics-II,14,67,81,B,87,Yes,5,Yes,No,7.7
+444,Shalv Sant,Data Structures,19,49,68,C,66,Yes,3,Yes,Yes,7.7
+444,Shalv Sant,Digital Logic Design,23,50,73,B,81,Yes,1,No,Yes,7.7
+444,Shalv Sant,Environmental Studies,17,57,74,B,64,Yes,2,No,No,7.7
+444,Shalv Sant,Professional Communication,24,61,85,A,93,Yes,2,No,No,7.7
+445,Damini Sabharwal,Mathematics-II,10,67,77,B,71,Yes,4,Yes,Yes,5.37
+445,Damini Sabharwal,Data Structures,20,36,56,C,90,Yes,2,No,No,5.37
+445,Damini Sabharwal,Digital Logic Design,27,32,59,C,64,Yes,4,Yes,Yes,5.37
+445,Damini Sabharwal,Environmental Studies,17,34,51,D,63,Yes,2,No,Yes,5.37
+445,Damini Sabharwal,Professional Communication,12,67,79,B,75,Yes,5,No,Yes,5.37
+446,Sumer Bava,Mathematics-II,22,60,82,B,85,Yes,3,Yes,Yes,5.18
+446,Sumer Bava,Data Structures,18,70,88,A,68,Yes,5,No,Yes,5.18
+446,Sumer Bava,Digital Logic Design,17,39,56,C,85,Yes,1,No,Yes,5.18
+446,Sumer Bava,Environmental Studies,27,21,48,D,70,Yes,3,No,No,5.18
+446,Sumer Bava,Professional Communication,13,22,35,F,95,No,2,Yes,Yes,5.18
+447,Dishani Ganguly,Mathematics-II,18,63,81,B,73,Yes,4,No,No,7.57
+447,Dishani Ganguly,Data Structures,25,62,87,A,63,Yes,3,No,Yes,7.57
+447,Dishani Ganguly,Digital Logic Design,10,64,74,B,67,Yes,1,Yes,Yes,7.57
+447,Dishani Ganguly,Environmental Studies,21,59,80,B,68,Yes,2,No,Yes,7.57
+447,Dishani Ganguly,Professional Communication,10,59,69,C,85,Yes,5,Yes,Yes,7.57
+448,Umang Suri,Mathematics-II,28,58,86,A,77,Yes,4,No,Yes,5.93
+448,Umang Suri,Data Structures,14,58,72,B,65,Yes,4,Yes,Yes,5.93
+448,Umang Suri,Digital Logic Design,21,66,87,A,93,Yes,1,No,No,5.93
+448,Umang Suri,Environmental Studies,15,42,57,C,90,Yes,4,Yes,No,5.93
+448,Umang Suri,Professional Communication,12,44,56,C,86,Yes,3,No,No,5.93
+449,Indranil Varughese,Mathematics-II,12,22,34,F,70,No,4,Yes,Yes,6.07
+449,Indranil Varughese,Data Structures,11,64,75,B,79,Yes,4,No,No,6.07
+449,Indranil Varughese,Digital Logic Design,18,25,43,D,86,Yes,2,No,Yes,6.07
+449,Indranil Varughese,Environmental Studies,17,45,62,C,72,Yes,2,No,Yes,6.07
+449,Indranil Varughese,Professional Communication,15,35,50,D,61,Yes,3,No,No,6.07
+450,Hansh Gaba,Mathematics-II,19,66,85,A,77,Yes,3,No,Yes,6.03
+450,Hansh Gaba,Data Structures,19,23,42,D,90,Yes,2,No,Yes,6.03
+450,Hansh Gaba,Digital Logic Design,21,30,51,D,99,Yes,3,Yes,No,6.03
+450,Hansh Gaba,Environmental Studies,12,67,79,B,72,Yes,3,No,No,6.03
+450,Hansh Gaba,Professional Communication,14,35,49,D,67,Yes,1,No,Yes,6.03
+451,Yuvraj  Samra,Mathematics-II,12,41,53,D,75,Yes,3,No,Yes,5.61
+451,Yuvraj  Samra,Data Structures,10,35,45,D,60,Yes,5,No,Yes,5.61
+451,Yuvraj  Samra,Digital Logic Design,30,58,88,A,80,Yes,1,No,No,5.61
+451,Yuvraj  Samra,Environmental Studies,21,32,53,D,63,Yes,2,Yes,Yes,5.61
+451,Yuvraj  Samra,Professional Communication,22,30,52,D,62,Yes,4,Yes,Yes,5.61
+452,Tara Shanker,Mathematics-II,19,27,46,D,60,Yes,2,No,No,8.21
+452,Tara Shanker,Data Structures,20,40,60,C,100,Yes,5,No,Yes,8.21
+452,Tara Shanker,Digital Logic Design,15,68,83,B,66,Yes,3,Yes,No,8.21
+452,Tara Shanker,Environmental Studies,12,61,73,B,78,Yes,2,Yes,Yes,8.21
+452,Tara Shanker,Professional Communication,10,53,63,C,65,Yes,1,No,No,8.21
+453,Navya Loyal,Mathematics-II,20,64,84,B,100,Yes,5,No,No,6.31
+453,Navya Loyal,Data Structures,26,69,95,A,93,Yes,4,No,No,6.31
+453,Navya Loyal,Digital Logic Design,29,35,64,C,69,Yes,1,Yes,No,6.31
+453,Navya Loyal,Environmental Studies,21,65,86,A,73,Yes,4,Yes,Yes,6.31
+453,Navya Loyal,Professional Communication,17,36,53,D,63,Yes,1,No,Yes,6.31
+454,Dishani Sundaram,Mathematics-II,28,54,82,B,68,Yes,2,No,No,9.45
+454,Dishani Sundaram,Data Structures,22,58,80,B,68,Yes,2,No,No,9.45
+454,Dishani Sundaram,Digital Logic Design,24,64,88,A,100,Yes,1,Yes,Yes,9.45
+454,Dishani Sundaram,Environmental Studies,11,35,46,D,94,Yes,1,No,Yes,9.45
+454,Dishani Sundaram,Professional Communication,27,47,74,B,84,Yes,2,Yes,Yes,9.45
+455,Manjari Ramesh,Mathematics-II,30,68,98,A,80,Yes,4,No,No,7.27
+455,Manjari Ramesh,Data Structures,30,21,51,D,69,Yes,3,Yes,No,7.27
+455,Manjari Ramesh,Digital Logic Design,24,36,60,C,86,Yes,3,No,No,7.27
+455,Manjari Ramesh,Environmental Studies,26,26,52,D,71,Yes,3,No,No,7.27
+455,Manjari Ramesh,Professional Communication,24,67,91,A,97,Yes,3,Yes,No,7.27
+456,Nishith Vyas,Mathematics-II,11,23,34,F,74,No,2,No,No,6.1
+456,Nishith Vyas,Data Structures,30,64,94,A,75,Yes,2,No,Yes,6.1
+456,Nishith Vyas,Digital Logic Design,13,67,80,B,95,Yes,4,Yes,No,6.1
+456,Nishith Vyas,Environmental Studies,13,46,59,C,73,Yes,4,No,No,6.1
+456,Nishith Vyas,Professional Communication,24,43,67,C,100,Yes,5,Yes,No,6.1
+457,Dishani Vaidya,Mathematics-II,20,32,52,D,60,Yes,4,Yes,Yes,5.68
+457,Dishani Vaidya,Data Structures,18,47,65,C,90,Yes,4,No,No,5.68
+457,Dishani Vaidya,Digital Logic Design,28,28,56,C,79,Yes,1,No,Yes,5.68
+457,Dishani Vaidya,Environmental Studies,29,64,93,A,88,Yes,1,No,No,5.68
+457,Dishani Vaidya,Professional Communication,27,58,85,A,60,Yes,3,Yes,Yes,5.68
+458,Raghav Dewan,Mathematics-II,18,49,67,C,91,Yes,5,No,Yes,6.79
+458,Raghav Dewan,Data Structures,24,46,70,B,80,Yes,3,No,Yes,6.79
+458,Raghav Dewan,Digital Logic Design,16,37,53,D,64,Yes,5,Yes,No,6.79
+458,Raghav Dewan,Environmental Studies,10,29,39,F,84,No,1,No,No,6.79
+458,Raghav Dewan,Professional Communication,22,43,65,C,64,Yes,3,Yes,No,6.79
+459,Adah Date,Mathematics-II,18,48,66,C,77,Yes,5,No,Yes,8.32
+459,Adah Date,Data Structures,12,27,39,F,85,No,4,Yes,Yes,8.32
+459,Adah Date,Digital Logic Design,22,27,49,D,82,Yes,2,Yes,No,8.32
+459,Adah Date,Environmental Studies,20,48,68,C,95,Yes,3,Yes,Yes,8.32
+459,Adah Date,Professional Communication,28,68,96,A,91,Yes,3,Yes,No,8.32
+460,Emir Bir,Mathematics-II,25,29,54,D,96,Yes,4,Yes,No,6.53
+460,Emir Bir,Data Structures,24,34,58,C,80,Yes,5,Yes,No,6.53
+460,Emir Bir,Digital Logic Design,18,55,73,B,66,Yes,4,No,Yes,6.53
+460,Emir Bir,Environmental Studies,29,44,73,B,81,Yes,3,No,No,6.53
+460,Emir Bir,Professional Communication,24,31,55,C,62,Yes,1,Yes,Yes,6.53
+461,Ehsaan Issac,Mathematics-II,10,24,34,F,98,No,2,Yes,No,9.01
+461,Ehsaan Issac,Data Structures,23,33,56,C,71,Yes,2,No,No,9.01
+461,Ehsaan Issac,Digital Logic Design,25,22,47,D,90,Yes,4,No,No,9.01
+461,Ehsaan Issac,Environmental Studies,17,62,79,B,98,Yes,3,No,No,9.01
+461,Ehsaan Issac,Professional Communication,24,49,73,B,65,Yes,3,Yes,Yes,9.01
+462,Piya Ben,Mathematics-II,14,40,54,D,100,Yes,3,Yes,Yes,6.37
+462,Piya Ben,Data Structures,27,57,84,B,100,Yes,3,Yes,Yes,6.37
+462,Piya Ben,Digital Logic Design,25,21,46,D,80,Yes,5,Yes,No,6.37
+462,Piya Ben,Environmental Studies,16,56,72,B,82,Yes,3,No,Yes,6.37
+462,Piya Ben,Professional Communication,11,29,40,D,88,Yes,1,No,No,6.37
+463,Vedika Sankar,Mathematics-II,22,50,72,B,87,Yes,2,Yes,No,7.93
+463,Vedika Sankar,Data Structures,23,33,56,C,68,Yes,5,Yes,Yes,7.93
+463,Vedika Sankar,Digital Logic Design,18,54,72,B,72,Yes,3,Yes,No,7.93
+463,Vedika Sankar,Environmental Studies,18,53,71,B,71,Yes,2,Yes,Yes,7.93
+463,Vedika Sankar,Professional Communication,26,49,75,B,61,Yes,2,No,No,7.93
+464,Kanav Konda,Mathematics-II,17,29,46,D,91,Yes,4,No,No,5.14
+464,Kanav Konda,Data Structures,12,60,72,B,77,Yes,2,No,Yes,5.14
+464,Kanav Konda,Digital Logic Design,27,63,90,A,84,Yes,4,No,No,5.14
+464,Kanav Konda,Environmental Studies,10,26,36,F,79,No,5,No,No,5.14
+464,Kanav Konda,Professional Communication,26,68,94,A,97,Yes,2,Yes,No,5.14
+465,Ishaan Kulkarni,Mathematics-II,13,35,48,D,67,Yes,2,Yes,No,9.34
+465,Ishaan Kulkarni,Data Structures,15,38,53,D,68,Yes,1,Yes,Yes,9.34
+465,Ishaan Kulkarni,Digital Logic Design,26,52,78,B,74,Yes,4,Yes,No,9.34
+465,Ishaan Kulkarni,Environmental Studies,15,45,60,C,93,Yes,5,No,Yes,9.34
+465,Ishaan Kulkarni,Professional Communication,16,44,60,C,93,Yes,5,Yes,Yes,9.34
+466,Nirvi Sahni,Mathematics-II,16,57,73,B,75,Yes,2,Yes,Yes,9.91
+466,Nirvi Sahni,Data Structures,14,33,47,D,85,Yes,3,Yes,Yes,9.91
+466,Nirvi Sahni,Digital Logic Design,10,35,45,D,76,Yes,2,Yes,No,9.91
+466,Nirvi Sahni,Environmental Studies,20,46,66,C,84,Yes,5,No,No,9.91
+466,Nirvi Sahni,Professional Communication,17,24,41,D,100,Yes,3,No,Yes,9.91
+467,Ira Mallick,Mathematics-II,16,28,44,D,65,Yes,3,No,No,6.29
+467,Ira Mallick,Data Structures,13,57,70,B,62,Yes,4,No,Yes,6.29
+467,Ira Mallick,Digital Logic Design,28,33,61,C,70,Yes,1,Yes,Yes,6.29
+467,Ira Mallick,Environmental Studies,24,29,53,D,96,Yes,1,No,No,6.29
+467,Ira Mallick,Professional Communication,26,42,68,C,61,Yes,3,Yes,Yes,6.29
+468,Ishaan Khanna,Mathematics-II,19,40,59,C,60,Yes,3,No,No,8.33
+468,Ishaan Khanna,Data Structures,27,36,63,C,71,Yes,3,Yes,No,8.33
+468,Ishaan Khanna,Digital Logic Design,22,23,45,D,63,Yes,1,No,No,8.33
+468,Ishaan Khanna,Environmental Studies,28,24,52,D,85,Yes,2,Yes,No,8.33
+468,Ishaan Khanna,Professional Communication,19,43,62,C,65,Yes,3,Yes,Yes,8.33
+469,Ayesha Gour,Mathematics-II,12,55,67,C,82,Yes,2,Yes,Yes,8.02
+469,Ayesha Gour,Data Structures,23,56,79,B,66,Yes,3,No,No,8.02
+469,Ayesha Gour,Digital Logic Design,15,65,80,B,89,Yes,4,Yes,Yes,8.02
+469,Ayesha Gour,Environmental Studies,24,46,70,B,70,Yes,5,No,No,8.02
+469,Ayesha Gour,Professional Communication,25,68,93,A,67,Yes,3,Yes,No,8.02
+470,Anya Majumdar,Mathematics-II,12,43,55,C,63,Yes,4,No,Yes,9.48
+470,Anya Majumdar,Data Structures,12,27,39,F,75,No,2,No,Yes,9.48
+470,Anya Majumdar,Digital Logic Design,15,20,35,F,69,No,1,No,Yes,9.48
+470,Anya Majumdar,Environmental Studies,28,26,54,D,81,Yes,4,No,Yes,9.48
+470,Anya Majumdar,Professional Communication,30,68,98,A,87,Yes,2,No,No,9.48
+471,Gokul Aggarwal,Mathematics-II,12,63,75,B,75,Yes,2,No,No,8.21
+471,Gokul Aggarwal,Data Structures,26,56,82,B,64,Yes,1,Yes,No,8.21
+471,Gokul Aggarwal,Digital Logic Design,21,62,83,B,83,Yes,4,Yes,Yes,8.21
+471,Gokul Aggarwal,Environmental Studies,13,61,74,B,62,Yes,1,Yes,No,8.21
+471,Gokul Aggarwal,Professional Communication,23,39,62,C,100,Yes,1,Yes,No,8.21
+472,Navya Dixit,Mathematics-II,13,60,73,B,86,Yes,1,No,Yes,7.78
+472,Navya Dixit,Data Structures,10,23,33,F,94,No,1,Yes,Yes,7.78
+472,Navya Dixit,Digital Logic Design,23,25,48,D,63,Yes,2,No,Yes,7.78
+472,Navya Dixit,Environmental Studies,16,23,39,F,85,No,2,Yes,Yes,7.78
+472,Navya Dixit,Professional Communication,18,52,70,B,97,Yes,4,No,Yes,7.78
+473,Lavanya Jaggi,Mathematics-II,27,36,63,C,74,Yes,5,No,Yes,9.71
+473,Lavanya Jaggi,Data Structures,29,34,63,C,64,Yes,1,Yes,Yes,9.71
+473,Lavanya Jaggi,Digital Logic Design,20,42,62,C,91,Yes,4,Yes,No,9.71
+473,Lavanya Jaggi,Environmental Studies,16,36,52,D,91,Yes,5,No,Yes,9.71
+473,Lavanya Jaggi,Professional Communication,29,26,55,C,89,Yes,1,No,Yes,9.71
+474,Tarini Kuruvilla,Mathematics-II,26,44,70,B,99,Yes,2,Yes,Yes,7.59
+474,Tarini Kuruvilla,Data Structures,20,31,51,D,62,Yes,2,No,Yes,7.59
+474,Tarini Kuruvilla,Digital Logic Design,11,60,71,B,89,Yes,2,Yes,Yes,7.59
+474,Tarini Kuruvilla,Environmental Studies,22,37,59,C,97,Yes,1,Yes,No,7.59
+474,Tarini Kuruvilla,Professional Communication,27,30,57,C,91,Yes,4,No,No,7.59
+475,Baiju Dass,Mathematics-II,29,39,68,C,67,Yes,2,Yes,No,7.27
+475,Baiju Dass,Data Structures,15,50,65,C,88,Yes,2,Yes,Yes,7.27
+475,Baiju Dass,Digital Logic Design,30,48,78,B,100,Yes,1,Yes,No,7.27
+475,Baiju Dass,Environmental Studies,14,29,43,D,92,Yes,3,Yes,Yes,7.27
+475,Baiju Dass,Professional Communication,22,25,47,D,81,Yes,3,No,No,7.27
+476,Saira Kadakia,Mathematics-II,20,50,70,B,80,Yes,2,Yes,Yes,8.47
+476,Saira Kadakia,Data Structures,22,27,49,D,94,Yes,3,Yes,Yes,8.47
+476,Saira Kadakia,Digital Logic Design,17,47,64,C,86,Yes,5,Yes,Yes,8.47
+476,Saira Kadakia,Environmental Studies,24,38,62,C,63,Yes,2,No,No,8.47
+476,Saira Kadakia,Professional Communication,28,44,72,B,76,Yes,2,No,No,8.47
+477,Nitara Keer,Mathematics-II,26,44,70,B,85,Yes,4,No,Yes,8.26
+477,Nitara Keer,Data Structures,10,69,79,B,61,Yes,2,No,No,8.26
+477,Nitara Keer,Digital Logic Design,26,56,82,B,67,Yes,1,No,Yes,8.26
+477,Nitara Keer,Environmental Studies,18,43,61,C,63,Yes,1,Yes,No,8.26
+477,Nitara Keer,Professional Communication,21,38,59,C,71,Yes,2,Yes,Yes,8.26
+478,Piya Barman,Mathematics-II,10,41,51,D,65,Yes,3,No,Yes,6.23
+478,Piya Barman,Data Structures,25,49,74,B,65,Yes,5,Yes,No,6.23
+478,Piya Barman,Digital Logic Design,14,33,47,D,99,Yes,2,No,Yes,6.23
+478,Piya Barman,Environmental Studies,12,61,73,B,62,Yes,5,Yes,Yes,6.23
+478,Piya Barman,Professional Communication,27,36,63,C,93,Yes,2,Yes,No,6.23
+479,Trisha Bahl,Mathematics-II,28,57,85,A,100,Yes,4,Yes,No,5.53
+479,Trisha Bahl,Data Structures,23,56,79,B,85,Yes,1,Yes,No,5.53
+479,Trisha Bahl,Digital Logic Design,22,32,54,D,79,Yes,3,No,Yes,5.53
+479,Trisha Bahl,Environmental Studies,17,70,87,A,63,Yes,2,Yes,Yes,5.53
+479,Trisha Bahl,Professional Communication,10,43,53,D,83,Yes,4,No,Yes,5.53
+480,Zara Baria,Mathematics-II,19,23,42,D,96,Yes,4,Yes,No,5.54
+480,Zara Baria,Data Structures,13,25,38,F,71,No,2,No,No,5.54
+480,Zara Baria,Digital Logic Design,25,34,59,C,91,Yes,1,No,No,5.54
+480,Zara Baria,Environmental Studies,13,28,41,D,96,Yes,3,Yes,No,5.54
+480,Zara Baria,Professional Communication,11,47,58,C,62,Yes,5,Yes,No,5.54
+481,Taimur Sekhon,Mathematics-II,28,39,67,C,94,Yes,2,No,Yes,5.62
+481,Taimur Sekhon,Data Structures,17,57,74,B,96,Yes,3,No,No,5.62
+481,Taimur Sekhon,Digital Logic Design,15,36,51,D,94,Yes,4,No,Yes,5.62
+481,Taimur Sekhon,Environmental Studies,25,52,77,B,70,Yes,3,Yes,Yes,5.62
+481,Taimur Sekhon,Professional Communication,21,37,58,C,98,Yes,5,Yes,No,5.62
+482,Pranay Handa,Mathematics-II,17,60,77,B,75,Yes,3,Yes,Yes,7.05
+482,Pranay Handa,Data Structures,27,56,83,B,94,Yes,2,Yes,Yes,7.05
+482,Pranay Handa,Digital Logic Design,16,31,47,D,100,Yes,4,Yes,No,7.05
+482,Pranay Handa,Environmental Studies,12,48,60,C,95,Yes,5,Yes,Yes,7.05
+482,Pranay Handa,Professional Communication,27,64,91,A,68,Yes,1,No,No,7.05
+483,Anahi Andra,Mathematics-II,12,47,59,C,85,Yes,3,No,No,9.6
+483,Anahi Andra,Data Structures,14,36,50,D,62,Yes,2,No,Yes,9.6
+483,Anahi Andra,Digital Logic Design,14,49,63,C,80,Yes,4,No,Yes,9.6
+483,Anahi Andra,Environmental Studies,10,49,59,C,73,Yes,5,No,No,9.6
+483,Anahi Andra,Professional Communication,10,67,77,B,62,Yes,1,Yes,Yes,9.6
+484,Anahita Sarin,Mathematics-II,15,68,83,B,82,Yes,1,No,No,7.35
+484,Anahita Sarin,Data Structures,21,45,66,C,80,Yes,4,Yes,Yes,7.35
+484,Anahita Sarin,Digital Logic Design,24,43,67,C,92,Yes,5,Yes,No,7.35
+484,Anahita Sarin,Environmental Studies,20,38,58,C,71,Yes,2,Yes,No,7.35
+484,Anahita Sarin,Professional Communication,18,61,79,B,63,Yes,1,Yes,No,7.35
+485,Shlok Deep,Mathematics-II,17,35,52,D,95,Yes,1,No,Yes,9.65
+485,Shlok Deep,Data Structures,21,52,73,B,72,Yes,1,Yes,Yes,9.65
+485,Shlok Deep,Digital Logic Design,22,41,63,C,86,Yes,2,No,No,9.65
+485,Shlok Deep,Environmental Studies,18,59,77,B,62,Yes,4,No,No,9.65
+485,Shlok Deep,Professional Communication,27,27,54,D,80,Yes,4,No,No,9.65
+486,Raunak Shetty,Mathematics-II,23,42,65,C,89,Yes,5,Yes,Yes,9.88
+486,Raunak Shetty,Data Structures,14,52,66,C,66,Yes,3,Yes,Yes,9.88
+486,Raunak Shetty,Digital Logic Design,17,44,61,C,96,Yes,1,No,No,9.88
+486,Raunak Shetty,Environmental Studies,25,20,45,D,96,Yes,4,No,Yes,9.88
+486,Raunak Shetty,Professional Communication,17,54,71,B,65,Yes,1,Yes,No,9.88
+487,Gatik Kant,Mathematics-II,26,50,76,B,97,Yes,5,No,Yes,9.53
+487,Gatik Kant,Data Structures,25,26,51,D,77,Yes,2,Yes,No,9.53
+487,Gatik Kant,Digital Logic Design,16,66,82,B,98,Yes,3,No,No,9.53
+487,Gatik Kant,Environmental Studies,13,53,66,C,91,Yes,5,Yes,No,9.53
+487,Gatik Kant,Professional Communication,23,54,77,B,86,Yes,4,Yes,Yes,9.53
+488,Indranil Babu,Mathematics-II,17,28,45,D,74,Yes,5,Yes,Yes,6.1
+488,Indranil Babu,Data Structures,20,62,82,B,60,Yes,3,Yes,Yes,6.1
+488,Indranil Babu,Digital Logic Design,12,56,68,C,77,Yes,5,Yes,No,6.1
+488,Indranil Babu,Environmental Studies,20,33,53,D,84,Yes,2,No,Yes,6.1
+488,Indranil Babu,Professional Communication,30,54,84,B,66,Yes,3,Yes,No,6.1
+489,Renee Doctor,Mathematics-II,29,44,73,B,66,Yes,2,No,Yes,9.04
+489,Renee Doctor,Data Structures,21,57,78,B,62,Yes,1,No,Yes,9.04
+489,Renee Doctor,Digital Logic Design,10,58,68,C,65,Yes,3,Yes,Yes,9.04
+489,Renee Doctor,Environmental Studies,22,28,50,D,69,Yes,1,Yes,No,9.04
+489,Renee Doctor,Professional Communication,21,38,59,C,90,Yes,1,No,No,9.04
+490,Neelofar Dey,Mathematics-II,19,33,52,D,83,Yes,5,Yes,No,8.98
+490,Neelofar Dey,Data Structures,18,43,61,C,86,Yes,2,No,Yes,8.98
+490,Neelofar Dey,Digital Logic Design,16,64,80,B,89,Yes,3,No,Yes,8.98
+490,Neelofar Dey,Environmental Studies,16,22,38,F,83,No,4,No,No,8.98
+490,Neelofar Dey,Professional Communication,26,57,83,B,64,Yes,1,Yes,Yes,8.98
+491,Purab Zacharia,Mathematics-II,16,21,37,F,71,No,4,No,Yes,9.58
+491,Purab Zacharia,Data Structures,15,60,75,B,88,Yes,1,No,Yes,9.58
+491,Purab Zacharia,Digital Logic Design,26,38,64,C,67,Yes,2,No,Yes,9.58
+491,Purab Zacharia,Environmental Studies,15,61,76,B,67,Yes,5,No,No,9.58
+491,Purab Zacharia,Professional Communication,16,31,47,D,93,Yes,2,No,Yes,9.58
+492,Bhavin Bhat,Mathematics-II,28,34,62,C,71,Yes,3,Yes,No,5.85
+492,Bhavin Bhat,Data Structures,15,66,81,B,66,Yes,1,Yes,Yes,5.85
+492,Bhavin Bhat,Digital Logic Design,16,31,47,D,79,Yes,3,Yes,Yes,5.85
+492,Bhavin Bhat,Environmental Studies,26,65,91,A,65,Yes,2,No,No,5.85
+492,Bhavin Bhat,Professional Communication,27,58,85,A,64,Yes,1,No,No,5.85
+493,Uthkarsh Venkatesh,Mathematics-II,19,33,52,D,67,Yes,2,No,No,9.92
+493,Uthkarsh Venkatesh,Data Structures,15,47,62,C,77,Yes,2,No,Yes,9.92
+493,Uthkarsh Venkatesh,Digital Logic Design,26,56,82,B,83,Yes,2,Yes,No,9.92
+493,Uthkarsh Venkatesh,Environmental Studies,10,50,60,C,64,Yes,5,No,No,9.92
+493,Uthkarsh Venkatesh,Professional Communication,21,30,51,D,71,Yes,5,No,Yes,9.92
+494,Vardaniya Keer,Mathematics-II,10,52,62,C,74,Yes,3,Yes,No,5.57
+494,Vardaniya Keer,Data Structures,26,55,81,B,65,Yes,2,Yes,Yes,5.57
+494,Vardaniya Keer,Digital Logic Design,21,24,45,D,88,Yes,1,Yes,Yes,5.57
+494,Vardaniya Keer,Environmental Studies,10,46,56,C,75,Yes,3,Yes,Yes,5.57
+494,Vardaniya Keer,Professional Communication,14,63,77,B,92,Yes,1,No,Yes,5.57
+495,Taimur Sarkar,Mathematics-II,27,44,71,B,77,Yes,1,Yes,No,6.52
+495,Taimur Sarkar,Data Structures,11,58,69,C,67,Yes,3,Yes,Yes,6.52
+495,Taimur Sarkar,Digital Logic Design,21,29,50,D,100,Yes,1,No,No,6.52
+495,Taimur Sarkar,Environmental Studies,23,56,79,B,82,Yes,5,No,Yes,6.52
+495,Taimur Sarkar,Professional Communication,24,45,69,C,62,Yes,5,No,No,6.52
+496,Pari Khatri,Mathematics-II,29,37,66,C,99,Yes,2,No,Yes,7.84
+496,Pari Khatri,Data Structures,30,51,81,B,100,Yes,3,Yes,Yes,7.84
+496,Pari Khatri,Digital Logic Design,16,45,61,C,82,Yes,5,Yes,Yes,7.84
+496,Pari Khatri,Environmental Studies,15,43,58,C,62,Yes,3,No,Yes,7.84
+496,Pari Khatri,Professional Communication,29,33,62,C,74,Yes,5,No,Yes,7.84
+497,Navya Behl,Mathematics-II,30,46,76,B,83,Yes,2,Yes,Yes,8.68
+497,Navya Behl,Data Structures,21,57,78,B,99,Yes,1,Yes,Yes,8.68
+497,Navya Behl,Digital Logic Design,21,35,56,C,71,Yes,1,Yes,No,8.68
+497,Navya Behl,Environmental Studies,23,30,53,D,82,Yes,3,Yes,Yes,8.68
+497,Navya Behl,Professional Communication,12,31,43,D,99,Yes,1,Yes,No,8.68
+498,Seher Sunder,Mathematics-II,24,64,88,A,83,Yes,4,Yes,Yes,9.6
+498,Seher Sunder,Data Structures,16,70,86,A,80,Yes,3,No,No,9.6
+498,Seher Sunder,Digital Logic Design,11,55,66,C,60,Yes,5,Yes,No,9.6
+498,Seher Sunder,Environmental Studies,28,34,62,C,78,Yes,4,Yes,No,9.6
+498,Seher Sunder,Professional Communication,26,38,64,C,96,Yes,4,No,Yes,9.6
+499,Nehmat Baral,Mathematics-II,26,24,50,D,89,Yes,1,Yes,No,6.25
+499,Nehmat Baral,Data Structures,28,59,87,A,63,Yes,1,Yes,Yes,6.25
+499,Nehmat Baral,Digital Logic Design,17,64,81,B,87,Yes,1,Yes,Yes,6.25
+499,Nehmat Baral,Environmental Studies,24,67,91,A,89,Yes,5,No,Yes,6.25
+499,Nehmat Baral,Professional Communication,27,65,92,A,82,Yes,4,No,No,6.25
+500,Kashvi Sundaram,Mathematics-II,15,41,56,C,79,Yes,3,Yes,Yes,7.07
+500,Kashvi Sundaram,Data Structures,11,34,45,D,85,Yes,4,Yes,Yes,7.07
+500,Kashvi Sundaram,Digital Logic Design,30,53,83,B,69,Yes,2,No,Yes,7.07
+500,Kashvi Sundaram,Environmental Studies,24,64,88,A,86,Yes,5,Yes,No,7.07
+500,Kashvi Sundaram,Professional Communication,24,54,78,B,95,Yes,1,No,Yes,7.07

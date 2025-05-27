@@ -1,0 +1,501 @@
+student_id,name,board,year_of_passing,math_score,physics_score,chemistry_score,english_score,cs_score,overall_percentage,top_subjects,weak_subjects,remedial_classes_taken,average_study_hours_per_day,study_method,preferred_learning_style,attendance_percentage,participated_in_olympiads,extracurricular_focus,leadership_roles,confidence_level_in_subjects,motivation_level,internet_access_at_home
+1,Riya Srinivasan,State,2025,49,43,45,74,80,58.2,"Computer Science, English","Physics, Chemistry",Yes,2.0,Solo,Auditory,77,No,None,No,2,4,Yes
+2,Myra Boase,State,2023,81,84,96,77,43,76.2,"Chemistry, Physics","Computer Science, English",Yes,5.0,Group,Visual,75,Yes,Sports,Yes,5,3,Yes
+3,Aaryahi Dalal,State,2024,56,63,88,44,51,60.4,"Chemistry, Physics","English, Computer Science",Yes,5.0,Coaching,Visual,97,Yes,Sports,Yes,4,2,No
+4,Kashvi Handa,ICSE,2023,90,89,70,57,91,79.4,"Computer Science, Mathematics","English, Chemistry",Yes,4.3,Group,Visual,75,No,Arts,No,5,3,Yes
+5,Yashvi Garg,State,2025,47,75,64,52,46,56.8,"Physics, Chemistry","Computer Science, Mathematics",No,4.4,Solo,Practical,88,No,Music,No,4,1,No
+6,Shalv Johal,CBSE,2024,74,68,40,45,67,58.8,"Mathematics, Physics","Chemistry, English",No,1.1,Coaching,Auditory,70,Yes,Sports,Yes,2,1,Yes
+7,Vritika De,ICSE,2024,44,74,89,52,69,65.6,"Chemistry, Physics","Mathematics, English",No,2.8,Coaching,Practical,79,Yes,Debate,Yes,5,4,No
+8,Lagan Chokshi,State,2024,89,62,97,49,82,75.8,"Chemistry, Mathematics","English, Physics",No,2.1,Solo,Reading,82,No,None,No,4,5,Yes
+9,Manjari Tank,ICSE,2023,43,49,61,54,83,58.0,"Computer Science, Chemistry","Mathematics, Physics",No,1.1,Solo,Auditory,99,Yes,Sports,Yes,1,5,Yes
+10,Adira Suresh,CBSE,2025,87,44,81,87,51,70.0,"Mathematics, English","Physics, Computer Science",No,2.2,Group,Reading,91,Yes,None,Yes,2,1,Yes
+11,Nishith Saran,State,2025,73,44,89,61,86,70.6,"Chemistry, Computer Science","Physics, English",Yes,4.6,Group,Visual,92,Yes,Sports,No,3,2,Yes
+12,Madhup Sharma,State,2023,46,60,81,97,46,66.0,"English, Chemistry","Mathematics, Computer Science",Yes,3.9,Solo,Reading,89,Yes,Sports,No,5,3,Yes
+13,Nayantara Bhagat,CBSE,2024,89,75,41,60,50,63.0,"Mathematics, Physics","Chemistry, Computer Science",Yes,1.7,Group,Auditory,79,Yes,Debate,Yes,1,2,No
+14,Lakshay Sami,CBSE,2023,63,65,40,76,54,59.6,"English, Physics","Chemistry, Computer Science",No,3.9,Group,Auditory,80,Yes,None,No,5,5,Yes
+15,Ivana Saran,CBSE,2023,69,82,41,74,74,68.0,"Physics, English","Chemistry, Mathematics",Yes,2.8,Solo,Reading,75,Yes,Debate,No,3,5,No
+16,Dishani Sidhu,CBSE,2025,72,42,82,88,95,75.8,"Computer Science, English","Physics, Mathematics",Yes,4.6,Group,Visual,91,Yes,Debate,No,3,4,Yes
+17,Alia Saha,CBSE,2025,75,94,43,87,96,79.0,"Computer Science, Physics","Chemistry, Mathematics",Yes,4.4,Solo,Visual,84,Yes,Sports,No,3,4,Yes
+18,Yasmin Boase,ICSE,2024,59,72,56,86,63,67.2,"English, Physics","Chemistry, Mathematics",Yes,5.8,Group,Practical,89,No,Arts,No,2,4,Yes
+19,Akarsh Mandal,ICSE,2025,94,71,61,83,98,81.4,"Computer Science, Mathematics","Chemistry, Physics",No,3.3,Group,Visual,74,Yes,Music,No,1,4,No
+20,Zaina Srinivas,CBSE,2024,96,73,100,83,53,81.0,"Chemistry, Mathematics","Computer Science, Physics",Yes,2.6,Group,Visual,92,No,None,No,4,5,No
+21,Vihaan Balan,CBSE,2024,67,88,64,42,91,70.4,"Computer Science, Physics","English, Chemistry",No,4.2,Solo,Auditory,94,Yes,Arts,No,2,3,No
+22,Manjari Brahmbhatt,ICSE,2023,50,94,49,46,70,61.8,"Physics, Computer Science","English, Chemistry",No,3.7,Group,Visual,77,No,Debate,Yes,5,2,Yes
+23,Adira Bawa,State,2023,58,87,73,98,60,75.2,"English, Physics","Mathematics, Computer Science",No,4.8,Group,Visual,76,Yes,Arts,Yes,1,5,No
+24,Dhanuk Amble,ICSE,2024,96,92,96,68,80,86.4,"Mathematics, Chemistry","English, Computer Science",No,3.9,Coaching,Practical,76,Yes,Arts,No,4,3,No
+25,Tiya Dhar,CBSE,2023,89,96,90,89,40,80.8,"Physics, Chemistry","Computer Science, Mathematics",No,1.8,Solo,Visual,70,No,None,No,1,2,Yes
+26,Emir Kapadia,CBSE,2025,99,62,88,93,47,77.8,"Mathematics, English","Computer Science, Physics",No,2.1,Group,Reading,82,No,Sports,No,3,2,No
+27,Jhanvi Garg,ICSE,2024,86,93,47,78,58,72.4,"Physics, Mathematics","Chemistry, Computer Science",Yes,4.3,Solo,Practical,93,Yes,None,Yes,5,1,Yes
+28,Aayush Das,CBSE,2024,68,69,74,51,46,61.6,"Chemistry, Physics","Computer Science, English",Yes,5.6,Coaching,Auditory,71,No,Music,No,2,3,No
+29,Aarav Dave,CBSE,2024,65,80,49,51,47,58.4,"Physics, Mathematics","Computer Science, Chemistry",No,1.7,Coaching,Visual,98,Yes,None,Yes,1,4,No
+30,Inaaya  Sule,ICSE,2024,77,45,73,68,61,64.8,"Mathematics, Chemistry","Physics, Computer Science",No,5.3,Solo,Reading,82,No,Sports,Yes,5,2,No
+31,Aarush Rao,ICSE,2023,65,71,83,72,67,71.6,"Chemistry, English","Mathematics, Computer Science",Yes,3.7,Group,Reading,86,No,Sports,Yes,1,2,Yes
+32,Umang Soman,ICSE,2025,81,81,63,86,59,74.0,"English, Mathematics","Computer Science, Chemistry",Yes,4.4,Coaching,Visual,85,Yes,Arts,No,3,5,Yes
+33,Renee Brahmbhatt,State,2025,61,91,55,46,60,62.6,"Physics, Mathematics","English, Chemistry",No,2.8,Group,Visual,96,No,Music,No,3,5,Yes
+34,Emir Kala,ICSE,2023,94,99,78,40,91,80.4,"Physics, Mathematics","English, Chemistry",No,2.3,Solo,Visual,94,No,Debate,No,2,1,No
+35,Dhanuk Desai,ICSE,2023,81,73,95,50,93,78.4,"Chemistry, Computer Science","English, Physics",No,1.3,Group,Visual,92,No,Arts,No,5,5,No
+36,Anahita Khanna,CBSE,2024,73,62,75,77,68,71.0,"English, Chemistry","Physics, Computer Science",No,4.7,Coaching,Practical,84,Yes,Music,No,4,1,No
+37,Shamik Konda,CBSE,2024,65,92,62,73,89,76.2,"Physics, Computer Science","Chemistry, Mathematics",No,2.8,Group,Practical,89,No,None,No,4,3,No
+38,Alisha Mannan,ICSE,2024,49,58,69,92,76,68.8,"English, Computer Science","Mathematics, Physics",Yes,1.4,Solo,Auditory,78,No,Music,Yes,5,4,No
+39,Zeeshan Mangat,State,2024,48,46,50,80,52,55.2,"English, Computer Science","Physics, Mathematics",Yes,2.4,Solo,Reading,95,Yes,Debate,Yes,1,1,No
+40,Aaina Lad,State,2024,76,65,92,83,99,83.0,"Computer Science, Chemistry","Physics, Mathematics",Yes,1.9,Group,Reading,73,Yes,None,No,5,5,Yes
+41,Kanav Goel,ICSE,2023,55,69,64,74,76,67.6,"Computer Science, English","Mathematics, Chemistry",No,5.2,Group,Reading,79,No,Debate,No,3,2,No
+42,Himmat Johal,State,2023,52,90,57,61,74,66.8,"Physics, Computer Science","Mathematics, Chemistry",No,4.1,Solo,Auditory,82,No,Arts,Yes,2,5,No
+43,Saksham Gade,CBSE,2023,95,72,43,87,40,67.4,"Mathematics, English","Computer Science, Chemistry",No,2.8,Solo,Practical,73,No,Sports,Yes,2,4,Yes
+44,Nitara Contractor,ICSE,2024,78,86,54,68,67,70.6,"Physics, Mathematics","Chemistry, Computer Science",Yes,3.4,Coaching,Visual,95,Yes,Arts,Yes,2,1,Yes
+45,Arhaan Bhasin,State,2024,99,40,93,52,46,66.0,"Mathematics, Chemistry","Physics, Computer Science",Yes,5.9,Coaching,Reading,88,Yes,Debate,No,3,5,No
+46,Riaan Reddy,State,2025,95,98,84,76,68,84.2,"Physics, Mathematics","Computer Science, English",Yes,5.4,Group,Auditory,84,No,None,Yes,5,4,No
+47,Lakshay Khalsa,State,2024,78,74,83,82,42,71.8,"Chemistry, English","Computer Science, Physics",Yes,1.5,Coaching,Visual,86,No,Music,No,5,4,No
+48,Baiju Bath,CBSE,2025,79,59,41,73,97,69.8,"Computer Science, Mathematics","Chemistry, Physics",Yes,5.3,Solo,Visual,98,Yes,None,Yes,1,4,Yes
+49,Anay Dani,State,2023,42,84,99,88,72,77.0,"Chemistry, English","Mathematics, Computer Science",Yes,1.1,Coaching,Practical,83,No,Arts,Yes,3,5,No
+50,Yasmin Vyas,State,2024,94,89,96,60,64,80.6,"Chemistry, Mathematics","English, Computer Science",Yes,4.1,Solo,Practical,81,Yes,Debate,No,3,5,No
+51,Hridaan Tandon,ICSE,2023,90,76,57,51,92,73.2,"Computer Science, Mathematics","English, Chemistry",No,4.2,Solo,Auditory,92,No,Debate,No,2,5,No
+52,Samar Shere,CBSE,2025,44,55,49,85,100,66.6,"Computer Science, English","Mathematics, Chemistry",No,4.6,Solo,Practical,91,Yes,Debate,Yes,5,4,No
+53,Dishani Mander,CBSE,2024,48,79,69,53,47,59.2,"Physics, Chemistry","Computer Science, Mathematics",No,3.7,Coaching,Practical,76,No,Debate,Yes,2,3,No
+54,Shanaya Chhabra,CBSE,2024,49,71,96,72,50,67.6,"Chemistry, English","Mathematics, Computer Science",Yes,2.9,Coaching,Reading,92,Yes,Debate,No,5,1,No
+55,Purab Choudhury,CBSE,2024,98,45,67,68,95,74.6,"Mathematics, Computer Science","Physics, Chemistry",No,4.9,Solo,Visual,94,No,Debate,No,1,1,No
+56,Damini Amble,State,2025,94,82,84,64,56,76.0,"Mathematics, Chemistry","Computer Science, English",Yes,4.7,Group,Auditory,99,No,Sports,Yes,1,4,No
+57,Kiara Malhotra,ICSE,2023,50,57,58,44,100,61.8,"Computer Science, Chemistry","English, Mathematics",No,1.2,Solo,Auditory,90,Yes,Music,Yes,2,3,No
+58,Indranil Gade,State,2024,95,58,91,61,60,73.0,"Mathematics, Chemistry","Physics, Computer Science",Yes,5.1,Coaching,Reading,78,Yes,None,Yes,1,1,Yes
+59,Siya Das,State,2023,42,86,63,72,42,61.0,"Physics, English","Mathematics, Computer Science",Yes,5.6,Solo,Practical,84,No,Debate,Yes,2,5,Yes
+60,Jayesh Ganesan,CBSE,2024,68,49,87,68,81,70.6,"Chemistry, Computer Science","Physics, Mathematics",Yes,3.2,Solo,Visual,75,Yes,Sports,Yes,1,5,Yes
+61,Sahil Char,State,2024,73,51,74,55,47,60.0,"Chemistry, Mathematics","Computer Science, Physics",No,2.0,Coaching,Practical,74,No,Sports,Yes,4,3,Yes
+62,Hansh Chandran,CBSE,2025,59,56,92,60,55,64.4,"Chemistry, English","Computer Science, Physics",Yes,3.7,Coaching,Reading,96,No,Debate,Yes,4,2,No
+63,Akarsh Reddy,CBSE,2024,77,70,84,97,43,74.2,"English, Chemistry","Computer Science, Physics",No,3.2,Solo,Reading,75,No,Arts,No,3,1,Yes
+64,Kismat Bir,State,2024,60,60,76,88,89,74.6,"Computer Science, English","Mathematics, Physics",No,3.4,Group,Auditory,89,Yes,Debate,No,1,2,No
+65,Jayan Kapur,State,2024,86,99,81,74,99,87.8,"Physics, Computer Science","English, Chemistry",No,2.1,Coaching,Visual,90,No,None,Yes,4,5,No
+66,Madhav Saran,ICSE,2025,74,51,74,53,72,64.8,"Mathematics, Chemistry","Physics, English",Yes,2.8,Solo,Reading,84,Yes,Sports,Yes,5,5,Yes
+67,Renee Jaggi,ICSE,2025,56,43,63,99,52,62.6,"English, Chemistry","Physics, Computer Science",Yes,3.6,Group,Reading,77,No,Arts,Yes,1,2,Yes
+68,Aarna Doshi,ICSE,2025,96,45,64,72,49,65.2,"Mathematics, English","Physics, Computer Science",Yes,1.4,Coaching,Auditory,100,No,Sports,Yes,5,2,No
+69,Saksham Virk,State,2024,45,67,82,87,68,69.8,"English, Chemistry","Mathematics, Physics",Yes,4.4,Coaching,Reading,81,No,Arts,Yes,2,2,Yes
+70,Arhaan Doctor,ICSE,2025,82,57,90,46,77,70.4,"Chemistry, Mathematics","English, Physics",No,2.6,Coaching,Practical,86,No,Sports,Yes,2,4,No
+71,Hridaan Chandra,State,2024,58,71,49,70,79,65.4,"Computer Science, Physics","Chemistry, Mathematics",No,3.4,Coaching,Auditory,92,No,Debate,Yes,5,1,Yes
+72,Kabir Krishnan,ICSE,2025,71,64,85,44,57,64.2,"Chemistry, Mathematics","English, Computer Science",Yes,2.1,Solo,Reading,82,Yes,None,Yes,5,3,Yes
+73,Zoya Cheema,ICSE,2023,83,89,79,48,92,78.2,"Computer Science, Physics","English, Chemistry",Yes,3.2,Group,Practical,98,No,Arts,No,5,1,Yes
+74,Mehul Kakar,State,2024,93,75,97,68,91,84.8,"Chemistry, Mathematics","English, Physics",Yes,4.6,Coaching,Auditory,87,No,Sports,Yes,3,5,No
+75,Krish Anand,ICSE,2025,76,56,93,55,55,67.0,"Chemistry, Mathematics","English, Computer Science",Yes,2.6,Group,Auditory,97,Yes,Arts,No,1,5,Yes
+76,Farhan Chopra,State,2025,87,46,81,80,47,68.2,"Mathematics, Chemistry","Physics, Computer Science",No,4.2,Group,Practical,95,Yes,Debate,No,5,4,No
+77,Chirag Sarraf,State,2025,78,94,68,96,81,83.4,"English, Physics","Chemistry, Mathematics",No,1.0,Solo,Auditory,89,No,None,Yes,3,4,Yes
+78,Anay Magar,CBSE,2024,46,53,72,41,50,52.4,"Chemistry, Physics","English, Mathematics",Yes,6.0,Solo,Reading,77,No,Sports,Yes,5,2,Yes
+79,Miraan Hari,CBSE,2023,43,85,82,98,55,72.6,"English, Physics","Mathematics, Computer Science",No,5.9,Solo,Visual,96,No,None,No,2,5,Yes
+80,Vihaan Mahal,State,2023,95,51,52,80,50,65.6,"Mathematics, English","Computer Science, Physics",Yes,2.7,Group,Visual,96,No,None,Yes,3,4,No
+81,Yashvi Dasgupta,CBSE,2023,77,53,54,75,74,66.6,"Mathematics, English","Physics, Chemistry",Yes,5.7,Group,Visual,89,No,Music,No,4,3,Yes
+82,Anaya Batta,State,2023,62,88,90,66,92,79.6,"Computer Science, Chemistry","Mathematics, English",Yes,1.6,Group,Practical,85,No,Arts,No,4,2,No
+83,Ehsaan Thakur,ICSE,2023,82,82,49,54,64,66.2,"Mathematics, Physics","Chemistry, English",No,5.3,Coaching,Auditory,73,Yes,Music,No,3,2,No
+84,Kanav Kurian,CBSE,2024,98,40,52,90,53,66.6,"Mathematics, English","Physics, Chemistry",No,2.4,Coaching,Visual,78,No,Sports,Yes,5,2,No
+85,Aarush Sharma,State,2023,62,88,52,65,89,71.2,"Computer Science, Physics","Chemistry, Mathematics",Yes,5.7,Coaching,Practical,88,No,Sports,Yes,4,1,No
+86,Pranay Barad,State,2024,97,78,70,45,52,68.4,"Mathematics, Physics","English, Computer Science",Yes,2.8,Solo,Practical,91,No,Sports,Yes,3,4,No
+87,Divyansh Kadakia,State,2023,53,82,62,59,44,60.0,"Physics, Chemistry","Computer Science, Mathematics",Yes,3.2,Coaching,Practical,89,Yes,None,No,1,5,No
+88,Lakshay Chandran,State,2023,74,87,48,72,50,66.2,"Physics, Mathematics","Chemistry, Computer Science",No,3.6,Group,Practical,88,Yes,Debate,Yes,5,3,Yes
+89,Anahi Dayal,State,2025,54,98,41,54,62,61.8,"Physics, Computer Science","Chemistry, Mathematics",Yes,1.4,Group,Visual,92,Yes,Arts,No,2,1,Yes
+90,Yashvi Sidhu,ICSE,2023,84,60,99,76,63,76.4,"Chemistry, Mathematics","Physics, Computer Science",No,5.4,Coaching,Practical,100,Yes,Arts,Yes,4,5,Yes
+91,Saanvi Thakur,ICSE,2023,93,74,44,71,68,70.0,"Mathematics, Physics","Chemistry, Computer Science",No,2.9,Coaching,Auditory,83,No,Debate,No,4,4,Yes
+92,Mohanlal Swaminathan,CBSE,2025,54,50,94,64,70,66.4,"Chemistry, Computer Science","Physics, Mathematics",Yes,3.0,Solo,Auditory,79,Yes,None,Yes,1,5,Yes
+93,Vivaan Soman,State,2023,48,82,84,49,47,62.0,"Chemistry, Physics","Computer Science, Mathematics",Yes,2.6,Solo,Visual,89,Yes,Music,No,4,5,Yes
+94,Shanaya Sinha,State,2023,42,82,93,84,96,79.4,"Computer Science, Chemistry","Mathematics, Physics",Yes,5.8,Group,Visual,93,No,None,No,1,2,Yes
+95,Pari Wadhwa,CBSE,2024,48,71,61,44,70,58.8,"Physics, Computer Science","English, Mathematics",Yes,5.8,Group,Reading,75,No,Arts,Yes,5,1,No
+96,Prisha Lata,CBSE,2023,68,100,69,97,42,75.2,"Physics, English","Computer Science, Mathematics",Yes,5.8,Solo,Practical,99,Yes,Arts,Yes,4,2,No
+97,Akarsh Subramaniam,ICSE,2023,83,81,53,53,73,68.6,"Mathematics, Physics","Chemistry, English",Yes,1.5,Coaching,Practical,84,Yes,Debate,Yes,4,5,No
+98,Biju Maharaj,State,2024,78,80,63,88,54,72.6,"English, Physics","Computer Science, Chemistry",No,1.9,Solo,Auditory,90,Yes,Debate,Yes,2,1,No
+99,Siya Varma,ICSE,2024,77,92,97,74,57,79.4,"Chemistry, Physics","Computer Science, English",Yes,5.7,Coaching,Reading,71,No,Arts,No,2,3,Yes
+100,Vritika Viswanathan,State,2023,80,57,56,74,75,68.4,"Mathematics, Computer Science","Chemistry, Physics",Yes,3.2,Group,Auditory,84,Yes,Sports,No,3,5,Yes
+101,Anya Sethi,CBSE,2024,58,43,84,55,92,66.4,"Computer Science, Chemistry","Physics, English",No,3.6,Solo,Visual,82,Yes,None,No,2,1,No
+102,Romil Kaur,ICSE,2025,96,93,45,57,63,70.8,"Mathematics, Physics","Chemistry, English",Yes,3.9,Solo,Visual,88,Yes,Sports,No,4,3,No
+103,Zaina Chandra,State,2025,71,84,69,57,92,74.6,"Computer Science, Physics","English, Chemistry",Yes,2.0,Solo,Auditory,87,Yes,None,Yes,2,1,No
+104,Tanya Khalsa,CBSE,2023,81,50,100,89,83,80.6,"Chemistry, English","Physics, Mathematics",No,2.9,Group,Auditory,81,Yes,Debate,Yes,5,3,Yes
+105,Rania Dugar,CBSE,2025,60,96,53,82,54,69.0,"Physics, English","Chemistry, Computer Science",No,2.6,Coaching,Reading,95,No,Debate,Yes,3,4,No
+106,Nayantara Anne,ICSE,2023,70,42,78,48,69,61.4,"Chemistry, Mathematics","Physics, English",No,4.2,Group,Auditory,74,Yes,Arts,Yes,2,4,No
+107,Saira Vaidya,State,2024,55,50,72,47,98,64.4,"Computer Science, Chemistry","English, Physics",Yes,2.2,Group,Practical,92,Yes,Arts,No,3,3,Yes
+108,Adira Kapur,ICSE,2025,95,82,62,99,82,84.0,"English, Mathematics","Chemistry, Physics",Yes,3.5,Coaching,Auditory,72,No,Music,Yes,4,4,Yes
+109,Sumer Tak,State,2025,99,93,88,76,43,79.8,"Mathematics, Physics","Computer Science, English",No,3.3,Coaching,Visual,88,No,Sports,No,3,1,Yes
+110,Kabir Dutt,CBSE,2023,85,59,85,77,60,73.2,"Mathematics, Chemistry","Physics, Computer Science",Yes,3.6,Group,Reading,90,No,Debate,No,3,3,Yes
+111,Eshani Gala,ICSE,2023,65,59,45,75,80,64.8,"Computer Science, English","Chemistry, Physics",Yes,3.1,Solo,Reading,88,Yes,Debate,No,5,3,No
+112,Miraan Tailor,CBSE,2025,68,71,47,75,84,69.0,"Computer Science, English","Chemistry, Mathematics",No,4.6,Coaching,Practical,89,No,Arts,No,3,1,No
+113,Aayush Sridhar,CBSE,2024,73,66,59,78,79,71.0,"Computer Science, English","Chemistry, Physics",No,4.9,Solo,Practical,82,No,Music,Yes,5,3,No
+114,Keya Kade,ICSE,2025,83,96,83,92,45,79.8,"Physics, English","Computer Science, Mathematics",No,1.6,Coaching,Reading,84,No,None,Yes,4,3,Yes
+115,Bhavin Buch,CBSE,2025,85,74,98,54,88,79.8,"Chemistry, Computer Science","English, Physics",No,5.1,Coaching,Visual,97,No,None,No,1,2,No
+116,Samarth Chad,State,2023,94,91,85,82,87,87.8,"Mathematics, Physics","English, Chemistry",Yes,2.5,Coaching,Auditory,72,Yes,Music,No,2,4,Yes
+117,Adira Agarwal,CBSE,2025,68,95,71,42,81,71.4,"Physics, Computer Science","English, Mathematics",No,5.9,Solo,Visual,98,Yes,Music,No,3,1,Yes
+118,Raunak Warrior,CBSE,2025,100,43,91,60,76,74.0,"Mathematics, Chemistry","Physics, English",Yes,2.0,Coaching,Practical,91,No,Arts,No,1,4,No
+119,Pranay Koshy,CBSE,2023,47,76,50,47,45,53.0,"Physics, Chemistry","Computer Science, Mathematics",Yes,5.9,Coaching,Practical,83,No,Debate,No,1,4,Yes
+120,Piya Mammen,CBSE,2025,75,78,97,60,82,78.4,"Chemistry, Computer Science","English, Mathematics",Yes,3.3,Group,Auditory,85,No,Debate,Yes,5,2,Yes
+121,Zoya Tara,ICSE,2025,42,55,100,62,47,61.2,"Chemistry, English","Mathematics, Computer Science",No,2.2,Group,Visual,72,No,None,Yes,2,3,No
+122,Tejas Subramanian,ICSE,2025,68,91,100,92,59,82.0,"Chemistry, English","Computer Science, Mathematics",No,3.4,Coaching,Auditory,92,Yes,Arts,Yes,2,5,Yes
+123,Seher Contractor,ICSE,2024,100,61,82,55,89,77.4,"Mathematics, Computer Science","English, Physics",No,2.0,Group,Practical,88,Yes,Arts,Yes,5,3,No
+124,Navya Goel,CBSE,2025,74,56,43,93,87,70.6,"English, Computer Science","Chemistry, Physics",Yes,4.3,Solo,Auditory,75,Yes,None,Yes,2,2,Yes
+125,Devansh Golla,CBSE,2025,63,52,61,47,74,59.4,"Computer Science, Mathematics","English, Physics",Yes,3.3,Coaching,Auditory,74,Yes,Debate,No,5,5,No
+126,Khushi Vaidya,ICSE,2023,84,65,90,95,82,83.2,"English, Chemistry","Physics, Computer Science",No,3.8,Coaching,Reading,76,Yes,None,No,3,2,Yes
+127,Keya Balakrishnan,ICSE,2025,48,43,83,78,67,63.8,"Chemistry, English","Physics, Mathematics",No,3.5,Solo,Reading,92,No,Music,Yes,5,4,No
+128,Oorja Rout,CBSE,2024,82,73,68,41,84,69.6,"Computer Science, Mathematics","English, Chemistry",No,2.9,Group,Reading,96,Yes,Debate,No,1,4,Yes
+129,Aarav Gade,State,2025,54,52,41,77,60,56.8,"English, Computer Science","Chemistry, Physics",Yes,4.8,Group,Practical,73,No,Sports,Yes,5,4,Yes
+130,Dhruv Mangat,CBSE,2025,92,52,65,40,96,69.0,"Computer Science, Mathematics","English, Physics",Yes,2.0,Coaching,Auditory,83,Yes,None,Yes,2,5,Yes
+131,Chirag Gola,ICSE,2025,66,72,42,91,53,64.8,"English, Physics","Chemistry, Computer Science",No,2.7,Solo,Visual,79,Yes,Sports,Yes,5,3,No
+132,Samar Kari,CBSE,2024,85,65,62,47,93,70.4,"Computer Science, Mathematics","English, Chemistry",Yes,1.6,Solo,Visual,99,No,None,Yes,3,2,Yes
+133,Anahi Aggarwal,ICSE,2024,99,74,88,79,45,77.0,"Mathematics, Chemistry","Computer Science, Physics",Yes,5.4,Solo,Practical,97,No,None,Yes,2,4,Yes
+134,Tejas Tak,CBSE,2025,93,47,64,74,48,65.2,"Mathematics, English","Physics, Computer Science",Yes,3.2,Solo,Reading,84,Yes,Arts,Yes,4,4,Yes
+135,Kismat Din,State,2024,70,42,87,46,69,62.8,"Chemistry, Mathematics","Physics, English",No,1.9,Coaching,Reading,95,No,Debate,Yes,3,4,No
+136,Kimaya Comar,State,2023,70,45,77,72,41,61.0,"Chemistry, English","Computer Science, Physics",No,2.9,Group,Reading,94,Yes,None,No,2,3,No
+137,Zara Chakrabarti,ICSE,2024,50,45,64,80,52,58.2,"English, Chemistry","Physics, Mathematics",No,5.0,Group,Reading,85,Yes,Sports,No,4,5,Yes
+138,Samiha Batra,State,2025,72,80,42,54,60,61.6,"Physics, Mathematics","Chemistry, English",No,2.6,Solo,Visual,94,No,Sports,No,2,4,Yes
+139,Chirag Shankar,State,2025,85,77,98,58,56,74.8,"Chemistry, Mathematics","Computer Science, English",No,4.4,Coaching,Visual,73,Yes,Music,No,3,1,No
+140,Kanav Mall,CBSE,2024,72,86,97,72,55,76.4,"Chemistry, Physics","Computer Science, Mathematics",Yes,2.6,Group,Auditory,72,Yes,None,No,1,3,Yes
+141,Ishita Sant,State,2025,57,96,85,91,42,74.2,"Physics, English","Computer Science, Mathematics",No,5.8,Coaching,Auditory,88,No,Arts,No,4,2,Yes
+142,Aarav Dutta,State,2025,46,43,44,81,93,61.4,"Computer Science, English","Physics, Chemistry",Yes,1.5,Solo,Practical,72,Yes,Music,No,5,5,Yes
+143,Lagan Bhatt,ICSE,2023,63,49,45,61,52,54.0,"Mathematics, English","Chemistry, Physics",No,2.4,Solo,Visual,82,Yes,Debate,No,5,3,No
+144,Lakshit Bajaj,CBSE,2025,86,92,94,94,78,88.8,"Chemistry, English","Computer Science, Mathematics",Yes,1.5,Group,Practical,70,No,Arts,No,4,5,No
+145,Nirvi Kohli,CBSE,2024,73,89,62,100,61,77.0,"English, Physics","Computer Science, Chemistry",Yes,4.9,Solo,Auditory,84,Yes,Music,No,2,1,Yes
+146,Devansh Chauhan,CBSE,2024,40,68,73,84,72,67.4,"English, Chemistry","Mathematics, Physics",Yes,1.2,Solo,Auditory,92,No,None,Yes,2,5,Yes
+147,Manikya Gandhi,ICSE,2025,62,55,58,62,87,64.8,"Computer Science, Mathematics","Physics, Chemistry",Yes,2.2,Solo,Reading,79,No,Sports,Yes,3,2,Yes
+148,Azad Balasubramanian,ICSE,2024,89,73,43,96,80,76.2,"English, Mathematics","Chemistry, Physics",Yes,5.6,Solo,Practical,83,Yes,Sports,Yes,4,4,Yes
+149,Ritvik Chadha,ICSE,2023,95,86,95,62,82,84.0,"Mathematics, Chemistry","English, Computer Science",No,5.3,Group,Auditory,94,Yes,Debate,No,4,1,Yes
+150,Seher Badami,State,2024,61,98,54,99,96,81.6,"English, Physics","Chemistry, Mathematics",Yes,4.2,Group,Reading,83,No,Music,No,5,5,Yes
+151,Saanvi Kant,CBSE,2023,52,72,65,99,98,77.2,"English, Computer Science","Mathematics, Chemistry",Yes,5.7,Coaching,Visual,91,No,Music,Yes,4,1,Yes
+152,Ayesha Gera,State,2023,81,98,64,98,62,80.6,"Physics, English","Computer Science, Chemistry",No,5.5,Group,Auditory,80,No,Sports,No,3,2,No
+153,Khushi Dora,State,2023,87,66,75,89,66,76.6,"English, Mathematics","Physics, Computer Science",No,2.6,Group,Auditory,89,No,None,Yes,4,3,Yes
+154,Piya Char,State,2024,67,76,70,40,54,61.4,"Physics, Chemistry","English, Computer Science",Yes,4.4,Group,Visual,72,No,Sports,Yes,1,5,No
+155,Kanav Soman,ICSE,2025,88,72,49,49,42,60.0,"Mathematics, Physics","Computer Science, Chemistry",No,5.1,Coaching,Practical,82,Yes,Arts,Yes,5,1,No
+156,Vanya Venkataraman,State,2023,70,58,76,66,54,64.8,"Chemistry, Mathematics","Computer Science, Physics",Yes,3.7,Group,Visual,81,Yes,Music,No,4,1,Yes
+157,Hrishita Kari,CBSE,2024,97,78,76,50,56,71.4,"Mathematics, Physics","English, Computer Science",No,5.4,Coaching,Practical,88,No,Sports,Yes,3,5,Yes
+158,Shlok Manda,ICSE,2024,75,54,87,71,86,74.6,"Chemistry, Computer Science","Physics, English",No,2.5,Coaching,Visual,87,No,Debate,No,3,3,Yes
+159,Adah Barad,CBSE,2025,75,75,61,54,89,70.8,"Computer Science, Mathematics","English, Chemistry",No,5.9,Group,Auditory,84,No,Sports,Yes,4,5,No
+160,Rati Saha,ICSE,2024,75,90,68,90,90,82.6,"Physics, English","Chemistry, Mathematics",Yes,4.1,Group,Practical,89,Yes,Sports,Yes,5,4,No
+161,Manikya Wali,ICSE,2024,40,41,98,88,71,67.6,"Chemistry, English","Mathematics, Physics",Yes,1.9,Coaching,Auditory,93,No,None,No,1,2,Yes
+162,Vritika Krishna,ICSE,2025,95,57,72,47,88,71.8,"Mathematics, Computer Science","English, Physics",Yes,4.0,Group,Reading,77,No,None,No,4,1,No
+163,Umang Handa,State,2025,60,71,99,55,74,71.8,"Chemistry, Computer Science","English, Mathematics",No,3.5,Group,Reading,91,Yes,None,No,5,4,No
+164,Darshit Raj,CBSE,2025,100,83,89,86,80,87.6,"Mathematics, Chemistry","Computer Science, Physics",Yes,3.1,Group,Practical,94,Yes,Music,Yes,1,2,No
+165,Seher Vaidya,ICSE,2024,71,49,72,45,89,65.2,"Computer Science, Chemistry","English, Physics",Yes,4.6,Solo,Reading,92,No,Music,Yes,1,3,No
+166,Shanaya Hari,CBSE,2023,81,76,74,90,75,79.2,"English, Mathematics","Chemistry, Computer Science",Yes,3.5,Coaching,Auditory,73,Yes,Sports,Yes,2,1,Yes
+167,Taran Bhargava,ICSE,2025,53,65,40,55,76,57.8,"Computer Science, Physics","Chemistry, Mathematics",Yes,2.6,Group,Practical,82,No,Arts,No,2,4,Yes
+168,Fateh Rajan,CBSE,2025,93,41,83,89,92,79.6,"Mathematics, Computer Science","Physics, Chemistry",Yes,2.4,Coaching,Reading,100,No,Debate,Yes,5,3,No
+169,Oorja Dixit,State,2024,57,87,97,47,45,66.6,"Chemistry, Physics","Computer Science, English",No,5.8,Solo,Visual,93,Yes,Arts,No,5,2,No
+170,Oorja Dhillon,ICSE,2023,65,70,43,50,90,63.6,"Computer Science, Physics","Chemistry, English",Yes,3.0,Coaching,Visual,82,No,None,Yes,2,3,Yes
+171,Divij Bhatti,State,2025,67,65,85,60,48,65.0,"Chemistry, Mathematics","Computer Science, English",Yes,3.0,Solo,Reading,71,No,Debate,Yes,1,5,No
+172,Aarna Kanda,CBSE,2023,93,80,64,41,44,64.4,"Mathematics, Physics","English, Computer Science",No,5.9,Group,Auditory,73,Yes,Music,No,1,5,No
+173,Dhanuk Rau,ICSE,2024,70,98,90,71,74,80.6,"Physics, Chemistry","Mathematics, English",No,1.2,Coaching,Visual,87,No,Arts,Yes,5,5,Yes
+174,Stuvan Din,ICSE,2024,77,55,92,64,99,77.4,"Computer Science, Chemistry","Physics, English",Yes,1.2,Coaching,Practical,97,Yes,Music,Yes,4,2,No
+175,Riaan Dhingra,CBSE,2024,83,41,92,68,47,66.2,"Chemistry, Mathematics","Physics, Computer Science",No,2.5,Solo,Auditory,94,No,Arts,No,5,3,Yes
+176,Saksham Bhatnagar,ICSE,2023,85,70,64,76,75,74.0,"Mathematics, English","Chemistry, Physics",No,5.5,Group,Practical,99,Yes,Music,No,1,5,Yes
+177,Diya Sathe,ICSE,2023,52,63,45,68,43,54.2,"English, Physics","Computer Science, Chemistry",No,4.6,Solo,Practical,72,Yes,None,Yes,3,3,No
+178,Neelofar Gour,State,2025,83,40,47,99,80,69.8,"English, Mathematics","Physics, Chemistry",No,1.9,Solo,Visual,86,No,Arts,No,2,5,No
+179,Priyansh Shere,ICSE,2024,71,69,89,55,71,71.0,"Chemistry, Mathematics","English, Physics",Yes,5.0,Group,Auditory,90,No,None,Yes,4,5,Yes
+180,Mohanlal Gupta,State,2025,56,48,85,56,59,60.8,"Chemistry, Computer Science","Physics, Mathematics",No,5.1,Group,Visual,82,No,Music,Yes,5,2,No
+181,Ela Dhingra,ICSE,2024,44,44,75,64,40,53.4,"Chemistry, English","Computer Science, Mathematics",No,3.2,Coaching,Practical,71,No,None,Yes,5,3,Yes
+182,Shalv Soni,State,2023,78,69,87,93,64,78.2,"English, Chemistry","Computer Science, Physics",Yes,4.3,Solo,Auditory,95,Yes,Music,Yes,1,1,Yes
+183,Umang Ramakrishnan,State,2024,55,45,84,95,74,70.6,"English, Chemistry","Physics, Mathematics",Yes,4.3,Coaching,Auditory,89,Yes,Arts,No,4,4,No
+184,Arhaan Bedi,CBSE,2024,46,75,41,62,86,62.0,"Computer Science, Physics","Chemistry, Mathematics",Yes,5.2,Group,Auditory,83,No,Debate,Yes,4,1,Yes
+185,Mohanlal Dugar,ICSE,2024,58,58,74,59,41,58.0,"Chemistry, English","Computer Science, Mathematics",Yes,5.6,Coaching,Reading,74,Yes,Sports,No,1,1,No
+186,Pihu Chanda,ICSE,2023,96,56,81,45,100,75.6,"Computer Science, Mathematics","English, Physics",No,3.7,Coaching,Visual,70,No,Debate,No,2,3,No
+187,Pari Sarkar,ICSE,2024,75,60,64,79,43,64.2,"English, Mathematics","Computer Science, Physics",No,1.3,Solo,Visual,83,Yes,Sports,Yes,4,5,Yes
+188,Rania Tak,CBSE,2024,65,82,63,70,64,68.8,"Physics, English","Chemistry, Computer Science",No,5.5,Solo,Visual,99,Yes,Debate,Yes,2,1,No
+189,Ishita Barman,CBSE,2024,73,82,69,51,99,74.8,"Computer Science, Physics","English, Chemistry",Yes,2.5,Coaching,Practical,86,Yes,Sports,No,3,4,No
+190,Advika Hari,State,2023,64,40,58,46,82,58.0,"Computer Science, Mathematics","Physics, English",Yes,5.3,Solo,Reading,76,Yes,Sports,No,3,3,Yes
+191,Adira Doshi,ICSE,2024,51,90,65,68,99,74.6,"Computer Science, Physics","Mathematics, Chemistry",Yes,5.0,Group,Auditory,72,Yes,None,Yes,2,2,No
+192,Ritvik Toor,ICSE,2024,51,58,65,92,92,71.6,"English, Computer Science","Mathematics, Physics",No,4.6,Solo,Reading,88,No,Sports,Yes,1,4,No
+193,Mannat Sandhu,State,2023,78,69,97,40,100,76.8,"Computer Science, Chemistry","English, Physics",No,5.8,Group,Practical,81,Yes,Sports,Yes,4,4,Yes
+194,Dhanush Rama,ICSE,2023,41,91,71,57,46,61.2,"Physics, Chemistry","Mathematics, Computer Science",Yes,3.5,Solo,Auditory,88,Yes,Debate,No,4,2,Yes
+195,Shalv Iyengar,CBSE,2023,71,47,51,87,64,64.0,"English, Mathematics","Physics, Chemistry",Yes,5.5,Group,Auditory,70,Yes,Sports,Yes,3,5,Yes
+196,Indranil Bava,State,2023,64,100,75,76,71,77.2,"Physics, English","Mathematics, Computer Science",No,5.2,Group,Visual,73,No,Sports,No,2,2,No
+197,Rania Chaudhuri,ICSE,2024,40,84,47,45,84,60.0,"Physics, Computer Science","Mathematics, English",No,5.5,Solo,Reading,89,No,Arts,No,3,1,No
+198,Madhav Chatterjee,State,2025,50,50,82,85,85,70.4,"English, Computer Science","Mathematics, Physics",No,3.8,Solo,Auditory,99,No,Arts,No,5,4,No
+199,Badal Mangal,CBSE,2025,49,58,72,95,73,69.4,"English, Computer Science","Mathematics, Physics",Yes,1.4,Group,Visual,85,No,Debate,Yes,3,5,No
+200,Inaaya  Butala,State,2023,94,69,45,92,94,78.8,"Mathematics, Computer Science","Chemistry, Physics",Yes,5.5,Group,Visual,76,No,Debate,Yes,4,1,Yes
+201,Tanya Dey,State,2023,100,80,88,68,98,86.8,"Mathematics, Computer Science","English, Physics",No,3.2,Group,Auditory,98,No,Music,No,2,4,No
+202,Nirvaan Kumar,State,2024,76,58,40,46,42,52.4,"Mathematics, Physics","Chemistry, Computer Science",No,4.3,Solo,Practical,89,No,Arts,No,3,2,No
+203,Yuvraj  Sawhney,CBSE,2025,97,49,43,89,61,67.8,"Mathematics, English","Chemistry, Physics",No,2.0,Group,Visual,99,No,None,No,2,3,No
+204,Vritika Varghese,ICSE,2025,44,88,60,97,77,73.2,"English, Physics","Mathematics, Chemistry",No,6.0,Solo,Practical,74,Yes,Debate,No,3,2,No
+205,Jayant Anand,CBSE,2023,99,88,50,56,77,74.0,"Mathematics, Physics","Chemistry, English",No,1.6,Coaching,Auditory,83,No,Sports,No,2,5,Yes
+206,Nakul Chacko,State,2024,48,53,65,55,75,59.2,"Computer Science, Chemistry","Mathematics, Physics",No,1.1,Coaching,Auditory,70,No,Music,Yes,1,5,Yes
+207,Zara Shankar,CBSE,2025,94,74,82,94,87,86.2,"Mathematics, English","Physics, Chemistry",No,4.5,Solo,Reading,91,No,Music,No,1,1,No
+208,Kavya Atwal,CBSE,2023,47,47,94,70,100,71.6,"Computer Science, Chemistry","Mathematics, Physics",Yes,2.9,Coaching,Visual,73,Yes,Sports,Yes,2,5,No
+209,Jayan Mani,ICSE,2023,40,71,46,66,52,55.0,"Physics, English","Mathematics, Chemistry",No,1.6,Group,Auditory,74,Yes,Arts,No,5,5,Yes
+210,Jiya Sarraf,ICSE,2024,63,73,60,84,70,70.0,"English, Physics","Chemistry, Mathematics",Yes,1.9,Solo,Practical,89,No,None,Yes,2,5,No
+211,Kanav Talwar,State,2023,100,54,48,91,96,77.8,"Mathematics, Computer Science","Chemistry, Physics",No,2.4,Group,Reading,83,No,Arts,Yes,4,4,Yes
+212,Urvi Gole,CBSE,2025,68,99,49,98,89,80.6,"Physics, English","Chemistry, Mathematics",No,2.4,Group,Reading,79,Yes,Arts,No,5,4,No
+213,Pranay Arya,State,2023,84,92,79,61,86,80.4,"Physics, Computer Science","English, Chemistry",Yes,1.4,Solo,Reading,94,No,Sports,No,2,3,Yes
+214,Lavanya Saxena,ICSE,2025,59,63,53,58,76,61.8,"Computer Science, Physics","Chemistry, English",Yes,5.1,Coaching,Reading,93,Yes,Debate,Yes,4,2,Yes
+215,Abram Doshi,ICSE,2024,49,76,67,68,87,69.4,"Computer Science, Physics","Mathematics, Chemistry",Yes,1.3,Group,Auditory,83,No,Music,Yes,5,4,Yes
+216,Anay Gole,State,2023,78,98,40,68,56,68.0,"Physics, Mathematics","Chemistry, Computer Science",No,2.0,Solo,Reading,80,No,Debate,No,4,4,Yes
+217,Jayant Toor,State,2023,76,62,48,41,50,55.4,"Mathematics, Physics","English, Chemistry",No,2.7,Solo,Practical,85,Yes,Sports,Yes,4,5,No
+218,Veer Sem,ICSE,2025,56,66,88,46,79,67.0,"Chemistry, Computer Science","English, Mathematics",Yes,5.6,Group,Auditory,87,Yes,Music,Yes,1,4,No
+219,Adira Ben,State,2025,71,60,96,41,99,73.4,"Computer Science, Chemistry","English, Physics",No,4.9,Solo,Auditory,72,No,Arts,No,5,3,Yes
+220,Vidur Tandon,State,2024,98,95,80,98,40,82.2,"Mathematics, English","Computer Science, Chemistry",Yes,4.1,Group,Practical,79,No,Sports,No,4,3,No
+221,Lakshay Keer,State,2025,42,95,93,42,80,70.4,"Physics, Chemistry","Mathematics, English",No,3.7,Group,Reading,72,No,Music,No,3,5,No
+222,Pranay Khanna,ICSE,2023,89,94,66,91,40,76.0,"Physics, English","Computer Science, Chemistry",No,2.2,Group,Auditory,82,Yes,Arts,No,3,2,No
+223,Dhanuk Bhandari,ICSE,2025,78,70,90,57,66,72.2,"Chemistry, Mathematics","English, Computer Science",Yes,5.5,Coaching,Reading,81,Yes,Music,No,4,1,Yes
+224,Anya Buch,CBSE,2025,76,65,55,92,95,76.6,"Computer Science, English","Chemistry, Physics",No,1.8,Coaching,Practical,75,No,Arts,Yes,4,4,No
+225,Myra Manne,ICSE,2025,48,91,40,98,43,64.0,"English, Physics","Chemistry, Computer Science",Yes,2.8,Coaching,Reading,92,Yes,Sports,No,2,4,Yes
+226,Prerak Ramanathan,CBSE,2024,56,99,61,70,49,67.0,"Physics, English","Computer Science, Mathematics",No,5.3,Coaching,Auditory,70,Yes,Sports,Yes,2,1,No
+227,Shayak Dhingra,CBSE,2024,100,54,72,92,60,75.6,"Mathematics, English","Physics, Computer Science",No,3.3,Coaching,Practical,89,No,Sports,Yes,5,2,No
+228,Kismat Wali,ICSE,2024,92,43,49,94,62,68.0,"English, Mathematics","Physics, Chemistry",No,3.9,Coaching,Visual,85,Yes,None,No,1,1,Yes
+229,Nayantara Dara,State,2024,63,75,42,92,48,64.0,"English, Physics","Chemistry, Computer Science",Yes,3.8,Coaching,Auditory,74,No,Sports,Yes,3,1,Yes
+230,Tushar Tella,State,2025,50,99,66,92,83,78.0,"Physics, English","Mathematics, Chemistry",No,2.1,Group,Reading,99,No,None,No,1,1,Yes
+231,Shray Karan,CBSE,2024,81,77,56,81,81,75.2,"Mathematics, English","Chemistry, Physics",No,2.1,Coaching,Visual,93,No,Music,Yes,5,1,No
+232,Anaya Kulkarni,CBSE,2023,59,83,52,72,96,72.4,"Computer Science, Physics","Chemistry, Mathematics",Yes,1.8,Coaching,Auditory,89,No,Debate,No,5,2,No
+233,Abram Sundaram,CBSE,2025,57,67,58,81,97,72.0,"Computer Science, English","Mathematics, Chemistry",Yes,3.6,Group,Practical,87,No,Sports,No,5,1,No
+234,Dhruv Iyengar,ICSE,2025,72,85,68,57,51,66.6,"Physics, Mathematics","Computer Science, English",No,4.2,Coaching,Visual,80,Yes,Music,No,5,3,Yes
+235,Neysa Dara,CBSE,2025,81,40,51,96,86,70.8,"English, Computer Science","Physics, Chemistry",Yes,2.5,Group,Practical,85,Yes,None,No,1,2,Yes
+236,Ishita Randhawa,State,2023,93,64,72,69,63,72.2,"Mathematics, Chemistry","Computer Science, Physics",No,1.2,Solo,Auditory,71,Yes,None,Yes,3,1,No
+237,Zara Sampath,State,2024,61,41,41,50,76,53.8,"Computer Science, Mathematics","Physics, Chemistry",No,1.3,Group,Reading,87,Yes,Debate,No,3,5,No
+238,Saira Wali,CBSE,2025,67,72,79,72,62,70.4,"Chemistry, Physics","Computer Science, Mathematics",No,2.7,Solo,Visual,85,No,Music,No,1,3,Yes
+239,Piya Agarwal,CBSE,2024,53,84,70,72,43,64.4,"Physics, English","Computer Science, Mathematics",Yes,5.3,Group,Practical,85,No,Debate,No,4,5,No
+240,Jiya Sem,CBSE,2023,89,72,85,66,52,72.8,"Mathematics, Chemistry","Computer Science, English",Yes,2.0,Solo,Visual,75,No,Sports,Yes,2,4,No
+241,Kabir Trivedi,ICSE,2023,85,54,90,98,56,76.6,"English, Chemistry","Physics, Computer Science",Yes,3.0,Coaching,Auditory,75,No,Arts,Yes,3,1,No
+242,Saanvi Ravi,State,2025,68,64,65,94,90,76.2,"English, Computer Science","Physics, Chemistry",Yes,5.7,Group,Visual,96,No,Arts,No,1,5,No
+243,Madhup Anand,ICSE,2024,70,50,88,88,60,71.2,"Chemistry, English","Physics, Computer Science",No,4.9,Coaching,Visual,94,Yes,Arts,Yes,4,3,Yes
+244,Farhan Chaudhari,State,2025,82,46,74,94,76,74.4,"English, Mathematics","Physics, Chemistry",No,4.9,Coaching,Auditory,82,No,Arts,No,2,4,No
+245,Aarna Khurana,CBSE,2024,71,95,73,47,59,69.0,"Physics, Chemistry","English, Computer Science",No,2.1,Group,Reading,95,No,Arts,Yes,1,1,No
+246,Zaina Vohra,CBSE,2024,97,99,72,43,71,76.4,"Physics, Mathematics","English, Computer Science",No,1.7,Group,Reading,92,Yes,Arts,Yes,1,2,No
+247,Urvi Dash,ICSE,2025,44,80,76,84,81,73.0,"English, Computer Science","Mathematics, Chemistry",Yes,4.0,Solo,Visual,87,Yes,Arts,No,2,2,Yes
+248,Vardaniya Kamdar,ICSE,2024,66,97,70,48,93,74.8,"Physics, Computer Science","English, Mathematics",No,1.5,Group,Reading,74,Yes,None,Yes,5,3,Yes
+249,Himmat Sabharwal,CBSE,2023,58,87,42,62,77,65.2,"Physics, Computer Science","Chemistry, Mathematics",Yes,2.9,Group,Auditory,72,Yes,Music,No,3,3,No
+250,Sana Kala,State,2023,91,46,65,50,94,69.2,"Computer Science, Mathematics","Physics, English",Yes,1.7,Solo,Visual,75,Yes,None,Yes,2,5,No
+251,Yakshit Grover,State,2024,60,96,100,93,56,81.0,"Chemistry, Physics","Computer Science, Mathematics",No,1.6,Solo,Visual,89,No,Debate,No,4,1,No
+252,Sana Goda,ICSE,2025,97,99,41,47,76,72.0,"Physics, Mathematics","Chemistry, English",No,4.3,Group,Visual,76,No,None,No,1,4,No
+253,Tushar Mangal,State,2023,44,45,76,54,81,60.0,"Computer Science, Chemistry","Mathematics, Physics",No,3.2,Solo,Reading,84,No,Sports,Yes,3,2,No
+254,Nakul Chandra,ICSE,2025,94,59,48,69,78,69.6,"Mathematics, Computer Science","Chemistry, Physics",Yes,2.3,Group,Visual,88,Yes,Debate,No,3,1,Yes
+255,Mannat Wali,ICSE,2023,95,67,51,88,42,68.6,"Mathematics, English","Computer Science, Chemistry",No,1.4,Solo,Auditory,84,Yes,Music,Yes,4,3,Yes
+256,Oorja Bhatnagar,ICSE,2023,63,72,100,70,56,72.2,"Chemistry, Physics","Computer Science, Mathematics",Yes,5.6,Group,Auditory,80,Yes,Arts,Yes,3,2,No
+257,Anahi Bhakta,State,2024,68,55,85,79,57,68.8,"Chemistry, English","Physics, Computer Science",No,1.7,Group,Auditory,96,Yes,Sports,Yes,4,3,No
+258,Hazel Sinha,State,2024,78,86,44,48,63,63.8,"Physics, Mathematics","Chemistry, English",Yes,1.0,Solo,Reading,100,No,Music,No,1,1,Yes
+259,Lavanya Bakshi,State,2023,82,53,42,70,53,60.0,"Mathematics, English","Chemistry, Physics",No,4.0,Group,Practical,90,No,Debate,Yes,3,4,Yes
+260,Aarush Tailor,State,2023,75,87,66,69,99,79.2,"Computer Science, Physics","Chemistry, English",Yes,1.6,Solo,Reading,99,No,Arts,No,5,4,Yes
+261,Kavya Raj,CBSE,2025,77,81,85,100,79,84.4,"English, Chemistry","Mathematics, Computer Science",Yes,1.8,Group,Practical,77,Yes,Music,No,2,3,Yes
+262,Kanav Rajagopalan,CBSE,2025,98,66,51,88,98,80.2,"Mathematics, Computer Science","Chemistry, Physics",Yes,3.2,Solo,Visual,97,Yes,Sports,No,4,5,Yes
+263,Anvi Chana,State,2025,90,53,64,61,55,64.6,"Mathematics, Chemistry","Physics, Computer Science",Yes,6.0,Coaching,Visual,88,Yes,Arts,No,2,2,No
+264,Dhanush Tella,ICSE,2025,96,53,83,75,97,80.8,"Computer Science, Mathematics","Physics, English",Yes,1.1,Coaching,Visual,98,Yes,Music,No,5,5,No
+265,Aayush Jain,CBSE,2025,85,60,87,45,60,67.4,"Chemistry, Mathematics","English, Physics",No,4.7,Solo,Practical,90,No,None,Yes,2,2,Yes
+266,Yashvi Bala,State,2024,80,87,90,46,98,80.2,"Computer Science, Chemistry","English, Mathematics",No,5.4,Solo,Practical,84,Yes,None,No,4,4,Yes
+267,Ritvik Deep,CBSE,2024,86,65,45,90,53,67.8,"English, Mathematics","Chemistry, Computer Science",Yes,3.6,Solo,Practical,92,Yes,Arts,Yes,5,2,Yes
+268,Zeeshan Karpe,ICSE,2025,57,93,100,85,73,81.6,"Chemistry, Physics","Mathematics, Computer Science",No,1.4,Coaching,Visual,75,No,Debate,Yes,4,1,Yes
+269,Prisha Warrior,CBSE,2025,76,74,41,86,57,66.8,"English, Mathematics","Chemistry, Computer Science",No,4.5,Solo,Reading,100,Yes,None,Yes,5,2,No
+270,Renee Gulati,ICSE,2025,86,74,73,85,57,75.0,"Mathematics, English","Computer Science, Chemistry",Yes,5.8,Solo,Practical,92,No,Music,Yes,4,4,No
+271,Advik Borah,State,2024,56,57,73,75,45,61.2,"English, Chemistry","Computer Science, Mathematics",No,1.1,Group,Visual,72,Yes,Sports,Yes,5,3,No
+272,Adah Dara,CBSE,2023,99,69,66,49,52,67.0,"Mathematics, Physics","English, Computer Science",Yes,5.8,Coaching,Reading,92,No,Debate,No,2,1,Yes
+273,Suhana Wable,State,2024,90,60,69,94,44,71.4,"English, Mathematics","Computer Science, Physics",Yes,4.9,Coaching,Visual,70,No,Sports,No,4,5,Yes
+274,Damini Handa,CBSE,2023,48,50,55,80,60,58.6,"English, Computer Science","Mathematics, Physics",No,3.9,Group,Auditory,100,Yes,None,Yes,4,3,No
+275,Yuvaan Kadakia,CBSE,2023,96,75,80,81,86,83.6,"Mathematics, Computer Science","Physics, Chemistry",No,4.9,Coaching,Auditory,92,Yes,Sports,Yes,3,5,No
+276,Nishith Tripathi,State,2024,77,55,89,78,91,78.0,"Computer Science, Chemistry","Physics, Mathematics",No,2.1,Solo,Practical,88,No,Debate,Yes,4,3,Yes
+277,Azad Ranganathan,CBSE,2025,76,40,88,61,80,69.0,"Chemistry, Computer Science","Physics, English",No,2.3,Group,Reading,74,No,None,No,3,4,Yes
+278,Vardaniya Sani,State,2025,75,49,45,61,50,56.0,"Mathematics, English","Chemistry, Physics",No,3.9,Coaching,Visual,82,Yes,Debate,No,3,4,No
+279,Miraya Jayaraman,CBSE,2024,96,63,47,68,72,69.2,"Mathematics, Computer Science","Chemistry, Physics",Yes,2.9,Coaching,Reading,78,Yes,Debate,Yes,3,5,No
+280,Yakshit Ganesh,State,2023,100,90,71,49,91,80.2,"Mathematics, Computer Science","English, Chemistry",No,2.2,Coaching,Reading,90,Yes,Sports,No,5,5,Yes
+281,Nehmat Dyal,CBSE,2025,82,88,99,66,91,85.2,"Chemistry, Computer Science","English, Mathematics",No,4.0,Solo,Visual,100,No,None,Yes,4,2,Yes
+282,Vivaan Dua,ICSE,2025,67,77,55,44,65,61.6,"Physics, Mathematics","English, Chemistry",No,4.6,Coaching,Auditory,79,No,Arts,No,3,2,No
+283,Armaan Deo,CBSE,2025,86,91,100,48,98,84.6,"Chemistry, Computer Science","English, Mathematics",No,4.3,Group,Visual,99,Yes,Debate,No,2,4,No
+284,Ishita Ramachandran,CBSE,2023,96,45,59,96,62,71.6,"Mathematics, English","Physics, Chemistry",Yes,3.7,Group,Auditory,76,Yes,None,No,5,5,No
+285,Mehul Chauhan,State,2025,89,85,78,99,55,81.2,"English, Mathematics","Computer Science, Chemistry",No,2.1,Solo,Visual,71,No,Debate,No,2,3,No
+286,Abram Vyas,State,2025,52,81,56,74,87,70.0,"Computer Science, Physics","Mathematics, Chemistry",No,1.6,Group,Practical,94,Yes,Music,No,3,4,No
+287,Seher Sabharwal,ICSE,2025,42,64,45,74,64,57.8,"English, Physics","Mathematics, Chemistry",No,5.4,Solo,Practical,86,No,None,Yes,2,3,Yes
+288,Jayan Choudhry,State,2025,72,61,73,68,86,72.0,"Computer Science, Chemistry","Physics, English",Yes,3.2,Solo,Practical,72,Yes,Arts,Yes,4,5,Yes
+289,Dhanuk Sankar,ICSE,2025,94,74,60,56,100,76.8,"Computer Science, Mathematics","English, Chemistry",No,3.2,Group,Reading,83,Yes,Music,No,1,4,Yes
+290,Keya Dubey,ICSE,2023,93,70,79,70,67,75.8,"Mathematics, Chemistry","Computer Science, Physics",Yes,1.5,Coaching,Practical,72,Yes,Music,Yes,4,5,Yes
+291,Farhan Bakshi,State,2025,42,97,49,92,60,68.0,"Physics, English","Mathematics, Chemistry",Yes,4.3,Solo,Auditory,79,Yes,None,Yes,1,1,Yes
+292,Yuvraj  Bhandari,State,2024,80,49,90,57,81,71.4,"Chemistry, Computer Science","Physics, English",Yes,4.2,Solo,Visual,92,Yes,Debate,Yes,5,2,Yes
+293,Shray Ghosh,CBSE,2025,55,89,91,94,90,83.8,"English, Chemistry","Mathematics, Physics",Yes,1.3,Group,Practical,72,No,Sports,No,4,1,No
+294,Amira Chakraborty,ICSE,2023,72,49,72,83,52,65.6,"English, Mathematics","Physics, Computer Science",No,2.0,Group,Practical,94,No,None,No,3,2,Yes
+295,Advika Loke,CBSE,2023,59,98,59,71,77,72.8,"Physics, Computer Science","Mathematics, Chemistry",Yes,2.8,Group,Reading,71,No,Sports,Yes,1,4,Yes
+296,Shalv Varty,CBSE,2025,74,96,65,94,53,76.4,"Physics, English","Computer Science, Chemistry",Yes,5.3,Solo,Reading,90,No,Music,No,5,4,Yes
+297,Farhan Varty,State,2023,43,81,100,85,56,73.0,"Chemistry, English","Mathematics, Computer Science",No,2.0,Solo,Reading,87,No,None,No,3,4,Yes
+298,Piya D’Alia,State,2025,87,89,99,77,56,81.6,"Chemistry, Physics","Computer Science, English",No,2.5,Group,Visual,80,Yes,None,No,4,1,Yes
+299,Divyansh Atwal,State,2025,49,54,44,81,68,59.2,"English, Computer Science","Chemistry, Mathematics",Yes,3.2,Solo,Reading,100,No,None,Yes,5,1,Yes
+300,Anahita Gandhi,State,2024,49,85,69,48,88,67.8,"Computer Science, Physics","English, Mathematics",No,3.8,Coaching,Practical,82,No,Music,Yes,4,1,No
+301,Oorja Divan,CBSE,2024,83,70,86,91,45,75.0,"English, Chemistry","Computer Science, Physics",No,1.7,Coaching,Practical,96,No,Arts,Yes,2,4,Yes
+302,Hansh Dhaliwal,CBSE,2024,57,84,40,56,42,55.8,"Physics, Mathematics","Chemistry, Computer Science",Yes,1.2,Group,Visual,87,No,Music,No,2,3,Yes
+303,Advik Rastogi,State,2025,98,67,72,51,73,72.2,"Mathematics, Computer Science","English, Physics",Yes,4.9,Coaching,Reading,89,Yes,Sports,Yes,1,3,Yes
+304,Anahi Goel,ICSE,2025,83,60,84,40,54,64.2,"Chemistry, Mathematics","English, Computer Science",Yes,4.9,Coaching,Visual,81,No,Sports,No,1,1,Yes
+305,Sahil Sundaram,State,2025,54,100,87,46,71,71.6,"Physics, Chemistry","English, Mathematics",No,5.6,Solo,Reading,80,Yes,Sports,No,2,4,No
+306,Emir Kapoor,State,2024,81,43,81,65,73,68.6,"Mathematics, Chemistry","Physics, English",Yes,2.2,Solo,Visual,80,Yes,Arts,Yes,4,5,Yes
+307,Samarth Yogi,CBSE,2025,63,86,92,66,96,80.6,"Computer Science, Chemistry","Mathematics, English",No,2.8,Coaching,Visual,79,No,Sports,Yes,1,3,Yes
+308,Anya Verma,ICSE,2025,53,49,43,64,70,55.8,"Computer Science, English","Chemistry, Physics",Yes,3.4,Group,Practical,77,Yes,Music,Yes,2,5,Yes
+309,Oorja Tata,State,2025,53,51,95,54,66,63.8,"Chemistry, Computer Science","Physics, Mathematics",Yes,4.4,Group,Auditory,92,No,None,Yes,2,5,No
+310,Raghav Tripathi,CBSE,2025,98,69,78,70,51,73.2,"Mathematics, Chemistry","Computer Science, Physics",No,3.7,Solo,Visual,70,Yes,Arts,Yes,2,3,No
+311,Dhruv Din,State,2024,67,79,42,46,82,63.2,"Computer Science, Physics","Chemistry, English",No,4.7,Solo,Reading,86,No,Arts,Yes,3,5,No
+312,Nitara Wason,State,2023,78,91,85,77,65,79.2,"Physics, Chemistry","Computer Science, English",Yes,5.8,Coaching,Reading,74,Yes,None,Yes,4,3,Yes
+313,Zoya Chakraborty,ICSE,2023,96,80,61,81,99,83.4,"Computer Science, Mathematics","Chemistry, Physics",Yes,1.7,Group,Visual,90,Yes,Arts,Yes,3,2,Yes
+314,Sahil Grover,ICSE,2023,84,73,42,94,81,74.8,"English, Mathematics","Chemistry, Physics",No,1.1,Solo,Visual,87,Yes,Debate,No,1,2,Yes
+315,Jayan Borah,ICSE,2025,46,96,41,52,57,58.4,"Physics, Computer Science","Chemistry, Mathematics",No,5.1,Solo,Visual,77,No,Arts,No,1,1,No
+316,Ivan Koshy,CBSE,2025,74,91,46,85,64,72.0,"Physics, English","Chemistry, Computer Science",Yes,2.4,Coaching,Reading,74,Yes,None,No,4,5,No
+317,Eshani Vyas,State,2023,80,43,53,43,85,60.8,"Computer Science, Mathematics","Physics, English",Yes,4.9,Coaching,Reading,79,Yes,Arts,No,1,2,Yes
+318,Drishya Butala,State,2023,76,82,53,66,85,72.4,"Computer Science, Physics","Chemistry, English",Yes,2.1,Coaching,Auditory,82,No,Arts,Yes,3,4,No
+319,Zaina Loke,CBSE,2024,89,72,94,72,95,84.4,"Computer Science, Chemistry","Physics, English",No,4.7,Coaching,Auditory,78,No,Arts,Yes,3,2,Yes
+320,Shamik Bhardwaj,State,2023,65,85,74,80,78,76.4,"Physics, English","Mathematics, Chemistry",Yes,5.0,Solo,Practical,78,Yes,Sports,Yes,1,1,Yes
+321,Kaira Kaul,CBSE,2023,44,48,84,80,58,62.8,"Chemistry, English","Mathematics, Physics",No,5.6,Group,Auditory,80,Yes,Music,No,1,2,No
+322,Arnav Dey,State,2023,96,80,86,83,75,84.0,"Mathematics, Chemistry","Computer Science, Physics",Yes,4.4,Coaching,Reading,83,Yes,Debate,Yes,3,2,No
+323,Shanaya Bhatia,State,2023,44,41,45,72,70,54.4,"English, Computer Science","Physics, Mathematics",Yes,2.1,Group,Practical,85,Yes,Music,No,2,5,Yes
+324,Emir Chahal,ICSE,2024,67,72,88,96,69,78.4,"English, Chemistry","Mathematics, Computer Science",No,3.0,Group,Practical,72,Yes,Arts,No,5,5,No
+325,Mahika Kumar,CBSE,2023,40,95,83,68,79,73.0,"Physics, Chemistry","Mathematics, English",No,4.0,Group,Visual,84,Yes,Sports,No,2,4,No
+326,Jayan Raval,ICSE,2025,41,85,55,66,72,63.8,"Physics, Computer Science","Mathematics, Chemistry",Yes,5.8,Group,Auditory,71,Yes,Music,Yes,3,4,No
+327,Chirag Venkataraman,CBSE,2024,73,91,86,55,83,77.6,"Physics, Chemistry","English, Mathematics",No,1.8,Solo,Practical,84,Yes,Arts,No,2,2,Yes
+328,Alia Tak,ICSE,2023,93,95,91,42,92,82.6,"Physics, Mathematics","English, Chemistry",No,2.6,Solo,Reading,82,No,Sports,No,5,2,No
+329,Diya Konda,ICSE,2023,46,56,80,67,61,62.0,"Chemistry, English","Mathematics, Physics",No,5.6,Coaching,Visual,95,No,Sports,Yes,2,1,No
+330,Dhanuk Apte,CBSE,2023,87,79,63,47,71,69.4,"Mathematics, Physics","English, Chemistry",Yes,5.4,Group,Auditory,88,No,Debate,Yes,4,1,No
+331,Prisha Badami,State,2023,71,68,40,43,89,62.2,"Computer Science, Mathematics","Chemistry, English",No,4.5,Solo,Practical,98,Yes,Arts,No,5,5,No
+332,Bhamini Brar,CBSE,2024,76,61,92,45,61,67.0,"Chemistry, Mathematics","English, Physics",Yes,5.5,Coaching,Practical,89,No,Debate,No,5,1,No
+333,Samiha Raja,CBSE,2023,86,84,79,55,52,71.2,"Mathematics, Physics","Computer Science, English",No,2.4,Solo,Visual,80,No,None,No,1,5,No
+334,Armaan Sathe,CBSE,2025,87,55,85,84,73,76.8,"Mathematics, Chemistry","Physics, Computer Science",Yes,4.2,Solo,Auditory,84,Yes,Music,No,4,4,Yes
+335,Vedika Goswami,ICSE,2025,75,52,52,72,98,69.8,"Computer Science, Mathematics","Physics, Chemistry",Yes,3.4,Solo,Auditory,91,Yes,None,No,2,5,Yes
+336,Damini Baral,CBSE,2024,94,63,44,88,64,70.6,"Mathematics, English","Chemistry, Physics",No,2.5,Group,Practical,72,Yes,Debate,Yes,5,2,No
+337,Indranil Batta,State,2023,74,90,87,58,64,74.6,"Physics, Chemistry","English, Computer Science",Yes,5.3,Coaching,Reading,82,Yes,Debate,No,3,3,No
+338,Zaina Shere,State,2024,41,40,71,90,51,58.6,"English, Chemistry","Physics, Mathematics",No,5.0,Coaching,Reading,92,No,None,No,2,4,No
+339,Ranbir Bora,ICSE,2024,97,47,83,63,43,66.6,"Mathematics, Chemistry","Computer Science, Physics",Yes,2.6,Group,Practical,97,Yes,Debate,Yes,3,3,No
+340,Armaan Sarkar,ICSE,2025,62,83,41,85,80,70.2,"English, Physics","Chemistry, Mathematics",Yes,4.7,Solo,Auditory,99,No,Arts,Yes,5,5,No
+341,Alisha Suri,CBSE,2025,85,78,41,63,79,69.2,"Mathematics, Computer Science","Chemistry, English",Yes,5.6,Group,Practical,70,Yes,Arts,Yes,4,5,Yes
+342,Divyansh Raju,CBSE,2024,61,48,94,74,59,67.2,"Chemistry, English","Physics, Computer Science",Yes,2.4,Coaching,Practical,100,Yes,Music,Yes,3,3,No
+343,Kimaya Dara,CBSE,2024,68,66,66,89,73,72.4,"English, Computer Science","Physics, Chemistry",Yes,4.2,Solo,Visual,82,Yes,None,No,1,4,Yes
+344,Kiaan Upadhyay,ICSE,2024,61,98,67,83,100,81.8,"Computer Science, Physics","Mathematics, Chemistry",No,3.2,Coaching,Auditory,98,Yes,None,No,3,5,Yes
+345,Riaan Dass,CBSE,2025,48,74,96,92,72,76.4,"Chemistry, English","Mathematics, Computer Science",Yes,3.5,Solo,Auditory,90,No,Arts,Yes,2,5,No
+346,Dharmajan Johal,CBSE,2024,97,50,100,87,98,86.4,"Chemistry, Computer Science","Physics, English",No,3.5,Group,Practical,89,Yes,Sports,Yes,5,5,Yes
+347,Sumer Chada,ICSE,2024,86,60,80,73,96,79.0,"Computer Science, Mathematics","Physics, English",Yes,5.4,Group,Auditory,99,Yes,Debate,Yes,1,4,No
+348,Elakshi Sagar,ICSE,2023,86,84,76,76,100,84.4,"Computer Science, Mathematics","Chemistry, English",No,1.8,Group,Practical,89,Yes,Arts,Yes,1,3,No
+349,Lakshit Kibe,ICSE,2023,62,41,65,91,81,68.0,"English, Computer Science","Physics, Mathematics",No,2.7,Group,Auditory,70,No,None,No,3,4,No
+350,Aaryahi Dewan,CBSE,2025,68,77,85,52,81,72.6,"Chemistry, Computer Science","English, Mathematics",Yes,5.1,Coaching,Visual,83,Yes,Music,No,3,4,No
+351,Emir Handa,CBSE,2023,74,84,57,66,94,75.0,"Computer Science, Physics","Chemistry, English",No,1.0,Group,Auditory,98,Yes,None,No,3,4,Yes
+352,Kartik Date,CBSE,2025,71,63,42,85,69,66.0,"English, Mathematics","Chemistry, Physics",No,1.5,Coaching,Practical,82,No,Debate,Yes,4,4,Yes
+353,Zaina Bose,CBSE,2023,45,100,42,83,48,63.6,"Physics, English","Chemistry, Mathematics",No,5.2,Group,Reading,94,No,Sports,Yes,4,2,Yes
+354,Arnav Chakraborty,ICSE,2024,55,58,66,79,76,66.8,"English, Computer Science","Mathematics, Physics",Yes,3.5,Group,Auditory,82,Yes,None,Yes,2,2,Yes
+355,Azad Chad,State,2025,85,80,46,91,85,77.4,"English, Mathematics","Chemistry, Physics",Yes,3.4,Group,Auditory,91,No,Debate,Yes,4,1,Yes
+356,Anahi Bora,State,2023,41,63,75,60,79,63.6,"Computer Science, Chemistry","Mathematics, English",Yes,2.9,Solo,Auditory,88,Yes,None,No,4,4,Yes
+357,Kartik Soman,State,2025,41,89,49,87,83,69.8,"Physics, English","Mathematics, Chemistry",Yes,1.6,Coaching,Reading,91,Yes,Music,Yes,3,3,Yes
+358,Mahika Sahni,CBSE,2025,76,46,96,64,73,71.0,"Chemistry, Mathematics","Physics, English",Yes,1.6,Group,Visual,83,Yes,Sports,No,5,5,No
+359,Parinaaz Chauhan,CBSE,2025,96,75,73,46,71,72.2,"Mathematics, Physics","English, Computer Science",No,5.1,Group,Reading,86,Yes,Sports,Yes,2,3,No
+360,Shlok Kannan,CBSE,2024,80,64,72,42,58,63.2,"Mathematics, Chemistry","English, Computer Science",Yes,3.9,Group,Visual,85,Yes,Music,No,3,3,Yes
+361,Uthkarsh Khare,ICSE,2024,52,97,60,40,86,67.0,"Physics, Computer Science","English, Mathematics",No,4.6,Coaching,Auditory,74,Yes,Music,Yes,2,3,No
+362,Krish Thaker,ICSE,2024,72,61,100,58,95,77.2,"Chemistry, Computer Science","English, Physics",No,1.3,Coaching,Visual,78,Yes,None,Yes,3,4,Yes
+363,Damini Gokhale,ICSE,2023,61,100,63,97,56,75.4,"Physics, English","Computer Science, Mathematics",No,5.2,Solo,Practical,82,Yes,Music,No,1,4,Yes
+364,Nayantara Subramaniam,ICSE,2024,44,97,82,71,91,77.0,"Physics, Computer Science","Mathematics, English",No,5.5,Coaching,Practical,78,Yes,Sports,Yes,1,2,Yes
+365,Shaan Sarma,ICSE,2024,98,47,98,75,66,76.8,"Mathematics, Chemistry","Physics, Computer Science",No,2.0,Solo,Visual,88,No,Debate,No,1,3,No
+366,Urvi Venkatesh,CBSE,2024,85,86,47,76,83,75.4,"Physics, Mathematics","Chemistry, English",Yes,2.6,Group,Practical,83,No,Debate,No,1,4,Yes
+367,Taimur Vohra,ICSE,2023,50,68,87,61,89,71.0,"Computer Science, Chemistry","Mathematics, English",No,3.2,Solo,Auditory,98,Yes,Debate,Yes,3,2,No
+368,Eva Singh,State,2024,68,79,76,97,62,76.4,"English, Physics","Computer Science, Mathematics",No,3.9,Group,Reading,73,No,None,No,2,1,Yes
+369,Aaryahi Garg,ICSE,2023,84,76,74,56,54,68.8,"Mathematics, Physics","Computer Science, English",No,3.8,Coaching,Practical,90,No,Sports,No,1,1,Yes
+370,Shalv Walia,CBSE,2025,76,53,88,67,75,71.8,"Chemistry, Mathematics","Physics, English",No,2.5,Solo,Visual,75,Yes,Sports,Yes,5,2,No
+371,Ojas Garde,ICSE,2023,89,83,71,85,93,84.2,"Computer Science, Mathematics","Chemistry, Physics",No,2.4,Group,Reading,72,Yes,Music,No,5,2,No
+372,Tiya Gole,CBSE,2024,48,79,82,40,78,65.4,"Chemistry, Physics","English, Mathematics",Yes,4.1,Solo,Visual,75,No,Debate,No,2,3,No
+373,Abram Lanka,ICSE,2025,45,95,90,46,76,70.4,"Physics, Chemistry","Mathematics, English",Yes,5.7,Solo,Auditory,88,Yes,Music,Yes,4,1,No
+374,Anaya Dhillon,State,2025,97,91,62,53,55,71.6,"Mathematics, Physics","English, Computer Science",Yes,5.0,Coaching,Reading,72,No,None,Yes,1,3,Yes
+375,Renee Saraf,ICSE,2023,40,93,86,44,44,61.4,"Physics, Chemistry","Mathematics, English",Yes,1.3,Group,Visual,93,No,Music,No,4,4,Yes
+376,Pari Chad,ICSE,2024,88,73,54,74,81,74.0,"Mathematics, Computer Science","Chemistry, Physics",No,5.9,Coaching,Reading,82,No,None,Yes,4,4,Yes
+377,Nakul Dey,ICSE,2025,68,83,95,53,46,69.0,"Chemistry, Physics","Computer Science, English",No,5.1,Coaching,Practical,79,Yes,Music,No,3,1,No
+378,Samarth Korpal,ICSE,2024,85,66,100,92,75,83.6,"Chemistry, English","Physics, Computer Science",Yes,3.8,Solo,Visual,70,No,Arts,No,5,1,No
+379,Badal Raj,CBSE,2023,43,46,54,47,83,54.6,"Computer Science, Chemistry","Mathematics, Physics",No,4.6,Group,Auditory,87,No,Arts,No,4,1,Yes
+380,Manikya Raval,ICSE,2024,68,81,87,84,49,73.8,"Chemistry, English","Computer Science, Mathematics",Yes,4.3,Group,Reading,97,No,Debate,No,2,2,Yes
+381,Ranbir Deol,CBSE,2025,54,51,75,73,90,68.6,"Computer Science, Chemistry","Physics, Mathematics",No,2.7,Coaching,Reading,100,No,Debate,No,4,3,No
+382,Aaryahi Agrawal,State,2024,62,46,52,88,93,68.2,"Computer Science, English","Physics, Chemistry",Yes,5.9,Group,Practical,88,No,Debate,No,4,2,Yes
+383,Lakshay Chad,State,2024,95,82,78,57,74,77.2,"Mathematics, Physics","English, Computer Science",Yes,1.3,Group,Auditory,77,No,Music,No,2,5,No
+384,Shanaya Rau,CBSE,2025,98,96,66,58,48,73.2,"Mathematics, Physics","Computer Science, English",No,2.4,Coaching,Visual,71,Yes,None,No,4,5,No
+385,Seher Bhandari,CBSE,2025,74,55,82,75,90,75.2,"Computer Science, Chemistry","Physics, Mathematics",No,2.1,Coaching,Visual,97,Yes,Sports,Yes,2,4,Yes
+386,Divit Johal,State,2023,53,76,84,51,90,70.8,"Computer Science, Chemistry","English, Mathematics",No,2.0,Coaching,Reading,99,No,Sports,No,5,2,Yes
+387,Nishith Yohannan,ICSE,2024,75,73,52,71,91,72.4,"Computer Science, Mathematics","Chemistry, English",No,2.1,Group,Reading,76,No,Music,Yes,5,3,Yes
+388,Rania Dasgupta,State,2025,72,78,56,50,71,65.4,"Physics, Mathematics","English, Chemistry",No,1.2,Group,Visual,83,No,None,No,3,2,No
+389,Hunar Ratta,ICSE,2023,52,50,86,77,68,66.6,"Chemistry, English","Physics, Mathematics",Yes,2.5,Group,Reading,96,Yes,Music,No,5,1,No
+390,Aarush Jaggi,State,2023,77,87,87,68,50,73.8,"Physics, Chemistry","Computer Science, English",No,2.2,Coaching,Practical,91,Yes,Music,Yes,4,4,Yes
+391,Sara Chhabra,ICSE,2024,42,60,58,59,99,63.6,"Computer Science, Physics","Mathematics, Chemistry",No,2.1,Coaching,Reading,82,No,Sports,No,4,5,No
+392,Indrajit Kurian,State,2023,96,79,67,44,86,74.4,"Mathematics, Computer Science","English, Chemistry",No,1.5,Coaching,Visual,86,No,None,Yes,1,5,No
+393,Jiya Desai,CBSE,2023,52,69,94,59,81,71.0,"Chemistry, Computer Science","Mathematics, English",No,3.8,Group,Auditory,95,No,Arts,Yes,3,1,Yes
+394,Gokul Kanda,State,2025,64,61,46,55,69,59.0,"Computer Science, Mathematics","Chemistry, English",No,4.5,Group,Practical,74,No,Music,Yes,1,1,No
+395,Pari Jha,CBSE,2024,52,83,50,78,73,67.2,"Physics, English","Chemistry, Mathematics",No,5.3,Group,Auditory,75,No,Music,No,1,3,Yes
+396,Advik Sahni,State,2024,72,73,80,99,41,73.0,"English, Chemistry","Computer Science, Mathematics",No,4.0,Solo,Practical,78,No,Music,Yes,2,4,No
+397,Faiyaz Sanghvi,ICSE,2025,40,82,57,58,94,66.2,"Computer Science, Physics","Mathematics, Chemistry",No,1.1,Group,Visual,98,Yes,Sports,Yes,2,1,Yes
+398,Hansh Krish,ICSE,2025,40,72,43,50,67,54.4,"Physics, Computer Science","Mathematics, Chemistry",Yes,2.5,Solo,Practical,81,No,Arts,No,1,3,No
+399,Vihaan Dugar,ICSE,2025,42,59,76,40,51,53.6,"Chemistry, Physics","English, Mathematics",No,5.2,Coaching,Auditory,94,Yes,Arts,No,5,1,No
+400,Anahi Gera,State,2023,97,94,51,86,79,81.4,"Mathematics, Physics","Chemistry, Computer Science",No,4.0,Group,Practical,77,No,Music,No,5,5,Yes
+401,Nirvi Sha,ICSE,2023,82,76,82,59,71,74.0,"Mathematics, Chemistry","English, Computer Science",Yes,4.9,Solo,Reading,71,No,Debate,No,3,3,No
+402,Vritika Wadhwa,State,2025,91,85,63,98,48,77.0,"English, Mathematics","Computer Science, Chemistry",No,2.5,Solo,Practical,97,Yes,None,No,5,5,Yes
+403,Ayesha Deshmukh,CBSE,2023,45,68,86,56,79,66.8,"Chemistry, Computer Science","Mathematics, English",Yes,3.7,Coaching,Reading,96,Yes,Music,Yes,1,3,No
+404,Yakshit Konda,ICSE,2025,44,63,80,98,67,70.4,"English, Chemistry","Mathematics, Physics",Yes,2.3,Coaching,Reading,79,Yes,Debate,No,1,2,No
+405,Krish Varkey,State,2025,61,48,61,75,57,60.4,"English, Mathematics","Physics, Computer Science",No,4.4,Group,Practical,84,Yes,Music,Yes,1,4,Yes
+406,Darshit Khalsa,CBSE,2024,63,56,84,92,40,67.0,"English, Chemistry","Computer Science, Physics",No,3.9,Solo,Practical,94,Yes,Debate,No,5,5,Yes
+407,Inaaya  Chaudhry,CBSE,2025,74,61,93,64,71,72.6,"Chemistry, Mathematics","Physics, English",Yes,2.3,Solo,Reading,94,Yes,Music,Yes,4,5,Yes
+408,Ayesha Date,State,2025,84,67,80,58,67,71.2,"Mathematics, Chemistry","English, Physics",Yes,2.3,Coaching,Visual,92,No,Music,Yes,5,3,Yes
+409,Diya Bala,CBSE,2023,64,55,78,48,72,63.4,"Chemistry, Computer Science","English, Physics",No,4.1,Coaching,Auditory,74,Yes,Debate,No,3,3,No
+410,Armaan Gulati,ICSE,2023,46,51,82,81,48,61.6,"Chemistry, English","Mathematics, Computer Science",Yes,2.0,Solo,Visual,72,No,None,Yes,1,3,Yes
+411,Amira Batra,State,2025,67,69,51,92,91,74.0,"English, Computer Science","Chemistry, Mathematics",Yes,3.7,Solo,Practical,80,No,Arts,Yes,5,5,No
+412,Drishya Tripathi,CBSE,2023,84,80,91,49,80,76.8,"Chemistry, Mathematics","English, Physics",Yes,3.7,Solo,Auditory,95,Yes,Debate,Yes,2,2,Yes
+413,Taran Bandi,CBSE,2023,95,81,95,77,85,86.6,"Mathematics, Chemistry","English, Physics",No,5.0,Solo,Practical,70,No,None,Yes,4,5,Yes
+414,Vritika Majumdar,ICSE,2025,77,66,90,88,67,77.6,"Chemistry, English","Physics, Computer Science",Yes,2.9,Group,Practical,92,No,None,No,2,1,No
+415,Jayant Bora,State,2025,62,96,97,81,99,87.0,"Computer Science, Chemistry","Mathematics, English",No,1.3,Solo,Auditory,96,No,Sports,No,1,2,No
+416,Ishita Sundaram,ICSE,2023,71,57,91,97,79,79.0,"English, Chemistry","Physics, Mathematics",No,1.4,Group,Auditory,75,Yes,None,No,1,3,Yes
+417,Hazel Butala,State,2025,50,92,73,59,59,66.6,"Physics, Chemistry","Mathematics, English",Yes,3.1,Coaching,Practical,72,Yes,Debate,No,1,4,Yes
+418,Jayant Ravel,ICSE,2023,66,85,71,65,76,72.6,"Physics, Computer Science","English, Mathematics",No,2.7,Coaching,Practical,84,No,Arts,Yes,4,2,Yes
+419,Anya Brar,State,2024,63,100,56,65,79,72.6,"Physics, Computer Science","Chemistry, Mathematics",Yes,3.3,Coaching,Practical,74,No,Sports,No,5,2,No
+420,Zain Rattan,CBSE,2023,95,52,84,50,55,67.2,"Mathematics, Chemistry","English, Physics",No,4.9,Coaching,Practical,84,No,Music,Yes,2,5,No
+421,Vardaniya Sandal,CBSE,2024,94,63,84,63,90,78.8,"Mathematics, Computer Science","Physics, English",Yes,3.3,Group,Practical,82,No,None,Yes,3,3,No
+422,Damini Andra,CBSE,2023,93,64,78,55,93,76.6,"Mathematics, Computer Science","English, Physics",No,4.7,Solo,Auditory,81,Yes,Sports,Yes,2,1,No
+423,Stuvan Shroff,CBSE,2024,40,94,83,53,56,65.2,"Physics, Chemistry","Mathematics, English",Yes,3.0,Coaching,Reading,81,No,Arts,No,2,3,Yes
+424,Manjari Bumb,ICSE,2025,40,59,85,73,76,66.6,"Chemistry, Computer Science","Mathematics, Physics",Yes,4.0,Solo,Reading,81,Yes,Sports,No,3,3,No
+425,Raunak Virk,ICSE,2025,40,60,67,57,69,58.6,"Computer Science, Chemistry","Mathematics, English",No,3.6,Coaching,Visual,83,No,None,No,2,2,No
+426,Tiya Iyer,CBSE,2024,47,44,55,62,75,56.6,"Computer Science, English","Physics, Mathematics",No,2.9,Group,Practical,84,Yes,Debate,Yes,2,2,No
+427,Nitya Chaudhuri,ICSE,2024,77,96,96,93,41,80.6,"Physics, Chemistry","Computer Science, Mathematics",Yes,4.5,Solo,Practical,97,Yes,Debate,Yes,1,2,No
+428,Vedika Kalita,ICSE,2023,91,85,74,76,54,76.0,"Mathematics, Physics","Computer Science, Chemistry",Yes,3.3,Group,Practical,91,No,Arts,Yes,4,3,Yes
+429,Suhana Datta,CBSE,2024,42,62,93,51,40,57.6,"Chemistry, Physics","Computer Science, Mathematics",No,5.6,Group,Visual,99,Yes,Sports,Yes,3,2,No
+430,Kiara Goel,ICSE,2025,83,71,58,100,68,76.0,"English, Mathematics","Chemistry, Computer Science",No,5.2,Solo,Visual,95,No,Arts,No,5,3,Yes
+431,Indrajit Yohannan,State,2024,80,99,72,62,93,81.2,"Physics, Computer Science","English, Chemistry",No,5.0,Coaching,Reading,98,No,Sports,No,1,5,No
+432,Nishith Shah,ICSE,2023,97,50,96,70,91,80.8,"Mathematics, Chemistry","Physics, English",Yes,3.0,Group,Reading,87,No,Sports,Yes,5,5,Yes
+433,Seher Deshmukh,CBSE,2024,77,53,40,54,72,59.2,"Mathematics, Computer Science","Chemistry, Physics",Yes,1.9,Solo,Visual,85,Yes,Music,Yes,4,2,No
+434,Reyansh Wable,ICSE,2024,49,73,56,50,75,60.6,"Computer Science, Physics","Mathematics, English",No,4.9,Group,Auditory,79,Yes,Sports,Yes,3,3,Yes
+435,Romil Baria,ICSE,2023,49,95,79,69,44,67.2,"Physics, Chemistry","Computer Science, Mathematics",No,2.5,Group,Auditory,76,No,None,Yes,1,2,Yes
+436,Gokul Date,CBSE,2025,92,93,90,60,81,83.2,"Physics, Mathematics","English, Computer Science",Yes,3.9,Coaching,Visual,86,No,Arts,Yes,2,3,Yes
+437,Oorja Rege,CBSE,2024,47,61,51,77,94,66.0,"Computer Science, English","Mathematics, Chemistry",Yes,1.3,Coaching,Reading,84,No,Arts,No,4,3,Yes
+438,Nirvaan Madan,CBSE,2023,69,97,65,43,62,67.2,"Physics, Mathematics","English, Computer Science",Yes,5.1,Solo,Practical,76,No,Debate,No,5,2,Yes
+439,Samaira Kumar,CBSE,2023,99,91,55,92,63,80.0,"Mathematics, English","Chemistry, Computer Science",No,2.4,Solo,Auditory,92,No,None,Yes,1,3,Yes
+440,Ayesha Bandi,State,2025,96,46,96,49,88,75.0,"Mathematics, Chemistry","Physics, English",No,4.9,Coaching,Visual,88,Yes,Sports,Yes,2,1,No
+441,Oorja Goda,State,2025,85,72,91,51,89,77.6,"Chemistry, Computer Science","English, Physics",Yes,1.4,Solo,Visual,84,No,Music,No,1,1,No
+442,Prisha Tata,CBSE,2025,71,84,61,76,92,76.8,"Computer Science, Physics","Chemistry, Mathematics",Yes,3.6,Coaching,Visual,89,No,Debate,No,5,3,Yes
+443,Zeeshan Garde,ICSE,2024,73,87,87,97,81,85.0,"English, Physics","Mathematics, Computer Science",Yes,1.6,Solo,Practical,93,No,Music,No,2,2,Yes
+444,Shalv Sant,State,2023,44,77,48,70,97,67.2,"Computer Science, Physics","Mathematics, Chemistry",No,4.2,Group,Reading,80,Yes,Music,Yes,2,1,No
+445,Damini Sabharwal,State,2025,58,69,45,97,82,70.2,"English, Computer Science","Chemistry, Mathematics",Yes,2.4,Coaching,Practical,92,No,None,No,1,3,No
+446,Sumer Bava,CBSE,2023,86,90,98,47,94,83.0,"Chemistry, Computer Science","English, Mathematics",No,2.9,Solo,Reading,99,Yes,None,Yes,4,5,No
+447,Dishani Ganguly,CBSE,2023,62,93,63,91,99,81.6,"Computer Science, Physics","Mathematics, Chemistry",No,2.8,Coaching,Auditory,86,No,None,Yes,4,3,Yes
+448,Umang Suri,State,2023,52,74,64,52,59,60.2,"Physics, Chemistry","Mathematics, English",No,5.5,Group,Visual,92,Yes,Sports,No,3,2,Yes
+449,Indranil Varughese,State,2025,45,56,50,83,73,61.4,"English, Computer Science","Mathematics, Chemistry",Yes,6.0,Solo,Practical,80,No,Debate,No,4,1,No
+450,Hansh Gaba,ICSE,2025,84,47,91,95,46,72.6,"English, Chemistry","Computer Science, Physics",No,5.9,Solo,Practical,72,No,Music,Yes,2,4,No
+451,Yuvraj  Samra,CBSE,2024,40,97,82,41,63,64.6,"Physics, Chemistry","Mathematics, English",No,2.1,Solo,Auditory,74,Yes,Debate,Yes,4,2,No
+452,Tara Shanker,State,2023,69,66,80,77,55,69.4,"Chemistry, English","Computer Science, Physics",No,5.3,Group,Reading,73,No,Sports,Yes,4,1,No
+453,Navya Loyal,CBSE,2025,91,95,82,89,84,88.2,"Physics, Mathematics","Chemistry, Computer Science",Yes,2.7,Group,Visual,76,No,None,Yes,5,5,Yes
+454,Dishani Sundaram,CBSE,2024,56,81,100,64,60,72.2,"Chemistry, Physics","Mathematics, Computer Science",No,4.2,Group,Practical,75,Yes,Music,No,1,3,Yes
+455,Manjari Ramesh,State,2024,66,64,93,99,85,81.4,"English, Chemistry","Physics, Mathematics",No,5.2,Coaching,Visual,88,Yes,Arts,Yes,1,3,No
+456,Nishith Vyas,ICSE,2025,40,49,81,51,72,58.6,"Chemistry, Computer Science","Mathematics, Physics",Yes,3.9,Solo,Auditory,92,Yes,Debate,No,1,5,Yes
+457,Dishani Vaidya,State,2025,47,90,73,51,42,60.6,"Physics, Chemistry","Computer Science, Mathematics",No,2.2,Solo,Practical,84,Yes,Sports,Yes,2,5,No
+458,Raghav Dewan,CBSE,2025,77,91,85,92,60,81.0,"English, Physics","Computer Science, Mathematics",Yes,1.1,Coaching,Visual,95,Yes,Music,No,4,2,Yes
+459,Adah Date,State,2025,80,48,53,97,87,73.0,"English, Computer Science","Physics, Chemistry",No,5.3,Group,Auditory,96,Yes,Arts,Yes,4,4,Yes
+460,Emir Bir,ICSE,2023,74,57,81,100,67,75.8,"English, Chemistry","Physics, Computer Science",Yes,5.7,Group,Visual,76,No,Debate,No,1,1,Yes
+461,Ehsaan Issac,CBSE,2025,44,66,55,65,42,54.4,"Physics, English","Computer Science, Mathematics",Yes,4.1,Solo,Reading,87,Yes,Music,Yes,1,1,Yes
+462,Piya Ben,State,2024,45,81,57,58,94,67.0,"Computer Science, Physics","Mathematics, Chemistry",No,4.2,Solo,Reading,100,No,None,Yes,5,3,No
+463,Vedika Sankar,ICSE,2025,95,89,55,77,66,76.4,"Mathematics, Physics","Chemistry, Computer Science",Yes,5.9,Group,Reading,94,No,Arts,No,3,2,Yes
+464,Kanav Konda,ICSE,2024,76,72,70,63,83,72.8,"Computer Science, Mathematics","English, Chemistry",Yes,3.2,Coaching,Practical,70,Yes,Music,No,3,5,Yes
+465,Ishaan Kulkarni,ICSE,2024,45,86,54,90,89,72.8,"English, Computer Science","Mathematics, Chemistry",No,4.3,Group,Practical,73,Yes,Arts,No,3,2,Yes
+466,Nirvi Sahni,CBSE,2023,58,91,57,61,76,68.6,"Physics, Computer Science","Chemistry, Mathematics",No,5.1,Solo,Reading,73,No,None,Yes,2,2,Yes
+467,Ira Mallick,ICSE,2024,80,100,58,98,41,75.4,"Physics, English","Computer Science, Chemistry",Yes,2.8,Group,Auditory,95,Yes,Music,No,4,2,Yes
+468,Ishaan Khanna,CBSE,2023,41,69,64,94,49,63.4,"English, Physics","Mathematics, Computer Science",Yes,3.8,Coaching,Reading,90,Yes,Music,No,5,3,Yes
+469,Ayesha Gour,ICSE,2023,97,90,51,42,70,70.0,"Mathematics, Physics","English, Chemistry",Yes,2.5,Group,Visual,93,No,Music,No,1,4,No
+470,Anya Majumdar,State,2023,95,70,89,82,84,84.0,"Mathematics, Chemistry","Physics, English",No,4.9,Coaching,Auditory,72,Yes,Music,Yes,4,4,Yes
+471,Gokul Aggarwal,ICSE,2024,68,53,64,98,67,70.0,"English, Mathematics","Physics, Chemistry",Yes,4.5,Group,Reading,90,Yes,Debate,Yes,5,1,Yes
+472,Navya Dixit,ICSE,2024,91,90,95,84,65,85.0,"Chemistry, Mathematics","Computer Science, English",Yes,4.4,Coaching,Practical,92,Yes,Sports,Yes,3,2,No
+473,Lavanya Jaggi,ICSE,2023,41,56,72,87,92,69.6,"Computer Science, English","Mathematics, Physics",No,1.3,Coaching,Visual,86,No,Sports,No,5,1,No
+474,Tarini Kuruvilla,CBSE,2025,47,41,53,73,99,62.6,"Computer Science, English","Physics, Mathematics",No,2.6,Solo,Auditory,99,No,Music,No,3,4,Yes
+475,Baiju Dass,ICSE,2023,79,77,94,43,92,77.0,"Chemistry, Computer Science","English, Physics",Yes,4.0,Solo,Practical,97,Yes,Sports,Yes,1,1,Yes
+476,Saira Kadakia,ICSE,2023,43,91,40,96,84,70.8,"English, Physics","Chemistry, Mathematics",No,3.5,Solo,Reading,98,Yes,Debate,Yes,2,1,Yes
+477,Nitara Keer,ICSE,2025,45,68,47,90,91,68.2,"Computer Science, English","Mathematics, Chemistry",No,3.7,Group,Reading,83,No,Debate,No,3,5,Yes
+478,Piya Barman,State,2025,95,47,60,70,70,68.4,"Mathematics, English","Physics, Chemistry",No,3.2,Solo,Reading,85,Yes,Music,Yes,4,5,No
+479,Trisha Bahl,CBSE,2025,42,65,49,57,63,55.2,"Physics, Computer Science","Mathematics, Chemistry",No,4.6,Coaching,Practical,86,No,None,Yes,1,5,No
+480,Zara Baria,ICSE,2025,61,54,83,79,82,71.8,"Chemistry, Computer Science","Physics, Mathematics",No,5.9,Coaching,Practical,97,No,Sports,Yes,4,3,No
+481,Taimur Sekhon,State,2024,80,88,58,55,72,70.6,"Physics, Mathematics","English, Chemistry",No,2.9,Coaching,Practical,84,No,Sports,No,5,1,Yes
+482,Pranay Handa,CBSE,2025,48,64,78,48,72,62.0,"Chemistry, Computer Science","Mathematics, English",No,1.5,Group,Practical,100,No,Music,Yes,4,3,No
+483,Anahi Andra,ICSE,2023,43,53,95,73,73,67.4,"Chemistry, English","Mathematics, Physics",Yes,2.5,Group,Practical,93,No,Music,Yes,3,3,Yes
+484,Anahita Sarin,ICSE,2025,59,50,87,93,47,67.2,"English, Chemistry","Computer Science, Physics",Yes,4.9,Coaching,Visual,99,No,Music,Yes,5,3,Yes
+485,Shlok Deep,CBSE,2024,68,71,41,43,51,54.8,"Physics, Mathematics","Chemistry, English",Yes,3.6,Coaching,Auditory,93,No,Arts,No,2,5,No
+486,Raunak Shetty,State,2024,52,84,46,56,63,60.2,"Physics, Computer Science","Chemistry, Mathematics",No,3.7,Group,Reading,86,Yes,Arts,No,3,1,No
+487,Gatik Kant,ICSE,2025,81,49,69,83,85,73.4,"Computer Science, English","Physics, Chemistry",No,2.3,Solo,Reading,97,No,Music,Yes,3,2,No
+488,Indranil Babu,ICSE,2025,100,53,54,87,68,72.4,"Mathematics, English","Physics, Chemistry",Yes,1.2,Group,Reading,99,Yes,Sports,No,4,1,No
+489,Renee Doctor,ICSE,2024,65,81,83,72,61,72.4,"Chemistry, Physics","Computer Science, Mathematics",No,5.2,Solo,Practical,82,Yes,Debate,Yes,3,1,Yes
+490,Neelofar Dey,CBSE,2025,42,97,43,42,49,54.6,"Physics, Computer Science","Mathematics, English",Yes,3.3,Solo,Practical,71,Yes,Debate,Yes,3,1,Yes
+491,Purab Zacharia,CBSE,2025,80,53,83,79,40,67.0,"Chemistry, Mathematics","Computer Science, Physics",Yes,1.4,Coaching,Practical,79,Yes,Arts,No,3,1,No
+492,Bhavin Bhat,State,2023,94,69,41,51,46,60.2,"Mathematics, Physics","Chemistry, Computer Science",Yes,2.1,Group,Practical,83,No,Arts,No,4,4,No
+493,Uthkarsh Venkatesh,CBSE,2024,91,83,75,45,92,77.2,"Computer Science, Mathematics","English, Chemistry",No,5.0,Solo,Visual,100,No,Arts,No,5,2,Yes
+494,Vardaniya Keer,State,2024,58,80,71,73,78,72.0,"Physics, Computer Science","Mathematics, Chemistry",Yes,2.3,Solo,Visual,76,No,Sports,No,1,4,Yes
+495,Taimur Sarkar,CBSE,2023,98,45,82,51,46,64.4,"Mathematics, Chemistry","Physics, Computer Science",Yes,4.1,Solo,Auditory,73,Yes,Arts,Yes,5,2,Yes
+496,Pari Khatri,CBSE,2025,60,75,83,100,64,76.4,"English, Chemistry","Mathematics, Computer Science",No,3.8,Coaching,Auditory,92,Yes,Sports,No,1,1,Yes
+497,Navya Behl,State,2024,66,60,87,71,44,65.6,"Chemistry, English","Computer Science, Physics",No,5.8,Coaching,Practical,85,Yes,Music,No,2,3,Yes
+498,Seher Sunder,ICSE,2023,69,57,79,41,88,66.8,"Computer Science, Chemistry","English, Physics",Yes,3.2,Coaching,Reading,97,Yes,Arts,Yes,1,3,No
+499,Nehmat Baral,State,2023,83,92,65,90,48,75.6,"Physics, English","Computer Science, Chemistry",No,2.8,Coaching,Reading,84,Yes,Arts,Yes,2,3,No
+500,Kashvi Sundaram,CBSE,2025,48,88,84,48,63,66.2,"Physics, Chemistry","Mathematics, English",Yes,2.7,Coaching,Practical,80,Yes,Music,Yes,2,1,Yes
